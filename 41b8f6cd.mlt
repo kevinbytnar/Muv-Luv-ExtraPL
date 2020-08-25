@@ -1,0 +1,806 @@
+SCR 2 Shift-JIS
+268
+
+[00004c|en] yMarimozuEveryone, leave your TSFs and assemble here!v\e
+[00004c|ru] yMarimozuEveryone, leave your TSFs and assemble here!v\e
+
+[000055|en] yChizuruzuEishi Cadet Squadron 207 has assembled!v\e
+[000055|ru] yChizuruzuEishi Cadet Squadron 207 has assembled!v\e
+
+[000058|en] yMarimozuWe can't use the trailer past this point.\p\p\p\p\nAs originally planned,\p this will become the command post\nfor our operation.v\e
+[000058|ru] yMarimozuWe can't use the trailer past this point.\p\p\p\p\nAs originally planned,\p this will become the command post\nfor our operation.v\e
+
+[000064|en] yMarimozuLet's go over the operational details again.v\e
+[000064|ru] yMarimozuLet's go over the operational details again.v\e
+
+[00006d|en] yMarimozuThis mission is a disaster relief effort\nrequested by the Japanese government.v\e
+[00006d|ru] yMarimozuThis mission is a disaster relief effort\nrequested by the Japanese government.v\e
+
+[00006e|en] yMarimozuYour mission is to evacuate the fourteen\ncivilians scattered around the town of Old Tengen,\p\p\p\nlocated near Mt. Tengen.\p\p\p\p\p\p\p\p\nThe time limit is twenty four hours,\p so the operation will\nend at 10:00 hours on the tenth.v\e 
+[00006e|ru] yMarimozuYour mission is to evacuate the fourteen\ncivilians scattered around the town of Old Tengen,\p\p\p\nlocated near Mt. Tengen.\p\p\p\p\p\p\p\p\nThe time limit is twenty four hours,\p so the operation will\nend at 10:00 hours on the tenth.v\e 
+
+[00006f|en] yMarimozuYou will move to the operational area in TSFs.\p\p\nYou'll have to go over a mountain,\p so it should take half\nan hour to get there.v\e
+[00006f|ru] yMarimozuYou will move to the operational area in TSFs.\p\p\nYou'll have to go over a mountain,\p so it should take half\nan hour to get there.v\e
+
+[000070|en] yMarimozuBETA predictions make this area 90% safe,\p\p\p but\nit's still risky to jump wildly.\p\p\p Fly low and quiet.v\e
+[000070|ru] yMarimozuBETA predictions make this area 90% safe,\p\p\p but\nit's still risky to jump wildly.\p\p\p Fly low and quiet.v\e
+
+[000075|en] yEveryonezu„Ÿ„ŸMa'am!v\e
+[000075|ru] yEveryonezu„Ÿ„ŸMa'am!v\e
+
+[000077|en] yMarimozuAn engineer squad is currently managing a\ntemporary supply facility in an old parking area within\nTarumizawa Pass.\p\p\p\p\p\p\nYou all have the option of using it for your TSFs.v\e
+[000077|ru] yMarimozuAn engineer squad is currently managing a\ntemporary supply facility in an old parking area within\nTarumizawa Pass.\p\p\p\p\p\p\nYou all have the option of using it for your TSFs.v\e
+
+[00007c|en] yEveryonezu„Ÿ„ŸMa'am!v\e
+[00007c|ru] yEveryonezu„Ÿ„ŸMa'am!v\e
+
+[00007e|en] yMarimozuAs you know,\p the new bombs used when\nretaking the Japanese mainland have caused volcanoes\nin central Japan to gradually become active over the\npast few years.v\e
+[00007e|ru] yMarimozuAs you know,\p the new bombs used when\nretaking the Japanese mainland have caused volcanoes\nin central Japan to gradually become active over the\npast few years.v\e
+
+[00007f|en] yMarimozuThe region from central Japan to the\nKantou-Shinetsu defensive line used to be under enemy\ncontrol,\p\p\p\p and was designated as the single most\ndangerous area...\p...\pv\e
+[00007f|ru] yMarimozuThe region from central Japan to the\nKantou-Shinetsu defensive line used to be under enemy\ncontrol,\p\p\p\p and was designated as the single most\ndangerous area...\p...\pv\e
+
+[000080|en] yMarimozuBut as I've explained before,\p the targets for\nthis evacuation have repeatedly ignored evacuation\norders and are now living here illegally.v\e
+[000080|ru] yMarimozuBut as I've explained before,\p the targets for\nthis evacuation have repeatedly ignored evacuation\norders and are now living here illegally.v\e
+
+[000088|en] yMeiyazu...\p...\p...\p...\pv\e
+[000088|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[00008a|en] yMarimozuHowever,\p\p that doesn't mean we can just let\nthem die.\p\p\p Get them out of here.v\e
+[00008a|ru] yMarimozuHowever,\p\p that doesn't mean we can just let\nthem die.\p\p\p Get them out of here.v\e
+
+[00008c|en] yChizuruzuMa'am!v\e
+[00008c|ru] yChizuruzuMa'am!v\e
+
+[00008e|en] yMarimozuA compulsory evacuation order went out three\ndays ago in anticipation of this operation.v\e
+[00008e|ru] yMarimozuA compulsory evacuation order went out three\ndays ago in anticipation of this operation.v\e
+
+[00008f|en] yMarimozuIf the subject is unwilling to evacuate,\p use of\nforce is authorized per emergency evacuation\nregulations.v\e
+[00008f|ru] yMarimozuIf the subject is unwilling to evacuate,\p use of\nforce is authorized per emergency evacuation\nregulations.v\e
+
+[000090|en] yChizuruzuMa'am!v\e
+[000090|ru] yChizuruzuMa'am!v\e
+
+[000092|en] yMeiyazu...\p...\p...\p...\pv\e
+[000092|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000094|en] yMarimozuThe volcano is rapidly becoming active,\p\p\p and\nhas already had several minor eruptions.\p\p\p\nWe must use every means at our disposal to protect the\ncivilians' lives.v\e
+[000094|ru] yMarimozuThe volcano is rapidly becoming active,\p\p\p and\nhas already had several minor eruptions.\p\p\p\nWe must use every means at our disposal to protect the\ncivilians' lives.v\e
+
+[000096|en] yMeiyazu...\p...\p...\p...\pv\e
+[000096|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000098|en] yMarimozuTherefore,\p you must all commit yourselves to\ncompleting this mission in the fastest way possible.v\e
+[000098|ru] yMarimozuTherefore,\p you must all commit yourselves to\ncompleting this mission in the fastest way possible.v\e
+
+[0000a5|en] yEveryonezu„Ÿ„ŸUnderstood!v\e
+[0000a5|ru] yEveryonezu„Ÿ„ŸUnderstood!v\e
+
+[0000ac|en] yMarimozuNormally this would be done by real soldiers,\p\p\p\nbut the torch is being passed to you cadets for now.\p\p\p\p\nThis is your chance to prove you aren't useless!\p\nUnderstood!?v\e
+[0000ac|ru] yMarimozuNormally this would be done by real soldiers,\p\p\p\nbut the torch is being passed to you cadets for now.\p\p\p\p\nThis is your chance to prove you aren't useless!\p\nUnderstood!?v\e
+
+[0000b1|en] yEveryonezu„Ÿ„ŸYes, ma'am!!v\e
+[0000b1|ru] yEveryonezu„Ÿ„ŸYes, ma'am!!v\e
+
+[0000b4|en] yMarimozuThen I'll announce the specific teams and\ntheir assigned regions...\p...\pv\e
+[0000b4|ru] yMarimozuThen I'll announce the specific teams and\ntheir assigned regions...\p...\pv\e
+
+[00010a|en] yMeiyazuTakeru,\p\p you are falling behind...\p...\pv\e
+[00010a|ru] yMeiyazuTakeru,\p\p you are falling behind...\p...\pv\e
+
+[00010c|en] yTakeruzuNo I'm not,\p you're just too fast.v\e
+[00010c|ru] yTakeruzuNo I'm not,\p you're just too fast.v\e
+
+[00010d|en] ...\p...\pI know she told us to hurry,\p but you're just being\nimpatient.\nYou've lost your balance several times already.\e
+[00010d|ru] ...\p...\pI know she told us to hurry,\p but you're just being\nimpatient.\nYou've lost your balance several times already.\e
+
+[00010e|en] yMeiyazuDid she not tell us to do this as fast as possible?\p\p\p\p\nWe have to cross two mountains to reach our area.v\e
+[00010e|ru] yMeiyazuDid she not tell us to do this as fast as possible?\p\p\p\p\nWe have to cross two mountains to reach our area.v\e
+
+[00010f|en] yTakeruzuCome on,\p I know that too! That doesn't mean\nyou can't spend some time thinking ahead. Calm down\nand be more careful with your TSF.v\e
+[00010f|ru] yTakeruzuCome on,\p I know that too! That doesn't mean\nyou can't spend some time thinking ahead. Calm down\nand be more careful with your TSF.v\e
+
+[000110|en] Yes, once we cross this mountain,\p we have to go around\nto the other side of the volcano...\p...\pso it'll take us twice\nas long as the others...\p...\pI know that.\e
+[000110|ru] Yes, once we cross this mountain,\p we have to go around\nto the other side of the volcano...\p...\pso it'll take us twice\nas long as the others...\p...\pI know that.\e
+
+[000111|en] But that only puts us half an hour behind them.\e
+[000111|ru] But that only puts us half an hour behind them.\e
+
+[000113|en] yMeiyazuYou say I am not thinking!?\p ...\p...\pah!v\e
+[000113|ru] yMeiyazuYou say I am not thinking!?\p ...\p...\pah!v\e
+
+[00011f|en] yTakeruzuSee what I mean!? You need to look out for\nnature. It's a miracle this much is left in an area the\nBETA used to control.v\e
+[00011f|ru] yTakeruzuSee what I mean!? You need to look out for\nnature. It's a miracle this much is left in an area the\nBETA used to control.v\e
+
+[000121|en] yMeiyazuI-\pI know that!v\e
+[000121|ru] yMeiyazuI-\pI know that!v\e
+
+[000123|en] yMarimozuHQ to squad 207.v\e
+[000123|ru] yMarimozuHQ to squad 207.v\e
+
+[00012b|en] yTakeruzuOh?v\e
+[00012b|ru] yTakeruzuOh?v\e
+
+[000130|en] yMarimozuThe observation team has predicted that Mt.\nTengen will erupt in under 72 hours.\p\p\p\p\p\p All TSFs, leave your\ncomm channels open and keep your eyes peeled.v\e
+[000130|ru] yMarimozuThe observation team has predicted that Mt.\nTengen will erupt in under 72 hours.\p\p\p\p\p\p All TSFs, leave your\ncomm channels open and keep your eyes peeled.v\e
+
+[000135|en] yTakeruzu06, copy that.v\e
+[000135|ru] yTakeruzu06, copy that.v\e
+
+[00013c|en] yMeiyazu02, copy that.v\e
+[00013c|ru] yMeiyazu02, copy that.v\e
+
+[00013f|en] yChizuruzu01, copy that.v\e
+[00013f|ru] yChizuruzu01, copy that.v\e
+
+[000141|en] yMikizu05, copy that.v\e
+[000141|ru] yMikizu05, copy that.v\e
+
+[000143|en] yKeizu04, copy that.v\e
+[000143|ru] yKeizu04, copy that.v\e
+
+[000145|en] yMikotozu03, copy that.v\e
+[000145|ru] yMikotozu03, copy that.v\e
+
+[00014d|en] yTakeruzuUwaaa...\p...\pI can't believe a house this nice is\nstill standing...\p...\pv\e
+[00014d|ru] yTakeruzuUwaaa...\p...\pI can't believe a house this nice is\nstill standing...\p...\pv\e
+
+[00014f|en] yMeiyazuAccording to intel,\p one old lady lives here...\p...\pv\e
+[00014f|ru] yMeiyazuAccording to intel,\p one old lady lives here...\p...\pv\e
+
+[000150|en] yTakeruzuThis place is too big to live in alone.v\e
+[000150|ru] yTakeruzuThis place is too big to live in alone.v\e
+
+[000153|en] yMeiyazuYes...\p...\pit is quite a sight.v\e
+[000153|ru] yMeiyazuYes...\p...\pit is quite a sight.v\e
+
+[000155|en] yTakeruzuSo reckless...\p...\p Who'd want to live on their own\nway up here in the mountains?v\e
+[000155|ru] yTakeruzuSo reckless...\p...\p Who'd want to live on their own\nway up here in the mountains?v\e
+
+[000158|en] yMeiyazuEveryone has their reasons for such things.v\e
+[000158|ru] yMeiyazuEveryone has their reasons for such things.v\e
+
+[000159|en] yTakeruzuBut hasn't she received orders to evacuate?\nWhat good could possibly come from ignoring...\p...\pv\e
+[000159|ru] yTakeruzuBut hasn't she received orders to evacuate?\nWhat good could possibly come from ignoring...\p...\pv\e
+
+[00015c|en] yMeiyazuSay no more!v\e
+[00015c|ru] yMeiyazuSay no more!v\e
+
+[00015d|en] yTakeruzu...\p...\p...\p...\pMeiya,\p are you mad about something?v\e
+[00015d|ru] yTakeruzu...\p...\p...\p...\pMeiya,\p are you mad about something?v\e
+
+[000160|en] yMeiyazu...\p...\pno.v\e
+[000160|ru] yMeiyazu...\p...\pno.v\e
+
+[000161|en] yTakeruzuWhatever,\p let's just talk her into leaving\nalready...\p...\p...\p...\plet's see...\p...\pv\e
+[000161|ru] yTakeruzuWhatever,\p let's just talk her into leaving\nalready...\p...\p...\p...\plet's see...\p...\pv\e
+
+[000167|en] yMeiyazuTakeru!!v\e
+[000167|ru] yMeiyazuTakeru!!v\e
+
+[000168|en] yTakeruzuAh?v\e
+[000168|ru] yTakeruzuAh?v\e
+
+[00016b|en] yMeiyazuI shall do it.v\e
+[00016b|ru] yMeiyazuI shall do it.v\e
+
+[00016d|en] yTakeruzu...\p...\pare you sure...\p...\pyou're not mad?v\e
+[00016d|ru] yTakeruzu...\p...\pare you sure...\p...\pyou're not mad?v\e
+
+[000170|en] yMeiyazuI am not angry!v\e
+[000170|ru] yMeiyazuI am not angry!v\e
+
+[000174|en] yMeiyazuHello...\p...\pis anyone inside?\p\p\p\p\p\p Hello...\p...\pis anyone...\p...\p?v\e
+[000174|ru] yMeiyazuHello...\p...\pis anyone inside?\p\p\p\p\p\p Hello...\p...\pis anyone...\p...\p?v\e
+
+[000177|en] ...\p...\p...\p...\pshe's super mad...\p...\pwhat happened?\e
+[000177|ru] ...\p...\p...\p...\pshe's super mad...\p...\pwhat happened?\e
+
+[000184|en] ...\p...\p\e
+[000184|ru] ...\p...\p\e
+
+[000189|en] Ah,\p dried persimmons...\p...\p\e
+[000189|ru] Ah,\p dried persimmons...\p...\p\e
+
+[00018a|en] ...\p...\p\e
+[00018a|ru] ...\p...\p\e
+
+[00018b|en] And piles of firewood...\p...\p\e
+[00018b|ru] And piles of firewood...\p...\p\e
+
+[00018c|en] She's still planning on living here.\nWhat the hell did she think those orders meant?\e
+[00018c|ru] She's still planning on living here.\nWhat the hell did she think those orders meant?\e
+
+[00018e|en] yVoicezu...\p...\pwho is it?v\e
+[00018e|ru] yVoicezu...\p...\pwho is it?v\e
+
+[00018f|en] yTakeruzuEh? Ah!v\e
+[00018f|ru] yTakeruzuEh? Ah!v\e
+
+[000197|en] yOld Womanzu...\p...\pwhat do you intend to do...\p...\pwith such\nlarge machines?\p\p\p\p\p\p\p\p And in such rare outfits...\p...\p...\p...\pv\e
+[000197|ru] yOld Womanzu...\p...\pwhat do you intend to do...\p...\pwith such\nlarge machines?\p\p\p\p\p\p\p\p And in such rare outfits...\p...\p...\p...\pv\e
+
+[00019a|en] yTakeruzuOba-san,\p we're an emergency evacuation\nsquadron from the UN Army.\nAre you aware that the volcano's gonna blow?v\e 
+[00019a|ru] yTakeruzuOba-san,\p we're an emergency evacuation\nsquadron from the UN Army.\nAre you aware that the volcano's gonna blow?v\e 
+
+[00019b|en] yOld WomanzuI know that.v\e
+[00019b|ru] yOld WomanzuI know that.v\e
+
+[00019c|en] yTakeruzuDid you hear the evacuation orders?v\e
+[00019c|ru] yTakeruzuDid you hear the evacuation orders?v\e
+
+[00019d|en] yOld WomanzuI did.v\e
+[00019d|ru] yOld WomanzuI did.v\e
+
+[00019e|en] yTakeruzuThen let's get out of here! This place is\ndangerous. Mt. Tengen's gonna erupt any minute now!v\e
+[00019e|ru] yTakeruzuThen let's get out of here! This place is\ndangerous. Mt. Tengen's gonna erupt any minute now!v\e
+
+[0001a0|en] yOld WomanzuI refuse.v\e
+[0001a0|ru] yOld WomanzuI refuse.v\e
+
+[0001a1|en] yTakeruzu...\p...\pwh...\pat?v\e
+[0001a1|ru] yTakeruzu...\p...\pwh...\pat?v\e
+
+[0001a3|en] yOld WomanzuAre you deaf?\p\p\p\p\p\p At your age?\p That's\nrough...\p...\p...\p...\plisten,\p\p\p I refuse to be separated from this\nplace.v\e
+[0001a3|ru] yOld WomanzuAre you deaf?\p\p\p\p\p\p At your age?\p That's\nrough...\p...\p...\p...\plisten,\p\p\p I refuse to be separated from this\nplace.v\e
+
+[0001a5|en] ...\p...\p...\p...\pso she's a typical stubborn old fogey...\p...\p\e 
+[0001a5|ru] ...\p...\p...\p...\pso she's a typical stubborn old fogey...\p...\p\e 
+
+[0001a6|en] Should've seen this coming,\p why else would she keep\nignoring the evacuation orders?\e
+[0001a6|ru] Should've seen this coming,\p why else would she keep\nignoring the evacuation orders?\e
+
+[0001a7|en] yTakeruzu...\p...\phey,\p you know there was a compulsory\nevacuation order three days ago, right?v\e
+[0001a7|ru] yTakeruzu...\p...\phey,\p you know there was a compulsory\nevacuation order three days ago, right?v\e
+
+[0001a9|en] yOld WomanzuWell now...\p...\pv\e
+[0001a9|ru] yOld WomanzuWell now...\p...\pv\e
+
+[0001aa|en] yTakeruzuThat means you can't stay here anymore.\p\nYou understand?v\e
+[0001aa|ru] yTakeruzuThat means you can't stay here anymore.\p\nYou understand?v\e
+
+[0001ac|en] yOld WomanzuI don't.\p\p\p\p\p This is my house.v\e
+[0001ac|ru] yOld WomanzuI don't.\p\p\p\p\p This is my house.v\e
+
+[0001ad|en] yTakeruzuWell,\p just because it's your house...\p...\pv\e
+[0001ad|ru] yTakeruzuWell,\p just because it's your house...\p...\pv\e
+
+[0001af|en] yOld WomanzuBe quiet,\p\p\p\p\p\p\p\p I'm saying I wanna stay here,\p\p\p\nwhether there's an eruption or not.v\e
+[0001af|ru] yOld WomanzuBe quiet,\p\p\p\p\p\p\p\p I'm saying I wanna stay here,\p\p\p\nwhether there's an eruption or not.v\e
+
+[0001b1|en] yTakeruzuWell...\p...\pthat's...\p...\pv\e
+[0001b1|ru] yTakeruzuWell...\p...\pthat's...\p...\pv\e
+
+[0001b3|en] yOld WomanzuForget about me, soldiers.\p\p\p\p Just get back\nin your robots and go home.\p\p\p\p\p\p They've been blocking my\nsunlight all day.v\e
+[0001b3|ru] yOld WomanzuForget about me, soldiers.\p\p\p\p Just get back\nin your robots and go home.\p\p\p\p\p\p They've been blocking my\nsunlight all day.v\e
+
+[0001b4|en] yTakeruzuH-\phey now...\p...\pv\e
+[0001b4|ru] yTakeruzuH-\phey now...\p...\pv\e
+
+[0001b6|en] yOld WomanzuWhat?\p\p\p\p UN soldiers don't know how to\naddress their elders?\p\p You're Japanese too,\p you know.\p\nHow pitiful...\p...\pv\e
+[0001b6|ru] yOld WomanzuWhat?\p\p\p\p UN soldiers don't know how to\naddress their elders?\p\p You're Japanese too,\p you know.\p\nHow pitiful...\p...\pv\e
+
+[0001b7|en] yTakeruzuYou're just as pitiful for failing to understand\nthe obvious!v\e
+[0001b7|ru] yTakeruzuYou're just as pitiful for failing to understand\nthe obvious!v\e
+
+[0001b9|en] yOld WomanzuWhat did you say?\p\p\p\p\p\nWho's misunderstanding the obvious!?v\e
+[0001b9|ru] yOld WomanzuWhat did you say?\p\p\p\p\p\nWho's misunderstanding the obvious!?v\e
+
+[0001bb|en] yTakeruzuYou, duh!! What selfish reason could you\npossibly have for living somewhere this dangerous!?v\e
+[0001bb|ru] yTakeruzuYou, duh!! What selfish reason could you\npossibly have for living somewhere this dangerous!?v\e
+
+[0001bd|en] yOld WomanzuDid you call me selfish!?\p\p\p\p\nThis is my house,\p you hear!\p\p\nYou have no right to complain about me staying here!v\e
+[0001bd|ru] yOld WomanzuDid you call me selfish!?\p\p\p\p\nThis is my house,\p you hear!\p\p\nYou have no right to complain about me staying here!v\e
+
+[0001bf|en] yTakeruzuThat's what I'm calling selfish!\nDo you have any idea how many soldiers came out here\nto get you and the others out of harm's way!?v\e
+[0001bf|ru] yTakeruzuThat's what I'm calling selfish!\nDo you have any idea how many soldiers came out here\nto get you and the others out of harm's way!?v\e
+
+[0001c1|en] yOld WomanzuI never asked for your help!\p\p\nLeave me alone!v\e
+[0001c1|ru] yOld WomanzuI never asked for your help!\p\p\nLeave me alone!v\e
+
+[0001c5|en] yTakeruzuOwa!!!v\e
+[0001c5|ru] yTakeruzuOwa!!!v\e
+
+[0001c9|en] yMeiyazuWhat in the world...\p...\pdo you think you are\ndoing!?v\e
+[0001c9|ru] yMeiyazuWhat in the world...\p...\pdo you think you are\ndoing!?v\e
+
+[0001ca|en] yTakeruzuUmm,\p isn't it obvious...\p...\p?v\e
+[0001ca|ru] yTakeruzuUmm,\p isn't it obvious...\p...\p?v\e
+
+[0001cb|en] Huh!? Why're you glaring at me!?\e
+[0001cb|ru] Huh!? Why're you glaring at me!?\e
+
+[0001cd|en] yMeiyazuPlease forgive us.\p\p\p\nI apologize for this man's impoliteness.v\e
+[0001cd|ru] yMeiyazuPlease forgive us.\p\p\p\nI apologize for this man's impoliteness.v\e
+
+[0001ce|en] yTakeruzu„Ÿ„ŸWha-!?v\e
+[0001ce|ru] yTakeruzu„Ÿ„ŸWha-!?v\e
+
+[0001d0|en] Why're you apologiziiing!?\e
+[0001d0|ru] Why're you apologiziiing!?\e
+
+[0001d2|en] yOld Womanzu...\p...\pwhat?\p The idiot has been replaced by a\nwell-mannered lady...\p...\p?v\e
+[0001d2|ru] yOld Womanzu...\p...\pwhat?\p The idiot has been replaced by a\nwell-mannered lady...\p...\p?v\e
+
+[0001d4|en] yTakeruzu...\p...\p?v\e
+[0001d4|ru] yTakeruzu...\p...\p?v\e
+
+[0001d6|en] ...\p...\p...\pwhat's wrong?\e
+[0001d6|ru] ...\p...\p...\pwhat's wrong?\e
+
+[0001d7|en] Why's she staring at Meiya's face...\p...\p?\e
+[0001d7|ru] Why's she staring at Meiya's face...\p...\p?\e
+
+[0001d9|en] yOld Womanzu...\p...\p...\p...\pv\e
+[0001d9|ru] yOld Womanzu...\p...\p...\p...\pv\e
+
+[0001da|en] yMeiyazuIs...\p...\p...\psomething wrong?v\e
+[0001da|ru] yMeiyazuIs...\p...\p...\psomething wrong?v\e
+
+[0001dc|en] yOld Womanzu...\p...\pa-\pare you...\p...\pno,\p\p\p\p it can't be...\p...\pare\nyou...\p...\p...\p...\pv\e
+[0001dc|ru] yOld Womanzu...\p...\pa-\pare you...\p...\pno,\p\p\p\p it can't be...\p...\pare\nyou...\p...\p...\p...\pv\e
+
+[0001df|en] yMeiyazu...\p...\p...\p...\pv\e
+[0001df|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[0001e1|en] yOld WomanzuY-\p\p\pyou really are...\p...\p...\p...\p...\ph-\p\p\phow is this...\p...\p...\pv\e
+[0001e1|ru] yOld WomanzuY-\p\p\pyou really are...\p...\p...\p...\p...\ph-\p\p\phow is this...\p...\p...\pv\e
+
+[0001e3|en] yTakeruzuMeiya,\p you know her?v\e
+[0001e3|ru] yTakeruzuMeiya,\p you know her?v\e
+
+[0001e5|en] yMeiyazu...\p...\pno...\p...\pbut,\p\p\p\p she is an important person...\p...\pv\e 
+[0001e5|ru] yMeiyazu...\p...\pno...\p...\pbut,\p\p\p\p she is an important person...\p...\pv\e 
+
+[0001e6|en] yTakeruzuHuh?v\e
+[0001e6|ru] yTakeruzuHuh?v\e
+
+[0001e8|en] yOld Womanzu„Ÿ„ŸS-\p\p\psuch words are wasted on me!!v\e
+[0001e8|ru] yOld Womanzu„Ÿ„ŸS-\p\p\psuch words are wasted on me!!v\e
+
+[0001ec|en] yTakeruzuAh!v\e
+[0001ec|ru] yTakeruzuAh!v\e
+
+[0001f1|en] yMeiyazuE-\pexcuse me!!v\e
+[0001f1|ru] yMeiyazuE-\pexcuse me!!v\e
+
+[0001f3|en] Wh-\pwhy're you prostrating yourself all of a sudden!?\e
+[0001f3|ru] Wh-\pwhy're you prostrating yourself all of a sudden!?\e
+
+[0001f4|en] yOld Womanzu...\p...\pto think this day would come during my\nlifetime...\p...\p...\p...\p...\p...\pI am so thankful...\p...\p...\p...\pso thankful...\p...\pv\e
+[0001f4|ru] yOld Womanzu...\p...\pto think this day would come during my\nlifetime...\p...\p...\p...\p...\p...\pI am so thankful...\p...\p...\p...\pso thankful...\p...\pv\e
+
+[0001f6|en] yMeiyazuP-\pplease raise your head!v\e
+[0001f6|ru] yMeiyazuP-\pplease raise your head!v\e
+
+[0001f8|en] yOld WomanzuMy apologies...\p...\p...\pbut I must...\p...\p...\pask if\nthere is any way that you could grant this old fool's wish!v\e
+[0001f8|ru] yOld WomanzuMy apologies...\p...\p...\pbut I must...\p...\p...\pask if\nthere is any way that you could grant this old fool's wish!v\e
+
+[0001fb|en] yMeiyazu...\p...\p...\p...\pv\e
+[0001fb|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[0001fc|en] yOld Womanzu...\p...\pI know full well...\p...\pthat making such a\ndirect appeal is a great sin.v\e
+[0001fc|ru] yOld Womanzu...\p...\pI know full well...\p...\pthat making such a\ndirect appeal is a great sin.v\e
+
+[0001fd|en] yTakeruzu...\p...\pdirect appeal?v\e
+[0001fd|ru] yTakeruzu...\p...\pdirect appeal?v\e
+
+[0001ff|en] ...\p...\p...\p...\pa direct appeal...\p...\pI see.\e
+[0001ff|ru] ...\p...\p...\p...\pa direct appeal...\p...\pI see.\e
+
+[000200|en] This old lady knows that Meiya's part of the royal\nbloodline...\p...\p\e
+[000200|ru] This old lady knows that Meiya's part of the royal\nbloodline...\p...\p\e
+
+[000201|en] She did ask me once whether I could tell anything just\nby looking at her...\p...\pshe really meant that.\e
+[000201|ru] She did ask me once whether I could tell anything just\nby looking at her...\p...\pshe really meant that.\e
+
+[000202|en] She's so famous that even an old lady out here in the\nmiddle of nowhere can recognize her.\e
+[000202|ru] She's so famous that even an old lady out here in the\nmiddle of nowhere can recognize her.\e
+
+[000203|en] yOld WomanzuMy husband worked himself to the bone to\nbuild this house before he passed away...\p...\pv\e
+[000203|ru] yOld WomanzuMy husband worked himself to the bone to\nbuild this house before he passed away...\p...\pv\e
+
+[000205|en] ...\p...\p...\p...\p\e
+[000205|ru] ...\p...\p...\p...\p\e
+
+[000206|en] yOld WomanzuThe two foolish sons I raised here are still\nfighting for this country on the front lines.v\e
+[000206|ru] yOld WomanzuThe two foolish sons I raised here are still\nfighting for this country on the front lines.v\e
+
+[000208|en] yMeiyazu...\p...\p...\p...\pv\e
+[000208|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000209|en] yOld WomanzuI told them both I would wait right here.\p\p\p\p\p\p\nThat way they could go fight without worrying about\nme...\p...\p...\p...\pthat's what we agreed on when they left.v\e
+[000209|ru] yOld WomanzuI told them both I would wait right here.\p\p\p\p\p\p\nThat way they could go fight without worrying about\nme...\p...\p...\p...\pthat's what we agreed on when they left.v\e
+
+[00020b|en] yMeiyazu...\p...\pplease...\p...\praise your head...\p...\pv\e
+[00020b|ru] yMeiyazu...\p...\pplease...\p...\praise your head...\p...\pv\e
+
+[00020c|en] yOld WomanzuMy sons...\p...\p...\p...\p...\pthey will...\p...\p...\p...\pthey will\ncome back to me!v\e
+[00020c|ru] yOld WomanzuMy sons...\p...\p...\p...\p...\pthey will...\p...\p...\p...\pthey will\ncome back to me!v\e
+
+[00020e|en] yTakeruzu...\p...\p...\p...\pv\e
+[00020e|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00020f|en] yOld Womanzu...\p...\pif I leave here now...\p...\p...\p...\pI'd never be\nable to die happy!v\e
+[00020f|ru] yOld Womanzu...\p...\pif I leave here now...\p...\p...\p...\pI'd never be\nable to die happy!v\e
+
+[000211|en] yTakeruzuBut...\p...\pthe volcano's going to...\p...\pv\e
+[000211|ru] yTakeruzuBut...\p...\pthe volcano's going to...\p...\pv\e
+
+[000212|en] yOld WomanzuI was born and raised here.\p\p\p\p\p\p\p I've spent my\nwhole life living with the blessings of the mountain.v\e
+[000212|ru] yOld WomanzuI was born and raised here.\p\p\p\p\p\p\p I've spent my\nwhole life living with the blessings of the mountain.v\e
+
+[000213|en] yTakeruzu...\p...\pbut...\p...\pv\e
+[000213|ru] yTakeruzu...\p...\pbut...\p...\pv\e
+
+[000214|en] yOld WomanzuIf that mountain wants to take my life,\p\p\p\p\p\p\nthat's all there is to it...\p...\p...\p...\p...\p...\p...\pI will return to the\nearth...\p...\p...\p...\p...\pand continue waiting for my sons.v\e
+[000214|ru] yOld WomanzuIf that mountain wants to take my life,\p\p\p\p\p\p\nthat's all there is to it...\p...\p...\p...\p...\p...\p...\pI will return to the\nearth...\p...\p...\p...\p...\pand continue waiting for my sons.v\e
+
+[000217|en] yMeiyazu...\p...\p...\p...\pv\e
+[000217|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000218|en] yOld WomanzuI love...\p...\p...\p...\p...\p...\pthis land.\p\p\p\p\p\p\p\p\p\p\nThis is where I belong.\p\p\p\p\p\p\p\p\p\nEveryone who was born here would want to die here.v\e
+[000218|ru] yOld WomanzuI love...\p...\p...\p...\p...\p...\pthis land.\p\p\p\p\p\p\p\p\p\p\nThis is where I belong.\p\p\p\p\p\p\p\p\p\nEveryone who was born here would want to die here.v\e
+
+[000219|en] yTakeruzuO-\pOba-san!v\e
+[000219|ru] yTakeruzuO-\pOba-san!v\e
+
+[00021a|en] yOld WomanzuPlease...\p...\p...\p...\pplease...\p...\pdon't take that away\nfrom me!\p\p\p\p\p\p\p\p\p I beg of you...\p...\p...\p...\p...\p...\p...\pI beg of you...\p...\p...\p...\pv\e
+[00021a|ru] yOld WomanzuPlease...\p...\p...\p...\pplease...\p...\pdon't take that away\nfrom me!\p\p\p\p\p\p\p\p\p I beg of you...\p...\p...\p...\p...\p...\p...\pI beg of you...\p...\p...\p...\pv\e
+
+[00021b|en] yOld Womanzu...\p...\pI'm fine right here...\p...\p...\p...\p...\p...\p...\p...\p\nThe Guardian...\p...\p...\p...\pThe Guardian...\p...\p...\pwill protect me...\p...\pv\e 
+[00021b|ru] yOld Womanzu...\p...\pI'm fine right here...\p...\p...\p...\p...\p...\p...\p...\p\nThe Guardian...\p...\p...\p...\pThe Guardian...\p...\p...\pwill protect me...\p...\pv\e 
+
+[00021e|en] yMeiyazuGuar...\p...\pdian?v\e
+[00021e|ru] yMeiyazuGuar...\p...\pdian?v\e
+
+[000220|en] yOld WomanzuA great rock stands in that\ndirection...\p...\p...\p...\p...\p...\p...\pthe god of the mountain lives\ninside it.v\e
+[000220|ru] yOld WomanzuA great rock stands in that\ndirection...\p...\p...\p...\p...\p...\p...\pthe god of the mountain lives\ninside it.v\e
+
+[000223|en] yTakeruzu...\p...\pyou mean...\p...\pthat thing? It's barely visible.v\e
+[000223|ru] yTakeruzu...\p...\pyou mean...\p...\pthat thing? It's barely visible.v\e
+
+[000225|en] yMeiyazuThat appears to be it.v\e
+[000225|ru] yMeiyazuThat appears to be it.v\e
+
+[000226|en] yTakeruzuBut how would that big rock...\p...\p?v\e
+[000226|ru] yTakeruzuBut how would that big rock...\p...\p?v\e
+
+[000227|en] yOld WomanzuThe Guardian...\p...\p...\phas always watched\nover me...\p...\p...\p...\p...\p...\pwhich is why...\p...\pv\e
+[000227|ru] yOld WomanzuThe Guardian...\p...\p...\phas always watched\nover me...\p...\p...\p...\p...\p...\pwhich is why...\p...\pv\e
+
+[000228|en] yTakeruzuYou're saying it won't let you die?v\e
+[000228|ru] yTakeruzuYou're saying it won't let you die?v\e
+
+[000229|en] A long time ago,\p they used to think there were a\nso-called 'myriad' of deities,\p even ones which\npossessed grains of rice...\p...\pso this kinda makes sense.\e
+[000229|ru] A long time ago,\p they used to think there were a\nso-called 'myriad' of deities,\p even ones which\npossessed grains of rice...\p...\pso this kinda makes sense.\e
+
+[00022a|en] yOld WomanzuIf it can't do it...\p...\p...\p...\pthen nothing can be\ndone.v\e
+[00022a|ru] yOld WomanzuIf it can't do it...\p...\p...\p...\pthen nothing can be\ndone.v\e
+
+[00022b|en] yTakeruzu„Ÿ„Ÿ!?v\e
+[00022b|ru] yTakeruzu„Ÿ„Ÿ!?v\e
+
+[000231|en] yMeiyazuWhat about...\p...\p...\pyour sons?\p\p\p\p\p\p\nWould they want you to die here while they fight?v\e
+[000231|ru] yMeiyazuWhat about...\p...\p...\pyour sons?\p\p\p\p\p\p\nWould they want you to die here while they fight?v\e
+
+[000233|en] yOld WomanzuI'll still be here even if I die...\p...\p...\p...\p...\p...\pmy\nsons will understand.v\e
+[000233|ru] yOld WomanzuI'll still be here even if I die...\p...\p...\p...\p...\p...\pmy\nsons will understand.v\e
+
+[000234|en] yTakeruzu...\p...\p...\p...\pv\e
+[000234|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[000235|en] yMeiyazu...\p...\p...\p...\pv\e
+[000235|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000236|en] yOld WomanzuI am truly sorry to have wasted your\nvaluable time,\p\p but please...\p...\p...\pfind a way...\p...\p...\pto grant my\nwish!!v\e
+[000236|ru] yOld WomanzuI am truly sorry to have wasted your\nvaluable time,\p\p but please...\p...\p...\pfind a way...\p...\p...\pto grant my\nwish!!v\e
+
+[000239|en] yMeiyazu...\p...\p...\p...\pv\e
+[000239|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[00023a|en] yOld WomanzuPlease...\p...\p...\p...\p...\pfind a way...\p...\p...\pv\e
+[00023a|ru] yOld WomanzuPlease...\p...\p...\p...\p...\pfind a way...\p...\p...\pv\e
+
+[00023b|en] yTakeruzu...\p...\p...\p...\pv\e
+[00023b|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00023e|en] yMeiyazu...\p...\pI understand.v\e
+[00023e|ru] yMeiyazu...\p...\pI understand.v\e
+
+[00023f|en] yTakeruzuH-\phey!!v\e
+[00023f|ru] yTakeruzuH-\phey!!v\e
+
+[000242|en] yMeiyazuHowever,\p\p\p I am here as a part of the military.\p\p\p\p\p\nWe cannot simply leave this place while someone still\nremains...\p...\pso...\p...\pcould you please think it over one more\ntime?v\e
+[000242|ru] yMeiyazuHowever,\p\p\p I am here as a part of the military.\p\p\p\p\p\nWe cannot simply leave this place while someone still\nremains...\p...\pso...\p...\pcould you please think it over one more\ntime?v\e
+
+[000244|en] yOld WomanzuIf I leave here now...\p...\p...\p...\p...\pthere's no way\nto know if I'll ever come back...\p...\p...\p...\p...\p...\pso\nplease...\p...\p...\p...\pfind a way...\p...\pv\e
+[000244|ru] yOld WomanzuIf I leave here now...\p...\p...\p...\p...\pthere's no way\nto know if I'll ever come back...\p...\p...\p...\p...\p...\pso\nplease...\p...\p...\p...\pfind a way...\p...\pv\e
+
+[000248|en] yMeiyazu...\p...\p...\p...\pv\e
+[000248|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000249|en] yOld WomanzuFind a way...\p...\p...\p...\p...\pfind a way...\p...\pv\e
+[000249|ru] yOld WomanzuFind a way...\p...\p...\p...\p...\pfind a way...\p...\pv\e
+
+[00024a|en] yTakeruzu...\p...\p...\p...\pv\e
+[00024a|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00024d|en] yMeiyazu...\p...\pwe will return later.v\e
+[00024d|ru] yMeiyazu...\p...\pwe will return later.v\e
+
+[00024f|en] yTakeruzu„Ÿ„ŸEh!?v\e
+[00024f|ru] yTakeruzu„Ÿ„ŸEh!?v\e
+
+[000251|en] yTakeruzuAh,\p hey!!v\e
+[000251|ru] yTakeruzuAh,\p hey!!v\e
+
+[000257|en] yTakeruzu„Ÿ„ŸMeiya!v\e
+[000257|ru] yTakeruzu„Ÿ„ŸMeiya!v\e
+
+[00025b|en] yTakeruzuWhat're you trying to do!?v\e
+[00025b|ru] yTakeruzuWhat're you trying to do!?v\e
+
+[00025e|en] yMeiyazuJust as I said.\p\p We shall wait a little longer.v\e
+[00025e|ru] yMeiyazuJust as I said.\p\p We shall wait a little longer.v\e
+
+[00025f|en] yTakeruzuAre you serious!?v\e
+[00025f|ru] yTakeruzuAre you serious!?v\e
+
+[000262|en] yMeiyazuOf course.v\e
+[000262|ru] yMeiyazuOf course.v\e
+
+[000264|en] yTakeruzuWe have no idea when the volcano's gonna\nblow!!v\e
+[000264|ru] yTakeruzuWe have no idea when the volcano's gonna\nblow!!v\e
+
+[000267|en] yMeiyazuBut it has not erupted yet.v\e 
+[000267|ru] yMeiyazuBut it has not erupted yet.v\e 
+
+[000268|en] yTakeruzuHey now! What the hell's wrong with you!?v\e
+[000268|ru] yTakeruzuHey now! What the hell's wrong with you!?v\e
+
+[00026a|en] yMeiyazuDid you really...\p...\pfeel nothing for her?v\e
+[00026a|ru] yMeiyazuDid you really...\p...\pfeel nothing for her?v\e
+
+[00026b|en] ...\p...\p...\p...\p\e
+[00026b|ru] ...\p...\p...\p...\p\e
+
+[00026f|en] yMeiyazuAre you saying you felt nothing from that old\nwoman's words?v\e
+[00026f|ru] yMeiyazuAre you saying you felt nothing from that old\nwoman's words?v\e
+
+[000270|en] ...\p...\p...\p...\p\e
+[000270|ru] ...\p...\p...\p...\p\e
+
+[000274|en] yMeiyazu...\p...\pv\e
+[000274|ru] yMeiyazu...\p...\pv\e
+
+[000275|en] yTakeruzuBut...\p...\pMeiya,\p are we just gonna leave her out\nhere to die?v\e
+[000275|ru] yTakeruzuBut...\p...\pMeiya,\p are we just gonna leave her out\nhere to die?v\e
+
+[000276|en] yMeiyazu...\p...\p...\p...\pv\e
+[000276|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000277|en] yTakeruzuI don't know anything about this Guardian of\nhers,\p but when that thing erupts, she's going to be in\nserious danger!!v\e
+[000277|ru] yTakeruzuI don't know anything about this Guardian of\nhers,\p but when that thing erupts, she's going to be in\nserious danger!!v\e
+
+[00027a|en] yMeiyazuWhen that happens...\p...\p...\plike she said...\p...\p...\p...\p...\pshe\nwill return to the earth.v\e
+[00027a|ru] yMeiyazuWhen that happens...\p...\p...\plike she said...\p...\p...\p...\p...\pshe\nwill return to the earth.v\e
+
+[00027b|en] yTakeruzuAre you serious!?v\e
+[00027b|ru] yTakeruzuAre you serious!?v\e
+
+[00027e|en] yMeiyazuTakeru...\p...\pv\e
+[00027e|ru] yMeiyazuTakeru...\p...\pv\e
+
+[00027f|en] yTakeruzuWhat?v\e
+[00027f|ru] yTakeruzuWhat?v\e
+
+[000281|en] yMeiyazuIn the hearts of those who believe...\p...\pgods truly\ndo exist.v\e 
+[000281|ru] yMeiyazuIn the hearts of those who believe...\p...\pgods truly\ndo exist.v\e 
+
+[000282|en] yTakeruzuHuuuh?v\e
+[000282|ru] yTakeruzuHuuuh?v\e
+
+[000284|en] yMeiyazuIf their god wishes for them to die,\p\p\p then they\nwould do so willingly.\p\p\p\p\p\nThere is no point in telling believers there is no such god.v\e
+[000284|ru] yMeiyazuIf their god wishes for them to die,\p\p\p then they\nwould do so willingly.\p\p\p\p\p\nThere is no point in telling believers there is no such god.v\e
+
+[000285|en] yTakeruzu...\p...\pso you're just going to do exactly what she\nwants us to?v\e
+[000285|ru] yTakeruzu...\p...\pso you're just going to do exactly what she\nwants us to?v\e
+
+[000288|en] yMeiyazu...\p...\p...\p...\pv\e
+[000288|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[000289|en] yTakeruzuThis world doesn't have the time or the\nresources to listen to one person's selfish wish.\nEspecially in Japan!v\e
+[000289|ru] yTakeruzuThis world doesn't have the time or the\nresources to listen to one person's selfish wish.\nEspecially in Japan!v\e
+
+[00028d|en] yMeiyazu...\p...\p...\p...\pv\e
+[00028d|ru] yMeiyazu...\p...\p...\p...\pv\e
+
+[00028e|en] yTakeruzuI can't stand it when military authority wipes\nout an individual's opinion.\n...\p...\pbut isn't our mission here to save lives!?v\e
+[00028e|ru] yTakeruzuI can't stand it when military authority wipes\nout an individual's opinion.\n...\p...\pbut isn't our mission here to save lives!?v\e
+
+[000291|en] yMeiyazu...\p...\pit is.v\e
+[000291|ru] yMeiyazu...\p...\pit is.v\e
+
+[000292|en] yTakeruzu...\p...\paren't we all putting ourselves in danger out\nhere to save these fourteen people?v\e
+[000292|ru] yTakeruzu...\p...\paren't we all putting ourselves in danger out\nhere to save these fourteen people?v\e
+
+[000295|en] yMeiyazu...\p...\pv\e
+[000295|ru] yMeiyazu...\p...\pv\e
+
+[000296|en] yTakeruzu...\p...\p...\p...\pv\e
+[000296|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00029a|en] yMeiyazu...\p...\pI am not here to argue with you...\p...\p...\plet us\ncontinue to the next residence.v\e
+[00029a|ru] yMeiyazu...\p...\pI am not here to argue with you...\p...\p...\plet us\ncontinue to the next residence.v\e
+
+[00029c|en] yTakeruzu...\p...\p...\p...\pv\e
+[00029c|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00029d|en] What happened to you...\p...\pMeiya?\e
+[00029d|ru] What happened to you...\p...\pMeiya?\e
+
+[00029e|en] You're supposed to always be calm...\p...\p\e
+[00029e|ru] You're supposed to always be calm...\p...\p\e
+
+[0002a2|en] It's evening now...\p...\p\e
+[0002a2|ru] It's evening now...\p...\p\e
+
+[0002ce|en] Another earthquake...\p...\p?\e
+[0002ce|ru] Another earthquake...\p...\p?\e
+
+[0002cf|en] It feels stupid to try and keep count of them.\nIn fact,\p it's like this mild shaking hasn't let up for hours.\e
+[0002cf|ru] It feels stupid to try and keep count of them.\nIn fact,\p it's like this mild shaking hasn't let up for hours.\e
+
+[0002d0|en] That old lady went back in her house,\p and hasn't come\nout since.\e
+[0002d0|ru] That old lady went back in her house,\p and hasn't come\nout since.\e
+
+[0002d1|en] Smoke's been coming out of the chimney for a\nwhile...\p...\pis she trying to live her daily life...\p...\pas if\nnothing's happening?\e
+[0002d1|ru] Smoke's been coming out of the chimney for a\nwhile...\p...\pis she trying to live her daily life...\p...\pas if\nnothing's happening?\e
+
+[0002d7|en] yMikizu05 to HQ.\p\p\p\p\p There's been a landslide on the planned\nevacuation route for the east ward of Old Tengen Town.\nRequesting a new route.v\e
+[0002d7|ru] yMikizu05 to HQ.\p\p\p\p\p There's been a landslide on the planned\nevacuation route for the east ward of Old Tengen Town.\nRequesting a new route.v\e
+
+[0002db|en] yMarimozuOne moment...\p...\ptake them to Old Oozawa\nTown via the prefectural road off the eastern mountain\npath.\p Infantry will be standing by there.v\e
+[0002db|ru] yMarimozuOne moment...\p...\ptake them to Old Oozawa\nTown via the prefectural road off the eastern mountain\npath.\p Infantry will be standing by there.v\e
+
+[0002de|en] yMikizu05, copy that.v\e
+[0002de|ru] yMikizu05, copy that.v\e
+
+[0002e6|en] yMikotozu03 to HQ.\p\p\p\p We've begun evacuating the west\nward of Old Tengen Town along the planned route.v\e
+[0002e6|ru] yMikotozu03 to HQ.\p\p\p\p We've begun evacuating the west\nward of Old Tengen Town along the planned route.v\e
+
+[0002e7|en] yMarimozuCopy that.v\e
+[0002e7|ru] yMarimozuCopy that.v\e
+
+[0002ef|en] ...\p...\p\e
+[0002ef|ru] ...\p...\p\e
+
+[0002f1|en] They're all taking quite a while...\p...\p\e
+[0002f1|ru] They're all taking quite a while...\p...\p\e
+
+[0002f2|en] yTakeruzu...\p...\p...\p...\pv\e
+[0002f2|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[0002f3|en] We had quite a bit of trouble with that last old guy we\nvisited too.\e
+[0002f3|ru] We had quite a bit of trouble with that last old guy we\nvisited too.\e
+
+[0002f4|en] In the end,\p Meiya managed to convince him...\p...\p\e
+[0002f4|ru] In the end,\p Meiya managed to convince him...\p...\p\e
+
+[0002f5|en] But that guy also prostrated himself after seeing Meiya's\nface...\p...\p\e
+[0002f5|ru] But that guy also prostrated himself after seeing Meiya's\nface...\p...\p\e
+
+[0002f6|en] Meiya really is famous...\p...\p\e
+[0002f6|ru] Meiya really is famous...\p...\p\e
+
+[0002f7|en] But still...\p...\peven if she's related to the emperor...\p...\p\e
+[0002f7|ru] But still...\p...\peven if she's related to the emperor...\p...\p\e
+
+[0002f8|en] Do they really have to go that far?\e
+[0002f8|ru] Do they really have to go that far?\e
+
+[000300|en] This isn't feudal Japan you know...\p...\pit feels\nanachronistic...\p...\p\e
+[000300|ru] This isn't feudal Japan you know...\p...\pit feels\nanachronistic...\p...\p\e
+
+[000301|en] yMarimozuHQ to squad 207...\p...\p...\p...\p...\pobservation teams\nhave confirmed fissures in the lava dome.\p\p\p\p\p\p\p It's extremely\nlikely that Mt. Tengen will erupt within 12 hours.v\e
+[000301|ru] yMarimozuHQ to squad 207...\p...\p...\p...\p...\pobservation teams\nhave confirmed fissures in the lava dome.\p\p\p\p\p\p\p It's extremely\nlikely that Mt. Tengen will erupt within 12 hours.v\e
+
+[000304|en] ...\p...\pare you serious!?\e
+[000304|ru] ...\p...\pare you serious!?\e
+
+[000315|en] yMarimozu20703,\p\p\p get as close as possible to the crater\nwithout risking your TSF's safety.\p\nWe need more data.v\e 
+[000315|ru] yMarimozu20703,\p\p\p get as close as possible to the crater\nwithout risking your TSF's safety.\p\nWe need more data.v\e 
+
+[000319|en] yMikotozu03, copy that.v\e
+[000319|ru] yMikotozu03, copy that.v\e
+
+[000321|en] Whoa! That one was a bit big.\nFeels like we're getting close to the main event.\e
+[000321|ru] Whoa! That one was a bit big.\nFeels like we're getting close to the main event.\e
+
+[000323|en] yMarimozu...\p...\pin response,\p we're moving the deadline up\nto 07:00 next morning.\p\p Got that?v\e
+[000323|ru] yMarimozu...\p...\pin response,\p we're moving the deadline up\nto 07:00 next morning.\p\p Got that?v\e
+
+[000324|en] yTakeruzu06, copy that.v\e
+[000324|ru] yTakeruzu06, copy that.v\e
+
+[000327|en] yMeiyazu02, copy that.v\e
+[000327|ru] yMeiyazu02, copy that.v\e
+
+[000334|en] yChizuruzu01, copy that.v\n
+[000334|ru] yChizuruzu01, copy that.v\n
+
+[000335|en] yMikizu05, copy that.v\n
+[000335|ru] yMikizu05, copy that.v\n
+
+[000336|en] yKeizu04, copy that.v\e
+[000336|ru] yKeizu04, copy that.v\e
+
+[00033f|en] yMarimozu„Ÿ„ŸShirogane!\p Mitsurugi!v\e
+[00033f|ru] yMarimozu„Ÿ„ŸShirogane!\p Mitsurugi!v\e
+
+[000340|en] yTakeruzuMa'am.v\e
+[000340|ru] yTakeruzuMa'am.v\e
+
+[000343|en] yMeiyazuMa'am.v\e
+[000343|ru] yMeiyazuMa'am.v\e
+
+[000345|en] yMarimozuHow're things going in the remaining wards?v\e
+[000345|ru] yMarimozuHow're things going in the remaining wards?v\e
+
+[000346|en] yTakeruzuAbout that...\p...\pv\e
+[000346|ru] yTakeruzuAbout that...\p...\pv\e
+
+[000348|en] yMeiyazuWe are in the process of persuading them.v\e
+[000348|ru] yMeiyazuWe are in the process of persuading them.v\e
+
+[00034a|en] yMarimozuI see...\p...\pthat's what happened.\p\p You may have\nto evacuate them by force...\p...\pin any event, hurry.v\e
+[00034a|ru] yMarimozuI see...\p...\pthat's what happened.\p\p You may have\nto evacuate them by force...\p...\pin any event, hurry.v\e
+
+[00034c|en] yMeiyazu...\p...\pcopy that.v\e
+[00034c|ru] yMeiyazu...\p...\pcopy that.v\e
+
+[00034d|en] yTakeruzuC-\pcopy that!v\e
+[00034d|ru] yTakeruzuC-\pcopy that!v\e
+
+[00034f|en] yMarimozuOkay,\p that is all.v\e
+[00034f|ru] yMarimozuOkay,\p that is all.v\e
+
+[000358|en] ...\p...\p...\p...\p*sigh*\e
+[000358|ru] ...\p...\p...\p...\p*sigh*\e
+
+[000359|en] Meiya,\p why'd you have to lie about that?\nAll we've been doing is waaaaaaaiting here in our Fubuki.\e
+[000359|ru] Meiya,\p why'd you have to lie about that?\nAll we've been doing is waaaaaaaiting here in our Fubuki.\e
+
+[00035a|en] There's no way that old lady's just gonna walk out with\nall her stuff packed.\e
+[00035a|ru] There's no way that old lady's just gonna walk out with\nall her stuff packed.\e
+
+[00035b|en] ...\p...\p...\p...\pshe'll never evacuate of her own free will.\nAnd Meiya...\p...\pis she unwilling to force her?\e
+[00035b|ru] ...\p...\p...\p...\pshe'll never evacuate of her own free will.\nAnd Meiya...\p...\pis she unwilling to force her?\e
+
+[000362|en] yMeiyazu...\p...\pTakeru.v\e
+[000362|ru] yMeiyazu...\p...\pTakeru.v\e
+
+[000363|en] yTakeruzu...\p...\pyou sure it's okay to use an encrypted\nchannel during this op?v\e
+[000363|ru] yTakeruzu...\p...\pyou sure it's okay to use an encrypted\nchannel during this op?v\e
+
+[000367|en] yMeiyazuThe old woman is calling us.v\e
+[000367|ru] yMeiyazuThe old woman is calling us.v\e
+
+[000369|en] yTakeruzu...\p...\phm?v\e
+[000369|ru] yTakeruzu...\p...\phm?v\e
+
+[000372|en] She's right. I can see her greeting us down there.\e
+[000372|ru] She's right. I can see her greeting us down there.\e
+
+[000373|en] yTakeruzuMaybe she changed her mind?v\e
+[000373|ru] yTakeruzuMaybe she changed her mind?v\e
+
+[000374|en] ...\p...\punlikely.\e
+[000374|ru] ...\p...\punlikely.\e
+
+[000375|en] yMeiyazuI will get out.v\e
+[000375|ru] yMeiyazuI will get out.v\e
+
+[000376|en] yTakeruzu...\p...\pI'm going too.v\e
+[000376|ru] yTakeruzu...\p...\pI'm going too.v\e

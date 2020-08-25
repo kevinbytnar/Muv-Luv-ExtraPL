@@ -1,0 +1,992 @@
+SCR 1 Shift-JIS
+330
+
+[00000d|en] yMarimozuOkaaay,\p class is over for today.v\e
+[00000d|ru] yMarimozuOkaaay,\p class is over for today.v\e
+
+[000010|en] yChizuruzuStand...\p...\pv\e
+[000010|ru] yChizuruzuStand...\p...\pv\e
+
+[000014|en] yChizuruzuBow...\p...\pv\e
+[000014|ru] yChizuruzuBow...\p...\pv\e
+
+[00001b|en] yTakeruzuTamaaa,\p let's go practice!v\e
+[00001b|ru] yTakeruzuTamaaa,\p let's go practice!v\e
+
+[00001d|en] yMikizuAh,\p okay!v\e
+[00001d|ru] yMikizuAh,\p okay!v\e
+
+[00001e|en] yChizuruzuAh,\p Shirogane-kun.v\e
+[00001e|ru] yChizuruzuAh,\p Shirogane-kun.v\e
+
+[00001f|en] yTakeruzuHm?v\e
+[00001f|ru] yTakeruzuHm?v\e
+
+[000023|en] yChizuruzuHow's...\p...\pshe doing?\p\p\nIsn't the match tomorrow?v\e
+[000023|ru] yChizuruzuHow's...\p...\pshe doing?\p\p\nIsn't the match tomorrow?v\e
+
+[000024|en] yTakeruzuGood question...\p...\pI think she'll be able to do it.v\e
+[000024|ru] yTakeruzuGood question...\p...\pI think she'll be able to do it.v\e
+
+[000026|en] yChizuruzuYou make it sound so easy...\p...\pv\e
+[000026|ru] yChizuruzuYou make it sound so easy...\p...\pv\e
+
+[000027|en] yTakeruzuYou can't do anything without confidence.v\e
+[000027|ru] yTakeruzuYou can't do anything without confidence.v\e
+
+[000029|en] yMeiyazu...\p...\pI see.v\e
+[000029|ru] yMeiyazu...\p...\pI see.v\e
+
+[00002b|en] yTakeruzuI don't think Tama's problem is shyness\nanymore. Her technique around me is flawless.v\e
+[00002b|ru] yTakeruzuI don't think Tama's problem is shyness\nanymore. Her technique around me is flawless.v\e
+
+[00002d|en] yMeiyazuYou mean to say...\p...\pit is the weight of the dojo?v\e
+[00002d|ru] yMeiyazuYou mean to say...\p...\pit is the weight of the dojo?v\e
+
+[00002e|en] yTakeruzuNo,\p not just that.\nArchery itself.v\e
+[00002e|ru] yTakeruzuNo,\p not just that.\nArchery itself.v\e
+
+[00002f|en] yMikizuTakeru-saaan,\p I'm going to the range now.v\e
+[00002f|ru] yMikizuTakeru-saaan,\p I'm going to the range now.v\e
+
+[000030|en] yTakeruzuAh,\p I'm coming! ...\p...\pbye guys.v\e
+[000030|ru] yTakeruzuAh,\p I'm coming! ...\p...\pbye guys.v\e
+
+[000032|en] ySumikazuAh...\p...\pTakeru-chan.v\e
+[000032|ru] ySumikazuAh...\p...\pTakeru-chan.v\e
+
+[000033|en] yTakeruzuHm?\p What?v\e
+[000033|ru] yTakeruzuHm?\p What?v\e
+
+[000035|en] ySumikazu...\p...\pgood luck.v\e
+[000035|ru] ySumikazu...\p...\pgood luck.v\e
+
+[000036|en] yTakeruzuYeah,\p leave it to me!v\e
+[000036|ru] yTakeruzuYeah,\p leave it to me!v\e
+
+[00003d|en] yMikizuWhat were you talking about?v\e
+[00003d|ru] yMikizuWhat were you talking about?v\e
+
+[00003e|en] yTakeruzuIt's a secret.v\e
+[00003e|ru] yTakeruzuIt's a secret.v\e
+
+[000040|en] yMikizuEeeh!?v\e
+[000040|ru] yMikizuEeeh!?v\e
+
+[000041|en] yTakeruzuJust kidding, we were talking about tomorrow.v\e
+[000041|ru] yTakeruzuJust kidding, we were talking about tomorrow.v\e
+
+[000043|en] yMikizuAh...\p...\pyeah.v\e
+[000043|ru] yMikizuAh...\p...\pyeah.v\e
+
+[000044|en] yTakeruzuThey asked if you'd be okay...\p...\pand I said you'd\nbe able to do it.v\e
+[000044|ru] yTakeruzuThey asked if you'd be okay...\p...\pand I said you'd\nbe able to do it.v\e
+
+[000045|en] yMikizuYeah...\p...\pv\e
+[000045|ru] yMikizuYeah...\p...\pv\e
+
+[000046|en] yTakeruzuThey said I was making it sound easy,\p so I said\nwe have to be confident or we can't do anything.v\e
+[000046|ru] yTakeruzuThey said I was making it sound easy,\p so I said\nwe have to be confident or we can't do anything.v\e
+
+[000047|en] yMikizuYeah...\p...\pv\e
+[000047|ru] yMikizuYeah...\p...\pv\e
+
+[000048|en] yTakeruzu...\p...\pthat's all.v\e
+[000048|ru] yTakeruzu...\p...\pthat's all.v\e
+
+[000049|en] If the dojo dies, it dies.\nSome battles you can't win no matter how hard you try.\e
+[000049|ru] If the dojo dies, it dies.\nSome battles you can't win no matter how hard you try.\e
+
+[00004a|en] It doesn't matter whether failure is an option or\nnot...\p...\pthat's just reality.\e
+[00004a|ru] It doesn't matter whether failure is an option or\nnot...\p...\pthat's just reality.\e
+
+[00004b|en] Turning your back to that reality and saying you'll never\nallow yourself to lose is just asking to be defeated.\e
+[00004b|ru] Turning your back to that reality and saying you'll never\nallow yourself to lose is just asking to be defeated.\e
+
+[00004c|en] At the very least,\p that won't work for Tama.\e
+[00004c|ru] At the very least,\p that won't work for Tama.\e
+
+[00004d|en] The moment she loses her confidence,\p the match is\nover...\p...\puntil recently, it was over...\p...\p\e
+[00004d|ru] The moment she loses her confidence,\p the match is\nover...\p...\puntil recently, it was over...\p...\p\e
+
+[00004e|en] Even now,\p although I'm not sure whether she really can\nwin...\p...\pshe at least has a chance now.\e
+[00004e|ru] Even now,\p although I'm not sure whether she really can\nwin...\p...\pshe at least has a chance now.\e
+
+[00004f|en] I have to take up the bow,\p not for the sake of the\nmatch,\p but to keep my own heart in balance.\e
+[00004f|ru] I have to take up the bow,\p not for the sake of the\nmatch,\p but to keep my own heart in balance.\e
+
+[000050|en] I've gotta have fun doing what she's doing!\e
+[000050|ru] I've gotta have fun doing what she's doing!\e
+
+[000052|en] yMikizuEh?\p Whaaat?v\e
+[000052|ru] yMikizuEh?\p Whaaat?v\e
+
+[000053|en] yTakeruzuNothing...\p...\pv\e
+[000053|ru] yTakeruzuNothing...\p...\pv\e
+
+[000054|en] ...\p...\pif I told her...\p...\pshe'd just laugh at me...\p...\p\e
+[000054|ru] ...\p...\pif I told her...\p...\pshe'd just laugh at me...\p...\p\e
+
+[000055|en] But I think I've found what's best for us.\e
+[000055|ru] But I think I've found what's best for us.\e
+
+[000057|en] yMikizu...\p...\p?v\e
+[000057|ru] yMikizu...\p...\p?v\e
+
+[000058|en] ...\p...\pI think we've...\p...\pfound what's best for us.\e
+[000058|ru] ...\p...\pI think we've...\p...\pfound what's best for us.\e
+
+[000063|en] yMikizuTakeru-san,\p you always look so cool in that\nhakama!v\e 
+[000063|ru] yMikizuTakeru-san,\p you always look so cool in that\nhakama!v\e 
+
+[000064|en] yTakeruzuDo I? You're rather noble in it yourself,\p Tama.v\e
+[000064|ru] yTakeruzuDo I? You're rather noble in it yourself,\p Tama.v\e
+
+[000066|en] yMikizuEhehe...\p...\pv\e
+[000066|ru] yMikizuEhehe...\p...\pv\e
+
+[000067|en] Still...\p...\pthis feels more like a date than a training\nsession...\p...\p\e
+[000067|ru] Still...\p...\pthis feels more like a date than a training\nsession...\p...\p\e
+
+[000068|en] This is so strange.\nDo we really look like two archers training together?\e
+[000068|ru] This is so strange.\nDo we really look like two archers training together?\e
+
+[000069|en] ...\p...\p...\p...\p\e
+[000069|ru] ...\p...\p...\p...\p\e
+
+[00006a|en] No, no,\p stop getting distracted.\e
+[00006a|ru] No, no,\p stop getting distracted.\e
+
+[00006c|en] yMikizuTakeru-san,\p what's wrong?v\e
+[00006c|ru] yMikizuTakeru-san,\p what's wrong?v\e
+
+[00006d|en] yTakeruzuOh...\p...\pit's nothing.\p Nothing's wrong.v\e
+[00006d|ru] yTakeruzuOh...\p...\pit's nothing.\p Nothing's wrong.v\e
+
+[00006f|en] yMikizuThis is our last day of training,\p so let's do our\nbest!v\e
+[00006f|ru] yMikizuThis is our last day of training,\p so let's do our\nbest!v\e
+
+[000070|en] yTakeruzuOkay,\p go for it!v\e
+[000070|ru] yTakeruzuOkay,\p go for it!v\e
+
+[000072|en] yMikizuYou too, Takeru-san!\p\p You're hitting the bullseye\ntoday!v\e
+[000072|ru] yMikizuYou too, Takeru-san!\p\p You're hitting the bullseye\ntoday!v\e
+
+[000073|en] yTakeruzuThat's right.v\e
+[000073|ru] yTakeruzuThat's right.v\e
+
+[000075|en] yMikizuYou've gotten to the point where you can hit the\ntarget,\p so today, let's hit the middle!v\e
+[000075|ru] yMikizuYou've gotten to the point where you can hit the\ntarget,\p so today, let's hit the middle!v\e
+
+[000076|en] yTakeruzuOkaaaay theeeen!v\e
+[000076|ru] yTakeruzuOkaaaay theeeen!v\e
+
+[000077|en] yMikizuI'm gonna be really hard on you today!v\e
+[000077|ru] yMikizuI'm gonna be really hard on you today!v\e
+
+[000078|en] yTakeruzuO-\pokay!v\e
+[000078|ru] yTakeruzuO-\pokay!v\e
+
+[00007a|en] yMikizuNow then,\p watch Miki hit the bullseye first,\p okay?v\e
+[00007a|ru] yMikizuNow then,\p watch Miki hit the bullseye first,\p okay?v\e
+
+[00007b|en] yTakeruzuO-\pokay!v\e
+[00007b|ru] yTakeruzuO-\pokay!v\e
+
+[00007c|en] I never thought Tama would say something so bold.\e
+[00007c|ru] I never thought Tama would say something so bold.\e
+
+[00007d|en] yMikizuWatch how my entire body is balanced,\p especially\nwhere I'm using the Tsunomi.v\e
+[00007d|ru] yMikizuWatch how my entire body is balanced,\p especially\nwhere I'm using the Tsunomi.v\e
+
+[00007e|en] yTakeruzuGot it.v\e
+[00007e|ru] yTakeruzuGot it.v\e
+
+[000080|en] Tama,\p you're taking this seriously...\p...\p\e
+[000080|ru] Tama,\p you're taking this seriously...\p...\p\e
+
+[000089|en] ...\p...\pmaybe I have been underestimating you.\e
+[000089|ru] ...\p...\pmaybe I have been underestimating you.\e
+
+[00008a|en] I've been treating her like a child because she's so\ntiny...\p...\p\e
+[00008a|ru] I've been treating her like a child because she's so\ntiny...\p...\p\e
+
+[00008b|en] Seeing her like this...\p...\pshe's in a completely different\nleague.\p She's got a good expression too...\p...\p\e
+[00008b|ru] Seeing her like this...\p...\pshe's in a completely different\nleague.\p She's got a good expression too...\p...\p\e
+
+[00008f|en] yMikizuTakeru-san!v\e
+[00008f|ru] yMikizuTakeru-san!v\e
+
+[000091|en] yTakeruzuY-\pyes!v\e
+[000091|ru] yTakeruzuY-\pyes!v\e
+
+[000092|en] ...\p...\pI...\pstraightened my back without even thinking about\nit.\e
+[000092|ru] ...\p...\pI...\pstraightened my back without even thinking about\nit.\e
+
+[000093|en] Sh-\pshe's got some presence.\e
+[000093|ru] Sh-\pshe's got some presence.\e
+
+[000095|en] yMikizuYou weren't watching, were you?v\e
+[000095|ru] yMikizuYou weren't watching, were you?v\e
+
+[000097|en] yTakeruzuEh? Ah...\p...\pah!v\e
+[000097|ru] yTakeruzuEh? Ah...\p...\pah!v\e
+
+[000098|en] ...\p...\pit's right in the middle.\e
+[000098|ru] ...\p...\pit's right in the middle.\e
+
+[00009a|en] yTakeruzuN-\pno,\p I was watching.v\e
+[00009a|ru] yTakeruzuN-\pno,\p I was watching.v\e
+
+[00009b|en] yMikizuReallyyy?v\e
+[00009b|ru] yMikizuReallyyy?v\e
+
+[00009c|en] yTakeruzuReally really.v\e
+[00009c|ru] yTakeruzuReally really.v\e
+
+[00009e|en] yMikizuThen try it yourself.v\e
+[00009e|ru] yMikizuThen try it yourself.v\e
+
+[00009f|en] yTakeruzuUu...\p...\po-\pokay!v\e
+[00009f|ru] yTakeruzuUu...\p...\po-\pokay!v\e
+
+[0000a2|en] ...\p...\pummm...\p...\pput my right hand here, and my left hand\nhere...\p...\p\e
+[0000a2|ru] ...\p...\pummm...\p...\pput my right hand here, and my left hand\nhere...\p...\p\e
+
+[0000ab|en] yMikizuOkay!v\e
+[0000ab|ru] yMikizuOkay!v\e
+
+[0000b0|en] yTakeruzuOkay!\p How was that?v\e
+[0000b0|ru] yTakeruzuOkay!\p How was that?v\e
+
+[0000b2|en] yMikizuYes,\p it's getting much better.\p Amazing! Amazing!v\e
+[0000b2|ru] yMikizuYes,\p it's getting much better.\p Amazing! Amazing!v\e
+
+[0000b4|en] yTakeruzuYou bet it is.v\e
+[0000b4|ru] yTakeruzuYou bet it is.v\e
+
+[0000b6|en] yMikizuBut I left out so much...\p...\pit's incredible.v\e
+[0000b6|ru] yMikizuBut I left out so much...\p...\pit's incredible.v\e
+
+[0000b7|en] yTakeruzuHey now,\p say what you really think!v\e
+[0000b7|ru] yTakeruzuHey now,\p say what you really think!v\e
+
+[0000b9|en] yMikizuAhahaha.\n...\p...\p...\p...\pbut you've got good muscles, Takeru-san.\p\nYou really should join a team or something.v\e
+[0000b9|ru] yMikizuAhahaha.\n...\p...\p...\p...\pbut you've got good muscles, Takeru-san.\p\nYou really should join a team or something.v\e
+
+[0000ba|en] yTakeruzuThat's not true.\nI just have a good master.v\e
+[0000ba|ru] yTakeruzuThat's not true.\nI just have a good master.v\e
+
+[0000bc|en] yMikizuEh...\p...\p?v\e
+[0000bc|ru] yMikizuEh...\p...\p?v\e
+
+[0000bd|en] yTakeruzuYou've got great technique,\p you're good at\nteaching,\p and you have fun with it.v\e
+[0000bd|ru] yTakeruzuYou've got great technique,\p you're good at\nteaching,\p and you have fun with it.v\e
+
+[0000bf|en] yMikizuEh...\p...\pth-\pthank you.v\e
+[0000bf|ru] yMikizuEh...\p...\pth-\pthank you.v\e
+
+[0000c0|en] yTakeruzuOkaaay,\p Tama,\p check my stance like you did\nyesterday.v\e
+[0000c0|ru] yTakeruzuOkaaay,\p Tama,\p check my stance like you did\nyesterday.v\e
+
+[0000c2|en] yMikizu...\p...\p...\p...\pv\e
+[0000c2|ru] yMikizu...\p...\p...\p...\pv\e
+
+[0000c3|en] yTakeruzu...\p...\pTama?v\e
+[0000c3|ru] yTakeruzu...\p...\pTama?v\e
+
+[0000c5|en] yMikizu...\p...\phauuuuuuuu...\p...v\e
+[0000c5|ru] yMikizu...\p...\phauuuuuuuu...\p...v\e
+
+[0000cb|en] yTakeruzuTa-\pTama!?v\e
+[0000cb|ru] yTakeruzuTa-\pTama!?v\e
+
+[0000cc|en] yMikizuHenyuuuuu...\p...v\e
+[0000cc|ru] yMikizuHenyuuuuu...\p...v\e
+
+[0000cd|en] yTakeruzuTama!\p You okay!?v\e
+[0000cd|ru] yTakeruzuTama!\p You okay!?v\e
+
+[0000cf|en] yMikizuAh...\p...\phauaauuu...\p...\pv\e
+[0000cf|ru] yMikizuAh...\p...\phauaauuu...\p...\pv\e
+
+[0000d0|en] yTakeruzuTa...\p...\pTama?v\e
+[0000d0|ru] yTakeruzuTa...\p...\pTama?v\e
+
+[0000d1|en] You should know better than this.\e
+[0000d1|ru] You should know better than this.\e
+
+[0000d4|en] yMikizu...\p...\p...\p...\pv\e
+[0000d4|ru] yMikizu...\p...\p...\p...\pv\e
+
+[0000d5|en] yTakeruzuHm?\p Tama,\p what's wrong?v\e
+[0000d5|ru] yTakeruzuHm?\p Tama,\p what's wrong?v\e
+
+[0000d6|en] yMikizu...\p...\pTakeru-san,\p why are you so big?v\e
+[0000d6|ru] yMikizu...\p...\pTakeru-san,\p why are you so big?v\e
+
+[0000d7|en] ...\p...\pI think the bigger question is why are you so small...\p...\p\e
+[0000d7|ru] ...\p...\pI think the bigger question is why are you so small...\p...\p\e
+
+[0000d8|en] yTakeruzuI'm not unusually large or anything...\p...\pv\e
+[0000d8|ru] yTakeruzuI'm not unusually large or anything...\p...\pv\e
+
+[0000d9|en] yMikizu...\p...\pbut your back...\p...\p...\p...\pit's so wide`v\e 
+[0000d9|ru] yMikizu...\p...\pbut your back...\p...\p...\p...\pit's so wide`v\e 
+
+[0000da|en] yTakeruzuTama,\p shouldn't all backs be like that?v\e
+[0000da|ru] yTakeruzuTama,\p shouldn't all backs be like that?v\e
+
+[0000db|en] yMikizuAh...\p...\pokaaay.\nPlease straighten out a little.v\e
+[0000db|ru] yMikizuAh...\p...\pokaaay.\nPlease straighten out a little.v\e
+
+[0000dc|en] yTakeruzuEh?\p I was crooked?v\e
+[0000dc|ru] yTakeruzuEh?\p I was crooked?v\e
+
+[0000dd|en] yMikizuYou started bending backward a minute ago.v\e
+[0000dd|ru] yMikizuYou started bending backward a minute ago.v\e
+
+[0000de|en] yTakeruzuBent? ...\p...\plike this?v\e
+[0000de|ru] yTakeruzuBent? ...\p...\plike this?v\e
+
+[0000df|en] yMikizuWell...\p...\p...\p...\pa little more...\p...\p...\p...\pthis way...\p...\pv\e
+[0000df|ru] yMikizuWell...\p...\p...\p...\pa little more...\p...\p...\p...\pthis way...\p...\pv\e
+
+[0000e1|en] yTakeruzuOh,\p a massage?v\e
+[0000e1|ru] yTakeruzuOh,\p a massage?v\e
+
+[0000e2|en] yMikizuNot that!\p\p Ah...\p...\p...\p...\pv\e
+[0000e2|ru] yMikizuNot that!\p\p Ah...\p...\p...\p...\pv\e
+
+[0000e5|en] yTakeruzuTama?v\e
+[0000e5|ru] yTakeruzuTama?v\e
+
+[0000e6|en] yMikizu...\p...\pi-\pit's not that.\nI-\pI didn't mean...\panything...\phauaauuu...\p...\pI wasn't trying to\npush against your back``!!v\e
+[0000e6|ru] yMikizu...\p...\pi-\pit's not that.\nI-\pI didn't mean...\panything...\phauaauuu...\p...\pI wasn't trying to\npush against your back``!!v\e
+
+[0000e7|en] yTakeruzu...\p...\pwhat're you talking about?v\e
+[0000e7|ru] yTakeruzu...\p...\pwhat're you talking about?v\e
+
+[0000e8|en] yMikizuN-\pnothing at all!v\e
+[0000e8|ru] yMikizuN-\pnothing at all!v\e
+
+[0000e9|en] yTakeruzuYou're acting weird...\p...\pv\e
+[0000e9|ru] yTakeruzuYou're acting weird...\p...\pv\e
+
+[0000ea|en] yMikizu...\p...\p...\p...\pso warm...\p...v\e
+[0000ea|ru] yMikizu...\p...\p...\p...\pso warm...\p...v\e
+
+[0000eb|en] yTakeruzuReally?\p I figured it'd be getting cold by now.v\e
+[0000eb|ru] yTakeruzuReally?\p I figured it'd be getting cold by now.v\e
+
+[0000ec|en] yMikizuAh,\p aha,\p i-\pit's nothing`v\e
+[0000ec|ru] yMikizuAh,\p aha,\p i-\pit's nothing`v\e
+
+[0000f1|en] ...\p...\p\e
+[0000f1|ru] ...\p...\p\e
+
+[0000f2|en] ...\p...\p...\p...\p\e
+[0000f2|ru] ...\p...\p...\p...\p\e
+
+[0000f3|en] yTakeruzuThis is...\p...\pour last practice.v\e
+[0000f3|ru] yTakeruzuThis is...\p...\pour last practice.v\e
+
+[0000f5|en] yMikizu...\p...\p...\p...\pyeah.v\e
+[0000f5|ru] yMikizu...\p...\p...\p...\pyeah.v\e
+
+[0000f7|en] The sun's already setting,\p but I still haven't hit the\nbullseye.\e
+[0000f7|ru] The sun's already setting,\p but I still haven't hit the\nbullseye.\e
+
+[0000f8|en] We said we'd quit after four more arrows,\p but that\ndoesn't seem to be changing the results much.\e
+[0000f8|ru] We said we'd quit after four more arrows,\p but that\ndoesn't seem to be changing the results much.\e
+
+[0000f9|en] ...\p...\pif I can't hit it now,\p I won't be able to give Tama any\nconfidence.\e
+[0000f9|ru] ...\p...\pif I can't hit it now,\p I won't be able to give Tama any\nconfidence.\e
+
+[0000fa|en] Dammit!\p Why won't my body pick up these\ntechniques...\p...\e
+[0000fa|ru] Dammit!\p Why won't my body pick up these\ntechniques...\p...\e
+
+[0000fc|en] yMikizuTakeru-san...\p...\p...\p...\pkeep trying.v\e
+[0000fc|ru] yMikizuTakeru-san...\p...\p...\p...\pkeep trying.v\e
+
+[0000fd|en] yTakeruzuYeah...\p...\p...\p...\pv\e
+[0000fd|ru] yTakeruzuYeah...\p...\p...\p...\pv\e
+
+[0000fe|en] ...\p...\p...\p...\p\e
+[0000fe|ru] ...\p...\p...\p...\p\e
+
+[000104|en] yTakeruzu...\p...\p...\p...\pv\e
+[000104|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[000106|en] Is this...\p...\pwhat real stress is like?\e
+[000106|ru] Is this...\p...\pwhat real stress is like?\e
+
+[000107|en] The end of the end.\p\nNo going back.\p\nNo time to wait.\e
+[000107|ru] The end of the end.\p\nNo going back.\p\nNo time to wait.\e
+
+[000108|en] I can understand...\p...\phow this could crush someone...\p...\p\e
+[000108|ru] I can understand...\p...\phow this could crush someone...\p...\p\e
+
+[00010c|en] ...\p...\p\e
+[00010c|ru] ...\p...\p\e
+
+[00010d|en] ...\p...\p...\p...\p\e
+[00010d|ru] ...\p...\p...\p...\p\e
+
+[000398|en] Archery trains the mind.\e
+[000398|ru] Archery trains the mind.\e
+
+[00010f|en] Mental training...\p...\pstrengthening the mind...\p...\pthat means\nI'm supposed to put some fighting spirit into this.\e
+[00010f|ru] Mental training...\p...\pstrengthening the mind...\p...\pthat means\nI'm supposed to put some fighting spirit into this.\e
+
+[000110|en] That's right...\p...\penough spirit can make anything\nhappen...\p...\panything...\p...\p\e
+[000110|ru] That's right...\p...\penough spirit can make anything\nhappen...\p...\panything...\p...\p\e
+
+[000114|en] „Ÿ„ŸI will make it happen!\e
+[000114|ru] „Ÿ„ŸI will make it happen!\e
+
+[00011b|en] yMikizuOkay!v\e
+[00011b|ru] yMikizuOkay!v\e
+
+[000120|en] yTakeruzuOkay! How was that!!?v\e
+[000120|ru] yTakeruzuOkay! How was that!!?v\e
+
+[000122|en] ...\p...\p...\p...\p...\p...\p\e
+[000122|ru] ...\p...\p...\p...\p...\p...\p\e
+
+[000125|en] yTakeruzuI missed...\p...\pv\n
+[000125|ru] yTakeruzuI missed...\p...\pv\n
+
+[000126|en] yMikizuAmazing!v\e
+[000126|ru] yMikizuAmazing!v\e
+
+[000129|en] yTakeruzuEh?v\e
+[000129|ru] yTakeruzuEh?v\e
+
+[00012b|en] yMikizuThat was amazing!\p\nThat's the closest you've gotten to it yet!!v\e
+[00012b|ru] yMikizuThat was amazing!\p\nThat's the closest you've gotten to it yet!!v\e
+
+[00012c|en] yTakeruzuTama...\p...\pv\e
+[00012c|ru] yTakeruzuTama...\p...\pv\e
+
+[00012e|en] yMikizuTo get this good in so little time...\p...\p...\pyou really are\namazing, Takeru-san!v\e
+[00012e|ru] yMikizuTo get this good in so little time...\p...\p...\pyou really are\namazing, Takeru-san!v\e
+
+[00012f|en] yTakeruzuTama...\p...\pv\e
+[00012f|ru] yTakeruzuTama...\p...\pv\e
+
+[000131|en] yMikizuMiki will also do her...\p...\pv\e
+[000131|ru] yMikizuMiki will also do her...\p...\pv\e
+
+[000132|en] yTakeruzuTama!v\e
+[000132|ru] yTakeruzuTama!v\e
+
+[000134|en] yMikizu...\p...\p...\p...\pv\e
+[000134|ru] yMikizu...\p...\p...\p...\pv\e
+
+[000135|en] yTakeruzu...\p...\pI'm sorry.v\e
+[000135|ru] yTakeruzu...\p...\pI'm sorry.v\e
+
+[000138|en] yMikizuDon't say that.v\e
+[000138|ru] yMikizuDon't say that.v\e
+
+[000139|en] yTakeruzu...\p...\psorry.v\e
+[000139|ru] yTakeruzu...\p...\psorry.v\e
+
+[00013a|en] yMikizuYou really don't need to feel sorry.v\e
+[00013a|ru] yMikizuYou really don't need to feel sorry.v\e
+
+[00013b|en] yTakeruzu...\p...\p...\p...\pv\e
+[00013b|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00013d|en] yMikizuI mean it!!v\e
+[00013d|ru] yMikizuI mean it!!v\e
+
+[00013f|en] yTakeruzuTama...\p...\pv\e
+[00013f|ru] yTakeruzuTama...\p...\pv\e
+
+[000141|en] yMikizuWell,\p it's a shame that you didn't do what you set\nout to do...\p...\p...\p...\pbut look how close you got.v\e
+[000141|ru] yMikizuWell,\p it's a shame that you didn't do what you set\nout to do...\p...\p...\p...\pbut look how close you got.v\e
+
+[000142|en] yTakeruzu...\p...\pbut still...v\e
+[000142|ru] yTakeruzu...\p...\pbut still...v\e
+
+[000143|en] yMikizuYou tried really hard,\p and most of all...\p...\pwasn't it\nfun?v\e
+[000143|ru] yMikizuYou tried really hard,\p and most of all...\p...\pwasn't it\nfun?v\e
+
+[000144|en] yTakeruzu...\p...\pyeah.v\e
+[000144|ru] yTakeruzu...\p...\pyeah.v\e
+
+[000146|en] yMikizuDoes not hitting the bullseye make it less fun?v\e
+[000146|ru] yMikizuDoes not hitting the bullseye make it less fun?v\e
+
+[000147|en] yTakeruzuNot at all.v\e
+[000147|ru] yTakeruzuNot at all.v\e
+
+[000149|en] yMikizu...\p...\pI understand now,\p Takeru-san...\p...\phow you felt\nwhen you watched Miki.v\e
+[000149|ru] yMikizu...\p...\pI understand now,\p Takeru-san...\p...\phow you felt\nwhen you watched Miki.v\e
+
+[00014a|en] yTakeruzu...\p...\p...\p...\pv\e
+[00014a|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00014c|en] yMikizuAnd then I thought...\p...\p...\p...\pof course you'd get mad\nabout that.v\e
+[00014c|ru] yMikizuAnd then I thought...\p...\p...\p...\pof course you'd get mad\nabout that.v\e
+
+[00014e|en] yTakeruzu...\p...\pI became you, Tama?v\e
+[00014e|ru] yTakeruzu...\p...\pI became you, Tama?v\e
+
+[000150|en] yMikizu...\p...\pyes,\p you were Miki.v\e
+[000150|ru] yMikizu...\p...\pyes,\p you were Miki.v\e
+
+[000151|en] yTakeruzu...\p...\p...\p...\pI see...\p...\pwe can't have that.v\e
+[000151|ru] yTakeruzu...\p...\p...\p...\pI see...\p...\pwe can't have that.v\e
+
+[000153|en] yMikizuNo,\p we can't.v\e
+[000153|ru] yMikizuNo,\p we can't.v\e
+
+[000155|en] yTakeruzuOkay,\p I'll hit the bullseye some other day.\nI'll learn how fun it is to hit it!v\e
+[000155|ru] yTakeruzuOkay,\p I'll hit the bullseye some other day.\nI'll learn how fun it is to hit it!v\e
+
+[000157|en] yMikizuYes!v\e
+[000157|ru] yMikizuYes!v\e
+
+[000158|en] yTakeruzuToday's practice is...\p...\pover!!\p\nSensei! Thank you very much!!v\e
+[000158|ru] yTakeruzuToday's practice is...\p...\pover!!\p\nSensei! Thank you very much!!v\e
+
+[00015a|en] yMikizuYou're very welcome!!v\e
+[00015a|ru] yMikizuYou're very welcome!!v\e
+
+[00015e|en] Aaah...\p...\pit's so late...\p...\p\e
+[00015e|ru] Aaah...\p...\pit's so late...\p...\p\e
+
+[00015f|en] It was pretty long,\p but still...\p...\ppractice is over...\p...\p\e
+[00015f|ru] It was pretty long,\p but still...\p...\ppractice is over...\p...\p\e
+
+[000160|en] The final battle is tomorrow...\p...\p\e
+[000160|ru] The final battle is tomorrow...\p...\p\e
+
+[000164|en] yMikizuTakeru-san,\p I'm finished`v\e
+[000164|ru] yMikizuTakeru-san,\p I'm finished`v\e
+
+[000165|en] yTakeruzuI knew it`v\e
+[000165|ru] yTakeruzuI knew it`v\e
+
+[000167|en] yMikizuAhaha,\p no you didn't...\p...\p...\p...\pnow let's go home.v\e
+[000167|ru] yMikizuAhaha,\p no you didn't...\p...\p...\p...\pnow let's go home.v\e
+
+[000168|en] yTakeruzuSure.v\e
+[000168|ru] yTakeruzuSure.v\e
+
+[000169|en] We've done all we can to prepare for it...\p...\p\e
+[000169|ru] We've done all we can to prepare for it...\p...\p\e
+
+[00016a|en] There's nothing else to do.\e
+[00016a|ru] There's nothing else to do.\e
+
+[00016b|en] My only regret...\p...\pis not hitting the bullseye.\e
+[00016b|ru] My only regret...\p...\pis not hitting the bullseye.\e
+
+[00016f|en] yGenjousaizuHu-\phu-\phu-\phu-\phu...\p...\pv\e
+[00016f|ru] yGenjousaizuHu-\phu-\phu-\phu-\phu...\p...\pv\e
+
+[000171|en] yTakeruzu„Ÿ„ŸWhat!?v\e
+[000171|ru] yTakeruzu„Ÿ„ŸWhat!?v\e
+
+[000173|en] yGenjousaizuOh young one.\p\p\nYou should not be so surprised by another man's face.v\e
+[000173|ru] yGenjousaizuOh young one.\p\p\nYou should not be so surprised by another man's face.v\e
+
+[000175|en] yTakeruzuSorry...\p...\pyour appearance was just way too\nwell-timed...\p...\pv\e
+[000175|ru] yTakeruzuSorry...\p...\pyour appearance was just way too\nwell-timed...\p...\pv\e
+
+[000177|en] yMikizuWaaa...\p...\pPapa`v\e
+[000177|ru] yMikizuWaaa...\p...\pPapa`v\e
+
+[000179|en] yGenjousaizuOooh,\p Tama`v\e
+[000179|ru] yGenjousaizuOooh,\p Tama`v\e
+
+[00017a|en] „Ÿ„ŸI've said this before,\p but you're Tama too!\e
+[00017a|ru] „Ÿ„ŸI've said this before,\p but you're Tama too!\e
+
+[00017c|en] yGenjousaizuYou two leaving school together?v\e
+[00017c|ru] yGenjousaizuYou two leaving school together?v\e
+
+[00017e|en] yMikizuPapa,\p what're you doing here?v\e
+[00017e|ru] yMikizuPapa,\p what're you doing here?v\e
+
+[000180|en] yGenjousaizuI am taking a walk.v\e
+[000180|ru] yGenjousaizuI am taking a walk.v\e
+
+[000181|en] yTakeruzuAnd yet it feels like you've been waiting for us.v\e
+[000181|ru] yTakeruzuAnd yet it feels like you've been waiting for us.v\e
+
+[000183|en] yGenjousaizuHu-hu-\phu-\phu-\phu...\p...\pv\e
+[000183|ru] yGenjousaizuHu-hu-\phu-\phu-\phu...\p...\pv\e
+
+[000184|en] Not to mention this is a school.\e
+[000184|ru] Not to mention this is a school.\e
+
+[000186|en] yGenjousaizuNow then...\p...\pTama.v\e
+[000186|ru] yGenjousaizuNow then...\p...\pTama.v\e
+
+[000188|en] yMikizuWhaaat?v\e
+[000188|ru] yMikizuWhaaat?v\e
+
+[000361|en] yGenjousaizuThe day of the match is at hand...\p...\pI trust\nyou are fully prepared?v\e
+[000361|ru] yGenjousaizuThe day of the match is at hand...\p...\pI trust\nyou are fully prepared?v\e
+
+[00018c|en] yMikizu...\p...\pah.v\e
+[00018c|ru] yMikizu...\p...\pah.v\e
+
+[00018e|en] yGenjousaizuHm?\p\p What is it?\p\p Why won't you answer?v\e
+[00018e|ru] yGenjousaizuHm?\p\p What is it?\p\p Why won't you answer?v\e
+
+[000190|en] yMikizuI...\pthink I'm okay...\p...\p...\p...\py-\pyeah,\p I'm fine, I'm fine,\p\neverything's A-OK,\p ahahahaha.v\e
+[000190|ru] yMikizuI...\pthink I'm okay...\p...\p...\p...\py-\pyeah,\p I'm fine, I'm fine,\p\neverything's A-OK,\p ahahahaha.v\e
+
+[000192|en] yGenjousaizu...\p...\p...\p...\pv\e
+[000192|ru] yGenjousaizu...\p...\p...\p...\pv\e
+
+[000193|en] yTakeruzuLooking pitifully at me won't accomplish\nanything...\p...v\e
+[000193|ru] yTakeruzuLooking pitifully at me won't accomplish\nanything...\p...v\e
+
+[000195|en] yGenjousaizuMmm...\p...\pv\e
+[000195|ru] yGenjousaizuMmm...\p...\pv\e
+
+[000196|en] A touch of anxiety...\p...\pno,\p it's much more than that.\e
+[000196|ru] A touch of anxiety...\p...\pno,\p it's much more than that.\e
+
+[000198|en] yGenjousaizuOh Tama,\p tomorrow is the greatest battle of\nyour life.v\e
+[000198|ru] yGenjousaizuOh Tama,\p tomorrow is the greatest battle of\nyour life.v\e
+
+[00019a|en] yMikizuY...\p...\p...\pyes.v\e
+[00019a|ru] yMikizuY...\p...\p...\pyes.v\e
+
+[00019b|en] yGenjousaizuWe must not allow the sign atop our great\ndojo to be taken from us. It has been handed down for\ngenerations.v\e
+[00019b|ru] yGenjousaizuWe must not allow the sign atop our great\ndojo to be taken from us. It has been handed down for\ngenerations.v\e
+
+[00019e|en] yMikizuY-\pyes...\p...\p...\p...\pI understand.v\e
+[00019e|ru] yMikizuY-\pyes...\p...\p...\p...\pI understand.v\e
+
+[00019f|en] Wasn't that sign written entirely in your handwriting?\e
+[00019f|ru] Wasn't that sign written entirely in your handwriting?\e
+
+[0001a0|en] yGenjousaizuI put so much energy into those brush\nstrokes.v\e
+[0001a0|ru] yGenjousaizuI put so much energy into those brush\nstrokes.v\e
+
+[0001a1|en] yMikizuY-\pyes!v\e
+[0001a1|ru] yMikizuY-\pyes!v\e
+
+[0001a2|en] yTakeruzuI don't think that has much to do with it...\p...\pv\e
+[0001a2|ru] yTakeruzuI don't think that has much to do with it...\p...\pv\e
+
+[0001a3|en] yGenjousaizuThis is something Tama must do alone.v\e
+[0001a3|ru] yGenjousaizuThis is something Tama must do alone.v\e
+
+[0001a5|en] yMikizu...\p...\paau...auu...\p...\pv\e
+[0001a5|ru] yMikizu...\p...\paau...auu...\p...\pv\e
+
+[0001a6|en] yGenjousaizuNo one can take her place.v\e
+[0001a6|ru] yGenjousaizuNo one can take her place.v\e
+
+[0001a7|en] yMikizu...\p...\phauaauuu...\p...\pv\e
+[0001a7|ru] yMikizu...\p...\phauaauuu...\p...\pv\e
+
+[0001a8|en] yTakeruzuW-\pwait, old man...\p...\pv\e
+[0001a8|ru] yTakeruzuW-\pwait, old man...\p...\pv\e
+
+[0001a9|en] Tama,\p why're you getting so stiff?\e
+[0001a9|ru] Tama,\p why're you getting so stiff?\e
+
+[0001ab|en] yGenjousaizuWho are you calling fatheeeeer!?v\e
+[0001ab|ru] yGenjousaizuWho are you calling fatheeeeer!?v\e
+
+[0001ac|en] yTakeruzuI didn't say that!!v\e
+[0001ac|ru] yTakeruzuI didn't say that!!v\e
+
+[0001ae|en] yGenjousaizuYes...\p...\pit matters not.\p\p\nTama,\p make sure you win!v\e
+[0001ae|ru] yGenjousaizuYes...\p...\pit matters not.\p\p\nTama,\p make sure you win!v\e
+
+[0001af|en] He's throwing me off as always...\p...\p\e
+[0001af|ru] He's throwing me off as always...\p...\p\e
+
+[0001b1|en] yMikizuUuu...\p...\p...\p...\pyes.v\e
+[0001b1|ru] yMikizuUuu...\p...\p...\p...\pyes.v\e
+
+[0001b2|en] yTakeruzu...\p...\p...\p...\pv\e
+[0001b2|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[0001b4|en] yGenjousaizuThat is all I have to say.\p\p\nI shall be there to witness all tomorrow.\p\p\nGet plenty of rest tonight.v\e
+[0001b4|ru] yGenjousaizuThat is all I have to say.\p\p\nI shall be there to witness all tomorrow.\p\p\nGet plenty of rest tonight.v\e
+
+[0001b6|en] yMikizu...\p...\p...\p...\phahi...v\e
+[0001b6|ru] yMikizu...\p...\p...\p...\phahi...v\e
+
+[0001b7|en] Your arms and legs are shaking,\p Tama.\e
+[0001b7|ru] Your arms and legs are shaking,\p Tama.\e
+
+[0001b9|en] What's the point of this guy putting pressure on his\ndaughter?\e
+[0001b9|ru] What's the point of this guy putting pressure on his\ndaughter?\e
+
+[0001ba|en] yTakeruzuHeeey,\p Tama...\p...\pv\e
+[0001ba|ru] yTakeruzuHeeey,\p Tama...\p...\pv\e
+
+[0001bc|en] yGenjousaizuOh young one...\p...\pv\e
+[0001bc|ru] yGenjousaizuOh young one...\p...\pv\e
+
+[0001be|en] yTakeruzuEh...\p...\p?v\e
+[0001be|ru] yTakeruzuEh...\p...\p?v\e
+
+[0001bf|en] yGenjousaizuMay I have a moment of your time?v\e
+[0001bf|ru] yGenjousaizuMay I have a moment of your time?v\e
+
+[0001c0|en] ...\p...\p\e
+[0001c0|ru] ...\p...\p\e
+
+[0001c1|en] yTakeruzu...\p...\pwhat're you trying to do?v\e
+[0001c1|ru] yTakeruzu...\p...\pwhat're you trying to do?v\e
+
+[0001c3|en] yGenjousaizuTo what do you refer?v\e
+[0001c3|ru] yGenjousaizuTo what do you refer?v\e
+
+[0001c4|en] yTakeruzuYou're putting tons of pressure on Tama.v\e
+[0001c4|ru] yTakeruzuYou're putting tons of pressure on Tama.v\e
+
+[0001c6|en] yGenjousaizuHu-\phu-\phu-\phu...\p...\pv\e
+[0001c6|ru] yGenjousaizuHu-\phu-\phu-\phu...\p...\pv\e
+
+[0001c7|en] yTakeruzuNo,\p you don't need to keep doing that.v\e
+[0001c7|ru] yTakeruzuNo,\p you don't need to keep doing that.v\e
+
+[0001c9|en] yGenjousaizu*cough!*\p ...\p...\pI see.\p\p That is something I do\nwhenever I become conscious of others watching me.\p\nI am very aware of it.v\e
+[0001c9|ru] yGenjousaizu*cough!*\p ...\p...\pI see.\p\p That is something I do\nwhenever I become conscious of others watching me.\p\nI am very aware of it.v\e
+
+[0001ca|en] yTakeruzuIn that case„Ÿ!v\e
+[0001ca|ru] yTakeruzuIn that case„Ÿ!v\e
+
+[0001cc|en] yGenjousaizuAlthough it was much worse in the past.v\e
+[0001cc|ru] yGenjousaizuAlthough it was much worse in the past.v\e
+
+[0001cd|en] yTakeruzu...\p...\p...\p...\pv\e
+[0001cd|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[0001ce|en] yGenjousaizuShortly before I entered Hakuryou,\p my\ngrades were the highest in the prefecture.v\e
+[0001ce|ru] yGenjousaizuShortly before I entered Hakuryou,\p my\ngrades were the highest in the prefecture.v\e
+
+[0001cf|en] yTakeruzu...\p...\p...\p...\pv\e
+[0001cf|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[0001d1|en] yGenjousaizuHowever,\p after that,\p I could never raise\nthem any further.v\e
+[0001d1|ru] yGenjousaizuHowever,\p after that,\p I could never raise\nthem any further.v\e
+
+[0001d2|en] yTakeruzu...\p...\pwhat does that have to do with anything?v\e
+[0001d2|ru] yTakeruzu...\p...\pwhat does that have to do with anything?v\e
+
+[0001d3|en] yGenjousaizuI was so disappointed in myself I cried.v\e
+[0001d3|ru] yGenjousaizuI was so disappointed in myself I cried.v\e
+
+[0001d4|en] yTakeruzu...\p...\p...\p...\pv\e
+[0001d4|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[0001d6|en] yGenjousaizuAt some point I'd begun to accept it as\nhopeless,\p\p and forgot how frustrated I'd been.\p\p\nNo,\p I tried to forget.v\e
+[0001d6|ru] yGenjousaizuAt some point I'd begun to accept it as\nhopeless,\p\p and forgot how frustrated I'd been.\p\p\nNo,\p I tried to forget.v\e
+
+[0001d7|en] yTakeruzuIt wasn't frustration that Tama forgot.\p\nIt was fun.v\e
+[0001d7|ru] yTakeruzuIt wasn't frustration that Tama forgot.\p\nIt was fun.v\e
+
+[0001d9|en] yGenjousaizuHmmm?v\e
+[0001d9|ru] yGenjousaizuHmmm?v\e
+
+[0001da|en] yTakeruzuHolding up the bow and hitting the target,\p she\nforgot how to enjoy it...\p...\pv\e
+[0001da|ru] yTakeruzuHolding up the bow and hitting the target,\p she\nforgot how to enjoy it...\p...\pv\e
+
+[0001db|en] yGenjousaizu...\p...\p...\p...\pv\e
+[0001db|ru] yGenjousaizu...\p...\p...\p...\pv\e
+
+[0001dc|en] yTakeruzuIt got to the point where she was just an\nempty shell...\p...\ptelling herself she had to win.v\e
+[0001dc|ru] yTakeruzuIt got to the point where she was just an\nempty shell...\p...\ptelling herself she had to win.v\e
+
+[0001dd|en] yGenjousaizuOooh...\p...\p?v\e
+[0001dd|ru] yGenjousaizuOooh...\p...\p?v\e
+
+[0001de|en] yTakeruzuI think it's different from just lacking\nmotivation.\p The way she was,\p she didn't get frustrated\nat all,\p but she didn't try to improve either.v\e
+[0001de|ru] yTakeruzuI think it's different from just lacking\nmotivation.\p The way she was,\p she didn't get frustrated\nat all,\p but she didn't try to improve either.v\e
+
+[0001df|en] yGenjousaizu...\p...\p...\p...\pv\e
+[0001df|ru] yGenjousaizu...\p...\p...\p...\pv\e
+
+[0001e0|en] yTakeruzuI feel sorry...\p...\pfor Tama.\nShe was easy on herself so it never got any better,\p but\ndidn't realize it and kept worrying her head off...\p...\pv\e
+[0001e0|ru] yTakeruzuI feel sorry...\p...\pfor Tama.\nShe was easy on herself so it never got any better,\p but\ndidn't realize it and kept worrying her head off...\p...\pv\e
+
+[0001e2|en] yGenjousaizuI see...\p...\pv\e
+[0001e2|ru] yGenjousaizuI see...\p...\pv\e
+
+[0001e3|en] yTakeruzuThis is a chance for us to change Tama.\nShe can do this!!v\e
+[0001e3|ru] yTakeruzuThis is a chance for us to change Tama.\nShe can do this!!v\e
+
+[0001e5|en] yGenjousaizuYes...\p...\pI do think it is something worth\nstaking my dojo on.v\e
+[0001e5|ru] yGenjousaizuYes...\p...\pI do think it is something worth\nstaking my dojo on.v\e
+
+[0001e6|en] yTakeruzu...\p...\pyes.v\e
+[0001e6|ru] yTakeruzu...\p...\pyes.v\e
+
+[0001e8|en] yGenjousaizuHu-\phu-\phu...\p...\pI do seem to be a failure as a\nwarrior.\p\p I am more concerned about my daughter's\ngrowth than the fate of my dojo.v\e
+[0001e8|ru] yGenjousaizuHu-\phu-\phu...\p...\pI do seem to be a failure as a\nwarrior.\p\p I am more concerned about my daughter's\ngrowth than the fate of my dojo.v\e
+
+[0001e9|en] yTakeruzu...\p...\peh?v\e
+[0001e9|ru] yTakeruzu...\p...\peh?v\e
+
+[0001ea|en] Then...\p...\phe did that on purpose...\p...\p?\e
+[0001ea|ru] Then...\p...\phe did that on purpose...\p...\p?\e
+
+[0001ec|en] yGenjousaizu...\p...\pyou are quite dependable,\p young one.\nPerhaps it was a good choice to leave it to you.v\e
+[0001ec|ru] yGenjousaizu...\p...\pyou are quite dependable,\p young one.\nPerhaps it was a good choice to leave it to you.v\e
+
+[0001ed|en] yTakeruzuOld man...\p...\pv\e
+[0001ed|ru] yTakeruzuOld man...\p...\pv\e
+
+[0001ef|en] yGenjousaizu...\p...\pwho are you calling father?\p Hm?v\e
+[0001ef|ru] yGenjousaizu...\p...\pwho are you calling father?\p Hm?v\e
+
+[0001f0|en] yTakeruzuEh?v\e
+[0001f0|ru] yTakeruzuEh?v\e
+
+[0001f2|en] yGenjousaizuWho.\p Are.\p You.\p Call.\p Ing.\p Fa.\p\nTheeeeeeeeeeer!?v\e
+[0001f2|ru] yGenjousaizuWho.\p Are.\p You.\p Call.\p Ing.\p Fa.\p\nTheeeeeeeeeeer!?v\e
+
+[0001f4|en] yTakeruzuI-\pI didn't say that!!!!v\e
+[0001f4|ru] yTakeruzuI-\pI didn't say that!!!!v\e
+
+[0001fa|en] yMikizuWhat're you talking about?v\e
+[0001fa|ru] yMikizuWhat're you talking about?v\e
+
+[0001fb|en] yTakeruzuI can't tell you.v\e
+[0001fb|ru] yTakeruzuI can't tell you.v\e
+
+[0001fd|en] yMikizuAww, come on,\p tell me`v\e
+[0001fd|ru] yMikizuAww, come on,\p tell me`v\e
+
+[0001fe|en] yTakeruzuAfter the match is over tomorrow.v\e
+[0001fe|ru] yTakeruzuAfter the match is over tomorrow.v\e
+
+[0001ff|en] ...\p...\pwell,\p by that time the old man will tell her himself.\e
+[0001ff|ru] ...\p...\pwell,\p by that time the old man will tell her himself.\e
+
+[000200|en] There'll be no place for me then.\e
+[000200|ru] There'll be no place for me then.\e
+
+[000202|en] yMikizu...\p...\pTakeru-san.v\e
+[000202|ru] yMikizu...\p...\pTakeru-san.v\e
+
+[000203|en] yTakeruzuWhat?v\e
+[000203|ru] yTakeruzuWhat?v\e
+
+[000205|en] yMikizuThank you.v\e
+[000205|ru] yMikizuThank you.v\e
+
+[000206|en] yTakeruzuHuuuh?v\e
+[000206|ru] yTakeruzuHuuuh?v\e
+
+[000208|en] yMikizuI've been getting scared,\p\p but I still feel like it'll be\nalright.\p\p And it's all thanks to you,\p Takeru-san!v\e
+[000208|ru] yMikizuI've been getting scared,\p\p but I still feel like it'll be\nalright.\p\p And it's all thanks to you,\p Takeru-san!v\e
+
+[000209|en] yTakeruzuWhat brought this on?v\e
+[000209|ru] yTakeruzuWhat brought this on?v\e
+
+[00020b|en] yMikizuIt was really fun!v\e
+[00020b|ru] yMikizuIt was really fun!v\e
+
+[00020c|en] yTakeruzu...\p...\p...\p...\pv\e
+[00020c|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[00020d|en] yMikizuIt was fun training with you,\p Takeru-san!v\e
+[00020d|ru] yMikizuIt was fun training with you,\p Takeru-san!v\e
+
+[00020e|en] yTakeruzuI see...\p...\pbut in that case I...\p...\pv\e
+[00020e|ru] yTakeruzuI see...\p...\pbut in that case I...\p...\pv\e
+
+[000210|en] yMikizu„Ÿ„ŸSo...v\e
+[000210|ru] yMikizu„Ÿ„ŸSo...v\e
+
+[000212|en] yTakeruzuHm?v\e
+[000212|ru] yTakeruzuHm?v\e
+
+[000214|en] yMikizuThank you very much!v\e
+[000214|ru] yMikizuThank you very much!v\e
+
+[000215|en] ...\p...\p!?\e
+[000215|ru] ...\p...\p!?\e
+
+[000216|en] yTakeruzuI-\pidiooot,\p say that sort of thing when it's all\nover.v\e
+[000216|ru] yTakeruzuI-\pidiooot,\p say that sort of thing when it's all\nover.v\e
+
+[000218|en] yMikizuAhahaha,\p\p good point.v\e
+[000218|ru] yMikizuAhahaha,\p\p good point.v\e
+
+[000219|en] yTakeruzuBesides,\p after the match,\p you've still got more\nto teach me...\p...\pv\e
+[000219|ru] yTakeruzuBesides,\p after the match,\p you've still got more\nto teach me...\p...\pv\e
+
+[00021b|en] yMikizuEh?v\e
+[00021b|ru] yMikizuEh?v\e
+
+[00021c|en] yTakeruzu...\p...\pwe're nowhere near over.v\e
+[00021c|ru] yTakeruzu...\p...\pwe're nowhere near over.v\e
+
+[00021e|en] yMikizuTakeru...\p...\psan?v\e
+[00021e|ru] yMikizuTakeru...\p...\psan?v\e
+
+[00021f|en] ...\p...\p...\p...\p\e
+[00021f|ru] ...\p...\p...\p...\p\e
+
+[000220|en] Over...\p...\e
+[000220|ru] Over...\p...\e
+
+[000221|en] ...\p...\pI can kinda feel that now...\p...\pand I don't like it.\e
+[000221|ru] ...\p...\pI can kinda feel that now...\p...\pand I don't like it.\e
+
+[000222|en] This isn't over at all...\p...\p...\p...\pI want it to keep going...\p...\p\nI don't quite understand...\p...\pbut I know I feel that way.\e
+[000222|ru] This isn't over at all...\p...\p...\p...\pI want it to keep going...\p...\p\nI don't quite understand...\p...\pbut I know I feel that way.\e
+
+[000223|en] What is this...\p...\p\e
+[000223|ru] What is this...\p...\p\e
+
+[000225|en] yMikizu...\p...\pu-\pu-\pumm...\pyeah...\pTakeru-san.v\e
+[000225|ru] yMikizu...\p...\pu-\pu-\pumm...\pyeah...\pTakeru-san.v\e
+
+[000226|en] yTakeruzuWhat?v\e
+[000226|ru] yTakeruzuWhat?v\e
+
+[000228|en] yMikizu...\p...\p...\p...\pv\e
+[000228|ru] yMikizu...\p...\p...\p...\pv\e
+
+[000229|en] yTakeruzuWhat's wrong?v\e
+[000229|ru] yTakeruzuWhat's wrong?v\e
+
+[00022b|en] yMikizuAh,\p tomorrow...\p...\p...\p...\pwhen everything's over...\p...\pI\nhave something to tell you.v\e
+[00022b|ru] yMikizuAh,\p tomorrow...\p...\p...\p...\pwhen everything's over...\p...\pI\nhave something to tell you.v\e
+
+[00022c|en] yTakeruzuEh?v\e
+[00022c|ru] yTakeruzuEh?v\e
+
+[00022d|en] yMikizu...\p...\p...\p...\pv\e
+[00022d|ru] yMikizu...\p...\p...\p...\pv\e
+
+[00022e|en] yTakeruzu...\p...\p...\p...\pv\e
+[00022e|ru] yTakeruzu...\p...\p...\p...\pv\e
+
+[000230|en] yMikizuD-\p\pdo you mind?v\e
+[000230|ru] yMikizuD-\p\pdo you mind?v\e
+
+[000231|en] yTakeruzu...\p...\pah,\p not at all.v\e
+[000231|ru] yTakeruzu...\p...\pah,\p not at all.v\e
+
+[000233|en] yMikizu...\p...\pthank goodness...\p...\pb-\pbye now!v\e
+[000233|ru] yMikizu...\p...\pthank goodness...\p...\pb-\pbye now!v\e
+
+[000234|en] yTakeruzuAh,\p hey,\p Tama!v\e
+[000234|ru] yTakeruzuAh,\p hey,\p Tama!v\e
+
+[000237|en] ...\p...\pdo you really have to sprint away from me?\e
+[000237|ru] ...\p...\pdo you really have to sprint away from me?\e
+
+[000238|en] And here I was thinking of buying her more anman.\e
+[000238|ru] And here I was thinking of buying her more anman.\e

@@ -1,0 +1,380 @@
+SCR 1 UTF-8
+126
+
+[9e2f0348|en] \c1) I guess it was fun.\d\n
+[9e2f0348|ru] \c1) Przypuszczam, ｯe byｩo fajnie.\d\n
+
+[ff535088|en] \c2) I'll never forgive that damn dog!\d\e
+[ff535088|ru] \c2) Nigdy nie wybaczｪ temu cholernemu kundlowi!\d\e
+
+[1e8eb151|en] \c1) Please recreate the Manchu Han Imperial Feast!\d\n
+[1e8eb151|ru] \c1) Poproszｪ jednｧ Cesarskｧ Ucztｪ Manchu Han!\d\n
+
+[14bb36ec|en] \c2) Wait, that's not the issue here!\d\e
+[14bb36ec|ru] \c2) Czekaj, to nie jest miejsce na tego typu rzeczy!\d\e
+
+[fa81be4b|en] \c1) Sumika\d\n
+[fa81be4b|ru] \c1) Sumika\d\n
+
+[f5e3cdbb|en] \c2) Meiya\d\n
+[f5e3cdbb|ru] \c2) Meiya\d\n
+
+[2d89651b|en] \c3) I'll force myself to eat both\d\n
+[2d89651b|ru] \c3) Zmuszｪ siｪ do zjedzenia obu.\d\n
+
+[bbde6ff6|en] \c4) Make a mad dash for the exit!\d\e
+[bbde6ff6|ru] \c4) Pora wykonaｨ szalonｧ ucieczkｪ ku wyjﾛciu!\d\e
+
+[c9061738|en] \c1) Clean\d\n
+[c9061738|ru] \c1) Sprzｧtaj\d\n
+
+[e942a9b6|en] \c2) Run away\d\e
+[e942a9b6|ru] \c2) Uciekaj\d\e
+
+[2fc4c528|en] \c1) Eat Sumika's lunch\d\n
+[2fc4c528|ru] \c1) Zjedz lunch Sumiki\d\n
+
+[62400b78|en] \c2) Eat Meiya's lunch\d\n
+[62400b78|ru] \c2) Zjedz lunch Meiyi\d\n
+
+[530ffce5|en] \c3) Flee\d\e
+[530ffce5|ru] \c3) Ucieknij\d\e
+
+[59307c3|en] \c1) Go home\d\n
+[59307c3|ru] \c1) Idｪ do domu\d\n
+
+[64a93f90|en] \c2) Go to the back of the school\d\n
+[64a93f90|ru] \c2) Pｫjdｪ na tyｩ szkoｩy\d\n
+
+[8d52d6ad|en] \c3) Wander aimlessly\d\e
+[8d52d6ad|ru] \c3) Pochodzｪ sobie bez celu\d\e
+
+[fa6c1095|en] \c1) Advance\d\n
+[fa6c1095|ru] \c1) Natarcie\d\n
+
+[f9381dc1|en] \c2) Retreat\d\n
+[f9381dc1|ru] \c2) Odwrｫt\d\n
+
+[5887685b|en] \c3) Move right\d\n
+[5887685b|ru] \c3) Ruch w prawo\d\n
+
+[5a7c7f90|en] \c4) Move left\d\e
+[5a7c7f90|ru] \c4) Ruch w lewo\d\e
+
+[fa6cf174|en] \c1) Shoot\d\n
+[fa6cf174|ru] \c1) Strzelaj\d\n
+
+[4bedb2e9|en] \c2) Keep moving\d\e
+[4bedb2e9|ru] \c2) Nie zatrzymuj siｪ\d\e
+
+[cc0f4f03|en] \c1) Head in for close-quarters combat\d\n
+[cc0f4f03|ru] \c1) Ruszaj do walki w zwarciu\d\n
+
+[70135460|en] \c2) Keep maintaining distance\d\e
+[70135460|ru] \c2) Zachowaj dystans\d\e
+
+[9eedc4fb|en] \c1) Sumika!\d\n
+[9eedc4fb|ru] \c1) Sumika!\d\n
+
+[9b736a32|en] \c2) I'll ask Meiya\d\n
+[9b736a32|ru] \c2) Zapytam Meiyｪ\d\n
+
+[bddee73f|en] \c3) Tama might have something......\d\n
+[bddee73f|ru] \c3) Tama moｯe coﾛ mieｨ......\d\n
+
+[766012ed|en] \c4) I should go right to Ayamine......\d\e
+[766012ed|ru] \c4) Powinienem pｫjﾛｨ do Ayamine......\d\e
+
+[308f4ee0|en] \c3) Eat both\d\e
+[308f4ee0|ru] \c3) Zjedz oba\d\e
+
+[b479dc78|en] \c1) Go to the archery range\d\n
+[b479dc78|ru] \c1) Idﾜ na strzelnicｪ\d\n
+
+[41f79567|en] \c2) Go to the field\d\e
+[41f79567|ru] \c2) Idﾜ na boisko\d\e
+
+[62400b73|en] \c2) Eat Meiya's lunch\d\e
+[62400b73|ru] \c2) Zjedz lunch Meiyi\d\e
+
+[3e3c1b9d|en] \c1) Sumika\d\n
+[3e3c1b9d|ru] \c1) Sumika\d\n
+
+[f89eb46d|en] \c2) Meiya\d\n
+[f89eb46d|ru] \c2) Meiya\d\n
+
+[e34f513f|en] \c3) Tama\d\n
+[e34f513f|ru] \c3) Tama\d\n
+
+[c254de6|en] \c4) Class Rep\d\n
+[c254de6|ru] \c4) Class Rep\d\n
+
+[9b33545|en] \c5) Ayamine\d\e
+[9b33545|ru] \c5) Ayamine\d\e
+
+[ec709069|en] \c3) Tama\d\n
+[ec709069|ru] \c3) Tama\d\n
+
+[59452350|en] \c4) Class Rep\d\n
+[59452350|ru] \c4) Class Rep\d\n
+
+[f63abf53|en] \c5) Ayamine\d\e
+[f63abf53|ru] \c5) Ayamine\d\e
+
+[ecbb9c1e|en] \c1) Go out with her\d\n
+[ecbb9c1e|ru] \c1) Go out with her\d\n
+
+[ccd59b28|en] \c2) I can't do that\d\e
+[ccd59b28|ru] \c2) I can't do that\d\e
+
+[b7261c68|en] \c1) I accept\d\n
+[b7261c68|ru] \c1) I accept\d\n
+
+[19e2a3f2|en] \c2) Let me think about it\d\e
+[19e2a3f2|ru] \c2) Let me think about it\d\e
+
+[78123fc2|en] \c1) Go home with her\d\n
+[78123fc2|ru] \c1) Go home with her\d\n
+
+[d736cf6d|en] \c2) I need to think about this alone for a while\d\e
+[d736cf6d|ru] \c2) I need to think about this alone for a while\d\e
+
+[fa6c3915|en] \c1) Yes\d\n
+[fa6c3915|ru] \c1) Yes\d\n
+
+[597a1776|en] \c2) No\d\e
+[597a1776|ru] \c2) No\d\e
+
+[28666c21|en] \c2) I can't accept that\d\e
+[28666c21|ru] \c2) I can't accept that\d\e
+
+[570d68d3|en] \c1) Sumika, change places\d\n
+[570d68d3|ru] \c1) Sumika, change places\d\n
+
+[a43bc6b2|en] \c2) Sumika, good luck\d\e
+[a43bc6b2|ru] \c2) Sumika, good luck\d\e
+
+[9fc82d53|en] \c1) Go to the roof\d\n
+[9fc82d53|ru] \c1) Moｯe pｫjdｪ na dach?\d\n
+
+[e0c9d115|en] \c2) Go to the physics prep room\d\e
+[e0c9d115|ru] \c2) Go to the physics prep room\d\e
+
+[cf0a7e48|en] \c1) You can go home without me\d\n
+[cf0a7e48|ru] \c1) You can go home without me\d\n
+
+[aa8caf80|en] \c2) Guess I'll go home\d\e
+[aa8caf80|ru] \c2) Guess I'll go home\d\e
+
+[2a970224|en] \c1) Stay with Sumika and Meiya\d\n
+[2a970224|ru] \c1) Stay with Sumika and Meiya\d\n
+
+[72d82e0e|en] \c2) Go home with Tama\d\e
+[72d82e0e|ru] \c2) Go home with Tama\d\e
+
+[ecae85d5|en] \c3) Miki\d\n
+[ecae85d5|ru] \c3) Miki\d\n
+
+[a9f924f5|en] \c4) Chizuru\d\n
+[a9f924f5|ru] \c4) Chizuru\d\n
+
+[456e8f20|en] \c1) Gotta be Sumika\d\n
+[456e8f20|ru] \c1) Gotta be Sumika\d\n
+
+[24430460|en] \c3) I'm worried about Tama\d\n
+[24430460|ru] \c3) I'm worried about Tama\d\n
+
+[74276546|en] \c4) Obviously, Class Rep and Ayamine!\d\e
+[74276546|ru] \c4) Obviously, Class Rep and Ayamine!\d\e
+
+[6dbe7f9d|en] \c1) Walk Sakaki home\d\n
+[6dbe7f9d|ru] \c1) Walk Sakaki home\d\n
+
+[7a72f10e|en] \c2) Follow Ayamine\d\n
+[7a72f10e|ru] \c2) Follow Ayamine\d\n
+
+[8b0b6568|en] \c3) Get in the car\d\e
+[8b0b6568|ru] \c3) Get in the car\d\e
+
+[bae38db9|en] \c1) Talk to Class Rep\d\n
+[bae38db9|ru] \c1) Talk to Class Rep\d\n
+
+[7d71c7ee|en] \c2) Go look for Ayamine\d\n
+[7d71c7ee|ru] \c2) Go look for Ayamine\d\n
+
+[6304de23|en] \c3) Wait until school ends\d\e
+[6304de23|ru] \c3) Wait until school ends\d\e
+
+[53ad6cf9|en] \c1) Do nothing\d\n
+[53ad6cf9|ru] \c1) Do nothing\d\n
+
+[a1525900|en] \c2) Come up with a plan\d\e
+[a1525900|ru] \c2) Come up with a plan\d\e
+
+[b95692fd|en] \c1) Guess I should go do it myself, like Meiya said......\d\n
+[b95692fd|ru] \c1) Guess I should go do it myself, like Meiya said......\d\n
+
+[65684153|en] \c2) Sumika's wouldn't be too bad......\d\e
+[65684153|ru] \c2) Sumika's wouldn't be too bad......\d\e
+
+[f3a5f925|en] \c1) Get in the car\d\n
+[f3a5f925|ru] \c1) Get in the car\d\n
+
+[83014a04|en] \c2) Walk home\d\e
+[83014a04|ru] \c2) Walk home\d\e
+
+[8b3998db|en] \c1) Hmmmm......I think it suits you, kinda?\d\n
+[8b3998db|ru] \c1) Hmmmm......I think it suits you, kinda?\d\n
+
+[69fa921d|en] \c2) At least the dress looks pretty\d\e
+[69fa921d|ru] \c2) At least the dress looks pretty\d\e
+
+[f94de28a|en] \c1) Stuffed animal\d\n
+[f94de28a|ru] \c1) Stuffed animal\d\n
+
+[4b188fe4|en] \c2) Book\d\n
+[4b188fe4|ru] \c2) Book\d\n
+
+[47559ae0|en] \c3) Video game\d\e
+[47559ae0|ru] \c3) Video game\d\e
+
+[3e153b1d|en] \c1) Next to Sumika\d\n
+[3e153b1d|ru] \c1) Next to Sumika\d\n
+
+[f8a8370d|en] \c2) Next to Meiya\d\n
+[f8a8370d|ru] \c2) Next to Meiya\d\n
+
+[545d3fb8|en] \c3) Next to Marimo\d\n
+[545d3fb8|ru] \c3) Next to Marimo\d\n
+
+[ce1827ff|en] \c4) Next to Mikoto\d\e
+[ce1827ff|ru] \c4) Next to Mikoto\d\e
+
+[7f60af26|en] \c1) I want to hear about it\d\n
+[7f60af26|ru] \c1) I want to hear about it\d\n
+
+[5be1475a|en] \c2) No, it's okay\d\e
+[5be1475a|ru] \c2) No, it's okay\d\e
+
+[67111a7f|en] \c1) Go to Tama's house\d\n
+[67111a7f|ru] \c1) Go to Tama's house\d\n
+
+[2007cad5|en] \c2) Don't go\d\e
+[2007cad5|ru] \c2) Don't go\d\e
+
+[ea9238cd|en] \c1) Close quarters battle\d\n
+[ea9238cd|ru] \c1) Close quarters battle\d\n
+
+[7baeda09|en] \c2) Long-range battle\d\e
+[7baeda09|ru] \c2) Long-range battle\d\e
+
+[51d4c959|en] \c1) Start Muv-Luv Extra\d\n
+[51d4c959|ru] \c1) Start Muv-Luv Extra\d\n
+
+[19197dd7|en] \c2) Start Muv-Luv Unlimited\d\e
+[19197dd7|ru] \c2) Start Muv-Luv Unlimited\d\e
+
+[6147649|en] \c2) Behind the school\d\e
+[6147649|ru] \c2) Udam siｪ za szkoｩｪ.\d\e
+
+[9c724d47|en] \c1) Return to the classroom\d\n
+[9c724d47|ru] \c1) Wrｫｨ do klasy\d\n
+
+[10ee3c9|en] \c2) Chase after Tama\d\e
+[10ee3c9|ru] \c2) Poﾛcig za Tamｧ\d\e
+
+[ea689461|en] \c3) Eat Tama's lunch\d\e
+[ea689461|ru] \c3) Zjedz lunch Tamy\d\e
+
+[ae9f0b01|en] \c1) Let's go for it together!\d\n
+[ae9f0b01|ru] \c1) Let's go for it together!\d\n
+
+[9bf54fd7|en] \c2) Tama, show me what you've got!\d\e
+[9bf54fd7|ru] \c2) Tama, show me what you've got!\d\e
+
+[3d6b693|en] \c1) Call out to her\d\n
+[3d6b693|ru] \c1) Call out to her\d\n
+
+[e276698f|en] \c2) Hold it in for now\d\e
+[e276698f|ru] \c2) Hold it in for now\d\e
+
+[d2566937|en] \c1) Go to the roof?\d\n
+[d2566937|ru] \c1) Moｯe pｫjdｪ na dach?\d\n
+
+[1809e30c|en] \c2) Try going to the cafeteria?\d\e
+[1809e30c|ru] \c2) Moｯe sprｫbujｪ szczｪﾛcia na stoｩｫwce?\d\e
+
+[fa6cf6f1|en] \c1) Roof\d\n
+[fa6cf6f1|ru] \c1) Dach\d\n
+
+[5eb39dfc|en] \c2) Physics Prep Room\d\n
+[5eb39dfc|ru] \c2) Pokｫj nauczyciela fizyki\d\n
+
+[ecabc42e|en] \c3) Courtyard\d\e
+[ecabc42e|ru] \c3) Dziedziniec\d\e
+
+[61976f0b|en] \c2) Go home with Class Rep\d\n
+[61976f0b|ru] \c2) Go home with Class Rep\d\n
+
+[e11dc434|en] \c3) Go home with Tama\d\n
+[e11dc434|ru] \c3) Go home with Tama\d\n
+
+[666cda49|en] \c4) Follow Ayamine\d\e
+[666cda49|ru] \c4) Follow Ayamine\d\e
+
+[451dff46|en] \c1) I can't say\d\n
+[451dff46|ru] \c1) I can't say\d\n
+
+[b4b0a28d|en] \c2) Well......a lot\d\e
+[b4b0a28d|ru] \c2) Well......a lot\d\e
+
+[fa81b681|en] \c1) Do it\d\n
+[fa81b681|ru] \c1) Do it\d\n
+
+[a6f76ded|en] \c2) Don't do it\d\e
+[a6f76ded|ru] \c2) Don't do it\d\e
+
+[fa359c90|en] \c1) Embrace Marimo-chan\d\n
+[fa359c90|ru] \c1) Embrace Marimo-chan\d\n
+
+[ff3be28f|en] \c2) Call Tsukuyomi\d\e
+[ff3be28f|ru] \c2) Call Tsukuyomi\d\e
+
+[f5e3cdb0|en] \c2) Meiya\d\e
+[f5e3cdb0|ru] \c2) Meiya\d\e
+
+[b43e80af|en] \c4) Sakaki\d\n
+[b43e80af|ru] \c4) Sakaki\d\n
+
+[f63abf58|en] \c5) Ayamine\d\n
+[f63abf58|ru] \c5) Ayamine\d\n
+
+[ee3fbc64|en] \c6) Other\d\e
+[ee3fbc64|ru] \c6) Other\d\e
+
+[6b462568|en] \c1) December 23rd\d\e
+[6b462568|ru] \c1) December 23rd\d\e
+
+[205fbca2|en] \c1) Muv-Luv Extra, December 23rd\d\n
+[205fbca2|ru] \c1) Muv-Luv Extra, December 23rd\d\n
+
+[c141fa9b|en] \c2) Muv-Luv Unlimited, December 24th\d\e
+[c141fa9b|ru] \c2) Muv-Luv Unlimited, December 24th\d\e
+
+[201eaab0|en] \c1) Muv-Luv Extra, November 19th\d\n
+[201eaab0|ru] \c1) Muv-Luv Extra, November 19th\d\n
+
+[2017c2be|en] \c1) Muv-Luv Extra, November 17th\d\n
+[2017c2be|ru] \c1) Muv-Luv Extra, November 17th\d\n
+
+[2017bcff|en] \c1) Muv-Luv Extra, November 16th\d\n
+[2017bcff|ru] \c1) Muv-Luv Extra, November 16th\d\n
+
+[f8340c75|en] \c1) Muv-Luv Unlimited, Mikoto, December 24th\d\n
+[f8340c75|ru] \c1) Muv-Luv Unlimited, Mikoto, December 24th\d\n
+
+[fd8403b6|en] \c2) Muv-Luv Extra, Marimo, December 19th\d\n
+[fd8403b6|ru] \c2) Muv-Luv Extra, Marimo, December 19th\d\n
+
+[4a66b20e|en] \c3) Muv-Luv Unlimited, Yuuko, December 24th\d\e
+[4a66b20e|ru] \c3) Muv-Luv Unlimited, Yuuko, December 24th\d\e
