@@ -1,8 +1,8 @@
-SCR 1 Shift-JIS
+SCR 1 UTF-8
 728
 
-[000008|en] yTakeruzu...\p...\p...\p...\pv\e
-[000008|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000008|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000008|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [000009|en] ...\p...\p\e
 [000009|ru] ...\p...\p\e
@@ -10,8 +10,8 @@ SCR 1 Shift-JIS
 [00000a|en] ...\p...\p...\p...\p\e
 [00000a|ru] ...\p...\p...\p...\p\e
 
-[00000c|en] yTakeruzu*yaaaaaaawn*...\p...\pv\e
-[00000c|ru] yTakeruzu*yaaaaaaawn*...\p...\pv\e
+[00000c|en] ÂyTakeruÂzÂu*yaaaaaaawn*...\p...\pÂv\e
+[00000c|ru] ÂyTakeruÂzÂu*yaaaaaaawn*...\p...\pÂv\e
 
 [00000d|en] ...\p...\p\e
 [00000d|ru] ...\p...\p\e
@@ -82,8 +82,8 @@ SCR 1 Shift-JIS
 [000045|en] ...\p...\pcomparing all this to what I've been doing up until\nnow...\p...\pit really makes my old life look boring...\p...\p...\e
 [000045|ru] ...\p...\pcomparing all this to what I've been doing up until\nnow...\p...\pit really makes my old life look boring...\p...\p...\e
 
-[000047|en] yTakeruzuHauuuuuuuuuuuuuu...\p...\pso basically, I've been\nbored all my life...\p...\puuuuuu...\p...\pthis is so lame...\p...\pv\e
-[000047|ru] yTakeruzuHauuuuuuuuuuuuuu...\p...\pso basically, I've been\nbored all my life...\p...\puuuuuu...\p...\pthis is so lame...\p...\pv\e
+[000047|en] ÂyTakeruÂzÂuHauuuuuuuuuuuuuu...\p...\pso basically, I've been\nbored all my life...\p...\puuuuuu...\p...\pthis is so lame...\p...\pÂv\e
+[000047|ru] ÂyTakeruÂzÂuHauuuuuuuuuuuuuu...\p...\pso basically, I've been\nbored all my life...\p...\puuuuuu...\p...\pthis is so lame...\p...\pÂv\e
 
 [000048|en] *rumble* *rumble* *rumble*...\p...\p\e
 [000048|ru] *rumble* *rumble* *rumble*...\p...\p\e
@@ -91,68 +91,68 @@ SCR 1 Shift-JIS
 [000049|en] There's supposed to be a cook-off today,\p but it's far too\nquiet.\e
 [000049|ru] There's supposed to be a cook-off today,\p but it's far too\nquiet.\e
 
-[20004a|en] „Ÿ„ŸAh,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
-[20004a|ru] „Ÿ„ŸAh,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
+[20004a|en] â€Åºâ€ÅºAh,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
+[20004a|ru] â€Åºâ€ÅºAh,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
 
 [00004b|en] ...\p...\phm?\e
 [00004b|ru] ...\p...\phm?\e
 
-[20004d|en] „Ÿ„ŸNot only that...\p...\pit's the chef from today's\ncommercials!\p The man who brings Chinese cuisine to\nthe modern era,\p and was recently honored for his\nachievements by the Chinese government in the form\nof...\p...\p\e
-[20004d|ru] „Ÿ„ŸNot only that...\p...\pit's the chef from today's\ncommercials!\p The man who brings Chinese cuisine to\nthe modern era,\p and was recently honored for his\nachievements by the Chinese government in the form\nof...\p...\p\e
+[20004d|en] â€Åºâ€ÅºNot only that...\p...\pit's the chef from today's\ncommercials!\p The man who brings Chinese cuisine to\nthe modern era,\p and was recently honored for his\nachievements by the Chinese government in the form\nof...\p...\p\e
+[20004d|ru] â€Åºâ€ÅºNot only that...\p...\pit's the chef from today's\ncommercials!\p The man who brings Chinese cuisine to\nthe modern era,\p and was recently honored for his\nachievements by the Chinese government in the form\nof...\p...\p\e
 
 [00004f|en] ...\p...\pmmmmmm!?\e
 [00004f|ru] ...\p...\pmmmmmm!?\e
 
-[000053|en] yTakeruzu...\p...\p...\p...\pthat plane...\p...\pis that...\p...\pv\e
-[000053|ru] yTakeruzu...\p...\p...\p...\pthat plane...\p...\pis that...\p...\pv\e
+[000053|en] ÂyTakeruÂzÂu...\p...\p...\p...\pthat plane...\p...\pis that...\p...\pÂv\e
+[000053|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pthat plane...\p...\pis that...\p...\pÂv\e
 
-[200055|en] „Ÿ„ŸWait!\p\p He's getting into a helicopter!\p Where's he\nplanning on going!?\e
-[200055|ru] „Ÿ„ŸWait!\p\p He's getting into a helicopter!\p Where's he\nplanning on going!?\e
+[200055|en] â€Åºâ€ÅºWait!\p\p He's getting into a helicopter!\p Where's he\nplanning on going!?\e
+[200055|ru] â€Åºâ€ÅºWait!\p\p He's getting into a helicopter!\p Where's he\nplanning on going!?\e
 
-[200059|en] „Ÿ„ŸThis is the pursuit helicopter!\p\p The helicopter that\njust took off from the airport with the chef is currently\nfollowing the coastline.\e
-[200059|ru] „Ÿ„ŸThis is the pursuit helicopter!\p\p The helicopter that\njust took off from the airport with the chef is currently\nfollowing the coastline.\e
+[200059|en] â€Åºâ€ÅºThis is the pursuit helicopter!\p\p The helicopter that\njust took off from the airport with the chef is currently\nfollowing the coastline.\e
+[200059|ru] â€Åºâ€ÅºThis is the pursuit helicopter!\p\p The helicopter that\njust took off from the airport with the chef is currently\nfollowing the coastline.\e
 
-[00005b|en] yTakeruzuIt can't be...\p...\pv\e
-[00005b|ru] yTakeruzuIt can't be...\p...\pv\e
+[00005b|en] ÂyTakeruÂzÂuIt can't be...\p...\pÂv\e
+[00005b|ru] ÂyTakeruÂzÂuIt can't be...\p...\pÂv\e
 
-[20005d|en] „Ÿ„ŸWait...\p...\pwhat could that be!?\p\p An empty lot so huge\nit shouldn't even exist in Japan...\p...\paaah,\p I've spotted a\nhuge mansion!\e
-[20005d|ru] „Ÿ„ŸWait...\p...\pwhat could that be!?\p\p An empty lot so huge\nit shouldn't even exist in Japan...\p...\paaah,\p I've spotted a\nhuge mansion!\e
+[20005d|en] â€Åºâ€ÅºWait...\p...\pwhat could that be!?\p\p An empty lot so huge\nit shouldn't even exist in Japan...\p...\paaah,\p I've spotted a\nhuge mansion!\e
+[20005d|ru] â€Åºâ€ÅºWait...\p...\pwhat could that be!?\p\p An empty lot so huge\nit shouldn't even exist in Japan...\p...\paaah,\p I've spotted a\nhuge mansion!\e
 
-[00005f|en] yTakeruzuIt can't it can't it can't it can't it can't be!!!!!v\e
-[00005f|ru] yTakeruzuIt can't it can't it can't it can't it can't be!!!!!v\e
+[00005f|en] ÂyTakeruÂzÂuIt can't it can't it can't it can't it can't be!!!!!Âv\e
+[00005f|ru] ÂyTakeruÂzÂuIt can't it can't it can't it can't it can't be!!!!!Âv\e
 
-[000065|en] yTakeruzuGyaooooooo!!v\e
-[000065|ru] yTakeruzuGyaooooooo!!v\e
+[000065|en] ÂyTakeruÂzÂuGyaooooooo!!Âv\e
+[000065|ru] ÂyTakeruÂzÂuGyaooooooo!!Âv\e
 
-[000074|en] yMikizuHey, hey,\p Takeru-san's house is huuuuge.v\e
-[000074|ru] yMikizuHey, hey,\p Takeru-san's house is huuuuge.v\e
+[000074|en] ÂyMikiÂzÂuHey, hey,\p Takeru-san's house is huuuuge.Âv\e
+[000074|ru] ÂyMikiÂzÂuHey, hey,\p Takeru-san's house is huuuuge.Âv\e
 
-[000076|en] yChizuruzuThis isn't Shirogane-kun's house...\p...\pI don't\nthink.v\e
-[000076|ru] yChizuruzuThis isn't Shirogane-kun's house...\p...\pI don't\nthink.v\e
+[000076|en] ÂyChizuruÂzÂuThis isn't Shirogane-kun's house...\p...\pI don't\nthink.Âv\e
+[000076|ru] ÂyChizuruÂzÂuThis isn't Shirogane-kun's house...\p...\pI don't\nthink.Âv\e
 
-[00007a|en] yKeizu...\p...\p...\p...\pv\e
-[00007a|ru] yKeizu...\p...\p...\p...\pv\e
+[00007a|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[00007a|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
 [00007c|en] ...\p...\pthey really did show up.\e
 [00007c|ru] ...\p...\pthey really did show up.\e
 
-[00007e|en] yChizuruzu...\p...\pyou look like you want to say something.v\e
-[00007e|ru] yChizuruzu...\p...\pyou look like you want to say something.v\e
+[00007e|en] ÂyChizuruÂzÂu...\p...\pyou look like you want to say something.Âv\e
+[00007e|ru] ÂyChizuruÂzÂu...\p...\pyou look like you want to say something.Âv\e
 
-[000080|en] yKeizu...\p...\pnot really.v\e
-[000080|ru] yKeizu...\p...\pnot really.v\e
+[000080|en] ÂyKeiÂzÂu...\p...\pnot really.Âv\e
+[000080|ru] ÂyKeiÂzÂu...\p...\pnot really.Âv\e
 
-[000082|en] yChizuruzuI wasn't asking you!v\e
-[000082|ru] yChizuruzuI wasn't asking you!v\e
+[000082|en] ÂyChizuruÂzÂuI wasn't asking you!Âv\e
+[000082|ru] ÂyChizuruÂzÂuI wasn't asking you!Âv\e
 
 [000084|en] Come on already,\p stop fighting you two.\e
 [000084|ru] Come on already,\p stop fighting you two.\e
 
-[000086|en] yChizuruzuAyamine-san.v\e
-[000086|ru] yChizuruzuAyamine-san.v\e
+[000086|en] ÂyChizuruÂzÂuAyamine-san.Âv\e
+[000086|ru] ÂyChizuruÂzÂuAyamine-san.Âv\e
 
-[000087|en] yKeizu...\p...\p...\p...\pv\e
-[000087|ru] yKeizu...\p...\p...\p...\pv\e
+[000087|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[000087|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
 [00008f|en] Eh?\e
 [00008f|ru] Eh?\e
@@ -160,74 +160,74 @@ SCR 1 Shift-JIS
 [000096|en] ...\p...\pdon't use me as a shield.\e
 [000096|ru] ...\p...\pdon't use me as a shield.\e
 
-[000098|en] yKeizu...\p...\pyou're saying that Shirogane also wants to say\nsomething.v\e
-[000098|ru] yKeizu...\p...\pyou're saying that Shirogane also wants to say\nsomething.v\e
+[000098|en] ÂyKeiÂzÂu...\p...\pyou're saying that Shirogane also wants to say\nsomething.Âv\e
+[000098|ru] ÂyKeiÂzÂu...\p...\pyou're saying that Shirogane also wants to say\nsomething.Âv\e
 
-[00009c|en] yChizuruzuI'll listen, so say it.v\e
-[00009c|ru] yChizuruzuI'll listen, so say it.v\e
+[00009c|en] ÂyChizuruÂzÂuI'll listen, so say it.Âv\e
+[00009c|ru] ÂyChizuruÂzÂuI'll listen, so say it.Âv\e
 
-[00009d|en] yKeizuYou kept complaining about this,\p but here you\nare...\p...\pv\e
-[00009d|ru] yKeizuYou kept complaining about this,\p but here you\nare...\p...\pv\e
+[00009d|en] ÂyKeiÂzÂuYou kept complaining about this,\p but here you\nare...\p...\pÂv\e
+[00009d|ru] ÂyKeiÂzÂuYou kept complaining about this,\p but here you\nare...\p...\pÂv\e
 
-[00009f|en] yChizuruzuWhat did you saaaay!?v\e
-[00009f|ru] yChizuruzuWhat did you saaaay!?v\e
+[00009f|en] ÂyChizuruÂzÂuWhat did you saaaay!?Âv\e
+[00009f|ru] ÂyChizuruÂzÂuWhat did you saaaay!?Âv\e
 
 [0000a0|en] I'm not a ventriloquist dummy...\p...\e
 [0000a0|ru] I'm not a ventriloquist dummy...\p...\e
 
-[0000a1|en] yKeizu...\p...\psuch an idiot.v\e
-[0000a1|ru] yKeizu...\p...\psuch an idiot.v\e
+[0000a1|en] ÂyKeiÂzÂu...\p...\psuch an idiot.Âv\e
+[0000a1|ru] ÂyKeiÂzÂu...\p...\psuch an idiot.Âv\e
 
-[0000a5|en] yTakeruzuWait, wait,\p Class Rep,\p can't you two talk this\nout calmly?v\e
-[0000a5|ru] yTakeruzuWait, wait,\p Class Rep,\p can't you two talk this\nout calmly?v\e
+[0000a5|en] ÂyTakeruÂzÂuWait, wait,\p Class Rep,\p can't you two talk this\nout calmly?Âv\e
+[0000a5|ru] ÂyTakeruÂzÂuWait, wait,\p Class Rep,\p can't you two talk this\nout calmly?Âv\e
 
-[0000b2|en] yMikotozuGuwa!\p Th-\pthis can't be!\p A marble staircase in\nthe entrance hall,\p and an open-air bath in the courtyard!\p\nAnd it's built out of white cedar!v\e
-[0000b2|ru] yMikotozuGuwa!\p Th-\pthis can't be!\p A marble staircase in\nthe entrance hall,\p and an open-air bath in the courtyard!\p\nAnd it's built out of white cedar!v\e
+[0000b2|en] ÂyMikotoÂzÂuGuwa!\p Th-\pthis can't be!\p A marble staircase in\nthe entrance hall,\p and an open-air bath in the courtyard!\p\nAnd it's built out of white cedar!Âv\e
+[0000b2|ru] ÂyMikotoÂzÂuGuwa!\p Th-\pthis can't be!\p A marble staircase in\nthe entrance hall,\p and an open-air bath in the courtyard!\p\nAnd it's built out of white cedar!Âv\e
 
-[0000b3|en] yTakeruzu...\p...\p...\p...\pv\e
-[0000b3|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0000b3|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0000b3|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0000b4|en] yChizuruzu...\p...\p...\p...\pv\e
-[0000b4|ru] yChizuruzu...\p...\p...\p...\pv\e
+[0000b4|en] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
+[0000b4|ru] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0000b6|en] At least one of us is perfectly happy with this.\e
 [0000b6|ru] At least one of us is perfectly happy with this.\e
 
-[0000c1|en] yMikotozuThis place is so impressive I'm getting dizzy.v\e
-[0000c1|ru] yMikotozuThis place is so impressive I'm getting dizzy.v\e
+[0000c1|en] ÂyMikotoÂzÂuThis place is so impressive I'm getting dizzy.Âv\e
+[0000c1|ru] ÂyMikotoÂzÂuThis place is so impressive I'm getting dizzy.Âv\e
 
-[0000c2|en] yTakeruzu...\p...\p...\p...\pv\e
-[0000c2|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0000c2|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0000c2|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0000c3|en] yChizuruzu...\p...\p...\p...\pv\e
-[0000c3|ru] yChizuruzu...\p...\p...\p...\pv\e
+[0000c3|en] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
+[0000c3|ru] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0000c4|en] Come to think of it,\p no one told me you were coming!!\e
 [0000c4|ru] Come to think of it,\p no one told me you were coming!!\e
 
-[0000cd|en] yMikotozuOh my...\p...\nI'm worse than dizzy now...\p...\nI might just pass out`v\e
-[0000cd|ru] yMikotozuOh my...\p...\nI'm worse than dizzy now...\p...\nI might just pass out`v\e
+[0000cd|en] ÂyMikotoÂzÂuOh my...\p...\nI'm worse than dizzy now...\p...\nI might just pass outÂ`Âv\e
+[0000cd|ru] ÂyMikotoÂzÂuOh my...\p...\nI'm worse than dizzy now...\p...\nI might just pass outÂ`Âv\e
 
-[0000d2|en] yTakeruzu...\p...\phm?v\e
-[0000d2|ru] yTakeruzu...\p...\phm?v\e
+[0000d2|en] ÂyTakeruÂzÂu...\p...\phm?Âv\e
+[0000d2|ru] ÂyTakeruÂzÂu...\p...\phm?Âv\e
 
-[0000dc|en] yKamiyo & Tomoe & EbisuzuHow dare you idiots„Ÿwe\nmean, welcoooome!!v\e
-[0000dc|ru] yKamiyo & Tomoe & EbisuzuHow dare you idiots„Ÿwe\nmean, welcoooome!!v\e
+[0000dc|en] ÂyKamiyo & Tomoe & EbisuÂzÂuHow dare you idiotsâ€Åºwe\nmean, welcoooome!!Âv\e
+[0000dc|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuHow dare you idiotsâ€Åºwe\nmean, welcoooome!!Âv\e
 
 [0000e1|en] ...\p...\phuuuh?\e
 [0000e1|ru] ...\p...\phuuuh?\e
 
-[0000f0|en] yKamiyo & Tomoe & EbisuzuMana-sama that huuurts.v\e
-[0000f0|ru] yKamiyo & Tomoe & EbisuzuMana-sama that huuurts.v\e
+[0000f0|en] ÂyKamiyo & Tomoe & EbisuÂzÂuMana-sama that huuurts.Âv\e
+[0000f0|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuMana-sama that huuurts.Âv\e
 
-[0000f3|en] yTsukuyomizuThank you all for coming today.\p\nPlease step inside,\p and I will lead you to the kitchen.v\e
-[0000f3|ru] yTsukuyomizuThank you all for coming today.\p\nPlease step inside,\p and I will lead you to the kitchen.v\e
+[0000f3|en] ÂyTsukuyomiÂzÂuThank you all for coming today.\p\nPlease step inside,\p and I will lead you to the kitchen.Âv\e
+[0000f3|ru] ÂyTsukuyomiÂzÂuThank you all for coming today.\p\nPlease step inside,\p and I will lead you to the kitchen.Âv\e
 
-[0000fb|en] yMiki & Chizuru & MikotozuThank you.v\e
-[0000fb|ru] yMiki & Chizuru & MikotozuThank you.v\e
+[0000fb|en] ÂyMiki & Chizuru & MikotoÂzÂuThank you.Âv\e
+[0000fb|ru] ÂyMiki & Chizuru & MikotoÂzÂuThank you.Âv\e
 
-[000105|en] yTsukuyomizu...\p...\pah!v\e
-[000105|ru] yTsukuyomizu...\p...\pah!v\e
+[000105|en] ÂyTsukuyomiÂzÂu...\p...\pah!Âv\e
+[000105|ru] ÂyTsukuyomiÂzÂu...\p...\pah!Âv\e
 
 [000108|en] ...\p...\p...\p...\p?\e
 [000108|ru] ...\p...\p...\p...\p?\e
@@ -235,47 +235,47 @@ SCR 1 Shift-JIS
 [00010a|en] Tsukuyomi-san's always on her guard, but today she\nseems spacy...\p...\pnot sure if it's just rare,\p or if I should\nask what's wrong...\p...\e
 [00010a|ru] Tsukuyomi-san's always on her guard, but today she\nseems spacy...\p...\pnot sure if it's just rare,\p or if I should\nask what's wrong...\p...\e
 
-[00010d|en] yTakeruzuUmmm...\p...\pTsukuyomi-san?v\e
-[00010d|ru] yTakeruzuUmmm...\p...\pTsukuyomi-san?v\e
+[00010d|en] ÂyTakeruÂzÂuUmmm...\p...\pTsukuyomi-san?Âv\e
+[00010d|ru] ÂyTakeruÂzÂuUmmm...\p...\pTsukuyomi-san?Âv\e
 
-[00010f|en] yTsukuyomiz@„Ÿ„Ÿ„Ÿ„Ÿ*twitch!!*\e
-[00010f|ru] yTsukuyomiz@„Ÿ„Ÿ„Ÿ„Ÿ*twitch!!*\e
+[00010f|en] ÂyTsukuyomiÂzÂ@â€Åºâ€Åºâ€Åºâ€Åº*twitch!!*\e
+[00010f|ru] ÂyTsukuyomiÂzÂ@â€Åºâ€Åºâ€Åºâ€Åº*twitch!!*\e
 
-[000113|en] yTsukuyomizu„Ÿ„ŸAh!!\p Ta-\pTakeru-sama! ...\p...\py-\pyes!?v\e
-[000113|ru] yTsukuyomizu„Ÿ„ŸAh!!\p Ta-\pTakeru-sama! ...\p...\py-\pyes!?v\e
+[000113|en] ÂyTsukuyomiÂzÂuâ€Åºâ€ÅºAh!!\p Ta-\pTakeru-sama! ...\p...\py-\pyes!?Âv\e
+[000113|ru] ÂyTsukuyomiÂzÂuâ€Åºâ€ÅºAh!!\p Ta-\pTakeru-sama! ...\p...\py-\pyes!?Âv\e
 
-[000115|en] yTakeruzuYou okay? You seem kinda tired...\p...\pv\e
-[000115|ru] yTakeruzuYou okay? You seem kinda tired...\p...\pv\e
+[000115|en] ÂyTakeruÂzÂuYou okay? You seem kinda tired...\p...\pÂv\e
+[000115|ru] ÂyTakeruÂzÂuYou okay? You seem kinda tired...\p...\pÂv\e
 
-[000117|en] yTsukuyomizuDo not worry! ...\p...\pI need to lead everyone\nto the kitchen now,\p so I must take my leave`\p\nOhohohohoho...\p...\pv\e
-[000117|ru] yTsukuyomizuDo not worry! ...\p...\pI need to lead everyone\nto the kitchen now,\p so I must take my leave`\p\nOhohohohoho...\p...\pv\e
+[000117|en] ÂyTsukuyomiÂzÂuDo not worry! ...\p...\pI need to lead everyone\nto the kitchen now,\p so I must take my leaveÂ`\p\nOhohohohoho...\p...\pÂv\e
+[000117|ru] ÂyTsukuyomiÂzÂuDo not worry! ...\p...\pI need to lead everyone\nto the kitchen now,\p so I must take my leaveÂ`\p\nOhohohohoho...\p...\pÂv\e
 
 [00011a|en] ...\p...\pwhat the heck?\e
 [00011a|ru] ...\p...\pwhat the heck?\e
 
-[00011d|en] yKamiyo & Tomoe & EbisuzuNot again`!v\e
-[00011d|ru] yKamiyo & Tomoe & EbisuzuNot again`!v\e
+[00011d|en] ÂyKamiyo & Tomoe & EbisuÂzÂuNot againÂ`!Âv\e
+[00011d|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuNot againÂ`!Âv\e
 
-[000124|en] yTakeruzu„Ÿ„ŸUwa!!v\e
-[000124|ru] yTakeruzu„Ÿ„ŸUwa!!v\e
+[000124|en] ÂyTakeruÂzÂuâ€Åºâ€ÅºUwa!!Âv\e
+[000124|ru] ÂyTakeruÂzÂuâ€Åºâ€ÅºUwa!!Âv\e
 
-[000126|en] yTomoezuMana-sama...\p...\pif only 'that' wasn't here`v\e
-[000126|ru] yTomoezuMana-sama...\p...\pif only 'that' wasn't here`v\e
+[000126|en] ÂyTomoeÂzÂuMana-sama...\p...\pif only 'that' wasn't hereÂ`Âv\e
+[000126|ru] ÂyTomoeÂzÂuMana-sama...\p...\pif only 'that' wasn't hereÂ`Âv\e
 
 [000127|en] ...\p...\p'that'?\e
 [000127|ru] ...\p...\p'that'?\e
 
-[000129|en] yKamiyozuThe first time I saw that guy,\p I knew it'd be\nbad for her`v\e
-[000129|ru] yKamiyozuThe first time I saw that guy,\p I knew it'd be\nbad for her`v\e
+[000129|en] ÂyKamiyoÂzÂuThe first time I saw that guy,\p I knew it'd be\nbad for herÂ`Âv\e
+[000129|ru] ÂyKamiyoÂzÂuThe first time I saw that guy,\p I knew it'd be\nbad for herÂ`Âv\e
 
 [00012a|en] ...\p...\p'that guy'?\e
 [00012a|ru] ...\p...\p'that guy'?\e
 
-[00012c|en] yEbisuzuNo one can stop it anymore`v\e
-[00012c|ru] yEbisuzuNo one can stop it anymore`v\e
+[00012c|en] ÂyEbisuÂzÂuNo one can stop it anymoreÂ`Âv\e
+[00012c|ru] ÂyEbisuÂzÂuNo one can stop it anymoreÂ`Âv\e
 
-[00012e|en] yTakeruzu...\p...\p...\p...\pv\e
-[00012e|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00012e|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[00012e|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [00012f|en] ...\p...\p????\e
 [00012f|ru] ...\p...\p????\e
@@ -286,86 +286,86 @@ SCR 1 Shift-JIS
 [000138|en] Skipping lunch so I could eat all five of their meals was\na bad idea...\p...\p...\p...\p\e
 [000138|ru] Skipping lunch so I could eat all five of their meals was\na bad idea...\p...\p...\p...\p\e
 
-[000139|en] I'm so hungry```\e
-[000139|ru] I'm so hungry```\e
+[000139|en] I'm so hungryÂ`Â`Â`\e
+[000139|ru] I'm so hungryÂ`Â`Â`\e
 
-[00013a|en] ySumikazuHuh`?\p Do you know what happened to the\neggs I left here?v\e
-[00013a|ru] ySumikazuHuh`?\p Do you know what happened to the\neggs I left here?v\e
+[00013a|en] ÂySumikaÂzÂuHuhÂ`?\p Do you know what happened to the\neggs I left here?Âv\e
+[00013a|ru] ÂySumikaÂzÂuHuhÂ`?\p Do you know what happened to the\neggs I left here?Âv\e
 
-[00013c|en] yMikizuKei-chan,\p get the eggs,\p get them.v\e 
-[00013c|ru] yMikizuKei-chan,\p get the eggs,\p get them.v\e 
+[00013c|en] ÂyMikiÂzÂuKei-chan,\p get the eggs,\p get them.Âv\e 
+[00013c|ru] ÂyMikiÂzÂuKei-chan,\p get the eggs,\p get them.Âv\e 
 
-[00013e|en] yKeizu...\p...\pgot them.v\e
-[00013e|ru] yKeizu...\p...\pgot them.v\e
+[00013e|en] ÂyKeiÂzÂu...\p...\pgot them.Âv\e
+[00013e|ru] ÂyKeiÂzÂu...\p...\pgot them.Âv\e
 
-[000140|en] yMikizuDon't pick Miki up...\p...\pget the eggs...v\e
-[000140|ru] yMikizuDon't pick Miki up...\p...\pget the eggs...v\e
+[000140|en] ÂyMikiÂzÂuDon't pick Miki up...\p...\pget the eggs...Âv\e
+[000140|ru] ÂyMikiÂzÂuDon't pick Miki up...\p...\pget the eggs...Âv\e
 
-[000142|en] ySumikazuAh,\p sooorry,\p I've already used up those eggs.v\e
-[000142|ru] ySumikazuAh,\p sooorry,\p I've already used up those eggs.v\e
+[000142|en] ÂySumikaÂzÂuAh,\p sooorry,\p I've already used up those eggs.Âv\e
+[000142|ru] ÂySumikaÂzÂuAh,\p sooorry,\p I've already used up those eggs.Âv\e
 
-[000144|en] yChizuruzuCould you please try to be quiet?\p\nYou'll disturb the neighbors.v\e
-[000144|ru] yChizuruzuCould you please try to be quiet?\p\nYou'll disturb the neighbors.v\e
+[000144|en] ÂyChizuruÂzÂuCould you please try to be quiet?\p\nYou'll disturb the neighbors.Âv\e
+[000144|ru] ÂyChizuruÂzÂuCould you please try to be quiet?\p\nYou'll disturb the neighbors.Âv\e
 
-[000146|en] ySumikazuMy house is the only one near here,\p\p so I doubt\nit's a problem.v\e
-[000146|ru] ySumikazuMy house is the only one near here,\p\p so I doubt\nit's a problem.v\e
+[000146|en] ÂySumikaÂzÂuMy house is the only one near here,\p\p so I doubt\nit's a problem.Âv\e
+[000146|ru] ÂySumikaÂzÂuMy house is the only one near here,\p\p so I doubt\nit's a problem.Âv\e
 
-[000148|en] yMeiyazuThis kitchen is quite small.\p\nIt must inconvenience the chefs.\p\nTsukuyomi,\p renovate it at once.v\e
-[000148|ru] yMeiyazuThis kitchen is quite small.\p\nIt must inconvenience the chefs.\p\nTsukuyomi,\p renovate it at once.v\e
+[000148|en] ÂyMeiyaÂzÂuThis kitchen is quite small.\p\nIt must inconvenience the chefs.\p\nTsukuyomi,\p renovate it at once.Âv\e
+[000148|ru] ÂyMeiyaÂzÂuThis kitchen is quite small.\p\nIt must inconvenience the chefs.\p\nTsukuyomi,\p renovate it at once.Âv\e
 
-[00014a|en] yMikizuKei-chaaan,\p pick that up this time`v\e
-[00014a|ru] yMikizuKei-chaaan,\p pick that up this time`v\e
+[00014a|en] ÂyMikiÂzÂuKei-chaaan,\p pick that up this timeÂ`Âv\e
+[00014a|ru] ÂyMikiÂzÂuKei-chaaan,\p pick that up this timeÂ`Âv\e
 
-[00014c|en] ySumikazuAh! Sooorry!!v\e
-[00014c|ru] ySumikazuAh! Sooorry!!v\e
+[00014c|en] ÂySumikaÂzÂuAh! Sooorry!!Âv\e
+[00014c|ru] ÂySumikaÂzÂuAh! Sooorry!!Âv\e
 
-[00014d|en] yChizuruzuHey!\p You just got that all over my notebook`v\e
-[00014d|ru] yChizuruzuHey!\p You just got that all over my notebook`v\e
+[00014d|en] ÂyChizuruÂzÂuHey!\p You just got that all over my notebookÂ`Âv\e
+[00014d|ru] ÂyChizuruÂzÂuHey!\p You just got that all over my notebookÂ`Âv\e
 
-[00014e|en] yKeizu...\p...\pcan't do anything without the manual.v\e
-[00014e|ru] yKeizu...\p...\pcan't do anything without the manual.v\e
+[00014e|en] ÂyKeiÂzÂu...\p...\pcan't do anything without the manual.Âv\e
+[00014e|ru] ÂyKeiÂzÂu...\p...\pcan't do anything without the manual.Âv\e
 
-[00014f|en] yChizuruzu...\p...\pAyamine-san? Did you say something?v\e
-[00014f|ru] yChizuruzu...\p...\pAyamine-san? Did you say something?v\e
+[00014f|en] ÂyChizuruÂzÂu...\p...\pAyamine-san? Did you say something?Âv\e
+[00014f|ru] ÂyChizuruÂzÂu...\p...\pAyamine-san? Did you say something?Âv\e
 
-[000150|en] yKeizu...\p...\pjust talking to myself.v\e
-[000150|ru] yKeizu...\p...\pjust talking to myself.v\e
+[000150|en] ÂyKeiÂzÂu...\p...\pjust talking to myself.Âv\e
+[000150|ru] ÂyKeiÂzÂu...\p...\pjust talking to myself.Âv\e
 
-[000151|en] yChizuruzuDon't lie!v\e
-[000151|ru] yChizuruzuDon't lie!v\e
+[000151|en] ÂyChizuruÂzÂuDon't lie!Âv\e
+[000151|ru] ÂyChizuruÂzÂuDon't lie!Âv\e
 
-[000152|en] yKeizu...\p...\pyou could tell?v\e
-[000152|ru] yKeizu...\p...\pyou could tell?v\e
+[000152|en] ÂyKeiÂzÂu...\p...\pyou could tell?Âv\e
+[000152|ru] ÂyKeiÂzÂu...\p...\pyou could tell?Âv\e
 
-[000153|en] yMikizuIt was kinda obvious.v\e
-[000153|ru] yMikizuIt was kinda obvious.v\e
+[000153|en] ÂyMikiÂzÂuIt was kinda obvious.Âv\e
+[000153|ru] ÂyMikiÂzÂuIt was kinda obvious.Âv\e
 
-[00015f|en] yMikotozuTakeru!\p You hungry?v\e
-[00015f|ru] yMikotozuTakeru!\p You hungry?v\e
+[00015f|en] ÂyMikotoÂzÂuTakeru!\p You hungry?Âv\e
+[00015f|ru] ÂyMikotoÂzÂuTakeru!\p You hungry?Âv\e
 
-[000162|en] yTakeruzuYeah,\p I am! I am! How much longer until I can\neat...\p...\phow long?v\e
-[000162|ru] yTakeruzuYeah,\p I am! I am! How much longer until I can\neat...\p...\phow long?v\e
+[000162|en] ÂyTakeruÂzÂuYeah,\p I am! I am! How much longer until I can\neat...\p...\phow long?Âv\e
+[000162|ru] ÂyTakeruÂzÂuYeah,\p I am! I am! How much longer until I can\neat...\p...\phow long?Âv\e
 
-[000164|en] yMikotozuAhaha...\p...\phey,\p come to the courtyard.\nI'm making something good out there.v\e
-[000164|ru] yMikotozuAhaha...\p...\phey,\p come to the courtyard.\nI'm making something good out there.v\e
+[000164|en] ÂyMikotoÂzÂuAhaha...\p...\phey,\p come to the courtyard.\nI'm making something good out there.Âv\e
+[000164|ru] ÂyMikotoÂzÂuAhaha...\p...\phey,\p come to the courtyard.\nI'm making something good out there.Âv\e
 
-[000165|en] yTakeruzuSomething good?v\e
-[000165|ru] yTakeruzuSomething good?v\e
+[000165|en] ÂyTakeruÂzÂuSomething good?Âv\e
+[000165|ru] ÂyTakeruÂzÂuSomething good?Âv\e
 
-[00016d|en] yTsukuyomizuAh!\p Yoroi-sama,\p welcome back!!v\e
-[00016d|ru] yTsukuyomizuAh!\p Yoroi-sama,\p welcome back!!v\e
+[00016d|en] ÂyTsukuyomiÂzÂuAh!\p Yoroi-sama,\p welcome back!!Âv\e
+[00016d|ru] ÂyTsukuyomiÂzÂuAh!\p Yoroi-sama,\p welcome back!!Âv\e
 
-[000170|en] What the hell is„Ÿ„ŸWait,\p eh?\e
-[000170|ru] What the hell is„Ÿ„ŸWait,\p eh?\e
+[000170|en] What the hell isâ€Åºâ€ÅºWait,\p eh?\e
+[000170|ru] What the hell isâ€Åºâ€ÅºWait,\p eh?\e
 
-[000175|en] yTsukuyomizuIs this about the right temperature for the\nfire?v\e
-[000175|ru] yTsukuyomizuIs this about the right temperature for the\nfire?v\e
+[000175|en] ÂyTsukuyomiÂzÂuIs this about the right temperature for the\nfire?Âv\e
+[000175|ru] ÂyTsukuyomiÂzÂuIs this about the right temperature for the\nfire?Âv\e
 
-[000190|en] yMikotozuAh,\p yeah...\p...\py-\pyeah,\p that's good.v\e
-[000190|ru] yMikotozuAh,\p yeah...\p...\py-\pyeah,\p that's good.v\e
+[000190|en] ÂyMikotoÂzÂuAh,\p yeah...\p...\py-\pyeah,\p that's good.Âv\e
+[000190|ru] ÂyMikotoÂzÂuAh,\p yeah...\p...\py-\pyeah,\p that's good.Âv\e
 
-[000191|en] „Ÿ„ŸHey now,\p Tsukuyomi-san...\p...\pyou're twisting your\nfingers around him!?\e
-[000191|ru] „Ÿ„ŸHey now,\p Tsukuyomi-san...\p...\pyou're twisting your\nfingers around him!?\e
+[000191|en] â€Åºâ€ÅºHey now,\p Tsukuyomi-san...\p...\pyou're twisting your\nfingers around him!?\e
+[000191|ru] â€Åºâ€ÅºHey now,\p Tsukuyomi-san...\p...\pyou're twisting your\nfingers around him!?\e
 
 [000192|en] ...\p...\pare you...\p...\pa shotacon!?\e
 [000192|ru] ...\p...\pare you...\p...\pa shotacon!?\e
@@ -373,11 +373,11 @@ SCR 1 Shift-JIS
 [000193|en] So this is what the three idiots were talking about!!\e
 [000193|ru] So this is what the three idiots were talking about!!\e
 
-[000194|en] yTakeruzuYou gonna camp out here or what?v\e
-[000194|ru] yTakeruzuYou gonna camp out here or what?v\e
+[000194|en] ÂyTakeruÂzÂuYou gonna camp out here or what?Âv\e
+[000194|ru] ÂyTakeruÂzÂuYou gonna camp out here or what?Âv\e
 
-[000197|en] yMikotozuAh,\p aauuu...v\e
-[000197|ru] yMikotozuAh,\p aauuu...v\e
+[000197|en] ÂyMikotoÂzÂuAh,\p aauuu...Âv\e
+[000197|ru] ÂyMikotoÂzÂuAh,\p aauuu...Âv\e
 
 [000198|en] Rice is steaming over the campfire.\e
 [000198|ru] Rice is steaming over the campfire.\e
@@ -388,35 +388,35 @@ SCR 1 Shift-JIS
 [0001a7|en] And Mikoto doesn't seem to be enjoying this...\p...\e
 [0001a7|ru] And Mikoto doesn't seem to be enjoying this...\p...\e
 
-[0001a8|en] yTakeruzuYou two seem friendly.\p What're you making?v\e
-[0001a8|ru] yTakeruzuYou two seem friendly.\p What're you making?v\e
+[0001a8|en] ÂyTakeruÂzÂuYou two seem friendly.\p What're you making?Âv\e
+[0001a8|ru] ÂyTakeruÂzÂuYou two seem friendly.\p What're you making?Âv\e
 
-[0001b1|en] yTsukuyomizuOh my...\p...\pdon't say that,\p Takeru-sama...\p...\pv\e
-[0001b1|ru] yTsukuyomizuOh my...\p...\pdon't say that,\p Takeru-sama...\p...\pv\e
+[0001b1|en] ÂyTsukuyomiÂzÂuOh my...\p...\pdon't say that,\p Takeru-sama...\p...\pÂv\e
+[0001b1|ru] ÂyTsukuyomiÂzÂuOh my...\p...\pdon't say that,\p Takeru-sama...\p...\pÂv\e
 
-[0001b4|en] yMikotozuAh!\p Crap,\p I forgot to get the ingredients!!v\e
-[0001b4|ru] yMikotozuAh!\p Crap,\p I forgot to get the ingredients!!v\e
+[0001b4|en] ÂyMikotoÂzÂuAh!\p Crap,\p I forgot to get the ingredients!!Âv\e
+[0001b4|ru] ÂyMikotoÂzÂuAh!\p Crap,\p I forgot to get the ingredients!!Âv\e
 
-[0001b7|en] yTakeruzuIngredients?v\e
-[0001b7|ru] yTakeruzuIngredients?v\e
+[0001b7|en] ÂyTakeruÂzÂuIngredients?Âv\e
+[0001b7|ru] ÂyTakeruÂzÂuIngredients?Âv\e
 
-[0001ba|en] yMikotozuWe're a little short on a few things here.\p\nI'll go get them now, so wait right here!v\e
-[0001ba|ru] yMikotozuWe're a little short on a few things here.\p\nI'll go get them now, so wait right here!v\e
+[0001ba|en] ÂyMikotoÂzÂuWe're a little short on a few things here.\p\nI'll go get them now, so wait right here!Âv\e
+[0001ba|ru] ÂyMikotoÂzÂuWe're a little short on a few things here.\p\nI'll go get them now, so wait right here!Âv\e
 
-[0001bd|en] yTsukuyomizuAaaan,\p Yoroi-sama,\p\p if you asked,\p I would\ngo get them myself``v\e
-[0001bd|ru] yTsukuyomizuAaaan,\p Yoroi-sama,\p\p if you asked,\p I would\ngo get them myself``v\e
+[0001bd|en] ÂyTsukuyomiÂzÂuAaaan,\p Yoroi-sama,\p\p if you asked,\p I would\ngo get them myselfÂ`Â`Âv\e
+[0001bd|ru] ÂyTsukuyomiÂzÂuAaaan,\p Yoroi-sama,\p\p if you asked,\p I would\ngo get them myselfÂ`Â`Âv\e
 
-[0001c3|en] Hahaha,\p he's getting all flustered„Ÿ„Ÿwait a...\phey!\p\nThat line just now sounded dangerous.\e
-[0001c3|ru] Hahaha,\p he's getting all flustered„Ÿ„Ÿwait a...\phey!\p\nThat line just now sounded dangerous.\e
+[0001c3|en] Hahaha,\p he's getting all flusteredâ€Åºâ€Åºwait a...\phey!\p\nThat line just now sounded dangerous.\e
+[0001c3|ru] Hahaha,\p he's getting all flusteredâ€Åºâ€Åºwait a...\phey!\p\nThat line just now sounded dangerous.\e
 
 [0001c4|en] Get them? Get what? The ingredients?\e
 [0001c4|ru] Get them? Get what? The ingredients?\e
 
-[0001c8|en] yMikotozu100% organic ingredients. I can get them for\nfree.\p\p\p So I'll be off then.v\e
-[0001c8|ru] yMikotozu100% organic ingredients. I can get them for\nfree.\p\p\p So I'll be off then.v\e
+[0001c8|en] ÂyMikotoÂzÂu100% organic ingredients. I can get them for\nfree.\p\p\p So I'll be off then.Âv\e
+[0001c8|ru] ÂyMikotoÂzÂu100% organic ingredients. I can get them for\nfree.\p\p\p So I'll be off then.Âv\e
 
-[0001cd|en] yTsukuyomizuAaaan...\p...\p...\psee you later``v\e
-[0001cd|ru] yTsukuyomizuAaaan...\p...\p...\psee you later``v\e
+[0001cd|en] ÂyTsukuyomiÂzÂuAaaan...\p...\p...\psee you laterÂ`Â`Âv\e
+[0001cd|ru] ÂyTsukuyomiÂzÂuAaaan...\p...\p...\psee you laterÂ`Â`Âv\e
 
 [0001cf|en] There he goes...\p...\p\e
 [0001cf|ru] There he goes...\p...\p\e
@@ -424,11 +424,11 @@ SCR 1 Shift-JIS
 [0001d0|en] Was it just an excuse to get away from her...\p...\p\nor did he really go to get something...\p...\p?\e
 [0001d0|ru] Was it just an excuse to get away from her...\p...\p\nor did he really go to get something...\p...\p?\e
 
-[0001d1|en] yTakeruzu...\p...\pwhat's he making?v\e
-[0001d1|ru] yTakeruzu...\p...\pwhat's he making?v\e
+[0001d1|en] ÂyTakeruÂzÂu...\p...\pwhat's he making?Âv\e
+[0001d1|ru] ÂyTakeruÂzÂu...\p...\pwhat's he making?Âv\e
 
-[0001d4|en] yTsukuyomizuWell...\p...\p\pI do not know...\p...\p\pbut Yoroi-sama is\nmaking it,\p\p so I have no doubt it is something wonderful.v\e
-[0001d4|ru] yTsukuyomizuWell...\p...\p\pI do not know...\p...\p\pbut Yoroi-sama is\nmaking it,\p\p so I have no doubt it is something wonderful.v\e
+[0001d4|en] ÂyTsukuyomiÂzÂuWell...\p...\p\pI do not know...\p...\p\pbut Yoroi-sama is\nmaking it,\p\p so I have no doubt it is something wonderful.Âv\e
+[0001d4|ru] ÂyTsukuyomiÂzÂuWell...\p...\p\pI do not know...\p...\p\pbut Yoroi-sama is\nmaking it,\p\p so I have no doubt it is something wonderful.Âv\e
 
 [0001d6|en] ...\p...\p...\p...\p\e
 [0001d6|ru] ...\p...\p...\p...\p\e
@@ -439,11 +439,11 @@ SCR 1 Shift-JIS
 [0001d8|en] I am so hungry...\p...\p\e
 [0001d8|ru] I am so hungry...\p...\p\e
 
-[0001d9|en] yTakeruzu...\p...\pcould I take a peek?v\e
-[0001d9|ru] yTakeruzu...\p...\pcould I take a peek?v\e
+[0001d9|en] ÂyTakeruÂzÂu...\p...\pcould I take a peek?Âv\e
+[0001d9|ru] ÂyTakeruÂzÂu...\p...\pcould I take a peek?Âv\e
 
-[0001dd|en] yTsukuyomizuMy apologies, Takeru-sama.\p\p\nMeiya-sama is calling me,\p so I must go.v\e
-[0001dd|ru] yTsukuyomizuMy apologies, Takeru-sama.\p\p\nMeiya-sama is calling me,\p so I must go.v\e
+[0001dd|en] ÂyTsukuyomiÂzÂuMy apologies, Takeru-sama.\p\p\nMeiya-sama is calling me,\p so I must go.Âv\e
+[0001dd|ru] ÂyTsukuyomiÂzÂuMy apologies, Takeru-sama.\p\p\nMeiya-sama is calling me,\p so I must go.Âv\e
 
 [000a71|en] That was very convenient timing...\p...\pwas that real?\e
 [000a71|ru] That was very convenient timing...\p...\pwas that real?\e
@@ -490,152 +490,152 @@ SCR 1 Shift-JIS
 [0001fe|en] Okay,\p now that that's decided, I'm off!!\e
 [0001fe|ru] Okay,\p now that that's decided, I'm off!!\e
 
-[000203|en] „Ÿ„Ÿ*click*\e 
-[000203|ru] „Ÿ„Ÿ*click*\e 
+[000203|en] â€Åºâ€Åº*click*\e 
+[000203|ru] â€Åºâ€Åº*click*\e 
 
-[000208|en] yTakeruzuOwa!!v\e
-[000208|ru] yTakeruzuOwa!!v\e
+[000208|en] ÂyTakeruÂzÂuOwa!!Âv\e
+[000208|ru] ÂyTakeruÂzÂuOwa!!Âv\e
 
-[000210|en] ySumikazuTakeru-chan, you in here`?v\e
-[000210|ru] ySumikazuTakeru-chan, you in here`?v\e
+[000210|en] ÂySumikaÂzÂuTakeru-chan, you in hereÂ`?Âv\e
+[000210|ru] ÂySumikaÂzÂuTakeru-chan, you in hereÂ`?Âv\e
 
-[000211|en] yTakeruzu...\p...\pask that before opening the door.v\e
-[000211|ru] yTakeruzu...\p...\pask that before opening the door.v\e
+[000211|en] ÂyTakeruÂzÂu...\p...\pask that before opening the door.Âv\e
+[000211|ru] ÂyTakeruÂzÂu...\p...\pask that before opening the door.Âv\e
 
-[000214|en] ySumikazuAh,\p you are.v\e
-[000214|ru] ySumikazuAh,\p you are.v\e
+[000214|en] ÂySumikaÂzÂuAh,\p you are.Âv\e
+[000214|ru] ÂySumikaÂzÂuAh,\p you are.Âv\e
 
-[000215|en] yTakeruzuShouldn't you be apologizing?v\e
-[000215|ru] yTakeruzuShouldn't you be apologizing?v\e
+[000215|en] ÂyTakeruÂzÂuShouldn't you be apologizing?Âv\e
+[000215|ru] ÂyTakeruÂzÂuShouldn't you be apologizing?Âv\e
 
-[000219|en] ySumikazuAs always,\p your room's a mess`v\e
-[000219|ru] ySumikazuAs always,\p your room's a mess`v\e
+[000219|en] ÂySumikaÂzÂuAs always,\p your room's a messÂ`Âv\e
+[000219|ru] ÂySumikaÂzÂuAs always,\p your room's a messÂ`Âv\e
 
-[00021a|en] yTakeruzuYou didn't need to say that.v\e
-[00021a|ru] yTakeruzuYou didn't need to say that.v\e
+[00021a|en] ÂyTakeruÂzÂuYou didn't need to say that.Âv\e
+[00021a|ru] ÂyTakeruÂzÂuYou didn't need to say that.Âv\e
 
-[00021d|en] ySumikazuYou are hopeless`v\e
-[00021d|ru] ySumikazuYou are hopeless`v\e
+[00021d|en] ÂySumikaÂzÂuYou are hopelessÂ`Âv\e
+[00021d|ru] ÂySumikaÂzÂuYou are hopelessÂ`Âv\e
 
-[00021e|en] yTakeruzuHey now,\p don't mess around with that stuff.v\e
-[00021e|ru] yTakeruzuHey now,\p don't mess around with that stuff.v\e
+[00021e|en] ÂyTakeruÂzÂuHey now,\p don't mess around with that stuff.Âv\e
+[00021e|ru] ÂyTakeruÂzÂuHey now,\p don't mess around with that stuff.Âv\e
 
-[000221|en] ySumikazuDo you have any porn mags in here?v\e
-[000221|ru] ySumikazuDo you have any porn mags in here?v\e
+[000221|en] ÂySumikaÂzÂuDo you have any porn mags in here?Âv\e
+[000221|ru] ÂySumikaÂzÂuDo you have any porn mags in here?Âv\e
 
-[000222|en] yTakeruzuIdiiiot.v\e
-[000222|ru] yTakeruzuIdiiiot.v\e
+[000222|en] ÂyTakeruÂzÂuIdiiiot.Âv\e
+[000222|ru] ÂyTakeruÂzÂuIdiiiot.Âv\e
 
-[000229|en] ySumikazuAh!\p You really do!v\e
-[000229|ru] ySumikazuAh!\p You really do!v\e
+[000229|en] ÂySumikaÂzÂuAh!\p You really do!Âv\e
+[000229|ru] ÂySumikaÂzÂuAh!\p You really do!Âv\e
 
 [00022b|en] Gyaaa!\e
 [00022b|ru] Gyaaa!\e
 
-[00022d|en] ySumikazuYou really are hopeless`v\e
-[00022d|ru] ySumikazuYou really are hopeless`v\e
+[00022d|en] ÂySumikaÂzÂuYou really are hopelessÂ`Âv\e
+[00022d|ru] ÂySumikaÂzÂuYou really are hopelessÂ`Âv\e
 
-[000233|en] „Ÿ„Ÿ*drop!*\e
-[000233|ru] „Ÿ„Ÿ*drop!*\e
+[000233|en] â€Åºâ€Åº*drop!*\e
+[000233|ru] â€Åºâ€Åº*drop!*\e
 
-[000236|en] yTakeruzuDon't throw them out with a smile!v\e
-[000236|ru] yTakeruzuDon't throw them out with a smile!v\e
+[000236|en] ÂyTakeruÂzÂuDon't throw them out with a smile!Âv\e
+[000236|ru] ÂyTakeruÂzÂuDon't throw them out with a smile!Âv\e
 
-[000238|en] ySumikazuShould I be mad?v\e
-[000238|ru] ySumikazuShould I be mad?v\e
+[000238|en] ÂySumikaÂzÂuShould I be mad?Âv\e
+[000238|ru] ÂySumikaÂzÂuShould I be mad?Âv\e
 
-[000239|en] yTakeruzuNo!v\e
-[000239|ru] yTakeruzuNo!v\e
+[000239|en] ÂyTakeruÂzÂuNo!Âv\e
+[000239|ru] ÂyTakeruÂzÂuNo!Âv\e
 
-[00023b|en] ySumikazuThen,\p I'll look sickened...\p...\p...\phu.v\e
-[00023b|ru] ySumikazuThen,\p I'll look sickened...\p...\p...\phu.v\e
+[00023b|en] ÂySumikaÂzÂuThen,\p I'll look sickened...\p...\p...\phu.Âv\e
+[00023b|ru] ÂySumikaÂzÂuThen,\p I'll look sickened...\p...\p...\phu.Âv\e
 
-[00023d|en] yTakeruzu...\p...\pthat face is annoying.\nYou're making way too much fun of me.v\e
-[00023d|ru] yTakeruzu...\p...\pthat face is annoying.\nYou're making way too much fun of me.v\e
+[00023d|en] ÂyTakeruÂzÂu...\p...\pthat face is annoying.\nYou're making way too much fun of me.Âv\e
+[00023d|ru] ÂyTakeruÂzÂu...\p...\pthat face is annoying.\nYou're making way too much fun of me.Âv\e
 
-[00023f|en] ySumikazuWouldn't you be embarrassed if everyone saw\nthese?v\e
-[00023f|ru] ySumikazuWouldn't you be embarrassed if everyone saw\nthese?v\e
+[00023f|en] ÂySumikaÂzÂuWouldn't you be embarrassed if everyone saw\nthese?Âv\e
+[00023f|ru] ÂySumikaÂzÂuWouldn't you be embarrassed if everyone saw\nthese?Âv\e
 
-[000240|en] yTakeruzu...\p...\p...\p...\pv\e
-[000240|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000240|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000240|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[000242|en] ySumikazuAnd so,\p I'll confiscate them.v\e
-[000242|ru] ySumikazuAnd so,\p I'll confiscate them.v\e
+[000242|en] ÂySumikaÂzÂuAnd so,\p I'll confiscate them.Âv\e
+[000242|ru] ÂySumikaÂzÂuAnd so,\p I'll confiscate them.Âv\e
 
-[000243|en] yTakeruzu...\p...\pyou...\p...\pwhat'd you come here for?v\e
-[000243|ru] yTakeruzu...\p...\pyou...\p...\pwhat'd you come here for?v\e
+[000243|en] ÂyTakeruÂzÂu...\p...\pyou...\p...\pwhat'd you come here for?Âv\e
+[000243|ru] ÂyTakeruÂzÂu...\p...\pyou...\p...\pwhat'd you come here for?Âv\e
 
-[000245|en] ySumikazuEh?\p\p I'm just waiting for the stew to finish\ncooking.v\e
-[000245|ru] ySumikazuEh?\p\p I'm just waiting for the stew to finish\ncooking.v\e
+[000245|en] ÂySumikaÂzÂuEh?\p\p I'm just waiting for the stew to finish\ncooking.Âv\e
+[000245|ru] ÂySumikaÂzÂuEh?\p\p I'm just waiting for the stew to finish\ncooking.Âv\e
 
-[000246|en] yTakeruzuAh,\p I see.v\e
-[000246|ru] yTakeruzuAh,\p I see.v\e
+[000246|en] ÂyTakeruÂzÂuAh,\p I see.Âv\e
+[000246|ru] ÂyTakeruÂzÂuAh,\p I see.Âv\e
 
-[000248|en] ySumikazuStill,\p it's been a long time since I was in\nTakeru-chan's room`v\e
-[000248|ru] ySumikazuStill,\p it's been a long time since I was in\nTakeru-chan's room`v\e
+[000248|en] ÂySumikaÂzÂuStill,\p it's been a long time since I was in\nTakeru-chan's roomÂ`Âv\e
+[000248|ru] ÂySumikaÂzÂuStill,\p it's been a long time since I was in\nTakeru-chan's roomÂ`Âv\e
 
-[00024a|en] yTakeruzuWhat're you talking about?\nDon't you come here every morning to wake me up?v\e
-[00024a|ru] yTakeruzuWhat're you talking about?\nDon't you come here every morning to wake me up?v\e
+[00024a|en] ÂyTakeruÂzÂuWhat're you talking about?\nDon't you come here every morning to wake me up?Âv\e
+[00024a|ru] ÂyTakeruÂzÂuWhat're you talking about?\nDon't you come here every morning to wake me up?Âv\e
 
-[00024d|en] ySumikazuNot that,\p\p I mean other than waking you up!\p\p\nWe can talk up here, after all...\p...\pv\e
-[00024d|ru] ySumikazuNot that,\p\p I mean other than waking you up!\p\p\nWe can talk up here, after all...\p...\pv\e
+[00024d|en] ÂySumikaÂzÂuNot that,\p\p I mean other than waking you up!\p\p\nWe can talk up here, after all...\p...\pÂv\e
+[00024d|ru] ÂySumikaÂzÂuNot that,\p\p I mean other than waking you up!\p\p\nWe can talk up here, after all...\p...\pÂv\e
 
-[00024e|en] yTakeruzuThat's true.v\e
-[00024e|ru] yTakeruzuThat's true.v\e
+[00024e|en] ÂyTakeruÂzÂuThat's true.Âv\e
+[00024e|ru] ÂyTakeruÂzÂuThat's true.Âv\e
 
-[000251|en] ySumikazuI used to come play here a lot.v\e
-[000251|ru] ySumikazuI used to come play here a lot.v\e
+[000251|en] ÂySumikaÂzÂuI used to come play here a lot.Âv\e
+[000251|ru] ÂySumikaÂzÂuI used to come play here a lot.Âv\e
 
-[000253|en] yTakeruzuI remember all the lame board games.v\e
-[000253|ru] yTakeruzuI remember all the lame board games.v\e
+[000253|en] ÂyTakeruÂzÂuI remember all the lame board games.Âv\e
+[000253|ru] ÂyTakeruÂzÂuI remember all the lame board games.Âv\e
 
-[000256|en] ySumikazuYeah, yeah!\p And there was that\nSpace-something TV show...\p...\pv\e
-[000256|ru] ySumikazuYeah, yeah!\p And there was that\nSpace-something TV show...\p...\pv\e
+[000256|en] ÂySumikaÂzÂuYeah, yeah!\p And there was that\nSpace-something TV show...\p...\pÂv\e
+[000256|ru] ÂySumikaÂzÂuYeah, yeah!\p And there was that\nSpace-something TV show...\p...\pÂv\e
 
-[000258|en] yTakeruzuSpace Secretary General Gorban?v\e
-[000258|ru] yTakeruzuSpace Secretary General Gorban?v\e
+[000258|en] ÂyTakeruÂzÂuSpace Secretary General Gorban?Âv\e
+[000258|ru] ÂyTakeruÂzÂuSpace Secretary General Gorban?Âv\e
 
-[00025b|en] ySumikazuSomething like that.\p\nI listened to a lot of CDs from that.v\e
-[00025b|ru] ySumikazuSomething like that.\p\nI listened to a lot of CDs from that.v\e
+[00025b|en] ÂySumikaÂzÂuSomething like that.\p\nI listened to a lot of CDs from that.Âv\e
+[00025b|ru] ÂySumikaÂzÂuSomething like that.\p\nI listened to a lot of CDs from that.Âv\e
 
-[00025c|en] yTakeruzuThat does sound familiar...\p...\pv\e
-[00025c|ru] yTakeruzuThat does sound familiar...\p...\pv\e
+[00025c|en] ÂyTakeruÂzÂuThat does sound familiar...\p...\pÂv\e
+[00025c|ru] ÂyTakeruÂzÂuThat does sound familiar...\p...\pÂv\e
 
-[00025f|en] ySumikazuIt really takes me back...\p...\pv\e
-[00025f|ru] ySumikazuIt really takes me back...\p...\pv\e
+[00025f|en] ÂySumikaÂzÂuIt really takes me back...\p...\pÂv\e
+[00025f|ru] ÂySumikaÂzÂuIt really takes me back...\p...\pÂv\e
 
 [000262|en] *pi-piiiiii!!!*\e
 [000262|ru] *pi-piiiiii!!!*\e
 
-[000275|en] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
-[000275|ru] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
+[000275|en] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
+[000275|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
 
-[000278|en] yTakeruzuWh-\pwhaaat?v\e
-[000278|ru] yTakeruzuWh-\pwhaaat?v\e
+[000278|en] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
+[000278|ru] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
 
-[00027a|en] yKamiyozuUntil the contest is decided,\p\nit is forbidden to speak to Takeru-sama!!v\e
-[00027a|ru] yKamiyozuUntil the contest is decided,\p\nit is forbidden to speak to Takeru-sama!!v\e
+[00027a|en] ÂyKamiyoÂzÂuUntil the contest is decided,\p\nit is forbidden to speak to Takeru-sama!!Âv\e
+[00027a|ru] ÂyKamiyoÂzÂuUntil the contest is decided,\p\nit is forbidden to speak to Takeru-sama!!Âv\e
 
-[00027c|en] yTomoezuIt is forbidden.v\e
-[00027c|ru] yTomoezuIt is forbidden.v\e
+[00027c|en] ÂyTomoeÂzÂuIt is forbidden.Âv\e
+[00027c|ru] ÂyTomoeÂzÂuIt is forbidden.Âv\e
 
-[00027e|en] yEbisuzuYou simply must not do that``v\e
-[00027e|ru] yEbisuzuYou simply must not do that``v\e
+[00027e|en] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
+[00027e|ru] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
 
-[000283|en] yKamiyo & Tomoe & EbisuzuTake her awaaay!!\p Oooooh!!v\e
-[000283|ru] yKamiyo & Tomoe & EbisuzuTake her awaaay!!\p Oooooh!!v\e
+[000283|en] ÂyKamiyo & Tomoe & EbisuÂzÂuTake her awaaay!!\p Oooooh!!Âv\e
+[000283|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuTake her awaaay!!\p Oooooh!!Âv\e
 
-[00028b|en] ySumikazuKyaaaaaaa...\p...\pTa-\pTakeru-chaaaaaaaaan...\p...\pv\e
-[00028b|ru] ySumikazuKyaaaaaaa...\p...\pTa-\pTakeru-chaaaaaaaaan...\p...\pv\e
+[00028b|en] ÂySumikaÂzÂuKyaaaaaaa...\p...\pTa-\pTakeru-chaaaaaaaaan...\p...\pÂv\e
+[00028b|ru] ÂySumikaÂzÂuKyaaaaaaa...\p...\pTa-\pTakeru-chaaaaaaaaan...\p...\pÂv\e
 
-[00028e|en] yTakeruzu...\p...\p...\p...\ptake care...\p...\pv\e
-[00028e|ru] yTakeruzu...\p...\p...\p...\ptake care...\p...\pv\e
+[00028e|en] ÂyTakeruÂzÂu...\p...\p...\p...\ptake care...\p...\pÂv\e
+[00028e|ru] ÂyTakeruÂzÂu...\p...\p...\p...\ptake care...\p...\pÂv\e
 
 [000293|en] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 [000293|ru] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 
-[00029c|en] yTakeruzu*cough!* So much dust...v\e
-[00029c|ru] yTakeruzu*cough!* So much dust...v\e
+[00029c|en] ÂyTakeruÂzÂu*cough!* So much dust...Âv\e
+[00029c|ru] ÂyTakeruÂzÂu*cough!* So much dust...Âv\e
 
 [00029d|en] ...\p...\p...\p...\pand now I'm alone again.\e
 [00029d|ru] ...\p...\p...\p...\pand now I'm alone again.\e
@@ -652,56 +652,56 @@ SCR 1 Shift-JIS
 [0002a8|en] Okay,\p now that that's decided, I'm off!!\e
 [0002a8|ru] Okay,\p now that that's decided, I'm off!!\e
 
-[0002ad|en] „Ÿ„Ÿ*knock* *knock*\e
-[0002ad|ru] „Ÿ„Ÿ*knock* *knock*\e
+[0002ad|en] â€Åºâ€Åº*knock* *knock*\e
+[0002ad|ru] â€Åºâ€Åº*knock* *knock*\e
 
 [0002ae|en] Oh?\e
 [0002ae|ru] Oh?\e
 
-[0002b2|en] yMeiyazuTakeru?\p May I come in?v\e
-[0002b2|ru] yMeiyazuTakeru?\p May I come in?v\e
+[0002b2|en] ÂyMeiyaÂzÂuTakeru?\p May I come in?Âv\e
+[0002b2|ru] ÂyMeiyaÂzÂuTakeru?\p May I come in?Âv\e
 
-[0002b3|en] yTakeruzuHm? That you Meiya?\p Sure.v\e
-[0002b3|ru] yTakeruzuHm? That you Meiya?\p Sure.v\e
+[0002b3|en] ÂyTakeruÂzÂuHm? That you Meiya?\p Sure.Âv\e
+[0002b3|ru] ÂyTakeruÂzÂuHm? That you Meiya?\p Sure.Âv\e
 
-[0002c1|en] yMeiyazu...\p...\p...\p...\pv\e
-[0002c1|ru] yMeiyazu...\p...\p...\p...\pv\e
+[0002c1|en] ÂyMeiyaÂzÂu...\p...\p...\p...\pÂv\e
+[0002c1|ru] ÂyMeiyaÂzÂu...\p...\p...\p...\pÂv\e
 
 [0002c3|en] Why're you looking around so much?\e
 [0002c3|ru] Why're you looking around so much?\e
 
-[0002c6|en] yMeiyazuKamiyo and the others have not cleaned this\nplace?v\e
-[0002c6|ru] yMeiyazuKamiyo and the others have not cleaned this\nplace?v\e
+[0002c6|en] ÂyMeiyaÂzÂuKamiyo and the others have not cleaned this\nplace?Âv\e
+[0002c6|ru] ÂyMeiyaÂzÂuKamiyo and the others have not cleaned this\nplace?Âv\e
 
-[0002c8|en] yTakeruzuNo,\p they did.v\e
-[0002c8|ru] yTakeruzuNo,\p they did.v\e
+[0002c8|en] ÂyTakeruÂzÂuNo,\p they did.Âv\e
+[0002c8|ru] ÂyTakeruÂzÂuNo,\p they did.Âv\e
 
 [0002c9|en] ...\p...\pthe first time the three idiots appeared\nhere...\p...\pwell...\p...\ptechnically that was cleaning.\e
 [0002c9|ru] ...\p...\pthe first time the three idiots appeared\nhere...\p...\pwell...\p...\ptechnically that was cleaning.\e
 
-[0002cb|en] yMeiyazu...\p...\pI see.\p\p And yet it is still in disorder.v\e
-[0002cb|ru] yMeiyazu...\p...\pI see.\p\p And yet it is still in disorder.v\e
+[0002cb|en] ÂyMeiyaÂzÂu...\p...\pI see.\p\p And yet it is still in disorder.Âv\e
+[0002cb|ru] ÂyMeiyaÂzÂu...\p...\pI see.\p\p And yet it is still in disorder.Âv\e
 
-[0002cc|en] yTakeruzu...\p...\pthat's probably just me making a mess.v\e
-[0002cc|ru] yTakeruzu...\p...\pthat's probably just me making a mess.v\e
+[0002cc|en] ÂyTakeruÂzÂu...\p...\pthat's probably just me making a mess.Âv\e
+[0002cc|ru] ÂyTakeruÂzÂu...\p...\pthat's probably just me making a mess.Âv\e
 
-[0002ce|en] yMeiyazuIf one is aware of the reality,\p all that remains is\nto remake it.v\e
-[0002ce|ru] yMeiyazuIf one is aware of the reality,\p all that remains is\nto remake it.v\e
+[0002ce|en] ÂyMeiyaÂzÂuIf one is aware of the reality,\p all that remains is\nto remake it.Âv\e
+[0002ce|ru] ÂyMeiyaÂzÂuIf one is aware of the reality,\p all that remains is\nto remake it.Âv\e
 
-[0002cf|en] yTakeruzuYeah,\p but one's body and mind are different\nthings.v\e
-[0002cf|ru] yTakeruzuYeah,\p but one's body and mind are different\nthings.v\e
+[0002cf|en] ÂyTakeruÂzÂuYeah,\p but one's body and mind are different\nthings.Âv\e
+[0002cf|ru] ÂyTakeruÂzÂuYeah,\p but one's body and mind are different\nthings.Âv\e
 
-[0002d1|en] yMeiyazuYes,\p I see.\p\p\nTsukuyomi once told me something similar.v\e
-[0002d1|ru] yMeiyazuYes,\p I see.\p\p\nTsukuyomi once told me something similar.v\e
+[0002d1|en] ÂyMeiyaÂzÂuYes,\p I see.\p\p\nTsukuyomi once told me something similar.Âv\e
+[0002d1|ru] ÂyMeiyaÂzÂuYes,\p I see.\p\p\nTsukuyomi once told me something similar.Âv\e
 
-[0002d2|en] yTakeruzuEh?v\e
-[0002d2|ru] yTakeruzuEh?v\e
+[0002d2|en] ÂyTakeruÂzÂuEh?Âv\e
+[0002d2|ru] ÂyTakeruÂzÂuEh?Âv\e
 
-[0002d4|en] yMeiyazu"The body will react in ways contrary to the\nheart."\p She spoke of such phenomena.v\e
-[0002d4|ru] yMeiyazu"The body will react in ways contrary to the\nheart."\p She spoke of such phenomena.v\e
+[0002d4|en] ÂyMeiyaÂzÂu"The body will react in ways contrary to the\nheart."\p She spoke of such phenomena.Âv\e
+[0002d4|ru] ÂyMeiyaÂzÂu"The body will react in ways contrary to the\nheart."\p She spoke of such phenomena.Âv\e
 
-[0002d5|en] yTakeruzu...\p...\p...\p...\pv\e
-[0002d5|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0002d5|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0002d5|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0002d7|en] That's...\p...\pan extremely blunt statement.\e
 [0002d7|ru] That's...\p...\pan extremely blunt statement.\e
@@ -709,17 +709,17 @@ SCR 1 Shift-JIS
 [0002d8|en] Tsukuyomi-san,\p what've you been teaching her?\e
 [0002d8|ru] Tsukuyomi-san,\p what've you been teaching her?\e
 
-[0002db|en] yMeiyazu...\p...\pwhat is it? Was she wrong?v\e
-[0002db|ru] yMeiyazu...\p...\pwhat is it? Was she wrong?v\e
+[0002db|en] ÂyMeiyaÂzÂu...\p...\pwhat is it? Was she wrong?Âv\e
+[0002db|ru] ÂyMeiyaÂzÂu...\p...\pwhat is it? Was she wrong?Âv\e
 
-[0002dc|en] yTakeruzuWell...\p...\pno,\p I guess that's about right.v\e
-[0002dc|ru] yTakeruzuWell...\p...\pno,\p I guess that's about right.v\e
+[0002dc|en] ÂyTakeruÂzÂuWell...\p...\pno,\p I guess that's about right.Âv\e
+[0002dc|ru] ÂyTakeruÂzÂuWell...\p...\pno,\p I guess that's about right.Âv\e
 
-[0002df|en] yMeiyazuI see.\p\p\n ...\p...\pif I may ask another question,\p what is this?v\e
-[0002df|ru] yMeiyazuI see.\p\p\n ...\p...\pif I may ask another question,\p what is this?v\e
+[0002df|en] ÂyMeiyaÂzÂuI see.\p\p\n ...\p...\pif I may ask another question,\p what is this?Âv\e
+[0002df|ru] ÂyMeiyaÂzÂuI see.\p\p\n ...\p...\pif I may ask another question,\p what is this?Âv\e
 
-[0002e1|en] yTakeruzu...\p...\p...\p...\pv\e
-[0002e1|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0002e1|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0002e1|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0002e2|en] Please don't ask me so innocently.\e
 [0002e2|ru] Please don't ask me so innocently.\e
@@ -727,125 +727,125 @@ SCR 1 Shift-JIS
 [0002e5|en] Those are porn magazines.\e
 [0002e5|ru] Those are porn magazines.\e
 
-[0002e9|en] yTakeruzuMeiya,\p where did you find those?v\e
-[0002e9|ru] yTakeruzuMeiya,\p where did you find those?v\e
+[0002e9|en] ÂyTakeruÂzÂuMeiya,\p where did you find those?Âv\e
+[0002e9|ru] ÂyTakeruÂzÂuMeiya,\p where did you find those?Âv\e
 
-[0002ed|en] yMeiyazuOh,\p they were lying on the floor.v\e
-[0002ed|ru] yMeiyazuOh,\p they were lying on the floor.v\e
+[0002ed|en] ÂyMeiyaÂzÂuOh,\p they were lying on the floor.Âv\e
+[0002ed|ru] ÂyMeiyaÂzÂuOh,\p they were lying on the floor.Âv\e
 
-[0002ee|en] yTakeruzu...\p...\p...\p...\pv\e
-[0002ee|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0002ee|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0002ee|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0002f0|en] yMeiyazuBack to my question.\p\p\nWhy are these women not wearing anything?v\e
-[0002f0|ru] yMeiyazuBack to my question.\p\p\nWhy are these women not wearing anything?v\e
+[0002f0|en] ÂyMeiyaÂzÂuBack to my question.\p\p\nWhy are these women not wearing anything?Âv\e
+[0002f0|ru] ÂyMeiyaÂzÂuBack to my question.\p\p\nWhy are these women not wearing anything?Âv\e
 
-[0002f2|en] yTakeruzuTh-\pthat's because...\p...\p...\p...\pv\e
-[0002f2|ru] yTakeruzuTh-\pthat's because...\p...\p...\p...\pv\e
+[0002f2|en] ÂyTakeruÂzÂuTh-\pthat's because...\p...\p...\p...\pÂv\e
+[0002f2|ru] ÂyTakeruÂzÂuTh-\pthat's because...\p...\p...\p...\pÂv\e
 
-[0002fa|en] yTsukuyomizuMeiya-sama,\p that is because...\p...\p...\p...\pv\e
-[0002fa|ru] yTsukuyomizuMeiya-sama,\p that is because...\p...\p...\p...\pv\e
+[0002fa|en] ÂyTsukuyomiÂzÂuMeiya-sama,\p that is because...\p...\p...\p...\pÂv\e
+[0002fa|ru] ÂyTsukuyomiÂzÂuMeiya-sama,\p that is because...\p...\p...\p...\pÂv\e
 
-[000302|en] yTakeruzu...\p...\p...\p...\pv\e
-[000302|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000302|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000302|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [000304|en] You're not telling her weird things again, are you?\e
 [000304|ru] You're not telling her weird things again, are you?\e
 
-[000307|en] yTsukuyomizu...\p...\pit is something like that.v\e
-[000307|ru] yTsukuyomizu...\p...\pit is something like that.v\e
+[000307|en] ÂyTsukuyomiÂzÂu...\p...\pit is something like that.Âv\e
+[000307|ru] ÂyTsukuyomiÂzÂu...\p...\pit is something like that.Âv\e
 
-[000309|en] yMeiyazuYes,\p I see.v\e
-[000309|ru] yMeiyazuYes,\p I see.v\e
+[000309|en] ÂyMeiyaÂzÂuYes,\p I see.Âv\e
+[000309|ru] ÂyMeiyaÂzÂuYes,\p I see.Âv\e
 
 [00030a|en] I wonder how she explained them...\p...\e
 [00030a|ru] I wonder how she explained them...\p...\e
 
-[00030c|en] yMeiyazuHuhu...\p...\pyou really are...\p...\p...\p...\p There is no need to\nrely on such things, Takeru,\p when I am here for you.v\e
-[00030c|ru] yMeiyazuHuhu...\p...\pyou really are...\p...\p...\p...\p There is no need to\nrely on such things, Takeru,\p when I am here for you.v\e
+[00030c|en] ÂyMeiyaÂzÂuHuhu...\p...\pyou really are...\p...\p...\p...\p There is no need to\nrely on such things, Takeru,\p when I am here for you.Âv\e
+[00030c|ru] ÂyMeiyaÂzÂuHuhu...\p...\pyou really are...\p...\p...\p...\p There is no need to\nrely on such things, Takeru,\p when I am here for you.Âv\e
 
-[00030d|en] yTakeruzuUmmm...\p...\pwait a...\p...\pTsukuyomi-san?v\e
-[00030d|ru] yTakeruzuUmmm...\p...\pwait a...\p...\pTsukuyomi-san?v\e
+[00030d|en] ÂyTakeruÂzÂuUmmm...\p...\pwait a...\p...\pTsukuyomi-san?Âv\e
+[00030d|ru] ÂyTakeruÂzÂuUmmm...\p...\pwait a...\p...\pTsukuyomi-san?Âv\e
 
-[000310|en] yTsukuyomizuTake your time now.v\e
-[000310|ru] yTsukuyomizuTake your time now.v\e
+[000310|en] ÂyTsukuyomiÂzÂuTake your time now.Âv\e
+[000310|ru] ÂyTsukuyomiÂzÂuTake your time now.Âv\e
 
-[00031a|en] yMeiyazuTakeru?v\e
-[00031a|ru] yMeiyazuTakeru?v\e
+[00031a|en] ÂyMeiyaÂzÂuTakeru?Âv\e
+[00031a|ru] ÂyMeiyaÂzÂuTakeru?Âv\e
 
-[00031d|en] yTakeruzuH-\phey...\p...\pMeiya?v\e
-[00031d|ru] yTakeruzuH-\phey...\p...\pMeiya?v\e
+[00031d|en] ÂyTakeruÂzÂuH-\phey...\p...\pMeiya?Âv\e
+[00031d|ru] ÂyTakeruÂzÂuH-\phey...\p...\pMeiya?Âv\e
 
 [00031f|en] *pi-piiiiii!!!*\e
 [00031f|ru] *pi-piiiiii!!!*\e
 
-[000331|en] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
-[000331|ru] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
+[000331|en] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
+[000331|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
 
-[000335|en] yTakeruzuWh-\pwhaaat?v\e
-[000335|ru] yTakeruzuWh-\pwhaaat?v\e
+[000335|en] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
+[000335|ru] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
 
-[000337|en] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
-[000337|ru] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
+[000337|en] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
+[000337|ru] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
 
-[000339|en] yTomoezuIt is forbidden.v\e
-[000339|ru] yTomoezuIt is forbidden.v\e
+[000339|en] ÂyTomoeÂzÂuIt is forbidden.Âv\e
+[000339|ru] ÂyTomoeÂzÂuIt is forbidden.Âv\e
 
-[00033b|en] yEbisuzuYou simply must not do that``v\e
-[00033b|ru] yEbisuzuYou simply must not do that``v\e
+[00033b|en] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
+[00033b|ru] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
 
-[00033e|en] yKamiyozuH-...\p...\phuh?v\e
-[00033e|ru] yKamiyozuH-...\p...\phuh?v\e
+[00033e|en] ÂyKamiyoÂzÂuH-...\p...\phuh?Âv\e
+[00033e|ru] ÂyKamiyoÂzÂuH-...\p...\phuh?Âv\e
 
-[000343|en] yKamiyo & Tomoe & EbisuzuMeiya-sama!!?v\e
-[000343|ru] yKamiyo & Tomoe & EbisuzuMeiya-sama!!?v\e
+[000343|en] ÂyKamiyo & Tomoe & EbisuÂzÂuMeiya-sama!!?Âv\e
+[000343|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuMeiya-sama!!?Âv\e
 
-[000346|en] yMeiyazuWhat?\p I did not know...\p...\p...\p...\psuch a decision had\nbeen made.\p Forgive me.\p Well then, Takeru,\p since it is a\nrule...\p...\pv\e
-[000346|ru] yMeiyazuWhat?\p I did not know...\p...\p...\p...\psuch a decision had\nbeen made.\p Forgive me.\p Well then, Takeru,\p since it is a\nrule...\p...\pv\e
+[000346|en] ÂyMeiyaÂzÂuWhat?\p I did not know...\p...\p...\p...\psuch a decision had\nbeen made.\p Forgive me.\p Well then, Takeru,\p since it is a\nrule...\p...\pÂv\e
+[000346|ru] ÂyMeiyaÂzÂuWhat?\p I did not know...\p...\p...\p...\psuch a decision had\nbeen made.\p Forgive me.\p Well then, Takeru,\p since it is a\nrule...\p...\pÂv\e
 
-[000348|en] yTakeruzuAh,\p yeah...\p...\pv\e
-[000348|ru] yTakeruzuAh,\p yeah...\p...\pv\e
+[000348|en] ÂyTakeruÂzÂuAh,\p yeah...\p...\pÂv\e
+[000348|ru] ÂyTakeruÂzÂuAh,\p yeah...\p...\pÂv\e
 
-[000356|en] yTomoezuHawawawa...\p...\pwhat do we do...\p...\p...\p\nTatsumi, Minagi, you shouldn't have done that!!v\e
-[000356|ru] yTomoezuHawawawa...\p...\pwhat do we do...\p...\p...\p\nTatsumi, Minagi, you shouldn't have done that!!v\e
+[000356|en] ÂyTomoeÂzÂuHawawawa...\p...\pwhat do we do...\p...\p...\p\nTatsumi, Minagi, you shouldn't have done that!!Âv\e
+[000356|ru] ÂyTomoeÂzÂuHawawawa...\p...\pwhat do we do...\p...\p...\p\nTatsumi, Minagi, you shouldn't have done that!!Âv\e
 
-[00035a|en] yKamiyozuYukino, you're the one who opened the door\nwithout checking who it was!!v\e
-[00035a|ru] yKamiyozuYukino, you're the one who opened the door\nwithout checking who it was!!v\e
+[00035a|en] ÂyKamiyoÂzÂuYukino, you're the one who opened the door\nwithout checking who it was!!Âv\e
+[00035a|ru] ÂyKamiyoÂzÂuYukino, you're the one who opened the door\nwithout checking who it was!!Âv\e
 
-[00035d|en] yTomoezuBut! But!v\e
-[00035d|ru] yTomoezuBut! But!v\e
+[00035d|en] ÂyTomoeÂzÂuBut! But!Âv\e
+[00035d|ru] ÂyTomoeÂzÂuBut! But!Âv\e
 
-[00035f|en] yEbisuzuOur plan has been wasted``v\e
-[00035f|ru] yEbisuzuOur plan has been wasted``v\e
+[00035f|en] ÂyEbisuÂzÂuOur plan has been wastedÂ`Â`Âv\e
+[00035f|ru] ÂyEbisuÂzÂuOur plan has been wastedÂ`Â`Âv\e
 
-[000361|en] yTakeruzu...\p...\pplan?v\e
-[000361|ru] yTakeruzu...\p...\pplan?v\e
+[000361|en] ÂyTakeruÂzÂu...\p...\pplan?Âv\e
+[000361|ru] ÂyTakeruÂzÂu...\p...\pplan?Âv\e
 
-[000366|en] yKamiyo & Tomoe & EbisuzuGeh!!v\e
-[000366|ru] yKamiyo & Tomoe & EbisuzuGeh!!v\e
+[000366|en] ÂyKamiyo & Tomoe & EbisuÂzÂuGeh!!Âv\e
+[000366|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuGeh!!Âv\e
 
-[000367|en] yTakeruzuWhat plan?v\e
-[000367|ru] yTakeruzuWhat plan?v\e
+[000367|en] ÂyTakeruÂzÂuWhat plan?Âv\e
+[000367|ru] ÂyTakeruÂzÂuWhat plan?Âv\e
 
-[000369|en] yKamiyozuW-w-we can't say!v\e
-[000369|ru] yKamiyozuW-w-we can't say!v\e
+[000369|en] ÂyKamiyoÂzÂuW-w-we can't say!Âv\e
+[000369|ru] ÂyKamiyoÂzÂuW-w-we can't say!Âv\e
 
-[00036b|en] yTomoezuThen here's your first hint!\p\nOnly Meiya-sama is allowed to talk to you!!v\e
-[00036b|ru] yTomoezuThen here's your first hint!\p\nOnly Meiya-sama is allowed to talk to you!!v\e
+[00036b|en] ÂyTomoeÂzÂuThen here's your first hint!\p\nOnly Meiya-sama is allowed to talk to you!!Âv\e
+[00036b|ru] ÂyTomoeÂzÂuThen here's your first hint!\p\nOnly Meiya-sama is allowed to talk to you!!Âv\e
 
-[00036c|en] yTakeruzu...\p...\pisn't that the answer?\p\nAnd didn't you make a mistake like this once before?v\e
-[00036c|ru] yTakeruzu...\p...\pisn't that the answer?\p\nAnd didn't you make a mistake like this once before?v\e
+[00036c|en] ÂyTakeruÂzÂu...\p...\pisn't that the answer?\p\nAnd didn't you make a mistake like this once before?Âv\e
+[00036c|ru] ÂyTakeruÂzÂu...\p...\pisn't that the answer?\p\nAnd didn't you make a mistake like this once before?Âv\e
 
-[00036e|en] yTomoezuGegeh!!v\e
-[00036e|ru] yTomoezuGegeh!!v\e
+[00036e|en] ÂyTomoeÂzÂuGegeh!!Âv\e
+[00036e|ru] ÂyTomoeÂzÂuGegeh!!Âv\e
 
-[000372|en] yKamiyozu...\p...\p...\p...\pv\e
-[000372|ru] yKamiyozu...\p...\p...\p...\pv\e
+[000372|en] ÂyKamiyoÂzÂu...\p...\p...\p...\pÂv\e
+[000372|ru] ÂyKamiyoÂzÂu...\p...\p...\p...\pÂv\e
 
-[000373|en] yEbisuzu...\p...\p...\p...\pv\e
-[000373|ru] yEbisuzu...\p...\p...\p...\pv\e
+[000373|en] ÂyEbisuÂzÂu...\p...\p...\p...\pÂv\e
+[000373|ru] ÂyEbisuÂzÂu...\p...\p...\p...\pÂv\e
 
-[000378|en] yKamiyo & Tomoe & EbisuzuRetreat!!\p Oooooh!!v\e
-[000378|ru] yKamiyo & Tomoe & EbisuzuRetreat!!\p Oooooh!!v\e
+[000378|en] ÂyKamiyo & Tomoe & EbisuÂzÂuRetreat!!\p Oooooh!!Âv\e
+[000378|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuRetreat!!\p Oooooh!!Âv\e
 
 [000381|en] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 [000381|ru] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
@@ -859,17 +859,17 @@ SCR 1 Shift-JIS
 [000391|en] Okay,\p now that that's decided, let's gooo!!\e
 [000391|ru] Okay,\p now that that's decided, let's gooo!!\e
 
-[0003a0|en] yTakeruzuOwwwww!!v\e
-[0003a0|ru] yTakeruzuOwwwww!!v\e
+[0003a0|en] ÂyTakeruÂzÂuOwwwww!!Âv\e
+[0003a0|ru] ÂyTakeruÂzÂuOwwwww!!Âv\e
 
-[0003a8|en] yMikizuYaaay,\p Takeru-san's room.v\e
-[0003a8|ru] yMikizuYaaay,\p Takeru-san's room.v\e
+[0003a8|en] ÂyMikiÂzÂuYaaay,\p Takeru-san's room.Âv\e
+[0003a8|ru] ÂyMikiÂzÂuYaaay,\p Takeru-san's room.Âv\e
 
-[0003aa|en] yTakeruzu...\p...\phey.v\e
-[0003aa|ru] yTakeruzu...\p...\phey.v\e
+[0003aa|en] ÂyTakeruÂzÂu...\p...\phey.Âv\e
+[0003aa|ru] ÂyTakeruÂzÂu...\p...\phey.Âv\e
 
-[0003ac|en] yMikizuUwaaa,\p it's so messy.v\e
-[0003ac|ru] yMikizuUwaaa,\p it's so messy.v\e
+[0003ac|en] ÂyMikiÂzÂuUwaaa,\p it's so messy.Âv\e
+[0003ac|ru] ÂyMikiÂzÂuUwaaa,\p it's so messy.Âv\e
 
 [0003ae|en] That's the first thing you say after barging in here...\p...\p?\e
 [0003ae|ru] That's the first thing you say after barging in here...\p...\p?\e
@@ -880,62 +880,62 @@ SCR 1 Shift-JIS
 [0003b0|en] Those three tidied up the place,\p so why's it this bad\nalready...\p...\p\e
 [0003b0|ru] Those three tidied up the place,\p so why's it this bad\nalready...\p...\p\e
 
-[0003b2|en] yMikizuIt feels like some weird creatures might start\ngrowing in here.v\e
-[0003b2|ru] yMikizuIt feels like some weird creatures might start\ngrowing in here.v\e
+[0003b2|en] ÂyMikiÂzÂuIt feels like some weird creatures might start\ngrowing in here.Âv\e
+[0003b2|ru] ÂyMikiÂzÂuIt feels like some weird creatures might start\ngrowing in here.Âv\e
 
 [0003b3|en] 'Creatures' just grow out of the floor?\e
 [0003b3|ru] 'Creatures' just grow out of the floor?\e
 
-[0003b5|en] yMikizuAh,\p what's this?v\e
-[0003b5|ru] yMikizuAh,\p what's this?v\e
+[0003b5|en] ÂyMikiÂzÂuAh,\p what's this?Âv\e
+[0003b5|ru] ÂyMikiÂzÂuAh,\p what's this?Âv\e
 
 [0003b8|en] Don't mess with stuff in other people's rooms.\e
 [0003b8|ru] Don't mess with stuff in other people's rooms.\e
 
-[0003b9|en] yTakeruzu...\p...\p...\p...\pv\e
-[0003b9|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0003b9|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0003b9|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0003ba|en] No point in telling her not to.\e
 [0003ba|ru] No point in telling her not to.\e
 
-[0003bd|en] yMikizuHuuuh?\p What is that...\p...\p...\p...\p...\puwaaa,\p amaziiing.v\e
-[0003bd|ru] yMikizuHuuuh?\p What is that...\p...\p...\p...\p...\puwaaa,\p amaziiing.v\e
+[0003bd|en] ÂyMikiÂzÂuHuuuh?\p What is that...\p...\p...\p...\p...\puwaaa,\p amaziiing.Âv\e
+[0003bd|ru] ÂyMikiÂzÂuHuuuh?\p What is that...\p...\p...\p...\p...\puwaaa,\p amaziiing.Âv\e
 
-[0003be|en] yTakeruzu...\p...\pwhat is it,\p Tama?\p What'd you find?v\e
-[0003be|ru] yTakeruzu...\p...\pwhat is it,\p Tama?\p What'd you find?v\e
+[0003be|en] ÂyTakeruÂzÂu...\p...\pwhat is it,\p Tama?\p What'd you find?Âv\e
+[0003be|ru] ÂyTakeruÂzÂu...\p...\pwhat is it,\p Tama?\p What'd you find?Âv\e
 
-[0003c0|en] yMikizuThis thing.v\e
-[0003c0|ru] yMikizuThis thing.v\e
+[0003c0|en] ÂyMikiÂzÂuThis thing.Âv\e
+[0003c0|ru] ÂyMikiÂzÂuThis thing.Âv\e
 
-[0003c1|en] yTakeruzu...\p...\poooh,\p what do we have here...\p...\psuch\nseductive postures...\p...\p This is an intense porn\nmagazine...\p...\pwait,\p Ta-\pTama,\p where'd you find this!?v\e
-[0003c1|ru] yTakeruzu...\p...\poooh,\p what do we have here...\p...\psuch\nseductive postures...\p...\p This is an intense porn\nmagazine...\p...\pwait,\p Ta-\pTama,\p where'd you find this!?v\e
+[0003c1|en] ÂyTakeruÂzÂu...\p...\poooh,\p what do we have here...\p...\psuch\nseductive postures...\p...\p This is an intense porn\nmagazine...\p...\pwait,\p Ta-\pTama,\p where'd you find this!?Âv\e
+[0003c1|ru] ÂyTakeruÂzÂu...\p...\poooh,\p what do we have here...\p...\psuch\nseductive postures...\p...\p This is an intense porn\nmagazine...\p...\pwait,\p Ta-\pTama,\p where'd you find this!?Âv\e
 
-[0003c3|en] yMikizuThey were under the bed.\p\nLooks like there's a lot more.\p\nI'll go get the rest.v\e
-[0003c3|ru] yMikizuThey were under the bed.\p\nLooks like there's a lot more.\p\nI'll go get the rest.v\e
+[0003c3|en] ÂyMikiÂzÂuThey were under the bed.\p\nLooks like there's a lot more.\p\nI'll go get the rest.Âv\e
+[0003c3|ru] ÂyMikiÂzÂuThey were under the bed.\p\nLooks like there's a lot more.\p\nI'll go get the rest.Âv\e
 
-[0003c7|en] „Ÿ„Ÿ*grab*\e
-[0003c7|ru] „Ÿ„Ÿ*grab*\e
+[0003c7|en] â€Åºâ€Åº*grab*\e
+[0003c7|ru] â€Åºâ€Åº*grab*\e
 
-[0003cb|en] yMikizuHuh?\p I can't move forward...\p...v\e
-[0003cb|ru] yMikizuHuh?\p I can't move forward...\p...v\e
+[0003cb|en] ÂyMikiÂzÂuHuh?\p I can't move forward...\p...Âv\e
+[0003cb|ru] ÂyMikiÂzÂuHuh?\p I can't move forward...\p...Âv\e
 
 [0003cc|en] That's because I'm holding onto your head.\e
 [0003cc|ru] That's because I'm holding onto your head.\e
 
-[0003cd|en] yTakeruzuYou don't need to go get them.\p\nInstead, go put these back.v\e
-[0003cd|ru] yTakeruzuYou don't need to go get them.\p\nInstead, go put these back.v\e
+[0003cd|en] ÂyTakeruÂzÂuYou don't need to go get them.\p\nInstead, go put these back.Âv\e
+[0003cd|ru] ÂyTakeruÂzÂuYou don't need to go get them.\p\nInstead, go put these back.Âv\e
 
-[0003d1|en] yMikizuOkaaay,\p will do.v\e
-[0003d1|ru] yMikizuOkaaay,\p will do.v\e
+[0003d1|en] ÂyMikiÂzÂuOkaaay,\p will do.Âv\e
+[0003d1|ru] ÂyMikiÂzÂuOkaaay,\p will do.Âv\e
 
 [0003d4|en] Such a hassle.\e
 [0003d4|ru] Such a hassle.\e
 
-[0003d9|en] yMikizuHere,\p Takeru-san,\p there were a ton.v\e
-[0003d9|ru] yMikizuHere,\p Takeru-san,\p there were a ton.v\e
+[0003d9|en] ÂyMikiÂzÂuHere,\p Takeru-san,\p there were a ton.Âv\e
+[0003d9|ru] ÂyMikiÂzÂuHere,\p Takeru-san,\p there were a ton.Âv\e
 
-[0003da|en] yTakeruzu„Ÿ„ŸDon't bring them here!!v\e
-[0003da|ru] yTakeruzu„Ÿ„ŸDon't bring them here!!v\e
+[0003da|en] ÂyTakeruÂzÂuâ€Åºâ€ÅºDon't bring them here!!Âv\e
+[0003da|ru] ÂyTakeruÂzÂuâ€Åºâ€ÅºDon't bring them here!!Âv\e
 
 [0003e3|en] Maybe...\p...\p...\pTama's just playing with me?\e
 [0003e3|ru] Maybe...\p...\p...\pTama's just playing with me?\e
@@ -943,29 +943,29 @@ SCR 1 Shift-JIS
 [0003e8|en] *pi-piiiiii!!!*\e
 [0003e8|ru] *pi-piiiiii!!!*\e
 
-[0003fa|en] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
-[0003fa|ru] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
+[0003fa|en] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
+[0003fa|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
 
-[0003fd|en] yTakeruzuWh-\pwhaaat?v\e
-[0003fd|ru] yTakeruzuWh-\pwhaaat?v\e
+[0003fd|en] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
+[0003fd|ru] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
 
-[0003ff|en] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
-[0003ff|ru] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
+[0003ff|en] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
+[0003ff|ru] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
 
-[000401|en] yTomoezuIt is forbidden.v\e
-[000401|ru] yTomoezuIt is forbidden.v\e
+[000401|en] ÂyTomoeÂzÂuIt is forbidden.Âv\e
+[000401|ru] ÂyTomoeÂzÂuIt is forbidden.Âv\e
 
-[000403|en] yEbisuzuYou simply must not do that``v\e
-[000403|ru] yEbisuzuYou simply must not do that``v\e
+[000403|en] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
+[000403|ru] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
 
-[000408|en] yKamiyo & Tomoe & EbisuzuTake her awaaay!!\p Oooooh!!v\e
-[000408|ru] yKamiyo & Tomoe & EbisuzuTake her awaaay!!\p Oooooh!!v\e
+[000408|en] ÂyKamiyo & Tomoe & EbisuÂzÂuTake her awaaay!!\p Oooooh!!Âv\e
+[000408|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuTake her awaaay!!\p Oooooh!!Âv\e
 
-[000410|en] yMikizuAwawawawa...\p...\pTa-\pTakeru-saaaaaaaaan...\p...\pv\e
-[000410|ru] yMikizuAwawawawa...\p...\pTa-\pTakeru-saaaaaaaaan...\p...\pv\e
+[000410|en] ÂyMikiÂzÂuAwawawawa...\p...\pTa-\pTakeru-saaaaaaaaan...\p...\pÂv\e
+[000410|ru] ÂyMikiÂzÂuAwawawawa...\p...\pTa-\pTakeru-saaaaaaaaan...\p...\pÂv\e
 
-[000413|en] yTakeruzu...\p...\p...\p...\ptake care...\p...\pv\e
-[000413|ru] yTakeruzu...\p...\p...\p...\ptake care...\p...\pv\e
+[000413|en] ÂyTakeruÂzÂu...\p...\p...\p...\ptake care...\p...\pÂv\e
+[000413|ru] ÂyTakeruÂzÂu...\p...\p...\p...\ptake care...\p...\pÂv\e
 
 [000418|en] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 [000418|ru] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
@@ -982,119 +982,119 @@ SCR 1 Shift-JIS
 [00042a|en] Okay,\p now that that's decided, let's gooo!!\e
 [00042a|ru] Okay,\p now that that's decided, let's gooo!!\e
 
-[000430|en] „Ÿ„Ÿ*knock* *knock*\e
-[000430|ru] „Ÿ„Ÿ*knock* *knock*\e
+[000430|en] â€Åºâ€Åº*knock* *knock*\e
+[000430|ru] â€Åºâ€Åº*knock* *knock*\e
 
 [000431|en] Oh?\e
 [000431|ru] Oh?\e
 
-[000434|en] yTakeruzuYeees.v\e
-[000434|ru] yTakeruzuYeees.v\e
+[000434|en] ÂyTakeruÂzÂuYeees.Âv\e
+[000434|ru] ÂyTakeruÂzÂuYeees.Âv\e
 
-[00043f|en] yChizuruzu...\p...\p...\p...\pv\e
-[00043f|ru] yChizuruzu...\p...\p...\p...\pv\e
+[00043f|en] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
+[00043f|ru] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
 
 [000443|en] What?\p Class Rep!\e
 [000443|ru] What?\p Class Rep!\e
 
-[000445|en] yChizuruzuHmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.v\e
-[000445|ru] yChizuruzuHmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.v\e
+[000445|en] ÂyChizuruÂzÂuHmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.Âv\e
+[000445|ru] ÂyChizuruÂzÂuHmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.Âv\e
 
-[000446|en] yTakeruzuHey...\p...\pwhy's that the first thing you say?\p\nNot to mention,\p what were you imagining?v\e
-[000446|ru] yTakeruzuHey...\p...\pwhy's that the first thing you say?\p\nNot to mention,\p what were you imagining?v\e
+[000446|en] ÂyTakeruÂzÂuHey...\p...\pwhy's that the first thing you say?\p\nNot to mention,\p what were you imagining?Âv\e
+[000446|ru] ÂyTakeruÂzÂuHey...\p...\pwhy's that the first thing you say?\p\nNot to mention,\p what were you imagining?Âv\e
 
-[000448|en] yChizuruzu...\p...\phuhu...\p...\pv\e
-[000448|ru] yChizuruzu...\p...\phuhu...\p...\pv\e
+[000448|en] ÂyChizuruÂzÂu...\p...\phuhu...\p...\pÂv\e
+[000448|ru] ÂyChizuruÂzÂu...\p...\phuhu...\p...\pÂv\e
 
-[000449|en] yTakeruzuDon't make fun of me in your head!!v\e
-[000449|ru] yTakeruzuDon't make fun of me in your head!!v\e
+[000449|en] ÂyTakeruÂzÂuDon't make fun of me in your head!!Âv\e
+[000449|ru] ÂyTakeruÂzÂuDon't make fun of me in your head!!Âv\e
 
-[00044b|en] yChizuruzuRooms are said to reveal the inner nature of\nthose who live in them.v\e
-[00044b|ru] yChizuruzuRooms are said to reveal the inner nature of\nthose who live in them.v\e
+[00044b|en] ÂyChizuruÂzÂuRooms are said to reveal the inner nature of\nthose who live in them.Âv\e
+[00044b|ru] ÂyChizuruÂzÂuRooms are said to reveal the inner nature of\nthose who live in them.Âv\e
 
-[00044e|en] yTakeruzuDon't observe everything so closely.v\e
-[00044e|ru] yTakeruzuDon't observe everything so closely.v\e
+[00044e|en] ÂyTakeruÂzÂuDon't observe everything so closely.Âv\e
+[00044e|ru] ÂyTakeruÂzÂuDon't observe everything so closely.Âv\e
 
-[000450|en] yChizuruzu...\p...\p...\p...\pv\e
-[000450|ru] yChizuruzu...\p...\p...\p...\pv\e
+[000450|en] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
+[000450|ru] ÂyChizuruÂzÂu...\p...\p...\p...\pÂv\e
 
 [000451|en] Something about this is really uncomfortable.\e
 [000451|ru] Something about this is really uncomfortable.\e
 
-[000453|en] yChizuruzuWell,\p I get the basic idea now.v\e
-[000453|ru] yChizuruzuWell,\p I get the basic idea now.v\e
+[000453|en] ÂyChizuruÂzÂuWell,\p I get the basic idea now.Âv\e
+[000453|ru] ÂyChizuruÂzÂuWell,\p I get the basic idea now.Âv\e
 
-[000454|en] yTakeruzuBehind what?v\e
-[000454|ru] yTakeruzuBehind what?v\e
+[000454|en] ÂyTakeruÂzÂuBehind what?Âv\e
+[000454|ru] ÂyTakeruÂzÂuBehind what?Âv\e
 
-[000456|en] yChizuruzuThe reason why you always try to skip your\ncleaning duties.\p Your own room is like this...\p...\pv\e
-[000456|ru] yChizuruzuThe reason why you always try to skip your\ncleaning duties.\p Your own room is like this...\p...\pv\e
+[000456|en] ÂyChizuruÂzÂuThe reason why you always try to skip your\ncleaning duties.\p Your own room is like this...\p...\pÂv\e
+[000456|ru] ÂyChizuruÂzÂuThe reason why you always try to skip your\ncleaning duties.\p Your own room is like this...\p...\pÂv\e
 
-[000457|en] yTakeruzuHey, Class Rep,\p what're you doing here\nanyway!?v\e
-[000457|ru] yTakeruzuHey, Class Rep,\p what're you doing here\nanyway!?v\e
+[000457|en] ÂyTakeruÂzÂuHey, Class Rep,\p what're you doing here\nanyway!?Âv\e
+[000457|ru] ÂyTakeruÂzÂuHey, Class Rep,\p what're you doing here\nanyway!?Âv\e
 
-[00045a|en] yChizuruzuI have nothing to do for the next half-hour.\nSo, while I'm here,\p I thought I might look around the\nplace...\p...\pv\e
-[00045a|ru] yChizuruzuI have nothing to do for the next half-hour.\nSo, while I'm here,\p I thought I might look around the\nplace...\p...\pv\e
+[00045a|en] ÂyChizuruÂzÂuI have nothing to do for the next half-hour.\nSo, while I'm here,\p I thought I might look around the\nplace...\p...\pÂv\e
+[00045a|ru] ÂyChizuruÂzÂuI have nothing to do for the next half-hour.\nSo, while I'm here,\p I thought I might look around the\nplace...\p...\pÂv\e
 
-[00045b|en] yTakeruzuWhat's the point of looking in my room!?v\e
-[00045b|ru] yTakeruzuWhat's the point of looking in my room!?v\e
+[00045b|en] ÂyTakeruÂzÂuWhat's the point of looking in my room!?Âv\e
+[00045b|ru] ÂyTakeruÂzÂuWhat's the point of looking in my room!?Âv\e
 
-[00045d|en] yChizuruzuThat's what I thought...\p...\p...\pbut I'm glad I came.v\e
-[00045d|ru] yChizuruzuThat's what I thought...\p...\p...\pbut I'm glad I came.v\e
+[00045d|en] ÂyChizuruÂzÂuThat's what I thought...\p...\p...\pbut I'm glad I came.Âv\e
+[00045d|ru] ÂyChizuruÂzÂuThat's what I thought...\p...\p...\pbut I'm glad I came.Âv\e
 
-[00045e|en] yTakeruzuWhy!?v\e
-[00045e|ru] yTakeruzuWhy!?v\e
+[00045e|en] ÂyTakeruÂzÂuWhy!?Âv\e
+[00045e|ru] ÂyTakeruÂzÂuWhy!?Âv\e
 
-[000460|en] yChizuruzuNow,\p clean it up.v\e
-[000460|ru] yChizuruzuNow,\p clean it up.v\e
+[000460|en] ÂyChizuruÂzÂuNow,\p clean it up.Âv\e
+[000460|ru] ÂyChizuruÂzÂuNow,\p clean it up.Âv\e
 
 [000461|en] Whaaaat!!\p You're ordering me already!?\e
 [000461|ru] Whaaaat!!\p You're ordering me already!?\e
 
-[000464|en] yChizuruzuYou aren't going to do it yourself, right?\p\nI'll direct you.v\e
-[000464|ru] yChizuruzuYou aren't going to do it yourself, right?\p\nI'll direct you.v\e
+[000464|en] ÂyChizuruÂzÂuYou aren't going to do it yourself, right?\p\nI'll direct you.Âv\e
+[000464|ru] ÂyChizuruÂzÂuYou aren't going to do it yourself, right?\p\nI'll direct you.Âv\e
 
 [000466|en] Geh...\p...\e
 [000466|ru] Geh...\p...\e
 
-[000469|en] yChizuruzu...\p...\psomething wrong?v\e
-[000469|ru] yChizuruzu...\p...\psomething wrong?v\e
+[000469|en] ÂyChizuruÂzÂu...\p...\psomething wrong?Âv\e
+[000469|ru] ÂyChizuruÂzÂu...\p...\psomething wrong?Âv\e
 
-[00046a|en] yTakeruzuNo,\p but...\p...\pv\e
-[00046a|ru] yTakeruzuNo,\p but...\p...\pv\e
+[00046a|en] ÂyTakeruÂzÂuNo,\p but...\p...\pÂv\e
+[00046a|ru] ÂyTakeruÂzÂuNo,\p but...\p...\pÂv\e
 
-[00046d|en] yChizuruzuDid you forget why I came here today?v\e
-[00046d|ru] yChizuruzuDid you forget why I came here today?v\e
+[00046d|en] ÂyChizuruÂzÂuDid you forget why I came here today?Âv\e
+[00046d|ru] ÂyChizuruÂzÂuDid you forget why I came here today?Âv\e
 
-[00046e|en] yTakeruzu...\p...\pin order to stop this ridiculous cooking\ncompetition with me as the prize?v\e
-[00046e|ru] yTakeruzu...\p...\pin order to stop this ridiculous cooking\ncompetition with me as the prize?v\e
+[00046e|en] ÂyTakeruÂzÂu...\p...\pin order to stop this ridiculous cooking\ncompetition with me as the prize?Âv\e
+[00046e|ru] ÂyTakeruÂzÂu...\p...\pin order to stop this ridiculous cooking\ncompetition with me as the prize?Âv\e
 
-[000471|en] yChizuruzuAll of this stems from you never thinking your\nactions through!v\e
-[000471|ru] yChizuruzuAll of this stems from you never thinking your\nactions through!v\e
+[000471|en] ÂyChizuruÂzÂuAll of this stems from you never thinking your\nactions through!Âv\e
+[000471|ru] ÂyChizuruÂzÂuAll of this stems from you never thinking your\nactions through!Âv\e
 
-[000472|en] yTakeruzuThat's impossible!v\e
-[000472|ru] yTakeruzuThat's impossible!v\e
+[000472|en] ÂyTakeruÂzÂuThat's impossible!Âv\e
+[000472|ru] ÂyTakeruÂzÂuThat's impossible!Âv\e
 
-[000475|en] yChizuruzuYou draw other careless and reckless people\ntoward you...\p...\pv\e
-[000475|ru] yChizuruzuYou draw other careless and reckless people\ntoward you...\p...\pv\e
+[000475|en] ÂyChizuruÂzÂuYou draw other careless and reckless people\ntoward you...\p...\pÂv\e
+[000475|ru] ÂyChizuruÂzÂuYou draw other careless and reckless people\ntoward you...\p...\pÂv\e
 
-[000476|en] yTakeruzuI'm not joking here!v\e
-[000476|ru] yTakeruzuI'm not joking here!v\e
+[000476|en] ÂyTakeruÂzÂuI'm not joking here!Âv\e
+[000476|ru] ÂyTakeruÂzÂuI'm not joking here!Âv\e
 
-[00047b|en] yChizuruzuClean. Up. This. Room. Now!v\e
-[00047b|ru] yChizuruzuClean. Up. This. Room. Now!v\e
+[00047b|en] ÂyChizuruÂzÂuClean. Up. This. Room. Now!Âv\e
+[00047b|ru] ÂyChizuruÂzÂuClean. Up. This. Room. Now!Âv\e
 
-[00047c|en] yTakeruzuI. Will. Not. Clean. It. Up!v\e
-[00047c|ru] yTakeruzuI. Will. Not. Clean. It. Up!v\e
+[00047c|en] ÂyTakeruÂzÂuI. Will. Not. Clean. It. Up!Âv\e
+[00047c|ru] ÂyTakeruÂzÂuI. Will. Not. Clean. It. Up!Âv\e
 
-[00048b|en] yTakeruzu...\p...\p...\p...\pv\e
-[00048b|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00048b|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[00048b|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[000490|en] yChizuruzuYou won't do as I say?v\e
-[000490|ru] yChizuruzuYou won't do as I say?v\e
+[000490|en] ÂyChizuruÂzÂuYou won't do as I say?Âv\e
+[000490|ru] ÂyChizuruÂzÂuYou won't do as I say?Âv\e
 
-[000492|en] yTakeruzuI'll do it!\p Please allow me to do it!v\e
-[000492|ru] yTakeruzuI'll do it!\p Please allow me to do it!v\e
+[000492|en] ÂyTakeruÂzÂuI'll do it!\p Please allow me to do it!Âv\e
+[000492|ru] ÂyTakeruÂzÂuI'll do it!\p Please allow me to do it!Âv\e
 
 [000494|en] Kuwaaa!\p Why're you doing this even in my own home...\p...\p!?\e
 [000494|ru] Kuwaaa!\p Why're you doing this even in my own home...\p...\p!?\e
@@ -1102,17 +1102,17 @@ SCR 1 Shift-JIS
 [000495|en] I have no choice...\p...\pmay as well get it over with.\e
 [000495|ru] I have no choice...\p...\pmay as well get it over with.\e
 
-[00049c|en] First, these scattered magazines...\p...\p...\p...\pth-\pthese are„Ÿ„Ÿ!\e
-[00049c|ru] First, these scattered magazines...\p...\p...\p...\pth-\pthese are„Ÿ„Ÿ!\e
+[00049c|en] First, these scattered magazines...\p...\p...\p...\pth-\pthese areâ€Åºâ€Åº!\e
+[00049c|ru] First, these scattered magazines...\p...\p...\p...\pth-\pthese areâ€Åºâ€Åº!\e
 
 [0004a2|en] Captain,\p I've discovered something terrible!\e
 [0004a2|ru] Captain,\p I've discovered something terrible!\e
 
-[0004a3|en] yTakeruzu...\p...\p...\p...\pv\e
-[0004a3|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0004a3|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0004a3|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0004ab|en] yChizuruzuHey,\p your hands stopped.v\e
-[0004ab|ru] yChizuruzuHey,\p your hands stopped.v\e
+[0004ab|en] ÂyChizuruÂzÂuHey,\p your hands stopped.Âv\e
+[0004ab|ru] ÂyChizuruÂzÂuHey,\p your hands stopped.Âv\e
 
 [0004ad|en] ...\p...\pwh-\pwhat do I do?\e
 [0004ad|ru] ...\p...\pwh-\pwhat do I do?\e
@@ -1123,20 +1123,20 @@ SCR 1 Shift-JIS
 [0004af|en] Plan 1:\p Come clean.\e
 [0004af|ru] Plan 1:\p Come clean.\e
 
-[0004b2|en] yTakeruzuWhat's wrong with a man having porn!?v\e
-[0004b2|ru] yTakeruzuWhat's wrong with a man having porn!?v\e
+[0004b2|en] ÂyTakeruÂzÂuWhat's wrong with a man having porn!?Âv\e
+[0004b2|ru] ÂyTakeruÂzÂuWhat's wrong with a man having porn!?Âv\e
 
-[0004b6|en] „Ÿ„Ÿ*hiss*\e
-[0004b6|ru] „Ÿ„Ÿ*hiss*\e
+[0004b6|en] â€Åºâ€Åº*hiss*\e
+[0004b6|ru] â€Åºâ€Åº*hiss*\e
 
-[0004bb|en] „Ÿ„Ÿ*crunch!*\e
-[0004bb|ru] „Ÿ„Ÿ*crunch!*\e
+[0004bb|en] â€Åºâ€Åº*crunch!*\e
+[0004bb|ru] â€Åºâ€Åº*crunch!*\e
 
-[0004c0|en] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
-[0004c0|ru] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
+[0004c0|en] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
+[0004c0|ru] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
 
-[0004c7|en] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
-[0004c7|ru] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
+[0004c7|en] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
+[0004c7|ru] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
 
 [0004ce|en] ...\p...\pI'll be eaten alive.\e
 [0004ce|ru] ...\p...\pI'll be eaten alive.\e
@@ -1144,20 +1144,20 @@ SCR 1 Shift-JIS
 [0004cf|en] Plan 2:\p Blame Mikoto.\e
 [0004cf|ru] Plan 2:\p Blame Mikoto.\e
 
-[0004d2|en] yTakeruzuTh-\pthese were left here by Mikoto...\p...\pv\e
-[0004d2|ru] yTakeruzuTh-\pthese were left here by Mikoto...\p...\pv\e
+[0004d2|en] ÂyTakeruÂzÂuTh-\pthese were left here by Mikoto...\p...\pÂv\e
+[0004d2|ru] ÂyTakeruÂzÂuTh-\pthese were left here by Mikoto...\p...\pÂv\e
 
-[0004d6|en] „Ÿ„Ÿ*hiss*\e
-[0004d6|ru] „Ÿ„Ÿ*hiss*\e
+[0004d6|en] â€Åºâ€Åº*hiss*\e
+[0004d6|ru] â€Åºâ€Åº*hiss*\e
 
-[0004db|en] „Ÿ„Ÿ*crunch!*\e
-[0004db|ru] „Ÿ„Ÿ*crunch!*\e
+[0004db|en] â€Åºâ€Åº*crunch!*\e
+[0004db|ru] â€Åºâ€Åº*crunch!*\e
 
-[0004e0|en] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
-[0004e0|ru] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
+[0004e0|en] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
+[0004e0|ru] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
 
-[0004e7|en] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
-[0004e7|ru] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
+[0004e7|en] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
+[0004e7|ru] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
 
 [0004ed|en] ...\p...\pI'll be eaten alive...\pagain.\e
 [0004ed|ru] ...\p...\pI'll be eaten alive...\pagain.\e
@@ -1165,26 +1165,26 @@ SCR 1 Shift-JIS
 [0004ee|en] Plan 3:\p Hide them.\e
 [0004ee|ru] Plan 3:\p Hide them.\e
 
-[0004f1|en] yTakeruzu...\p...\p...\p...\pv\e
-[0004f1|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0004f1|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0004f1|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0004f2|en] yChizuruzuWhat did you just hide?\p Show me.v\e
-[0004f2|ru] yChizuruzuWhat did you just hide?\p Show me.v\e
+[0004f2|en] ÂyChizuruÂzÂuWhat did you just hide?\p Show me.Âv\e
+[0004f2|ru] ÂyChizuruÂzÂuWhat did you just hide?\p Show me.Âv\e
 
-[0004f3|en] yTakeruzuNo!v\e
-[0004f3|ru] yTakeruzuNo!v\e
+[0004f3|en] ÂyTakeruÂzÂuNo!Âv\e
+[0004f3|ru] ÂyTakeruÂzÂuNo!Âv\e
 
-[0004f7|en] „Ÿ„Ÿ*hiss*\e
-[0004f7|ru] „Ÿ„Ÿ*hiss*\e
+[0004f7|en] â€Åºâ€Åº*hiss*\e
+[0004f7|ru] â€Åºâ€Åº*hiss*\e
 
-[0004fc|en] „Ÿ„Ÿ*crunch!*\e
-[0004fc|ru] „Ÿ„Ÿ*crunch!*\e
+[0004fc|en] â€Åºâ€Åº*crunch!*\e
+[0004fc|ru] â€Åºâ€Åº*crunch!*\e
 
-[000501|en] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
-[000501|ru] „Ÿ„Ÿ„Ÿ„Ÿ*crunch!*\e
+[000501|en] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
+[000501|ru] â€Åºâ€Åºâ€Åºâ€Åº*crunch!*\e
 
-[000508|en] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
-[000508|ru] „Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ*squish*\p *squish*\e
+[000508|en] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
+[000508|ru] â€Åºâ€Åºâ€Åºâ€Åºâ€Åºâ€Åº*squish*\p *squish*\e
 
 [00050e|en] ...\p...\pyeah,\p I'll be eaten.\e
 [00050e|ru] ...\p...\pyeah,\p I'll be eaten.\e
@@ -1192,32 +1192,32 @@ SCR 1 Shift-JIS
 [000511|en] Th-\pthis is bad.\p My future is already predetermined.\e
 [000511|ru] Th-\pthis is bad.\p My future is already predetermined.\e
 
-[000513|en] yChizuruzuWhat's wrong?\p\nYour hands haven't moved for a while now.v\e
-[000513|ru] yChizuruzuWhat's wrong?\p\nYour hands haven't moved for a while now.v\e
+[000513|en] ÂyChizuruÂzÂuWhat's wrong?\p\nYour hands haven't moved for a while now.Âv\e
+[000513|ru] ÂyChizuruÂzÂuWhat's wrong?\p\nYour hands haven't moved for a while now.Âv\e
 
-[000514|en] „Ÿ„ŸHa!?\e
-[000514|ru] „Ÿ„ŸHa!?\e
+[000514|en] â€Åºâ€ÅºHa!?\e
+[000514|ru] â€Åºâ€ÅºHa!?\e
 
 [00051b|en] ...\p...\phas Class Rep's tremendous presence been making\nme see things!?\e
 [00051b|ru] ...\p...\phas Class Rep's tremendous presence been making\nme see things!?\e
 
-[000523|en] yChizuruzuH-\phey,\p Shirogane-kun...\p...\peh-\pwhat do you have\nthere...\p...\p?v\e
-[000523|ru] yChizuruzuH-\phey,\p Shirogane-kun...\p...\peh-\pwhat do you have\nthere...\p...\p?v\e
+[000523|en] ÂyChizuruÂzÂuH-\phey,\p Shirogane-kun...\p...\peh-\pwhat do you have\nthere...\p...\p?Âv\e
+[000523|ru] ÂyChizuruÂzÂuH-\phey,\p Shirogane-kun...\p...\peh-\pwhat do you have\nthere...\p...\p?Âv\e
 
-[000524|en] yTakeruzu...\p...\p...\p...\pv\e
-[000524|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000524|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000524|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[000526|en] yChizuruzuTh-\pthose are...\p...\p...\p...\pwell...\p...\pI mean...\p...\p...\p...\pv\e
-[000526|ru] yChizuruzuTh-\pthose are...\p...\p...\p...\pwell...\p...\pI mean...\p...\p...\p...\pv\e
+[000526|en] ÂyChizuruÂzÂuTh-\pthose are...\p...\p...\p...\pwell...\p...\pI mean...\p...\p...\p...\pÂv\e
+[000526|ru] ÂyChizuruÂzÂuTh-\pthose are...\p...\p...\p...\pwell...\p...\pI mean...\p...\p...\p...\pÂv\e
 
-[000527|en] yTakeruzu...\p...\p...\p...\pv\e
-[000527|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000527|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000527|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[000529|en] yChizuruzuN-\pnever mind!v\e
-[000529|ru] yChizuruzuN-\pnever mind!v\e
+[000529|en] ÂyChizuruÂzÂuN-\pnever mind!Âv\e
+[000529|ru] ÂyChizuruÂzÂuN-\pnever mind!Âv\e
 
-[000530|en] yTakeruzu...\p...\p...\p...\pv\e
-[000530|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000530|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000530|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [000534|en] Class Rep's weakness: found.\e
 [000534|ru] Class Rep's weakness: found.\e
@@ -1225,44 +1225,44 @@ SCR 1 Shift-JIS
 [000536|en] *pi-piiiiii!!!*\e
 [000536|ru] *pi-piiiiii!!!*\e
 
-[00054b|en] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
-[00054b|ru] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
+[00054b|en] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
+[00054b|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
 
-[00054e|en] yTakeruzuWh-\pwhaaat?v\e
-[00054e|ru] yTakeruzuWh-\pwhaaat?v\e
+[00054e|en] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
+[00054e|ru] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
 
-[000550|en] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
-[000550|ru] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
+[000550|en] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
+[000550|ru] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
 
-[000552|en] yTomoezuIt is forbidden.v\e
-[000552|ru] yTomoezuIt is forbidden.v\e
+[000552|en] ÂyTomoeÂzÂuIt is forbidden.Âv\e
+[000552|ru] ÂyTomoeÂzÂuIt is forbidden.Âv\e
 
-[000554|en] yEbisuzuYou simply must not do that``v\e
-[000554|ru] yEbisuzuYou simply must not do that``v\e
+[000554|en] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
+[000554|ru] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
 
-[000557|en] yKamiyozuAh...\p...\phuh?v\e
-[000557|ru] yKamiyozuAh...\p...\phuh?v\e
+[000557|en] ÂyKamiyoÂzÂuAh...\p...\phuh?Âv\e
+[000557|ru] ÂyKamiyoÂzÂuAh...\p...\phuh?Âv\e
 
-[000559|en] yTomoezuNo one's here...\p...\pv\e
-[000559|ru] yTomoezuNo one's here...\p...\pv\e
+[000559|en] ÂyTomoeÂzÂuNo one's here...\p...\pÂv\e
+[000559|ru] ÂyTomoeÂzÂuNo one's here...\p...\pÂv\e
 
-[00055b|en] yEbisuzuThat is strange``v\e
-[00055b|ru] yEbisuzuThat is strange``v\e
+[00055b|en] ÂyEbisuÂzÂuThat is strangeÂ`Â`Âv\e
+[00055b|ru] ÂyEbisuÂzÂuThat is strangeÂ`Â`Âv\e
 
-[00055d|en] yTakeruzuIf you're after Class Rep, she just left.v\e
-[00055d|ru] yTakeruzuIf you're after Class Rep, she just left.v\e
+[00055d|en] ÂyTakeruÂzÂuIf you're after Class Rep, she just left.Âv\e
+[00055d|ru] ÂyTakeruÂzÂuIf you're after Class Rep, she just left.Âv\e
 
-[00055f|en] yKamiyozu...\p...\p...\p...\pv\e
-[00055f|ru] yKamiyozu...\p...\p...\p...\pv\e
+[00055f|en] ÂyKamiyoÂzÂu...\p...\p...\p...\pÂv\e
+[00055f|ru] ÂyKamiyoÂzÂu...\p...\p...\p...\pÂv\e
 
-[000561|en] yTomoezu...\p...\p...\p...\pv\e
-[000561|ru] yTomoezu...\p...\p...\p...\pv\e
+[000561|en] ÂyTomoeÂzÂu...\p...\p...\p...\pÂv\e
+[000561|ru] ÂyTomoeÂzÂu...\p...\p...\p...\pÂv\e
 
-[000563|en] yEbisuzu...\p...\p...\p...\pv\e
-[000563|ru] yEbisuzu...\p...\p...\p...\pv\e
+[000563|en] ÂyEbisuÂzÂu...\p...\p...\p...\pÂv\e
+[000563|ru] ÂyEbisuÂzÂu...\p...\p...\p...\pÂv\e
 
-[000568|en] yKamiyo & Tomoe & EbisuzuOkay then!v\e
-[000568|ru] yKamiyo & Tomoe & EbisuzuOkay then!v\e
+[000568|en] ÂyKamiyo & Tomoe & EbisuÂzÂuOkay then!Âv\e
+[000568|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuOkay then!Âv\e
 
 [00056b|en] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 [00056b|ru] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
@@ -1276,17 +1276,17 @@ SCR 1 Shift-JIS
 [00057a|en] Okay,\p now that that's decided...\p...\p\e
 [00057a|ru] Okay,\p now that that's decided...\p...\p\e
 
-[000581|en] „Ÿ„Ÿ*knock* *knock*\e
-[000581|ru] „Ÿ„Ÿ*knock* *knock*\e
+[000581|en] â€Åºâ€Åº*knock* *knock*\e
+[000581|ru] â€Åºâ€Åº*knock* *knock*\e
 
 [000584|en] Hm? Who's that?\e
 [000584|ru] Hm? Who's that?\e
 
-[000586|en] „Ÿ„Ÿ*click*\e
-[000586|ru] „Ÿ„Ÿ*click*\e
+[000586|en] â€Åºâ€Åº*click*\e
+[000586|ru] â€Åºâ€Åº*click*\e
 
-[000589|en] yTakeruzu...\p...\phuh?v\e
-[000589|ru] yTakeruzu...\p...\phuh?v\e
+[000589|en] ÂyTakeruÂzÂu...\p...\phuh?Âv\e
+[000589|ru] ÂyTakeruÂzÂu...\p...\phuh?Âv\e
 
 [00058a|en] No one's here.\e
 [00058a|ru] No one's here.\e
@@ -1294,65 +1294,65 @@ SCR 1 Shift-JIS
 [00058e|en] What was that? Am I just hearing things?\e
 [00058e|ru] What was that? Am I just hearing things?\e
 
-[000590|en] „Ÿ„Ÿ*knock* *knock*\e
-[000590|ru] „Ÿ„Ÿ*knock* *knock*\e
+[000590|en] â€Åºâ€Åº*knock* *knock*\e
+[000590|ru] â€Åºâ€Åº*knock* *knock*\e
 
 [000593|en] Again?\e
 [000593|ru] Again?\e
 
-[000595|en] „Ÿ„Ÿ*click*\e
-[000595|ru] „Ÿ„Ÿ*click*\e
+[000595|en] â€Åºâ€Åº*click*\e
+[000595|ru] â€Åºâ€Åº*click*\e
 
-[00059d|en] yKeizu...\p...\pI have arrived.v\e
-[00059d|ru] yKeizu...\p...\pI have arrived.v\e
+[00059d|en] ÂyKeiÂzÂu...\p...\pI have arrived.Âv\e
+[00059d|ru] ÂyKeiÂzÂu...\p...\pI have arrived.Âv\e
 
-[00059e|en] yTakeruzu...\p...\pwas the other knock you too?v\e
-[00059e|ru] yTakeruzu...\p...\pwas the other knock you too?v\e
+[00059e|en] ÂyTakeruÂzÂu...\p...\pwas the other knock you too?Âv\e
+[00059e|ru] ÂyTakeruÂzÂu...\p...\pwas the other knock you too?Âv\e
 
-[0005a0|en] yKeizu...\p...\pI wonder.v\e
-[0005a0|ru] yKeizu...\p...\pI wonder.v\e
+[0005a0|en] ÂyKeiÂzÂu...\p...\pI wonder.Âv\e
+[0005a0|ru] ÂyKeiÂzÂu...\p...\pI wonder.Âv\e
 
-[0005a1|en] yTakeruzuDon't play dumb.v\e
-[0005a1|ru] yTakeruzuDon't play dumb.v\e
+[0005a1|en] ÂyTakeruÂzÂuDon't play dumb.Âv\e
+[0005a1|ru] ÂyTakeruÂzÂuDon't play dumb.Âv\e
 
-[0005a3|en] yKeizu...\p...\pding dong ditch.v\e
-[0005a3|ru] yKeizu...\p...\pding dong ditch.v\e
+[0005a3|en] ÂyKeiÂzÂu...\p...\pding dong ditch.Âv\e
+[0005a3|ru] ÂyKeiÂzÂu...\p...\pding dong ditch.Âv\e
 
-[0005a5|en] yTakeruzuBut you were knocking!v\e
-[0005a5|ru] yTakeruzuBut you were knocking!v\e
+[0005a5|en] ÂyTakeruÂzÂuBut you were knocking!Âv\e
+[0005a5|ru] ÂyTakeruÂzÂuBut you were knocking!Âv\e
 
-[0005aa|en] yKeizu...\p...\p...\p...\pv\e
-[0005aa|ru] yKeizu...\p...\p...\p...\pv\e
+[0005aa|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0005aa|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0005ad|en] yTakeruzu...\p...\pwhat?v\e
-[0005ad|ru] yTakeruzu...\p...\pwhat?v\e
+[0005ad|en] ÂyTakeruÂzÂu...\p...\pwhat?Âv\e
+[0005ad|ru] ÂyTakeruÂzÂu...\p...\pwhat?Âv\e
 
 [0005af|en] She's looking all over my room for some reason...\p...\p\e
 [0005af|ru] She's looking all over my room for some reason...\p...\p\e
 
-[0005b3|en] „Ÿ„Ÿ*slam*\e
-[0005b3|ru] „Ÿ„Ÿ*slam*\e
+[0005b3|en] â€Åºâ€Åº*slam*\e
+[0005b3|ru] â€Åºâ€Åº*slam*\e
 
 [0005b6|en] Ayamine...\p...\p...\p...\pI don't get you at all.\p\nYou're a mystery.\p\nYou're a wonder.\nWhat do you want to do?\e
 [0005b6|ru] Ayamine...\p...\p...\p...\pI don't get you at all.\p\nYou're a mystery.\p\nYou're a wonder.\nWhat do you want to do?\e
 
-[0005b7|en] yTakeruzu...\p...\p...\p...\pv\e
-[0005b7|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0005b7|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0005b7|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
 [0005b8|en] Did she run away because my room was messy?\p\nDon't get depressed...\p...\p...\p...\p\e
 [0005b8|ru] Did she run away because my room was messy?\p\nDon't get depressed...\p...\p...\p...\p\e
 
-[0005ba|en] „Ÿ„Ÿ*knock* *knock*\e
-[0005ba|ru] „Ÿ„Ÿ*knock* *knock*\e
+[0005ba|en] â€Åºâ€Åº*knock* *knock*\e
+[0005ba|ru] â€Åºâ€Åº*knock* *knock*\e
 
 [0005bd|en] Yes,\p yes.\e
 [0005bd|ru] Yes,\p yes.\e
 
-[0005bf|en] „Ÿ„Ÿ*click*\e
-[0005bf|ru] „Ÿ„Ÿ*click*\e
+[0005bf|en] â€Åºâ€Åº*click*\e
+[0005bf|ru] â€Åºâ€Åº*click*\e
 
-[0005c4|en] yKeizu...\p...\pit was so tragic I fled from reality.v\e
-[0005c4|ru] yKeizu...\p...\pit was so tragic I fled from reality.v\e
+[0005c4|en] ÂyKeiÂzÂu...\p...\pit was so tragic I fled from reality.Âv\e
+[0005c4|ru] ÂyKeiÂzÂu...\p...\pit was so tragic I fled from reality.Âv\e
 
 [0005c6|en] You...\p...\pthat's a horrible thing to say.\e
 [0005c6|ru] You...\p...\pthat's a horrible thing to say.\e
@@ -1360,128 +1360,128 @@ SCR 1 Shift-JIS
 [0005c8|en] ...\p...\pwell,\p I admit it's kinda messy.\e
 [0005c8|ru] ...\p...\pwell,\p I admit it's kinda messy.\e
 
-[0005cb|en] yTakeruzu...\p...\pAyamine?v\e
-[0005cb|ru] yTakeruzu...\p...\pAyamine?v\e
+[0005cb|en] ÂyTakeruÂzÂu...\p...\pAyamine?Âv\e
+[0005cb|ru] ÂyTakeruÂzÂu...\p...\pAyamine?Âv\e
 
-[0005cd|en] yKeizu...\p...\p...\p...\pv\e
-[0005cd|ru] yKeizu...\p...\p...\p...\pv\e
+[0005cd|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0005cd|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0005ce|en] yTakeruzuWhat're you looking at?\n...\p...\p...\p...\pwait,\p those are„Ÿ„Ÿ!!v\e
-[0005ce|ru] yTakeruzuWhat're you looking at?\n...\p...\p...\p...\pwait,\p those are„Ÿ„Ÿ!!v\e
+[0005ce|en] ÂyTakeruÂzÂuWhat're you looking at?\n...\p...\p...\p...\pwait,\p those areâ€Åºâ€Åº!!Âv\e
+[0005ce|ru] ÂyTakeruÂzÂuWhat're you looking at?\n...\p...\p...\p...\pwait,\p those areâ€Åºâ€Åº!!Âv\e
 
 [0005cf|en] Those are my porn magazines!\e
 [0005cf|ru] Those are my porn magazines!\e
 
-[0005d2|en] yTakeruzuWell,\p those are...\p...\nThey aren't mine...\p...\p...\p...\pv\e
-[0005d2|ru] yTakeruzuWell,\p those are...\p...\nThey aren't mine...\p...\p...\p...\pv\e
+[0005d2|en] ÂyTakeruÂzÂuWell,\p those are...\p...\nThey aren't mine...\p...\p...\p...\pÂv\e
+[0005d2|ru] ÂyTakeruÂzÂuWell,\p those are...\p...\nThey aren't mine...\p...\p...\p...\pÂv\e
 
-[0005d6|en] yKeizu...\p...\p...\p...\pv\e
-[0005d6|ru] yKeizu...\p...\p...\p...\pv\e
+[0005d6|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0005d6|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0005d8|en] yTakeruzuI mean,\p if you're asking what they're doing\nhere...\p...\p...\p...\pit's rather difficult to answer.v\e
-[0005d8|ru] yTakeruzuI mean,\p if you're asking what they're doing\nhere...\p...\p...\p...\pit's rather difficult to answer.v\e
+[0005d8|en] ÂyTakeruÂzÂuI mean,\p if you're asking what they're doing\nhere...\p...\p...\p...\pit's rather difficult to answer.Âv\e
+[0005d8|ru] ÂyTakeruÂzÂuI mean,\p if you're asking what they're doing\nhere...\p...\p...\p...\pit's rather difficult to answer.Âv\e
 
-[0005dc|en] yKeizu...\p...\p...\p...\pv\e
-[0005dc|ru] yKeizu...\p...\p...\p...\pv\e
+[0005dc|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0005dc|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0005de|en] yTakeruzuUmmm...\p...\pwell...\p...\pwhat is it?\p\nDo those make you feel uncomfortable?v\e
-[0005de|ru] yTakeruzuUmmm...\p...\pwell...\p...\pwhat is it?\p\nDo those make you feel uncomfortable?v\e
+[0005de|en] ÂyTakeruÂzÂuUmmm...\p...\pwell...\p...\pwhat is it?\p\nDo those make you feel uncomfortable?Âv\e
+[0005de|ru] ÂyTakeruÂzÂuUmmm...\p...\pwell...\p...\pwhat is it?\p\nDo those make you feel uncomfortable?Âv\e
 
 [0005df|en] What am I saying?\e
 [0005df|ru] What am I saying?\e
 
-[0005e0|en] yTakeruzuOkay,\p fine.\p You're right,\p they're mine.\p\n And dammit,\p what's wrong with that!?v\e
-[0005e0|ru] yTakeruzuOkay,\p fine.\p You're right,\p they're mine.\p\n And dammit,\p what's wrong with that!?v\e
+[0005e0|en] ÂyTakeruÂzÂuOkay,\p fine.\p You're right,\p they're mine.\p\n And dammit,\p what's wrong with that!?Âv\e
+[0005e0|ru] ÂyTakeruÂzÂuOkay,\p fine.\p You're right,\p they're mine.\p\n And dammit,\p what's wrong with that!?Âv\e
 
-[0005e7|en] yKeizu...\p...\p...\p...\pv\e
-[0005e7|ru] yKeizu...\p...\p...\p...\pv\e
+[0005e7|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0005e7|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
 [0005e9|en] Petting my head doesn't make me feel any better...\p...\p\e
 [0005e9|ru] Petting my head doesn't make me feel any better...\p...\p\e
 
-[0005eb|en] yKeizu...\p...\pyou're cute.v\e
-[0005eb|ru] yKeizu...\p...\pyou're cute.v\e
+[0005eb|en] ÂyKeiÂzÂu...\p...\pyou're cute.Âv\e
+[0005eb|ru] ÂyKeiÂzÂu...\p...\pyou're cute.Âv\e
 
 [0005f3|en] *pi-piiiiii!!!*\e
 [0005f3|ru] *pi-piiiiii!!!*\e
 
-[00060b|en] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
-[00060b|ru] yKamiyo & Tomoe & EbisuzuInstructive guidance!!v\e
+[00060b|en] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
+[00060b|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuInstructive guidance!!Âv\e
 
-[00060e|en] yTakeruzuWh-\pwhaaat?v\e
-[00060e|ru] yTakeruzuWh-\pwhaaat?v\e
+[00060e|en] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
+[00060e|ru] ÂyTakeruÂzÂuWh-\pwhaaat?Âv\e
 
-[000610|en] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
-[000610|ru] yKamiyozuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!v\e
+[000610|en] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
+[000610|ru] ÂyKamiyoÂzÂuUntil the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!Âv\e
 
-[000612|en] yTomoezuIt is forbidden.v\e
-[000612|ru] yTomoezuIt is forbidden.v\e
+[000612|en] ÂyTomoeÂzÂuIt is forbidden.Âv\e
+[000612|ru] ÂyTomoeÂzÂuIt is forbidden.Âv\e
 
-[000614|en] yEbisuzuYou simply must not do that``v\e
-[000614|ru] yEbisuzuYou simply must not do that``v\e
+[000614|en] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
+[000614|ru] ÂyEbisuÂzÂuYou simply must not do thatÂ`Â`Âv\e
 
-[000617|en] yTomoezu...\p...wait...\p...h-\phuh?v\e
-[000617|ru] yTomoezu...\p...wait...\p...h-\phuh?v\e
+[000617|en] ÂyTomoeÂzÂu...\p...wait...\p...h-\phuh?Âv\e
+[000617|ru] ÂyTomoeÂzÂu...\p...wait...\p...h-\phuh?Âv\e
 
-[000619|en] yKamiyozuThere's no one here?v\e
-[000619|ru] yKamiyozuThere's no one here?v\e
+[000619|en] ÂyKamiyoÂzÂuThere's no one here?Âv\e
+[000619|ru] ÂyKamiyoÂzÂuThere's no one here?Âv\e
 
-[00061b|en] yEbisuzuThat is so strange`v\e
-[00061b|ru] yEbisuzuThat is so strange`v\e
+[00061b|en] ÂyEbisuÂzÂuThat is so strangeÂ`Âv\e
+[00061b|ru] ÂyEbisuÂzÂuThat is so strangeÂ`Âv\e
 
-[00061d|en] yTakeruzuH-\phuh!? Ayamine!?v\e
-[00061d|ru] yTakeruzuH-\phuh!? Ayamine!?v\e
+[00061d|en] ÂyTakeruÂzÂuH-\phuh!? Ayamine!?Âv\e
+[00061d|ru] ÂyTakeruÂzÂuH-\phuh!? Ayamine!?Âv\e
 
 [00061e|en] ...\p...\pwhen did she get away!?\e
 [00061e|ru] ...\p...\pwhen did she get away!?\e
 
-[000620|en] yKamiyozuW-\pwell, that means...\p...\pv\e
-[000620|ru] yKamiyozuW-\pwell, that means...\p...\pv\e
+[000620|en] ÂyKamiyoÂzÂuW-\pwell, that means...\p...\pÂv\e
+[000620|ru] ÂyKamiyoÂzÂuW-\pwell, that means...\p...\pÂv\e
 
-[000622|en] yTomoezuThere's no problem?v\e
-[000622|ru] yTomoezuThere's no problem?v\e
+[000622|en] ÂyTomoeÂzÂuThere's no problem?Âv\e
+[000622|ru] ÂyTomoeÂzÂuThere's no problem?Âv\e
 
-[000624|en] yEbisuzuI guess not``v\e
-[000624|ru] yEbisuzuI guess not``v\e
+[000624|en] ÂyEbisuÂzÂuI guess notÂ`Â`Âv\e
+[000624|ru] ÂyEbisuÂzÂuI guess notÂ`Â`Âv\e
 
-[000629|en] yKamiyo & Tomoe & EbisuzuWithdraw! Oooh!!v\e
-[000629|ru] yKamiyo & Tomoe & EbisuzuWithdraw! Oooh!!v\e
+[000629|en] ÂyKamiyo & Tomoe & EbisuÂzÂuWithdraw! Oooh!!Âv\e
+[000629|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuWithdraw! Oooh!!Âv\e
 
 [00062c|en] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 [00062c|ru] *tap* *tap* *tap* *tap* *tap* *tap*...\p...\p\e
 
-[200647|en] „Ÿ„ŸWe're done!!\e
-[200647|ru] „Ÿ„ŸWe're done!!\e
+[200647|en] â€Åºâ€ÅºWe're done!!\e
+[200647|ru] â€Åºâ€ÅºWe're done!!\e
 
-[000649|en] yTakeruzuUwoah!v\e 
-[000649|ru] yTakeruzuUwoah!v\e 
+[000649|en] ÂyTakeruÂzÂuUwoah!Âv\e 
+[000649|ru] ÂyTakeruÂzÂuUwoah!Âv\e 
 
 [00064a|en] This is...\p...\pincredible!!\e
 [00064a|ru] This is...\p...\pincredible!!\e
 
-[000650|en] yYuukozuThey're all here.v\e
-[000650|ru] yYuukozuThey're all here.v\e
+[000650|en] ÂyYuukoÂzÂuThey're all here.Âv\e
+[000650|ru] ÂyYuukoÂzÂuThey're all here.Âv\e
 
-[000652|en] yTakeruzuWhaaa„Ÿ„Ÿ!? Se-\pSensei!?\nWhere did you come from?v\e
-[000652|ru] yTakeruzuWhaaa„Ÿ„Ÿ!? Se-\pSensei!?\nWhere did you come from?v\e
+[000652|en] ÂyTakeruÂzÂuWhaaaâ€Åºâ€Åº!? Se-\pSensei!?\nWhere did you come from?Âv\e
+[000652|ru] ÂyTakeruÂzÂuWhaaaâ€Åºâ€Åº!? Se-\pSensei!?\nWhere did you come from?Âv\e
 
-[000654|en] yYuukozuWhat?\p Of course I'm here.\p I'm the executive\nproducer and the tournament's guest of honor.v\e
-[000654|ru] yYuukozuWhat?\p Of course I'm here.\p I'm the executive\nproducer and the tournament's guest of honor.v\e
+[000654|en] ÂyYuukoÂzÂuWhat?\p Of course I'm here.\p I'm the executive\nproducer and the tournament's guest of honor.Âv\e
+[000654|ru] ÂyYuukoÂzÂuWhat?\p Of course I'm here.\p I'm the executive\nproducer and the tournament's guest of honor.Âv\e
 
-[000655|en] yTakeruzuExecu...\p...\pwait,\p are you actually even doing\nanything!?v\e
-[000655|ru] yTakeruzuExecu...\p...\pwait,\p are you actually even doing\nanything!?v\e
+[000655|en] ÂyTakeruÂzÂuExecu...\p...\pwait,\p are you actually even doing\nanything!?Âv\e
+[000655|ru] ÂyTakeruÂzÂuExecu...\p...\pwait,\p are you actually even doing\nanything!?Âv\e
 
 [000656|en] ...\p...\pand wasn't I the guest of honor?\e
 [000656|ru] ...\p...\pand wasn't I the guest of honor?\e
 
-[000658|en] yYuukozuYou idiot,\p\p the executive producer never does\nanything.v\e
-[000658|ru] yYuukozuYou idiot,\p\p the executive producer never does\nanything.v\e
+[000658|en] ÂyYuukoÂzÂuYou idiot,\p\p the executive producer never does\nanything.Âv\e
+[000658|ru] ÂyYuukoÂzÂuYou idiot,\p\p the executive producer never does\nanything.Âv\e
 
 [000659|en] ...\p...\pno...\p...\pthat's not what I...\p...\p\e
 [000659|ru] ...\p...\pno...\p...\pthat's not what I...\p...\p\e
 
-[000661|en] yMikotozuUwaaa,\p\p amazing...\p...\p...\p...\pgood thing you didn't\nhave any of my stuff earlier.\p You wouldn't have a chance\nof finishing all this otherwise``v\e
-[000661|ru] yMikotozuUwaaa,\p\p amazing...\p...\p...\p...\pgood thing you didn't\nhave any of my stuff earlier.\p You wouldn't have a chance\nof finishing all this otherwise``v\e
+[000661|en] ÂyMikotoÂzÂuUwaaa,\p\p amazing...\p...\p...\p...\pgood thing you didn't\nhave any of my stuff earlier.\p You wouldn't have a chance\nof finishing all this otherwiseÂ`Â`Âv\e
+[000661|ru] ÂyMikotoÂzÂuUwaaa,\p\p amazing...\p...\p...\p...\pgood thing you didn't\nhave any of my stuff earlier.\p You wouldn't have a chance\nof finishing all this otherwiseÂ`Â`Âv\e
 
 [000663|en] ...\p...\pwhat were you making anyway?\e
 [000663|ru] ...\p...\pwhat were you making anyway?\e
@@ -1489,59 +1489,59 @@ SCR 1 Shift-JIS
 [000664|en] Well,\p there was a different reason why I didn't want to\neat yours.\e
 [000664|ru] Well,\p there was a different reason why I didn't want to\neat yours.\e
 
-[00066d|en] yYuukozuNow why don't we go through them one at a\ntime?\p Kagami,\p you first,\p tell us what you've made.v\e
-[00066d|ru] yYuukozuNow why don't we go through them one at a\ntime?\p Kagami,\p you first,\p tell us what you've made.v\e
+[00066d|en] ÂyYuukoÂzÂuNow why don't we go through them one at a\ntime?\p Kagami,\p you first,\p tell us what you've made.Âv\e
+[00066d|ru] ÂyYuukoÂzÂuNow why don't we go through them one at a\ntime?\p Kagami,\p you first,\p tell us what you've made.Âv\e
 
-[000673|en] ySumikazuA Sumika Special made out of all of\nTakeru-chan's favorite foods!!v\e
-[000673|ru] ySumikazuA Sumika Special made out of all of\nTakeru-chan's favorite foods!!v\e
+[000673|en] ÂySumikaÂzÂuA Sumika Special made out of all of\nTakeru-chan's favorite foods!!Âv\e
+[000673|ru] ÂySumikaÂzÂuA Sumika Special made out of all of\nTakeru-chan's favorite foods!!Âv\e
 
-[000676|en] yTakeruzuOooh?v\e
-[000676|ru] yTakeruzuOooh?v\e
+[000676|en] ÂyTakeruÂzÂuOooh?Âv\e
+[000676|ru] ÂyTakeruÂzÂuOooh?Âv\e
 
-[000677|en] ySumikazuTakeru-chan, you like okonomiyaki and\nspaghetti, right!?v\e
-[000677|ru] ySumikazuTakeru-chan, you like okonomiyaki and\nspaghetti, right!?v\e
+[000677|en] ÂySumikaÂzÂuTakeru-chan, you like okonomiyaki and\nspaghetti, right!?Âv\e
+[000677|ru] ÂySumikaÂzÂuTakeru-chan, you like okonomiyaki and\nspaghetti, right!?Âv\e
 
-[000678|en] yTakeruzuI do.v\e
-[000678|ru] yTakeruzuI do.v\e
+[000678|en] ÂyTakeruÂzÂuI do.Âv\e
+[000678|ru] ÂyTakeruÂzÂuI do.Âv\e
 
-[000679|en] ySumikazuYou also like curry and hamburgers and ramen\nand mapo tofu, right!?v\e
-[000679|ru] ySumikazuYou also like curry and hamburgers and ramen\nand mapo tofu, right!?v\e
+[000679|en] ÂySumikaÂzÂuYou also like curry and hamburgers and ramen\nand mapo tofu, right!?Âv\e
+[000679|ru] ÂySumikaÂzÂuYou also like curry and hamburgers and ramen\nand mapo tofu, right!?Âv\e
 
-[00067a|en] yTakeruzuYeah,\p I love those.v\e
-[00067a|ru] yTakeruzuYeah,\p I love those.v\e
+[00067a|en] ÂyTakeruÂzÂuYeah,\p I love those.Âv\e
+[00067a|ru] ÂyTakeruÂzÂuYeah,\p I love those.Âv\e
 
-[00067b|en] ySumikazu'If I could, I'd get full on nothing but gyoza and\ntakoyaki'...\p...\pyou even said that once!v\e
-[00067b|ru] ySumikazu'If I could, I'd get full on nothing but gyoza and\ntakoyaki'...\p...\pyou even said that once!v\e
+[00067b|en] ÂySumikaÂzÂu'If I could, I'd get full on nothing but gyoza and\ntakoyaki'...\p...\pyou even said that once!Âv\e
+[00067b|ru] ÂySumikaÂzÂu'If I could, I'd get full on nothing but gyoza and\ntakoyaki'...\p...\pyou even said that once!Âv\e
 
-[00067c|en] yTakeruzuI did.v\e
-[00067c|ru] yTakeruzuI did.v\e
+[00067c|en] ÂyTakeruÂzÂuI did.Âv\e
+[00067c|ru] ÂyTakeruÂzÂuI did.Âv\e
 
-[00067d|en] ySumikazuAnd that time to get full is````now! Here\nyou go!! All of your favorite things in a single dish!!!v\e
-[00067d|ru] ySumikazuAnd that time to get full is````now! Here\nyou go!! All of your favorite things in a single dish!!!v\e
+[00067d|en] ÂySumikaÂzÂuAnd that time to get full isÂ`Â`Â`Â`now! Here\nyou go!! All of your favorite things in a single dish!!!Âv\e
+[00067d|ru] ÂySumikaÂzÂuAnd that time to get full isÂ`Â`Â`Â`now! Here\nyou go!! All of your favorite things in a single dish!!!Âv\e
 
-[00067e|en] yTakeruzu...\p...\p...\p...\pv\e
-[00067e|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00067e|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[00067e|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[00068c|en] ySumikazuBut you can't forget the seasoning!\p\nTakeru-chan likes spicy foods,\p so I made it Szechuan\nstyle!!v\e
-[00068c|ru] ySumikazuBut you can't forget the seasoning!\p\nTakeru-chan likes spicy foods,\p so I made it Szechuan\nstyle!!v\e
+[00068c|en] ÂySumikaÂzÂuBut you can't forget the seasoning!\p\nTakeru-chan likes spicy foods,\p so I made it Szechuan\nstyle!!Âv\e
+[00068c|ru] ÂySumikaÂzÂuBut you can't forget the seasoning!\p\nTakeru-chan likes spicy foods,\p so I made it Szechuan\nstyle!!Âv\e
 
-[00068d|en] yTakeruzu...\p...\p...\p...\pv\e
-[00068d|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00068d|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[00068d|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[00068f|en] ySumikazuWhat do you think!? Are you happy!?v\e
-[00068f|ru] ySumikazuWhat do you think!? Are you happy!?v\e
+[00068f|en] ÂySumikaÂzÂuWhat do you think!? Are you happy!?Âv\e
+[00068f|ru] ÂySumikaÂzÂuWhat do you think!? Are you happy!?Âv\e
 
 [000690|en] ...\p...\p...\p...\pall of them mixed together?\p ...\p...\pseriously, mixed\ntogether?\p ...\p...\pare you kidding me!?\e
 [000690|ru] ...\p...\p...\p...\pall of them mixed together?\p ...\p...\pseriously, mixed\ntogether?\p ...\p...\pare you kidding me!?\e
 
-[000692|en] yYuukozuHe's speechless...\p...\p...\p...\pI guess the first\nimpression was a success then.v\e
-[000692|ru] yYuukozuHe's speechless...\p...\p...\p...\pI guess the first\nimpression was a success then.v\e
+[000692|en] ÂyYuukoÂzÂuHe's speechless...\p...\p...\p...\pI guess the first\nimpression was a success then.Âv\e
+[000692|ru] ÂyYuukoÂzÂuHe's speechless...\p...\p...\p...\pI guess the first\nimpression was a success then.Âv\e
 
 [000693|en] ...\p...\pmaybe you should call it the first strike instead.\e
 [000693|ru] ...\p...\pmaybe you should call it the first strike instead.\e
 
-[000695|en] ySumikazuYaaay!!v\e
-[000695|ru] ySumikazuYaaay!!v\e
+[000695|en] ÂySumikaÂzÂuYaaay!!Âv\e
+[000695|ru] ÂySumikaÂzÂuYaaay!!Âv\e
 
 [000697|en] Hey now,\p don't get all excited because of that.\e
 [000697|ru] Hey now,\p don't get all excited because of that.\e
@@ -1549,47 +1549,47 @@ SCR 1 Shift-JIS
 [000698|en] You don't necessarily need your cooking to have impact.\n...\p...\pcan I even eat this?\e
 [000698|ru] You don't necessarily need your cooking to have impact.\n...\p...\pcan I even eat this?\e
 
-[0006a0|en] yYuukozuThen up next is Mitsurugi.v\e
-[0006a0|ru] yYuukozuThen up next is Mitsurugi.v\e
+[0006a0|en] ÂyYuukoÂzÂuThen up next is Mitsurugi.Âv\e
+[0006a0|ru] ÂyYuukoÂzÂuThen up next is Mitsurugi.Âv\e
 
-[0006aa|en] yMeiyazuTakeru once said that he desired to eat the\nManchu Han Imperial Feast, did he not?v\e
-[0006aa|ru] yMeiyazuTakeru once said that he desired to eat the\nManchu Han Imperial Feast, did he not?v\e
+[0006aa|en] ÂyMeiyaÂzÂuTakeru once said that he desired to eat the\nManchu Han Imperial Feast, did he not?Âv\e
+[0006aa|ru] ÂyMeiyaÂzÂuTakeru once said that he desired to eat the\nManchu Han Imperial Feast, did he not?Âv\e
 
-[0006ad|en] yMeiyazuI have been taught that food is a composite art.v\e
-[0006ad|ru] yMeiyazuI have been taught that food is a composite art.v\e
+[0006ad|en] ÂyMeiyaÂzÂuI have been taught that food is a composite art.Âv\e
+[0006ad|ru] ÂyMeiyaÂzÂuI have been taught that food is a composite art.Âv\e
 
-[0006af|en] yYuukozuThat's amazing`\p\p It's like something out of a\ncooking manga.v\e
-[0006af|ru] yYuukozuThat's amazing`\p\p It's like something out of a\ncooking manga.v\e
+[0006af|en] ÂyYuukoÂzÂuThat's amazingÂ`\p\p It's like something out of a\ncooking manga.Âv\e
+[0006af|ru] ÂyYuukoÂzÂuThat's amazingÂ`\p\p It's like something out of a\ncooking manga.Âv\e
 
-[0006b1|en] yMeiyazuI feel that the initial delight upon seeing its\ncolors,\p\p\p the sounds and smells when taking one's portion,\p\p\p\nand the taste and satisfaction during the first bite all\ncombine perfectly to make the meal what it is.v\e
-[0006b1|ru] yMeiyazuI feel that the initial delight upon seeing its\ncolors,\p\p\p the sounds and smells when taking one's portion,\p\p\p\nand the taste and satisfaction during the first bite all\ncombine perfectly to make the meal what it is.v\e
+[0006b1|en] ÂyMeiyaÂzÂuI feel that the initial delight upon seeing its\ncolors,\p\p\p the sounds and smells when taking one's portion,\p\p\p\nand the taste and satisfaction during the first bite all\ncombine perfectly to make the meal what it is.Âv\e
+[0006b1|ru] ÂyMeiyaÂzÂuI feel that the initial delight upon seeing its\ncolors,\p\p\p the sounds and smells when taking one's portion,\p\p\p\nand the taste and satisfaction during the first bite all\ncombine perfectly to make the meal what it is.Âv\e
 
-[0006b2|en] yTakeruzuI see.v\e
-[0006b2|ru] yTakeruzuI see.v\e
+[0006b2|en] ÂyTakeruÂzÂuI see.Âv\e
+[0006b2|ru] ÂyTakeruÂzÂuI see.Âv\e
 
-[0006b4|en] yMeiyazuAlso,\p I have been taught that food is a form of\ndiscourse between the soul of the creator and the soul\nof the partaker.v\e
-[0006b4|ru] yMeiyazuAlso,\p I have been taught that food is a form of\ndiscourse between the soul of the creator and the soul\nof the partaker.v\e
+[0006b4|en] ÂyMeiyaÂzÂuAlso,\p I have been taught that food is a form of\ndiscourse between the soul of the creator and the soul\nof the partaker.Âv\e
+[0006b4|ru] ÂyMeiyaÂzÂuAlso,\p I have been taught that food is a form of\ndiscourse between the soul of the creator and the soul\nof the partaker.Âv\e
 
-[0006b7|en] yMeiyazuI thought about using French or Italian food,\p\nbut after researching Takeru's daily diet...\p...\pv\e
-[0006b7|ru] yMeiyazuI thought about using French or Italian food,\p\nbut after researching Takeru's daily diet...\p...\pv\e
+[0006b7|en] ÂyMeiyaÂzÂuI thought about using French or Italian food,\p\nbut after researching Takeru's daily diet...\p...\pÂv\e
+[0006b7|ru] ÂyMeiyaÂzÂuI thought about using French or Italian food,\p\nbut after researching Takeru's daily diet...\p...\pÂv\e
 
-[0006b8|en] „Ÿ„ŸWhen did you do that?\e
-[0006b8|ru] „Ÿ„ŸWhen did you do that?\e
+[0006b8|en] â€Åºâ€ÅºWhen did you do that?\e
+[0006b8|ru] â€Åºâ€ÅºWhen did you do that?\e
 
-[0006bb|en] yMeiyazuI decided that Chinese food was the most\nappropriate, as it contains many ingredients that he is\nalready familiar with.v\e
-[0006bb|ru] yMeiyazuI decided that Chinese food was the most\nappropriate, as it contains many ingredients that he is\nalready familiar with.v\e
+[0006bb|en] ÂyMeiyaÂzÂuI decided that Chinese food was the most\nappropriate, as it contains many ingredients that he is\nalready familiar with.Âv\e
+[0006bb|ru] ÂyMeiyaÂzÂuI decided that Chinese food was the most\nappropriate, as it contains many ingredients that he is\nalready familiar with.Âv\e
 
-[0006be|en] yYuukozuI see.\p There's certainly no guarantee that he'd\nenjoy something new.v\e
-[0006be|ru] yYuukozuI see.\p There's certainly no guarantee that he'd\nenjoy something new.v\e
+[0006be|en] ÂyYuukoÂzÂuI see.\p There's certainly no guarantee that he'd\nenjoy something new.Âv\e
+[0006be|ru] ÂyYuukoÂzÂuI see.\p There's certainly no guarantee that he'd\nenjoy something new.Âv\e
 
-[0006bf|en] yTakeruzuYes, yes,\p I'm only a commoner, after all...\p...\pv\e
-[0006bf|ru] yTakeruzuYes, yes,\p I'm only a commoner, after all...\p...\pv\e
+[0006bf|en] ÂyTakeruÂzÂuYes, yes,\p I'm only a commoner, after all...\p...\pÂv\e
+[0006bf|ru] ÂyTakeruÂzÂuYes, yes,\p I'm only a commoner, after all...\p...\pÂv\e
 
 [0006c0|en] Come to think of it,\p I've heard Yuuko-sensei's family is\nalso pretty rich.\e
 [0006c0|ru] Come to think of it,\p I've heard Yuuko-sensei's family is\nalso pretty rich.\e
 
-[0006c8|en] yMeiyazuSo, I present to you the Manchu Han Imperial\nFeast.v\e 
-[0006c8|ru] yMeiyazuSo, I present to you the Manchu Han Imperial\nFeast.v\e 
+[0006c8|en] ÂyMeiyaÂzÂuSo, I present to you the Manchu Han Imperial\nFeast.Âv\e 
+[0006c8|ru] ÂyMeiyaÂzÂuSo, I present to you the Manchu Han Imperial\nFeast.Âv\e 
 
 [0006cb|en] Oooooooooooooh!\e
 [0006cb|ru] Oooooooooooooh!\e
@@ -1597,590 +1597,590 @@ SCR 1 Shift-JIS
 [0006cc|en] The legendary full course Manchu Han, which I used to\nthink was just some weird thing from mahjong!!\e 
 [0006cc|ru] The legendary full course Manchu Han, which I used to\nthink was just some weird thing from mahjong!!\e 
 
-[0006cf|en] yTakeruzuOooh! So this is what it looks like!!v\e
-[0006cf|ru] yTakeruzuOooh! So this is what it looks like!!v\e
+[0006cf|en] ÂyTakeruÂzÂuOooh! So this is what it looks like!!Âv\e
+[0006cf|ru] ÂyTakeruÂzÂuOooh! So this is what it looks like!!Âv\e
 
-[0006d0|en] yMeiyazuOf course the entirety was impossible,\p\nso I have handpicked a number of dishes.v\e
-[0006d0|ru] yMeiyazuOf course the entirety was impossible,\p\nso I have handpicked a number of dishes.v\e
+[0006d0|en] ÂyMeiyaÂzÂuOf course the entirety was impossible,\p\nso I have handpicked a number of dishes.Âv\e
+[0006d0|ru] ÂyMeiyaÂzÂuOf course the entirety was impossible,\p\nso I have handpicked a number of dishes.Âv\e
 
-[0006d1|en] yKamiyo & Tomoe & EbisuzuMeiya-sama, go for it!v\e
-[0006d1|ru] yKamiyo & Tomoe & EbisuzuMeiya-sama, go for it!v\e
+[0006d1|en] ÂyKamiyo & Tomoe & EbisuÂzÂuMeiya-sama, go for it!Âv\e
+[0006d1|ru] ÂyKamiyo & Tomoe & EbisuÂzÂuMeiya-sama, go for it!Âv\e
 
-[0006d2|en] yMeiyazuHowever,\p\p there was a possibility that replicating\nthe exact taste of the era would not be well-suited for\nTakeru,\p who is used to modern food.v\e
-[0006d2|ru] yMeiyazuHowever,\p\p there was a possibility that replicating\nthe exact taste of the era would not be well-suited for\nTakeru,\p who is used to modern food.v\e
+[0006d2|en] ÂyMeiyaÂzÂuHowever,\p\p there was a possibility that replicating\nthe exact taste of the era would not be well-suited for\nTakeru,\p who is used to modern food.Âv\e
+[0006d2|ru] ÂyMeiyaÂzÂuHowever,\p\p there was a possibility that replicating\nthe exact taste of the era would not be well-suited for\nTakeru,\p who is used to modern food.Âv\e
 
-[0006d3|en] yTakeruzuI see...\p...\pv\e
-[0006d3|ru] yTakeruzuI see...\p...\pv\e
+[0006d3|en] ÂyTakeruÂzÂuI see...\p...\pÂv\e
+[0006d3|ru] ÂyTakeruÂzÂuI see...\p...\pÂv\e
 
-[0006d4|en] yMeiyazuSo,\p in addition to my existing staff,\p\p I gathered\ntogether several of the world's best chefs to take many\nkinds of modern food into account.v\e
-[0006d4|ru] yMeiyazuSo,\p in addition to my existing staff,\p\p I gathered\ntogether several of the world's best chefs to take many\nkinds of modern food into account.v\e
+[0006d4|en] ÂyMeiyaÂzÂuSo,\p in addition to my existing staff,\p\p I gathered\ntogether several of the world's best chefs to take many\nkinds of modern food into account.Âv\e
+[0006d4|ru] ÂyMeiyaÂzÂuSo,\p in addition to my existing staff,\p\p I gathered\ntogether several of the world's best chefs to take many\nkinds of modern food into account.Âv\e
 
-[0006d5|en] yTakeruzuA-...\p...\pamazing!v\e
-[0006d5|ru] yTakeruzuA-...\p...\pamazing!v\e
+[0006d5|en] ÂyTakeruÂzÂuA-...\p...\pamazing!Âv\e
+[0006d5|ru] ÂyTakeruÂzÂuA-...\p...\pamazing!Âv\e
 
 [0006d6|en] So that's what the morning news was about!?\e
 [0006d6|ru] So that's what the morning news was about!?\e
 
-[0006d7|en] yMeiyazuYou will be able to taste the world's cuisine.v\e
-[0006d7|ru] yMeiyazuYou will be able to taste the world's cuisine.v\e
+[0006d7|en] ÂyMeiyaÂzÂuYou will be able to taste the world's cuisine.Âv\e
+[0006d7|ru] ÂyMeiyaÂzÂuYou will be able to taste the world's cuisine.Âv\e
 
-[0006e0|en] yYuukozuI see,\p\p so you really went all out...\p...\p...\p...\p\nI like that utter lack of moderation.v\e
-[0006e0|ru] yYuukozuI see,\p\p so you really went all out...\p...\p...\p...\p\nI like that utter lack of moderation.v\e
+[0006e0|en] ÂyYuukoÂzÂuI see,\p\p so you really went all out...\p...\p...\p...\p\nI like that utter lack of moderation.Âv\e
+[0006e0|ru] ÂyYuukoÂzÂuI see,\p\p so you really went all out...\p...\p...\p...\p\nI like that utter lack of moderation.Âv\e
 
-[0006e2|en] yMeiyazuWhen we want to do something, we do it with all\nof our might...\p...\pthat is what it means to be a Mitsurugi.v\e
-[0006e2|ru] yMeiyazuWhen we want to do something, we do it with all\nof our might...\p...\pthat is what it means to be a Mitsurugi.v\e
+[0006e2|en] ÂyMeiyaÂzÂuWhen we want to do something, we do it with all\nof our might...\p...\pthat is what it means to be a Mitsurugi.Âv\e
+[0006e2|ru] ÂyMeiyaÂzÂuWhen we want to do something, we do it with all\nof our might...\p...\pthat is what it means to be a Mitsurugi.Âv\e
 
-[0006ea|en] yYuukozuThen next is...\p...\p...\pTamase.v\e
-[0006ea|ru] yYuukozuThen next is...\p...\p...\pTamase.v\e
+[0006ea|en] ÂyYuukoÂzÂuThen next is...\p...\p...\pTamase.Âv\e
+[0006ea|ru] ÂyYuukoÂzÂuThen next is...\p...\p...\pTamase.Âv\e
 
-[0006f2|en] yMikizuHahahahi```v\e
-[0006f2|ru] yMikizuHahahahi```v\e
+[0006f2|en] ÂyMikiÂzÂuHahahahiÂ`Â`Â`Âv\e
+[0006f2|ru] ÂyMikiÂzÂuHahahahiÂ`Â`Â`Âv\e
 
-[0006f9|en] yTakeruzu...\p...\p...\p...\pv\e
-[0006f9|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0006f9|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[0006f9|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[0006fa|en] yYuukozu...\p...\p...\pwhat's this?v\e
-[0006fa|ru] yYuukozu...\p...\p...\pwhat's this?v\e
+[0006fa|en] ÂyYuukoÂzÂu...\p...\p...\pwhat's this?Âv\e
+[0006fa|ru] ÂyYuukoÂzÂu...\p...\p...\pwhat's this?Âv\e
 
-[0006fb|en] yMikizuUmmmmmmm...\p...\p...\pan...\p...\postrich egg...\p...\pv\e
-[0006fb|ru] yMikizuUmmmmmmm...\p...\p...\pan...\p...\postrich egg...\p...\pv\e
+[0006fb|en] ÂyMikiÂzÂuUmmmmmmm...\p...\p...\pan...\p...\postrich egg...\p...\pÂv\e
+[0006fb|ru] ÂyMikiÂzÂuUmmmmmmm...\p...\p...\pan...\p...\postrich egg...\p...\pÂv\e
 
-[0006fd|en] yTakeruzuEeeh!?\p This thing's a„Ÿ„Ÿ!!?v\e
-[0006fd|ru] yTakeruzuEeeh!?\p This thing's a„Ÿ„Ÿ!!?v\e
+[0006fd|en] ÂyTakeruÂzÂuEeeh!?\p This thing's aâ€Åºâ€Åº!!?Âv\e
+[0006fd|ru] ÂyTakeruÂzÂuEeeh!?\p This thing's aâ€Åºâ€Åº!!?Âv\e
 
-[0006fe|en] yMikizu...\p...\pa rice ball in the shape of one``v\e
-[0006fe|ru] yMikizu...\p...\pa rice ball in the shape of one``v\e
+[0006fe|en] ÂyMikiÂzÂu...\p...\pa rice ball in the shape of oneÂ`Â`Âv\e
+[0006fe|ru] ÂyMikiÂzÂu...\p...\pa rice ball in the shape of oneÂ`Â`Âv\e
 
-[000702|en] yTakeruzuO-\poooh...\p...\pdon't scare me like that.v\e
-[000702|ru] yTakeruzuO-\poooh...\p...\pdon't scare me like that.v\e
+[000702|en] ÂyTakeruÂzÂuO-\poooh...\p...\pdon't scare me like that.Âv\e
+[000702|ru] ÂyTakeruÂzÂuO-\poooh...\p...\pdon't scare me like that.Âv\e
 
-[000703|en] yYuukozuWhat're those things stuck into it?v\e
-[000703|ru] yYuukozuWhat're those things stuck into it?v\e
+[000703|en] ÂyYuukoÂzÂuWhat're those things stuck into it?Âv\e
+[000703|ru] ÂyYuukoÂzÂuWhat're those things stuck into it?Âv\e
 
-[000704|en] yMikizuUmmm...\pkushikatsu...\pand yakitori...\pand oden...\p...\p...\p\nand squid...\p...\pv\e
-[000704|ru] yMikizuUmmm...\pkushikatsu...\pand yakitori...\pand oden...\p...\p...\p\nand squid...\p...\pv\e
+[000704|en] ÂyMikiÂzÂuUmmm...\pkushikatsu...\pand yakitori...\pand oden...\p...\p...\p\nand squid...\p...\pÂv\e
+[000704|ru] ÂyMikiÂzÂuUmmm...\pkushikatsu...\pand yakitori...\pand oden...\p...\p...\p\nand squid...\p...\pÂv\e
 
-[000705|en] yTakeruzuHow are you supposed to eat this?v\e
-[000705|ru] yTakeruzuHow are you supposed to eat this?v\e
+[000705|en] ÂyTakeruÂzÂuHow are you supposed to eat this?Âv\e
+[000705|ru] ÂyTakeruÂzÂuHow are you supposed to eat this?Âv\e
 
-[000706|en] yMikizuPlease eat it alongside whichever skewer you like.v\e
-[000706|ru] yMikizuPlease eat it alongside whichever skewer you like.v\e
+[000706|en] ÂyMikiÂzÂuPlease eat it alongside whichever skewer you like.Âv\e
+[000706|ru] ÂyMikiÂzÂuPlease eat it alongside whichever skewer you like.Âv\e
 
-[000707|en] yTakeruzuI see...\p...\pv\e
-[000707|ru] yTakeruzuI see...\p...\pv\e
+[000707|en] ÂyTakeruÂzÂuI see...\p...\pÂv\e
+[000707|ru] ÂyTakeruÂzÂuI see...\p...\pÂv\e
 
-[000711|en] yMikizuA-\pand...\p...\pwhen you open up the rice ball...\p...\pv\e
-[000711|ru] yMikizuA-\pand...\p...\pwhen you open up the rice ball...\p...\pv\e
+[000711|en] ÂyMikiÂzÂuA-\pand...\p...\pwhen you open up the rice ball...\p...\pÂv\e
+[000711|ru] ÂyMikiÂzÂuA-\pand...\p...\pwhen you open up the rice ball...\p...\pÂv\e
 
-[000712|en] yTakeruzuOooh!! There's creamy soup on the inside!?v\e
-[000712|ru] yTakeruzuOooh!! There's creamy soup on the inside!?v\e
+[000712|en] ÂyTakeruÂzÂuOooh!! There's creamy soup on the inside!?Âv\e
+[000712|ru] ÂyTakeruÂzÂuOooh!! There's creamy soup on the inside!?Âv\e
 
-[000715|en] yMikizuI made some light tamagoyaki,\p\p and piled them all\ntogether into one!v\e
-[000715|ru] yMikizuI made some light tamagoyaki,\p\p and piled them all\ntogether into one!v\e
+[000715|en] ÂyMikiÂzÂuI made some light tamagoyaki,\p\p and piled them all\ntogether into one!Âv\e
+[000715|ru] ÂyMikiÂzÂuI made some light tamagoyaki,\p\p and piled them all\ntogether into one!Âv\e
 
-[00071a|en] yYuukozuAnd you picked a really thick and viscous\nstarch so it wouldn't leak out...\p...\p...\p...\pnot bad at all,\p\nTamase.v\e
-[00071a|ru] yYuukozuAnd you picked a really thick and viscous\nstarch so it wouldn't leak out...\p...\p...\p...\pnot bad at all,\p\nTamase.v\e
+[00071a|en] ÂyYuukoÂzÂuAnd you picked a really thick and viscous\nstarch so it wouldn't leak out...\p...\p...\p...\pnot bad at all,\p\nTamase.Âv\e
+[00071a|ru] ÂyYuukoÂzÂuAnd you picked a really thick and viscous\nstarch so it wouldn't leak out...\p...\p...\p...\pnot bad at all,\p\nTamase.Âv\e
 
-[00071e|en] yMikizuEheheh...\p...v\e
-[00071e|ru] yMikizuEheheh...\p...v\e
+[00071e|en] ÂyMikiÂzÂuEheheh...\p...Âv\e
+[00071e|ru] ÂyMikiÂzÂuEheheh...\p...Âv\e
 
-[00072b|en] yYuukozuWell then,\p on to...\p...\p...\pSakaki.\p\nYou think you can win this?v\e
-[00072b|ru] yYuukozuWell then,\p on to...\p...\p...\pSakaki.\p\nYou think you can win this?v\e
+[00072b|en] ÂyYuukoÂzÂuWell then,\p on to...\p...\p...\pSakaki.\p\nYou think you can win this?Âv\e
+[00072b|ru] ÂyYuukoÂzÂuWell then,\p on to...\p...\p...\pSakaki.\p\nYou think you can win this?Âv\e
 
-[000735|en] yChizuruzu...\p...\pmy dish is exactly what it looks like.v\e
-[000735|ru] yChizuruzu...\p...\pmy dish is exactly what it looks like.v\e
+[000735|en] ÂyChizuruÂzÂu...\p...\pmy dish is exactly what it looks like.Âv\e
+[000735|ru] ÂyChizuruÂzÂu...\p...\pmy dish is exactly what it looks like.Âv\e
 
-[00073b|en] yTakeruzuTh-\pthis is...\p...\ppretty...\p...\pimpressive.v\e
-[00073b|ru] yTakeruzuTh-\pthis is...\p...\ppretty...\p...\pimpressive.v\e
+[00073b|en] ÂyTakeruÂzÂuTh-\pthis is...\p...\ppretty...\p...\pimpressive.Âv\e
+[00073b|ru] ÂyTakeruÂzÂuTh-\pthis is...\p...\ppretty...\p...\pimpressive.Âv\e
 
-[00073c|en] yChizuruzuIt's basically a makunouchi lunchbox...\p...\p\nbut after thinking about the colors, I thought it would be\nbetter to use a lot of Osechi.v\e
-[00073c|ru] yChizuruzuIt's basically a makunouchi lunchbox...\p...\p\nbut after thinking about the colors, I thought it would be\nbetter to use a lot of Osechi.v\e
+[00073c|en] ÂyChizuruÂzÂuIt's basically a makunouchi lunchbox...\p...\p\nbut after thinking about the colors, I thought it would be\nbetter to use a lot of Osechi.Âv\e
+[00073c|ru] ÂyChizuruÂzÂuIt's basically a makunouchi lunchbox...\p...\p\nbut after thinking about the colors, I thought it would be\nbetter to use a lot of Osechi.Âv\e
 
-[000741|en] yTakeruzuTh-\pthere seem to be...\p...\pa lot of luxurious\nthings in here...\p...\plike shrimp...\p...\pand herring roe...\p...\pv\e
-[000741|ru] yTakeruzuTh-\pthere seem to be...\p...\pa lot of luxurious\nthings in here...\p...\plike shrimp...\p...\pand herring roe...\p...\pv\e
+[000741|en] ÂyTakeruÂzÂuTh-\pthere seem to be...\p...\pa lot of luxurious\nthings in here...\p...\plike shrimp...\p...\pand herring roe...\p...\pÂv\e
+[000741|ru] ÂyTakeruÂzÂuTh-\pthere seem to be...\p...\pa lot of luxurious\nthings in here...\p...\plike shrimp...\p...\pand herring roe...\p...\pÂv\e
 
-[000743|en] yYuukozuMitsurugi got her the ingredients.v\e
-[000743|ru] yYuukozuMitsurugi got her the ingredients.v\e
+[000743|en] ÂyYuukoÂzÂuMitsurugi got her the ingredients.Âv\e
+[000743|ru] ÂyYuukoÂzÂuMitsurugi got her the ingredients.Âv\e
 
-[000744|en] yChizuruzuSince Shirogane-kun will be eating it,\p\nI tried to get things he might like...\p...\pv\e
-[000744|ru] yChizuruzuSince Shirogane-kun will be eating it,\p\nI tried to get things he might like...\p...\pv\e
+[000744|en] ÂyChizuruÂzÂuSince Shirogane-kun will be eating it,\p\nI tried to get things he might like...\p...\pÂv\e
+[000744|ru] ÂyChizuruÂzÂuSince Shirogane-kun will be eating it,\p\nI tried to get things he might like...\p...\pÂv\e
 
-[000746|en] yTakeruzuAre these fish boiled in soy sauce?\p\nThey look good...v\e
-[000746|ru] yTakeruzuAre these fish boiled in soy sauce?\p\nThey look good...v\e
+[000746|en] ÂyTakeruÂzÂuAre these fish boiled in soy sauce?\p\nThey look good...Âv\e
+[000746|ru] ÂyTakeruÂzÂuAre these fish boiled in soy sauce?\p\nThey look good...Âv\e
 
-[000747|en] yChizuruzu...\p...\pthose are the only things I prepared in\nadvance. I made them yesterday, so they should be just\nright...\p...\pv\e
-[000747|ru] yChizuruzu...\p...\pthose are the only things I prepared in\nadvance. I made them yesterday, so they should be just\nright...\p...\pv\e
+[000747|en] ÂyChizuruÂzÂu...\p...\pthose are the only things I prepared in\nadvance. I made them yesterday, so they should be just\nright...\p...\pÂv\e
+[000747|ru] ÂyChizuruÂzÂu...\p...\pthose are the only things I prepared in\nadvance. I made them yesterday, so they should be just\nright...\p...\pÂv\e
 
-[000752|en] yYuukozuWow,\p\p after everything you said,\p you really got\ninto it.v\e
-[000752|ru] yYuukozuWow,\p\p after everything you said,\p you really got\ninto it.v\e
+[000752|en] ÂyYuukoÂzÂuWow,\p\p after everything you said,\p you really got\ninto it.Âv\e
+[000752|ru] ÂyYuukoÂzÂuWow,\p\p after everything you said,\p you really got\ninto it.Âv\e
 
-[000754|en] yChizuruzuI-\pit was all to win...\p...\pv\e
-[000754|ru] yChizuruzuI-\pit was all to win...\p...\pv\e
+[000754|en] ÂyChizuruÂzÂuI-\pit was all to win...\p...\pÂv\e
+[000754|ru] ÂyChizuruÂzÂuI-\pit was all to win...\p...\pÂv\e
 
-[000756|en] yYuukozuHmmm...\p...\pv\e
-[000756|ru] yYuukozuHmmm...\p...\pv\e
+[000756|en] ÂyYuukoÂzÂuHmmm...\p...\pÂv\e
+[000756|ru] ÂyYuukoÂzÂuHmmm...\p...\pÂv\e
 
-[000758|en] yChizuruzuD-\pdoes that really matter!?\p\nThat's all there is to mine!v\e
-[000758|ru] yChizuruzuD-\pdoes that really matter!?\p\nThat's all there is to mine!v\e
+[000758|en] ÂyChizuruÂzÂuD-\pdoes that really matter!?\p\nThat's all there is to mine!Âv\e
+[000758|ru] ÂyChizuruÂzÂuD-\pdoes that really matter!?\p\nThat's all there is to mine!Âv\e
 
-[000762|en] yYuukozuOn to the last one then...\pAyamine.v\e
-[000762|ru] yYuukozuOn to the last one then...\pAyamine.v\e
+[000762|en] ÂyYuukoÂzÂuOn to the last one then...\pAyamine.Âv\e
+[000762|ru] ÂyYuukoÂzÂuOn to the last one then...\pAyamine.Âv\e
 
-[00076c|en] yKeizu...\p...\pthis.v\e
-[00076c|ru] yKeizu...\p...\pthis.v\e
+[00076c|en] ÂyKeiÂzÂu...\p...\pthis.Âv\e
+[00076c|ru] ÂyKeiÂzÂu...\p...\pthis.Âv\e
 
-[000771|en] yTakeruzu...\p...\p...\p...\pv\e
-[000771|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000771|en] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
+[000771|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pÂv\e
 
-[000772|en] yYuukozu...\p...\p...\p...\pv\e
-[000772|ru] yYuukozu...\p...\p...\p...\pv\e
+[000772|en] ÂyYuukoÂzÂu...\p...\p...\p...\pÂv\e
+[000772|ru] ÂyYuukoÂzÂu...\p...\p...\p...\pÂv\e
 
-[000773|en] yKeizu...\p...\pthe ultimate.v\e
-[000773|ru] yKeizu...\p...\pthe ultimate.v\e
+[000773|en] ÂyKeiÂzÂu...\p...\pthe ultimate.Âv\e
+[000773|ru] ÂyKeiÂzÂu...\p...\pthe ultimate.Âv\e
 
-[000774|en] yChizuruzuA-\pAyamine-san...\p...\p...\pyou...\p...\pv\e
-[000774|ru] yChizuruzuA-\pAyamine-san...\p...\p...\pyou...\p...\pv\e
+[000774|en] ÂyChizuruÂzÂuA-\pAyamine-san...\p...\p...\pyou...\p...\pÂv\e
+[000774|ru] ÂyChizuruÂzÂuA-\pAyamine-san...\p...\p...\pyou...\p...\pÂv\e
 
-[000775|en] yKeizu...\p...\pdon't judge by appearance.v\e
-[000775|ru] yKeizu...\p...\pdon't judge by appearance.v\e
+[000775|en] ÂyKeiÂzÂu...\p...\pdon't judge by appearance.Âv\e
+[000775|ru] ÂyKeiÂzÂu...\p...\pdon't judge by appearance.Âv\e
 
-[00077f|en] yYuukozuWow...\p...\p...\pwhat's your secret?v\e
-[00077f|ru] yYuukozuWow...\p...\p...\pwhat's your secret?v\e
+[00077f|en] ÂyYuukoÂzÂuWow...\p...\p...\pwhat's your secret?Âv\e
+[00077f|ru] ÂyYuukoÂzÂuWow...\p...\p...\pwhat's your secret?Âv\e
 
-[000781|en] yKeizu...\p...\pyou'll find out when you eat it.v\e
-[000781|ru] yKeizu...\p...\pyou'll find out when you eat it.v\e
+[000781|en] ÂyKeiÂzÂu...\p...\pyou'll find out when you eat it.Âv\e
+[000781|ru] ÂyKeiÂzÂu...\p...\pyou'll find out when you eat it.Âv\e
 
-[000783|en] yYuukozuSo she says,\p Shirogane.v\e
-[000783|ru] yYuukozuSo she says,\p Shirogane.v\e
+[000783|en] ÂyYuukoÂzÂuSo she says,\p Shirogane.Âv\e
+[000783|ru] ÂyYuukoÂzÂuSo she says,\p Shirogane.Âv\e
 
-[000784|en] yTakeruzu...\p...\pI'll do my best.v\e
-[000784|ru] yTakeruzu...\p...\pI'll do my best.v\e
+[000784|en] ÂyTakeruÂzÂu...\p...\pI'll do my best.Âv\e
+[000784|ru] ÂyTakeruÂzÂu...\p...\pI'll do my best.Âv\e
 
-[00078e|en] yYuukozuSo,\p now that everyone's introduced their food,\p\nlet's wait for Shirogane to eat them all.\p\nEveryone else go to the waiting room!v\e
-[00078e|ru] yYuukozuSo,\p now that everyone's introduced their food,\p\nlet's wait for Shirogane to eat them all.\p\nEveryone else go to the waiting room!v\e
+[00078e|en] ÂyYuukoÂzÂuSo,\p now that everyone's introduced their food,\p\nlet's wait for Shirogane to eat them all.\p\nEveryone else go to the waiting room!Âv\e
+[00078e|ru] ÂyYuukoÂzÂuSo,\p now that everyone's introduced their food,\p\nlet's wait for Shirogane to eat them all.\p\nEveryone else go to the waiting room!Âv\e
 
-[00079f|en] yYuukozuNow,\p it's been an hour.\p\nShirogane, have you made your decision?v\e
-[00079f|ru] yYuukozuNow,\p it's been an hour.\p\nShirogane, have you made your decision?v\e
+[00079f|en] ÂyYuukoÂzÂuNow,\p it's been an hour.\p\nShirogane, have you made your decision?Âv\e
+[00079f|ru] ÂyYuukoÂzÂuNow,\p it's been an hour.\p\nShirogane, have you made your decision?Âv\e
 
-[0007a0|en] yTakeruzu...\p...\p*burp*...\p...\pv\e
-[0007a0|ru] yTakeruzu...\p...\p*burp*...\p...\pv\e
+[0007a0|en] ÂyTakeruÂzÂu...\p...\p*burp*...\p...\pÂv\e
+[0007a0|ru] ÂyTakeruÂzÂu...\p...\p*burp*...\p...\pÂv\e
 
-[0007a2|en] yYuukozuLooks like it.\p\p Then let's hear it.\p\nWhose cooking was the best!?v\e
-[0007a2|ru] yYuukozuLooks like it.\p\p Then let's hear it.\p\nWhose cooking was the best!?v\e
+[0007a2|en] ÂyYuukoÂzÂuLooks like it.\p\p Then let's hear it.\p\nWhose cooking was the best!?Âv\e
+[0007a2|ru] ÂyYuukoÂzÂuLooks like it.\p\p Then let's hear it.\p\nWhose cooking was the best!?Âv\e
 
-[00080e|en] yTakeruzuSumika...\p...\pI guess.v\e 
-[00080e|ru] yTakeruzuSumika...\p...\pI guess.v\e 
+[00080e|en] ÂyTakeruÂzÂuSumika...\p...\pI guess.Âv\e 
+[00080e|ru] ÂyTakeruÂzÂuSumika...\p...\pI guess.Âv\e 
 
-[00081a|en] ySumikazuYaaaay!!!!v\e
-[00081a|ru] ySumikazuYaaaay!!!!v\e
+[00081a|en] ÂySumikaÂzÂuYaaaay!!!!Âv\e
+[00081a|ru] ÂySumikaÂzÂuYaaaay!!!!Âv\e
 
-[00081b|en] yYuukozuAnd why her?v\e
-[00081b|ru] yYuukozuAnd why her?v\e
+[00081b|en] ÂyYuukoÂzÂuAnd why her?Âv\e
+[00081b|ru] ÂyYuukoÂzÂuAnd why her?Âv\e
 
-[00081d|en] yTakeruzuHow should I put this...\p...\pwhat she did was\nabsolutely ridiculous,\p but, well...\p...\pit tasted ridiculous\ntoo...\p...\pwell......v\e
-[00081d|ru] yTakeruzuHow should I put this...\p...\pwhat she did was\nabsolutely ridiculous,\p but, well...\p...\pit tasted ridiculous\ntoo...\p...\pwell......v\e
+[00081d|en] ÂyTakeruÂzÂuHow should I put this...\p...\pwhat she did was\nabsolutely ridiculous,\p but, well...\p...\pit tasted ridiculous\ntoo...\p...\pwell......Âv\e
+[00081d|ru] ÂyTakeruÂzÂuHow should I put this...\p...\pwhat she did was\nabsolutely ridiculous,\p but, well...\p...\pit tasted ridiculous\ntoo...\p...\pwell......Âv\e
 
-[00081e|en] yYuukozuStop hesitating!v\e
-[00081e|ru] yYuukozuStop hesitating!v\e
+[00081e|en] ÂyYuukoÂzÂuStop hesitating!Âv\e
+[00081e|ru] ÂyYuukoÂzÂuStop hesitating!Âv\e
 
-[00081f|en] yTakeruzuI would have to say...\p...\pit conveyed her feelings\ndirectly to me...\p...\pv\e
-[00081f|ru] yTakeruzuI would have to say...\p...\pit conveyed her feelings\ndirectly to me...\p...\pv\e
+[00081f|en] ÂyTakeruÂzÂuI would have to say...\p...\pit conveyed her feelings\ndirectly to me...\p...\pÂv\e
+[00081f|ru] ÂyTakeruÂzÂuI would have to say...\p...\pit conveyed her feelings\ndirectly to me...\p...\pÂv\e
 
-[000824|en] ySumikazuTakeru-chan...\p...\pv\e
-[000824|ru] ySumikazuTakeru-chan...\p...\pv\e
+[000824|en] ÂySumikaÂzÂuTakeru-chan...\p...\pÂv\e
+[000824|ru] ÂySumikaÂzÂuTakeru-chan...\p...\pÂv\e
 
-[000826|en] yTakeruzuWell,\p they were all delicious!! ...\p...\pa few of the\nothers were tastier I guess...\p...\pbut still„Ÿ„Ÿ!!v\e
-[000826|ru] yTakeruzuWell,\p they were all delicious!! ...\p...\pa few of the\nothers were tastier I guess...\p...\pbut still„Ÿ„Ÿ!!v\e
+[000826|en] ÂyTakeruÂzÂuWell,\p they were all delicious!! ...\p...\pa few of the\nothers were tastier I guess...\p...\pbut stillâ€Åºâ€Åº!!Âv\e
+[000826|ru] ÂyTakeruÂzÂuWell,\p they were all delicious!! ...\p...\pa few of the\nothers were tastier I guess...\p...\pbut stillâ€Åºâ€Åº!!Âv\e
 
-[000827|en] yYuukozuWe get it.\p Anyway,\p Shirogane's decided that\nKagami's was the best,\p right?v\e
-[000827|ru] yYuukozuWe get it.\p Anyway,\p Shirogane's decided that\nKagami's was the best,\p right?v\e
+[000827|en] ÂyYuukoÂzÂuWe get it.\p Anyway,\p Shirogane's decided that\nKagami's was the best,\p right?Âv\e
+[000827|ru] ÂyYuukoÂzÂuWe get it.\p Anyway,\p Shirogane's decided that\nKagami's was the best,\p right?Âv\e
 
-[000832|en] yTakeruzu...\p...\pyes.v\e
-[000832|ru] yTakeruzu...\p...\pyes.v\e
+[000832|en] ÂyTakeruÂzÂu...\p...\pyes.Âv\e
+[000832|ru] ÂyTakeruÂzÂu...\p...\pyes.Âv\e
 
-[000835|en] yYuukozuThat was rather anti-climactic.\p\p\nThis outcome was just too obvious...\p...\p\p\nShirogane, you need to study drama.v\e
-[000835|ru] yYuukozuThat was rather anti-climactic.\p\p\nThis outcome was just too obvious...\p...\p\p\nShirogane, you need to study drama.v\e
+[000835|en] ÂyYuukoÂzÂuThat was rather anti-climactic.\p\p\nThis outcome was just too obvious...\p...\p\p\nShirogane, you need to study drama.Âv\e
+[000835|ru] ÂyYuukoÂzÂuThat was rather anti-climactic.\p\p\nThis outcome was just too obvious...\p...\p\p\nShirogane, you need to study drama.Âv\e
 
-[000837|en] yTakeruzu...\p...\pI think I'll pass.v\e
-[000837|ru] yTakeruzu...\p...\pI think I'll pass.v\e
+[000837|en] ÂyTakeruÂzÂu...\p...\pI think I'll pass.Âv\e
+[000837|ru] ÂyTakeruÂzÂu...\p...\pI think I'll pass.Âv\e
 
-[000839|en] yYuukozuHaaa...\p...\pwhich means,\p Kagami gets to do\nwhatever she wants with Shirogane tomorrow!\p\p\nGive her a round of applause```v\e
-[000839|ru] yYuukozuHaaa...\p...\pwhich means,\p Kagami gets to do\nwhatever she wants with Shirogane tomorrow!\p\p\nGive her a round of applause```v\e
+[000839|en] ÂyYuukoÂzÂuHaaa...\p...\pwhich means,\p Kagami gets to do\nwhatever she wants with Shirogane tomorrow!\p\p\nGive her a round of applauseÂ`Â`Â`Âv\e
+[000839|ru] ÂyYuukoÂzÂuHaaa...\p...\pwhich means,\p Kagami gets to do\nwhatever she wants with Shirogane tomorrow!\p\p\nGive her a round of applauseÂ`Â`Â`Âv\e
 
 [00083b|en] *silence*...\p...\p\e
 [00083b|ru] *silence*...\p...\p\e
 
-[00083e|en] yYuukozuWhaaat?\p\p She fought with all her heart and soul\nfor this victory.\p Give her some recognition.v\e
-[00083e|ru] yYuukozuWhaaat?\p\p She fought with all her heart and soul\nfor this victory.\p Give her some recognition.v\e
+[00083e|en] ÂyYuukoÂzÂuWhaaat?\p\p She fought with all her heart and soul\nfor this victory.\p Give her some recognition.Âv\e
+[00083e|ru] ÂyYuukoÂzÂuWhaaat?\p\p She fought with all her heart and soul\nfor this victory.\p Give her some recognition.Âv\e
 
-[000846|en] ySumikazuMitsurugi-san...\p...\p?v\e
-[000846|ru] ySumikazuMitsurugi-san...\p...\p?v\e
+[000846|en] ÂySumikaÂzÂuMitsurugi-san...\p...\p?Âv\e
+[000846|ru] ÂySumikaÂzÂuMitsurugi-san...\p...\p?Âv\e
 
-[00084e|en] yMeiyazuWell done, Kagami.\p\nYou understand Takeru's feelings well.\p\nI must admit my defeat in this contest.v\e
-[00084e|ru] yMeiyazuWell done, Kagami.\p\nYou understand Takeru's feelings well.\p\nI must admit my defeat in this contest.v\e
+[00084e|en] ÂyMeiyaÂzÂuWell done, Kagami.\p\nYou understand Takeru's feelings well.\p\nI must admit my defeat in this contest.Âv\e
+[00084e|ru] ÂyMeiyaÂzÂuWell done, Kagami.\p\nYou understand Takeru's feelings well.\p\nI must admit my defeat in this contest.Âv\e
 
-[000854|en] yChizuruzuThat's true...\p...well...\p...\pwe can't really beat\nKagami-san.v\e
-[000854|ru] yChizuruzuThat's true...\p...well...\p...\pwe can't really beat\nKagami-san.v\e
+[000854|en] ÂyChizuruÂzÂuThat's true...\p...well...\p...\pwe can't really beat\nKagami-san.Âv\e
+[000854|ru] ÂyChizuruÂzÂuThat's true...\p...well...\p...\pwe can't really beat\nKagami-san.Âv\e
 
-[000856|en] yMikizuThat's true.v\e
-[000856|ru] yMikizuThat's true.v\e
+[000856|en] ÂyMikiÂzÂuThat's true.Âv\e
+[000856|ru] ÂyMikiÂzÂuThat's true.Âv\e
 
-[000858|en] yKeizu...\p...\pgood for you.v\e
-[000858|ru] yKeizu...\p...\pgood for you.v\e
+[000858|en] ÂyKeiÂzÂu...\p...\pgood for you.Âv\e
+[000858|ru] ÂyKeiÂzÂu...\p...\pgood for you.Âv\e
 
-[00085a|en] ySumikazuEveryone...\p...\pv\e
-[00085a|ru] ySumikazuEveryone...\p...\pv\e
+[00085a|en] ÂySumikaÂzÂuEveryone...\p...\pÂv\e
+[00085a|ru] ÂySumikaÂzÂuEveryone...\p...\pÂv\e
 
-[000861|en] yTakeruzuMeiya...\p...\pI guess?v\e 
-[000861|ru] yTakeruzuMeiya...\p...\pI guess?v\e 
+[000861|en] ÂyTakeruÂzÂuMeiya...\p...\pI guess?Âv\e 
+[000861|ru] ÂyTakeruÂzÂuMeiya...\p...\pI guess?Âv\e 
 
-[00086c|en] yYuukozuOh-ho?\p\p So luxurious food really does make the\nrest pale in comparison?v\e
-[00086c|ru] yYuukozuOh-ho?\p\p So luxurious food really does make the\nrest pale in comparison?v\e
+[00086c|en] ÂyYuukoÂzÂuOh-ho?\p\p So luxurious food really does make the\nrest pale in comparison?Âv\e
+[00086c|ru] ÂyYuukoÂzÂuOh-ho?\p\p So luxurious food really does make the\nrest pale in comparison?Âv\e
 
-[00086d|en] yTakeruzuHmmm...\p...\pit's not that...\p...\pwell,\p Meiya's certainly\nwas delicious...\p...\pv\e
-[00086d|ru] yTakeruzuHmmm...\p...\pit's not that...\p...\pwell,\p Meiya's certainly\nwas delicious...\p...\pv\e
+[00086d|en] ÂyTakeruÂzÂuHmmm...\p...\pit's not that...\p...\pwell,\p Meiya's certainly\nwas delicious...\p...\pÂv\e
+[00086d|ru] ÂyTakeruÂzÂuHmmm...\p...\pit's not that...\p...\pwell,\p Meiya's certainly\nwas delicious...\p...\pÂv\e
 
-[000877|en] yYuukozuMitsurugi didn't make it herself though.v\e
-[000877|ru] yYuukozuMitsurugi didn't make it herself though.v\e
+[000877|en] ÂyYuukoÂzÂuMitsurugi didn't make it herself though.Âv\e
+[000877|ru] ÂyYuukoÂzÂuMitsurugi didn't make it herself though.Âv\e
 
-[000883|en] yTakeruzuNow that you mention it, yeah, but...\p...\p\nWe never decided she couldn't.v\e
-[000883|ru] yTakeruzuNow that you mention it, yeah, but...\p...\p\nWe never decided she couldn't.v\e
+[000883|en] ÂyTakeruÂzÂuNow that you mention it, yeah, but...\p...\p\nWe never decided she couldn't.Âv\e
+[000883|ru] ÂyTakeruÂzÂuNow that you mention it, yeah, but...\p...\p\nWe never decided she couldn't.Âv\e
 
-[00088d|en] yYuukozuNo, we didn't.v\e
-[00088d|ru] yYuukozuNo, we didn't.v\e
+[00088d|en] ÂyYuukoÂzÂuNo, we didn't.Âv\e
+[00088d|ru] ÂyYuukoÂzÂuNo, we didn't.Âv\e
 
-[000890|en] yTakeruzuIn that sense,\p I guess the outcome of this was\nfixed from the start`v\e
-[000890|ru] yTakeruzuIn that sense,\p I guess the outcome of this was\nfixed from the start`v\e
+[000890|en] ÂyTakeruÂzÂuIn that sense,\p I guess the outcome of this was\nfixed from the startÂ`Âv\e
+[000890|ru] ÂyTakeruÂzÂuIn that sense,\p I guess the outcome of this was\nfixed from the startÂ`Âv\e
 
-[00089b|en] yYuukozuBy the way, Shirogane,\p what did you base your\ndecision on?v\e
-[00089b|ru] yYuukozuBy the way, Shirogane,\p what did you base your\ndecision on?v\e
+[00089b|en] ÂyYuukoÂzÂuBy the way, Shirogane,\p what did you base your\ndecision on?Âv\e
+[00089b|ru] ÂyYuukoÂzÂuBy the way, Shirogane,\p what did you base your\ndecision on?Âv\e
 
-[00089c|en] yTakeruzuEh? Just the taste.\p After all,\p if I judged on\nanything else,\p it would give someone an unfair\nadvantage.v\e
-[00089c|ru] yTakeruzuEh? Just the taste.\p After all,\p if I judged on\nanything else,\p it would give someone an unfair\nadvantage.v\e
+[00089c|en] ÂyTakeruÂzÂuEh? Just the taste.\p After all,\p if I judged on\nanything else,\p it would give someone an unfair\nadvantage.Âv\e
+[00089c|ru] ÂyTakeruÂzÂuEh? Just the taste.\p After all,\p if I judged on\nanything else,\p it would give someone an unfair\nadvantage.Âv\e
 
-[0008a7|en] yYuukozuHmmmm...\p...\pv\e
-[0008a7|ru] yYuukozuHmmmm...\p...\pv\e
+[0008a7|en] ÂyYuukoÂzÂuHmmmm...\p...\pÂv\e
+[0008a7|ru] ÂyYuukoÂzÂuHmmmm...\p...\pÂv\e
 
-[0008a9|en] yTakeruzuAfter all,\p Sumika knows all my favorite foods\nbetter than anyone else.v\e
-[0008a9|ru] yTakeruzuAfter all,\p Sumika knows all my favorite foods\nbetter than anyone else.v\e
+[0008a9|en] ÂyTakeruÂzÂuAfter all,\p Sumika knows all my favorite foods\nbetter than anyone else.Âv\e
+[0008a9|ru] ÂyTakeruÂzÂuAfter all,\p Sumika knows all my favorite foods\nbetter than anyone else.Âv\e
 
-[0008ab|en] yYuukozuYou have a point there.v\e
-[0008ab|ru] yYuukozuYou have a point there.v\e
+[0008ab|en] ÂyYuukoÂzÂuYou have a point there.Âv\e
+[0008ab|ru] ÂyYuukoÂzÂuYou have a point there.Âv\e
 
-[0008af|en] yTakeruzuIf I was looking for who put the most feeling\ninto theirs,\p all I'd be able to base that on is whether my\nfavorite foods were in it,\p and Sumika would win by a\nlandslide.v\e
-[0008af|ru] yTakeruzuIf I was looking for who put the most feeling\ninto theirs,\p all I'd be able to base that on is whether my\nfavorite foods were in it,\p and Sumika would win by a\nlandslide.v\e
+[0008af|en] ÂyTakeruÂzÂuIf I was looking for who put the most feeling\ninto theirs,\p all I'd be able to base that on is whether my\nfavorite foods were in it,\p and Sumika would win by a\nlandslide.Âv\e
+[0008af|ru] ÂyTakeruÂzÂuIf I was looking for who put the most feeling\ninto theirs,\p all I'd be able to base that on is whether my\nfavorite foods were in it,\p and Sumika would win by a\nlandslide.Âv\e
 
-[0008b5|en] yYuukozuI see...\p...\p...\pis everyone alright with that?v\e
-[0008b5|ru] yYuukozuI see...\p...\p...\pis everyone alright with that?v\e
+[0008b5|en] ÂyYuukoÂzÂuI see...\p...\p...\pis everyone alright with that?Âv\e
+[0008b5|ru] ÂyYuukoÂzÂuI see...\p...\p...\pis everyone alright with that?Âv\e
 
-[0008ba|en] ySumikazu...\p...I don't like it, but...\p...nothing I can do about\nit now`v\e
-[0008ba|ru] ySumikazu...\p...I don't like it, but...\p...nothing I can do about\nit now`v\e
+[0008ba|en] ÂySumikaÂzÂu...\p...I don't like it, but...\p...nothing I can do about\nit nowÂ`Âv\e
+[0008ba|ru] ÂySumikaÂzÂu...\p...I don't like it, but...\p...nothing I can do about\nit nowÂ`Âv\e
 
-[0008c0|en] yChizuruzuShirogane-kun's made his decision...\p...\p\nThere's no point in raising objections. I'll just have to get\nover failing to achieve my goal here...\p...\pv\e
-[0008c0|ru] yChizuruzuShirogane-kun's made his decision...\p...\p\nThere's no point in raising objections. I'll just have to get\nover failing to achieve my goal here...\p...\pv\e
+[0008c0|en] ÂyChizuruÂzÂuShirogane-kun's made his decision...\p...\p\nThere's no point in raising objections. I'll just have to get\nover failing to achieve my goal here...\p...\pÂv\e
+[0008c0|ru] ÂyChizuruÂzÂuShirogane-kun's made his decision...\p...\p\nThere's no point in raising objections. I'll just have to get\nover failing to achieve my goal here...\p...\pÂv\e
 
-[0008c4|en] yMikizuThat's true.\p\p\p But what Takeru-san just said he\nwas judging on...\p...\pwas he trying to be considerate of us?v\e
-[0008c4|ru] yMikizuThat's true.\p\p\p But what Takeru-san just said he\nwas judging on...\p...\pwas he trying to be considerate of us?v\e
+[0008c4|en] ÂyMikiÂzÂuThat's true.\p\p\p But what Takeru-san just said he\nwas judging on...\p...\pwas he trying to be considerate of us?Âv\e
+[0008c4|ru] ÂyMikiÂzÂuThat's true.\p\p\p But what Takeru-san just said he\nwas judging on...\p...\pwas he trying to be considerate of us?Âv\e
 
-[0008c6|en] yYuukozuHuhuhu...\p...\p...\pTamaseee,\p you're pretty sharp.v\e
-[0008c6|ru] yYuukozuHuhuhu...\p...\p...\pTamaseee,\p you're pretty sharp.v\e
+[0008c6|en] ÂyYuukoÂzÂuHuhuhu...\p...\p...\pTamaseee,\p you're pretty sharp.Âv\e
+[0008c6|ru] ÂyYuukoÂzÂuHuhuhu...\p...\p...\pTamaseee,\p you're pretty sharp.Âv\e
 
-[0008c9|en] ySumikazuEh!?v\e
-[0008c9|ru] ySumikazuEh!?v\e
+[0008c9|en] ÂySumikaÂzÂuEh!?Âv\e
+[0008c9|ru] ÂySumikaÂzÂuEh!?Âv\e
 
-[0008cb|en] yKeizu...\p...\phe eliminated personal feelings.v\e
-[0008cb|ru] yKeizu...\p...\phe eliminated personal feelings.v\e
+[0008cb|en] ÂyKeiÂzÂu...\p...\phe eliminated personal feelings.Âv\e
+[0008cb|ru] ÂyKeiÂzÂu...\p...\phe eliminated personal feelings.Âv\e
 
-[0008ce|en] ySumikazuI see`\p\p...\p\p...\p\pyeah!\p Anyway,\p Mitsurugi-san wins!\p\nI might not like it,\p but I have to accept it,\p ahaha...\p...\pv\e
-[0008ce|ru] ySumikazuI see`\p\p...\p\p...\p\pyeah!\p Anyway,\p Mitsurugi-san wins!\p\nI might not like it,\p but I have to accept it,\p ahaha...\p...\pv\e
+[0008ce|en] ÂySumikaÂzÂuI seeÂ`\p\p...\p\p...\p\pyeah!\p Anyway,\p Mitsurugi-san wins!\p\nI might not like it,\p but I have to accept it,\p ahaha...\p...\pÂv\e
+[0008ce|ru] ÂySumikaÂzÂuI seeÂ`\p\p...\p\p...\p\pyeah!\p Anyway,\p Mitsurugi-san wins!\p\nI might not like it,\p but I have to accept it,\p ahaha...\p...\pÂv\e
 
-[0008d1|en] yKeizu...\p...\pthat's true.v\e
-[0008d1|ru] yKeizu...\p...\pthat's true.v\e
+[0008d1|en] ÂyKeiÂzÂu...\p...\pthat's true.Âv\e
+[0008d1|ru] ÂyKeiÂzÂu...\p...\pthat's true.Âv\e
 
-[0008d3|en] ySumikazuCongratulations!v\e
-[0008d3|ru] ySumikazuCongratulations!v\e
+[0008d3|en] ÂySumikaÂzÂuCongratulations!Âv\e
+[0008d3|ru] ÂySumikaÂzÂuCongratulations!Âv\e
 
-[0008de|en] yTakeruzu...\p...\pTama,\p I guess.v\e 
-[0008de|ru] yTakeruzu...\p...\pTama,\p I guess.v\e 
+[0008de|en] ÂyTakeruÂzÂu...\p...\pTama,\p I guess.Âv\e 
+[0008de|ru] ÂyTakeruÂzÂu...\p...\pTama,\p I guess.Âv\e 
 
-[0008e9|en] yMikizuEeeeeh!!!?v\e
-[0008e9|ru] yMikizuEeeeeh!!!?v\e
+[0008e9|en] ÂyMikiÂzÂuEeeeeh!!!?Âv\e
+[0008e9|ru] ÂyMikiÂzÂuEeeeeh!!!?Âv\e
 
-[0008eb|en] yTakeruzuOwa!! Don't scare me!v\e
-[0008eb|ru] yTakeruzuOwa!! Don't scare me!v\e
+[0008eb|en] ÂyTakeruÂzÂuOwa!! Don't scare me!Âv\e
+[0008eb|ru] ÂyTakeruÂzÂuOwa!! Don't scare me!Âv\e
 
-[0008f6|en] yMikizuB-b-b-b-but-but-but...\p...\pv\e
-[0008f6|ru] yMikizuB-b-b-b-but-but-but...\p...\pv\e
+[0008f6|en] ÂyMikiÂzÂuB-b-b-b-but-but-but...\p...\pÂv\e
+[0008f6|ru] ÂyMikiÂzÂuB-b-b-b-but-but-but...\p...\pÂv\e
 
-[0008f8|en] yTakeruzuIt was fun just looking at yours,\p and it had\nloads of clever touches...\panyway,\p it was fun to eat.v\e
-[0008f8|ru] yTakeruzuIt was fun just looking at yours,\p and it had\nloads of clever touches...\panyway,\p it was fun to eat.v\e
+[0008f8|en] ÂyTakeruÂzÂuIt was fun just looking at yours,\p and it had\nloads of clever touches...\panyway,\p it was fun to eat.Âv\e
+[0008f8|ru] ÂyTakeruÂzÂuIt was fun just looking at yours,\p and it had\nloads of clever touches...\panyway,\p it was fun to eat.Âv\e
 
-[0008fa|en] yMikizuDo you mean it?v\e
-[0008fa|ru] yMikizuDo you mean it?v\e
+[0008fa|en] ÂyMikiÂzÂuDo you mean it?Âv\e
+[0008fa|ru] ÂyMikiÂzÂuDo you mean it?Âv\e
 
-[0008fb|en] yTakeruzuYeah, and I don't think anyone would object to\nthat...\p...\pv\e
-[0008fb|ru] yTakeruzuYeah, and I don't think anyone would object to\nthat...\p...\pv\e
+[0008fb|en] ÂyTakeruÂzÂuYeah, and I don't think anyone would object to\nthat...\p...\pÂv\e
+[0008fb|ru] ÂyTakeruÂzÂuYeah, and I don't think anyone would object to\nthat...\p...\pÂv\e
 
-[000905|en] yYuukozuWell?v\e
-[000905|ru] yYuukozuWell?v\e
+[000905|en] ÂyYuukoÂzÂuWell?Âv\e
+[000905|ru] ÂyYuukoÂzÂuWell?Âv\e
 
-[000908|en] ySumikazuI certainly did laugh at Miki-chan's.v\e
-[000908|ru] ySumikazuI certainly did laugh at Miki-chan's.v\e
+[000908|en] ÂySumikaÂzÂuI certainly did laugh at Miki-chan's.Âv\e
+[000908|ru] ÂySumikaÂzÂuI certainly did laugh at Miki-chan's.Âv\e
 
-[00090e|en] yMeiyazuYes.\p\p The use of skewers was a good idea.\p\p\p\p\nIt had not occurred to me at all until he chose.\p\p\p\p\nMost of all,\p\p Tamase appeared to enjoy the process of\nmaking it.v\e
-[00090e|ru] yMeiyazuYes.\p\p The use of skewers was a good idea.\p\p\p\p\nIt had not occurred to me at all until he chose.\p\p\p\p\nMost of all,\p\p Tamase appeared to enjoy the process of\nmaking it.v\e
+[00090e|en] ÂyMeiyaÂzÂuYes.\p\p The use of skewers was a good idea.\p\p\p\p\nIt had not occurred to me at all until he chose.\p\p\p\p\nMost of all,\p\p Tamase appeared to enjoy the process of\nmaking it.Âv\e
+[00090e|ru] ÂyMeiyaÂzÂuYes.\p\p The use of skewers was a good idea.\p\p\p\p\nIt had not occurred to me at all until he chose.\p\p\p\p\nMost of all,\p\p Tamase appeared to enjoy the process of\nmaking it.Âv\e
 
-[00091a|en] yChizuruzuYou're right,\p\p that sort of thing might fit\nShirogane well.v\e
-[00091a|ru] yChizuruzuYou're right,\p\p that sort of thing might fit\nShirogane well.v\e
+[00091a|en] ÂyChizuruÂzÂuYou're right,\p\p that sort of thing might fit\nShirogane well.Âv\e
+[00091a|ru] ÂyChizuruÂzÂuYou're right,\p\p that sort of thing might fit\nShirogane well.Âv\e
 
-[000921|en] yTakeruzuWhat did you„Ÿ„Ÿ!?v\e
-[000921|ru] yTakeruzuWhat did you„Ÿ„Ÿ!?v\e
+[000921|en] ÂyTakeruÂzÂuWhat did youâ€Åºâ€Åº!?Âv\e
+[000921|ru] ÂyTakeruÂzÂuWhat did youâ€Åºâ€Åº!?Âv\e
 
-[000926|en] yChizuruzuI'm kidding.\p\p\p But\p the feeling a kid gets when\nlooking forward to a lunch his mother made for\nhim...\p...\p...\pthat isn't something you want to forget.v\e
-[000926|ru] yChizuruzuI'm kidding.\p\p\p But\p the feeling a kid gets when\nlooking forward to a lunch his mother made for\nhim...\p...\p...\pthat isn't something you want to forget.v\e
+[000926|en] ÂyChizuruÂzÂuI'm kidding.\p\p\p But\p the feeling a kid gets when\nlooking forward to a lunch his mother made for\nhim...\p...\p...\pthat isn't something you want to forget.Âv\e
+[000926|ru] ÂyChizuruÂzÂuI'm kidding.\p\p\p But\p the feeling a kid gets when\nlooking forward to a lunch his mother made for\nhim...\p...\p...\pthat isn't something you want to forget.Âv\e
 
-[00092c|en] yMikizuChizuru-chan...\p...\pv\e
-[00092c|ru] yMikizuChizuru-chan...\p...\pv\e
+[00092c|en] ÂyMikiÂzÂuChizuru-chan...\p...\pÂv\e
+[00092c|ru] ÂyMikiÂzÂuChizuru-chan...\p...\pÂv\e
 
-[00092f|en] yChizuruzuAfter all,\p eating is supposed to be fun, right?v\e
-[00092f|ru] yChizuruzuAfter all,\p eating is supposed to be fun, right?v\e
+[00092f|en] ÂyChizuruÂzÂuAfter all,\p eating is supposed to be fun, right?Âv\e
+[00092f|ru] ÂyChizuruÂzÂuAfter all,\p eating is supposed to be fun, right?Âv\e
 
-[000934|en] yKeizu...\p...\p...\p...\pv\e
-[000934|ru] yKeizu...\p...\p...\p...\pv\e
+[000934|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[000934|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[000936|en] yChizuruzuWhat?v\e
-[000936|ru] yChizuruzuWhat?v\e
+[000936|en] ÂyChizuruÂzÂuWhat?Âv\e
+[000936|ru] ÂyChizuruÂzÂuWhat?Âv\e
 
-[00093b|en] yKeizu...\p...\pnothing.v\e
-[00093b|ru] yKeizu...\p...\pnothing.v\e
+[00093b|en] ÂyKeiÂzÂu...\p...\pnothing.Âv\e
+[00093b|ru] ÂyKeiÂzÂu...\p...\pnothing.Âv\e
 
-[00093d|en] yChizuruzuJust say it.\p You're thinking that such words\ndon't fit my character at all, aren't you?v\e
-[00093d|ru] yChizuruzuJust say it.\p You're thinking that such words\ndon't fit my character at all, aren't you?v\e
+[00093d|en] ÂyChizuruÂzÂuJust say it.\p You're thinking that such words\ndon't fit my character at all, aren't you?Âv\e
+[00093d|ru] ÂyChizuruÂzÂuJust say it.\p You're thinking that such words\ndon't fit my character at all, aren't you?Âv\e
 
-[000940|en] yKeizu...\p...\pwe are miraculously in agreement.v\e
-[000940|ru] yKeizu...\p...\pwe are miraculously in agreement.v\e
+[000940|en] ÂyKeiÂzÂu...\p...\pwe are miraculously in agreement.Âv\e
+[000940|ru] ÂyKeiÂzÂu...\p...\pwe are miraculously in agreement.Âv\e
 
-[000946|en] yChizuruzuEh?v\e
-[000946|ru] yChizuruzuEh?v\e
+[000946|en] ÂyChizuruÂzÂuEh?Âv\e
+[000946|ru] ÂyChizuruÂzÂuEh?Âv\e
 
-[00094a|en] yKeizu...\p...\pthe next miracle will occur in 256 years.v\e
-[00094a|ru] yKeizu...\p...\pthe next miracle will occur in 256 years.v\e
+[00094a|en] ÂyKeiÂzÂu...\p...\pthe next miracle will occur in 256 years.Âv\e
+[00094a|ru] ÂyKeiÂzÂu...\p...\pthe next miracle will occur in 256 years.Âv\e
 
-[000950|en] yChizuruzu...\p...\pyes, yes.v\e
-[000950|ru] yChizuruzu...\p...\pyes, yes.v\e
+[000950|en] ÂyChizuruÂzÂu...\p...\pyes, yes.Âv\e
+[000950|ru] ÂyChizuruÂzÂu...\p...\pyes, yes.Âv\e
 
-[000951|en] yYuukozuAnyway,\p so no one has any problems with\nTamase's victory?v\e
-[000951|ru] yYuukozuAnyway,\p so no one has any problems with\nTamase's victory?v\e
+[000951|en] ÂyYuukoÂzÂuAnyway,\p so no one has any problems with\nTamase's victory?Âv\e
+[000951|ru] ÂyYuukoÂzÂuAnyway,\p so no one has any problems with\nTamase's victory?Âv\e
 
-[000959|en] ySumikazuCongratulations!v\e
-[000959|ru] ySumikazuCongratulations!v\e
+[000959|en] ÂySumikaÂzÂuCongratulations!Âv\e
+[000959|ru] ÂySumikaÂzÂuCongratulations!Âv\e
 
-[000965|en] yTakeruzuClass Rep...\p...\pI guess.v\e 
-[000965|ru] yTakeruzuClass Rep...\p...\pI guess.v\e 
+[000965|en] ÂyTakeruÂzÂuClass Rep...\p...\pI guess.Âv\e 
+[000965|ru] ÂyTakeruÂzÂuClass Rep...\p...\pI guess.Âv\e 
 
-[000970|en] yChizuruzuEh!!?v\e
-[000970|ru] yChizuruzuEh!!?v\e
+[000970|en] ÂyChizuruÂzÂuEh!!?Âv\e
+[000970|ru] ÂyChizuruÂzÂuEh!!?Âv\e
 
-[000971|en] yTakeruzuWhy're you surprised!?v\e
-[000971|ru] yTakeruzuWhy're you surprised!?v\e
+[000971|en] ÂyTakeruÂzÂuWhy're you surprised!?Âv\e
+[000971|ru] ÂyTakeruÂzÂuWhy're you surprised!?Âv\e
 
-[000974|en] yChizuruzuB-\pbut...\p...\pv\e
-[000974|ru] yChizuruzuB-\pbut...\p...\pv\e
+[000974|en] ÂyChizuruÂzÂuB-\pbut...\p...\pÂv\e
+[000974|ru] ÂyChizuruÂzÂuB-\pbut...\p...\pÂv\e
 
-[000975|en] yTakeruzuThis might make everyone mad, but...\p...\pto me,\nClass Rep's was the farthest from what I'd imagined!v\e
-[000975|ru] yTakeruzuThis might make everyone mad, but...\p...\pto me,\nClass Rep's was the farthest from what I'd imagined!v\e
+[000975|en] ÂyTakeruÂzÂuThis might make everyone mad, but...\p...\pto me,\nClass Rep's was the farthest from what I'd imagined!Âv\e
+[000975|ru] ÂyTakeruÂzÂuThis might make everyone mad, but...\p...\pto me,\nClass Rep's was the farthest from what I'd imagined!Âv\e
 
-[000977|en] yYuukozuOooh...\p...\p?v\e
-[000977|ru] yYuukozuOooh...\p...\p?v\e
+[000977|en] ÂyYuukoÂzÂuOooh...\p...\p?Âv\e
+[000977|ru] ÂyYuukoÂzÂuOooh...\p...\p?Âv\e
 
-[000978|en] yTakeruzuAnyway,\p I knew she'd make something,\p but I\nnever thought it'd be that good!!v\e
-[000978|ru] yTakeruzuAnyway,\p I knew she'd make something,\p but I\nnever thought it'd be that good!!v\e
+[000978|en] ÂyTakeruÂzÂuAnyway,\p I knew she'd make something,\p but I\nnever thought it'd be that good!!Âv\e
+[000978|ru] ÂyTakeruÂzÂuAnyway,\p I knew she'd make something,\p but I\nnever thought it'd be that good!!Âv\e
 
-[000983|en] yChizuruzuDon't say that with so much confidence!v\e
-[000983|ru] yChizuruzuDon't say that with so much confidence!v\e
+[000983|en] ÂyChizuruÂzÂuDon't say that with so much confidence!Âv\e
+[000983|ru] ÂyChizuruÂzÂuDon't say that with so much confidence!Âv\e
 
-[000984|en] yTakeruzuWhat else...\p...\pof course it tasted great,\p but that\nsurprise was better than anything.v\e
-[000984|ru] yTakeruzuWhat else...\p...\pof course it tasted great,\p but that\nsurprise was better than anything.v\e
+[000984|en] ÂyTakeruÂzÂuWhat else...\p...\pof course it tasted great,\p but that\nsurprise was better than anything.Âv\e
+[000984|ru] ÂyTakeruÂzÂuWhat else...\p...\pof course it tasted great,\p but that\nsurprise was better than anything.Âv\e
 
-[000986|en] yKeizu...\p...\pa surprising woman.v\e
-[000986|ru] yKeizu...\p...\pa surprising woman.v\e
+[000986|en] ÂyKeiÂzÂu...\p...\pa surprising woman.Âv\e
+[000986|ru] ÂyKeiÂzÂu...\p...\pa surprising woman.Âv\e
 
-[000988|en] yChizuruzu...\p...\pyou didn't need to say that.v\e
-[000988|ru] yChizuruzu...\p...\pyou didn't need to say that.v\e
+[000988|en] ÂyChizuruÂzÂu...\p...\pyou didn't need to say that.Âv\e
+[000988|ru] ÂyChizuruÂzÂu...\p...\pyou didn't need to say that.Âv\e
 
-[000992|en] ySumikazuNow that you mention it...\p...\p...\pSakaki-san is\nalways fighting with Takeru-chan.v\e
-[000992|ru] ySumikazuNow that you mention it...\p...\p...\pSakaki-san is\nalways fighting with Takeru-chan.v\e
+[000992|en] ÂySumikaÂzÂuNow that you mention it...\p...\p...\pSakaki-san is\nalways fighting with Takeru-chan.Âv\e
+[000992|ru] ÂySumikaÂzÂuNow that you mention it...\p...\p...\pSakaki-san is\nalways fighting with Takeru-chan.Âv\e
 
-[000994|en] yMeiyazuThat is true.\p\p One would assume she would\nnever cook for Takeru in the first place.v\e
-[000994|ru] yMeiyazuThat is true.\p\p One would assume she would\nnever cook for Takeru in the first place.v\e
+[000994|en] ÂyMeiyaÂzÂuThat is true.\p\p One would assume she would\nnever cook for Takeru in the first place.Âv\e
+[000994|ru] ÂyMeiyaÂzÂuThat is true.\p\p One would assume she would\nnever cook for Takeru in the first place.Âv\e
 
-[000996|en] yMikizuBut she really worked hard on it.v\e
-[000996|ru] yMikizuBut she really worked hard on it.v\e
+[000996|en] ÂyMikiÂzÂuBut she really worked hard on it.Âv\e
+[000996|ru] ÂyMikiÂzÂuBut she really worked hard on it.Âv\e
 
-[00099c|en] yChizuruzuH-\phey!\p Don't say it like that...\p...\pv\e
-[00099c|ru] yChizuruzuH-\phey!\p Don't say it like that...\p...\pv\e
+[00099c|en] ÂyChizuruÂzÂuH-\phey!\p Don't say it like that...\p...\pÂv\e
+[00099c|ru] ÂyChizuruÂzÂuH-\phey!\p Don't say it like that...\p...\pÂv\e
 
-[00099d|en] yYuukozuHaven't you been working on it since\nyesterday?v\e
-[00099d|ru] yYuukozuHaven't you been working on it since\nyesterday?v\e
+[00099d|en] ÂyYuukoÂzÂuHaven't you been working on it since\nyesterday?Âv\e
+[00099d|ru] ÂyYuukoÂzÂuHaven't you been working on it since\nyesterday?Âv\e
 
-[00099f|en] yChizuruzuSensei!!v\e
-[00099f|ru] yChizuruzuSensei!!v\e
+[00099f|en] ÂyChizuruÂzÂuSensei!!Âv\e
+[00099f|ru] ÂyChizuruÂzÂuSensei!!Âv\e
 
-[0009a1|en] yTakeruzuWell,\p that's why.v\e
-[0009a1|ru] yTakeruzuWell,\p that's why.v\e
+[0009a1|en] ÂyTakeruÂzÂuWell,\p that's why.Âv\e
+[0009a1|ru] ÂyTakeruÂzÂuWell,\p that's why.Âv\e
 
-[0009ad|en] yYuukozuFrom my point of view,\p whatever her intentions\nwere, Sakaki participated,\p so the event ended without\ndelay.\p\p I'm satisfied with that,\p but does anyone else have\na problem?v\e
-[0009ad|ru] yYuukozuFrom my point of view,\p whatever her intentions\nwere, Sakaki participated,\p so the event ended without\ndelay.\p\p I'm satisfied with that,\p but does anyone else have\na problem?v\e
+[0009ad|en] ÂyYuukoÂzÂuFrom my point of view,\p whatever her intentions\nwere, Sakaki participated,\p so the event ended without\ndelay.\p\p I'm satisfied with that,\p but does anyone else have\na problem?Âv\e
+[0009ad|ru] ÂyYuukoÂzÂuFrom my point of view,\p whatever her intentions\nwere, Sakaki participated,\p so the event ended without\ndelay.\p\p I'm satisfied with that,\p but does anyone else have\na problem?Âv\e
 
-[0009b1|en] ySumikazuNothing we can do about it!!v\e
-[0009b1|ru] ySumikazuNothing we can do about it!!v\e
+[0009b1|en] ÂySumikaÂzÂuNothing we can do about it!!Âv\e
+[0009b1|ru] ÂySumikaÂzÂuNothing we can do about it!!Âv\e
 
-[0009b3|en] yMeiyazuWell done, Sakaki.v\e
-[0009b3|ru] yMeiyazuWell done, Sakaki.v\e
+[0009b3|en] ÂyMeiyaÂzÂuWell done, Sakaki.Âv\e
+[0009b3|ru] ÂyMeiyaÂzÂuWell done, Sakaki.Âv\e
 
-[0009b7|en] yMikizuChizuru-chan,\p congratulations!v\e
-[0009b7|ru] yMikizuChizuru-chan,\p congratulations!v\e
+[0009b7|en] ÂyMikiÂzÂuChizuru-chan,\p congratulations!Âv\e
+[0009b7|ru] ÂyMikiÂzÂuChizuru-chan,\p congratulations!Âv\e
 
-[0009c0|en] yTakeruzuA-\pAyamine...\p...\pI guess?v\e 
-[0009c0|ru] yTakeruzuA-\pAyamine...\p...\pI guess?v\e 
+[0009c0|en] ÂyTakeruÂzÂuA-\pAyamine...\p...\pI guess?Âv\e 
+[0009c0|ru] ÂyTakeruÂzÂuA-\pAyamine...\p...\pI guess?Âv\e 
 
-[0009cb|en] yChizuruzuEh!!?v\e
-[0009cb|ru] yChizuruzuEh!!?v\e
+[0009cb|en] ÂyChizuruÂzÂuEh!!?Âv\e
+[0009cb|ru] ÂyChizuruÂzÂuEh!!?Âv\e
 
-[0009cc|en] yKeizu...\p...\p...\p...\pv\e
-[0009cc|ru] yKeizu...\p...\p...\p...\pv\e
+[0009cc|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0009cc|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0009ce|en] yChizuruzuB-\pbut...\p...\pthat...\p...\pwasn't that just yakisoba\nbread!?v\e
-[0009ce|ru] yChizuruzuB-\pbut...\p...\pthat...\p...\pwasn't that just yakisoba\nbread!?v\e
+[0009ce|en] ÂyChizuruÂzÂuB-\pbut...\p...\pthat...\p...\pwasn't that just yakisoba\nbread!?Âv\e
+[0009ce|ru] ÂyChizuruÂzÂuB-\pbut...\p...\pthat...\p...\pwasn't that just yakisoba\nbread!?Âv\e
 
-[0009cf|en] yTakeruzuExactly!\p That surprise was the very reason\nwhy she won!!v\e
-[0009cf|ru] yTakeruzuExactly!\p That surprise was the very reason\nwhy she won!!v\e
+[0009cf|en] ÂyTakeruÂzÂuExactly!\p That surprise was the very reason\nwhy she won!!Âv\e
+[0009cf|ru] ÂyTakeruÂzÂuExactly!\p That surprise was the very reason\nwhy she won!!Âv\e
 
-[0009d2|en] ySumikazuWhat was in it?v\e
-[0009d2|ru] ySumikazuWhat was in it?v\e
+[0009d2|en] ÂySumikaÂzÂuWhat was in it?Âv\e
+[0009d2|ru] ÂySumikaÂzÂuWhat was in it?Âv\e
 
-[0009d3|en] yTakeruzuNothing, it was just normal yakisoba bread.v\e
-[0009d3|ru] yTakeruzuNothing, it was just normal yakisoba bread.v\e
+[0009d3|en] ÂyTakeruÂzÂuNothing, it was just normal yakisoba bread.Âv\e
+[0009d3|ru] ÂyTakeruÂzÂuNothing, it was just normal yakisoba bread.Âv\e
 
-[0009d6|en] yMeiyazuThen,\p why...\p...\p?v\e
-[0009d6|ru] yMeiyazuThen,\p why...\p...\p?v\e
+[0009d6|en] ÂyMeiyaÂzÂuThen,\p why...\p...\p?Âv\e
+[0009d6|ru] ÂyMeiyaÂzÂuThen,\p why...\p...\p?Âv\e
 
-[0009d7|en] yTakeruzuIt was delicious!!\p It was just ridiculously good!\p\nI don't even know why, I'd like to ask her.v\e
-[0009d7|ru] yTakeruzuIt was delicious!!\p It was just ridiculously good!\p\nI don't even know why, I'd like to ask her.v\e
+[0009d7|en] ÂyTakeruÂzÂuIt was delicious!!\p It was just ridiculously good!\p\nI don't even know why, I'd like to ask her.Âv\e
+[0009d7|ru] ÂyTakeruÂzÂuIt was delicious!!\p It was just ridiculously good!\p\nI don't even know why, I'd like to ask her.Âv\e
 
-[0009d9|en] yMikizuKei-chan,\p what on Earth did you do?v\e
-[0009d9|ru] yMikizuKei-chan,\p what on Earth did you do?v\e
+[0009d9|en] ÂyMikiÂzÂuKei-chan,\p what on Earth did you do?Âv\e
+[0009d9|ru] ÂyMikiÂzÂuKei-chan,\p what on Earth did you do?Âv\e
 
-[0009dc|en] yKeizu...\p...\pingredients.v\e
-[0009dc|ru] yKeizu...\p...\pingredients.v\e
+[0009dc|en] ÂyKeiÂzÂu...\p...\pingredients.Âv\e
+[0009dc|ru] ÂyKeiÂzÂu...\p...\pingredients.Âv\e
 
-[0009de|en] yChizuruzuEh?v\e
-[0009de|ru] yChizuruzuEh?v\e
+[0009de|en] ÂyChizuruÂzÂuEh?Âv\e
+[0009de|ru] ÂyChizuruÂzÂuEh?Âv\e
 
-[0009e2|en] yKeizu...\p...\p...\p...\pv\e
-[0009e2|ru] yKeizu...\p...\p...\p...\pv\e
+[0009e2|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[0009e2|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[0009f2|en] yTsukuyomizuMay I?v\e
-[0009f2|ru] yTsukuyomizuMay I?v\e
+[0009f2|en] ÂyTsukuyomiÂzÂuMay I?Âv\e
+[0009f2|ru] ÂyTsukuyomiÂzÂuMay I?Âv\e
 
-[0009f4|en] yKeizu...\p...\pyes.v\e
-[0009f4|ru] yKeizu...\p...\pyes.v\e
+[0009f4|en] ÂyKeiÂzÂu...\p...\pyes.Âv\e
+[0009f4|ru] ÂyKeiÂzÂu...\p...\pyes.Âv\e
 
-[0009fd|en] yTsukuyomizuAyamine-sama was concerned about what\ningredients to make her yakisoba bread out of.v\e
-[0009fd|ru] yTsukuyomizuAyamine-sama was concerned about what\ningredients to make her yakisoba bread out of.v\e
+[0009fd|en] ÂyTsukuyomiÂzÂuAyamine-sama was concerned about what\ningredients to make her yakisoba bread out of.Âv\e
+[0009fd|ru] ÂyTsukuyomiÂzÂuAyamine-sama was concerned about what\ningredients to make her yakisoba bread out of.Âv\e
 
-[0009fe|en] yTakeruzuConcerned...\p...\p?v\e
-[0009fe|ru] yTakeruzuConcerned...\p...\p?v\e
+[0009fe|en] ÂyTakeruÂzÂuConcerned...\p...\p?Âv\e
+[0009fe|ru] ÂyTakeruÂzÂuConcerned...\p...\p?Âv\e
 
-[000a01|en] yTsukuyomizuFirst,\p the noodles for the yakisoba...\p...\p\nI ordered them directly from an old shop in a certain\nlocation.v\e
-[000a01|ru] yTsukuyomizuFirst,\p the noodles for the yakisoba...\p...\p\nI ordered them directly from an old shop in a certain\nlocation.v\e
+[000a01|en] ÂyTsukuyomiÂzÂuFirst,\p the noodles for the yakisoba...\p...\p\nI ordered them directly from an old shop in a certain\nlocation.Âv\e
+[000a01|ru] ÂyTsukuyomiÂzÂuFirst,\p the noodles for the yakisoba...\p...\p\nI ordered them directly from an old shop in a certain\nlocation.Âv\e
 
-[000a04|en] yTakeruzuWow...\p...\pand the certain location?v\e
-[000a04|ru] yTakeruzuWow...\p...\pand the certain location?v\e
+[000a04|en] ÂyTakeruÂzÂuWow...\p...\pand the certain location?Âv\e
+[000a04|ru] ÂyTakeruÂzÂuWow...\p...\pand the certain location?Âv\e
 
-[000a07|en] yTsukuyomizuI cannot say.\p\p\nThat was part of the agreement.\p\p\nI made an absurd wholesale request of that place.v\e
-[000a07|ru] yTsukuyomizuI cannot say.\p\p\nThat was part of the agreement.\p\p\nI made an absurd wholesale request of that place.v\e
+[000a07|en] ÂyTsukuyomiÂzÂuI cannot say.\p\p\nThat was part of the agreement.\p\p\nI made an absurd wholesale request of that place.Âv\e
+[000a07|ru] ÂyTsukuyomiÂzÂuI cannot say.\p\p\nThat was part of the agreement.\p\p\nI made an absurd wholesale request of that place.Âv\e
 
-[000a08|en] yTakeruzuWh-\pwhat do you mean!?v\e
-[000a08|ru] yTakeruzuWh-\pwhat do you mean!?v\e
+[000a08|en] ÂyTakeruÂzÂuWh-\pwhat do you mean!?Âv\e
+[000a08|ru] ÂyTakeruÂzÂuWh-\pwhat do you mean!?Âv\e
 
-[000a0a|en] yTsukuyomizuI also ordered all of the lard and sauce\nneeded to make the yakisoba.v\e
-[000a0a|ru] yTsukuyomizuI also ordered all of the lard and sauce\nneeded to make the yakisoba.v\e
+[000a0a|en] ÂyTsukuyomiÂzÂuI also ordered all of the lard and sauce\nneeded to make the yakisoba.Âv\e
+[000a0a|ru] ÂyTsukuyomiÂzÂuI also ordered all of the lard and sauce\nneeded to make the yakisoba.Âv\e
 
-[000a0b|en] yMikizuWhoa``v\e
-[000a0b|ru] yMikizuWhoa``v\e
+[000a0b|en] ÂyMikiÂzÂuWhoaÂ`Â`Âv\e
+[000a0b|ru] ÂyMikiÂzÂuWhoaÂ`Â`Âv\e
 
-[000a0d|en] yTsukuyomizuThe ingredients for the bread were\nobtained from a shop on the outskirts of Hokkaido,\p\nthen baked at the Mitsurugi main house,\p\n and flown in here.v\e
-[000a0d|ru] yTsukuyomizuThe ingredients for the bread were\nobtained from a shop on the outskirts of Hokkaido,\p\nthen baked at the Mitsurugi main house,\p\n and flown in here.v\e
+[000a0d|en] ÂyTsukuyomiÂzÂuThe ingredients for the bread were\nobtained from a shop on the outskirts of Hokkaido,\p\nthen baked at the Mitsurugi main house,\p\n and flown in here.Âv\e
+[000a0d|ru] ÂyTsukuyomiÂzÂuThe ingredients for the bread were\nobtained from a shop on the outskirts of Hokkaido,\p\nthen baked at the Mitsurugi main house,\p\n and flown in here.Âv\e
 
-[000a0e|en] yTakeruzuHey now...\p...\pv\e
-[000a0e|ru] yTakeruzuHey now...\p...\pv\e
+[000a0e|en] ÂyTakeruÂzÂuHey now...\p...\pÂv\e
+[000a0e|ru] ÂyTakeruÂzÂuHey now...\p...\pÂv\e
 
-[000a10|en] yTsukuyomizuThe seaweed and beni shoga were all\nitems Ayamine-sama requested personally.v\e
-[000a10|ru] yTsukuyomizuThe seaweed and beni shoga were all\nitems Ayamine-sama requested personally.v\e
+[000a10|en] ÂyTsukuyomiÂzÂuThe seaweed and beni shoga were all\nitems Ayamine-sama requested personally.Âv\e
+[000a10|ru] ÂyTsukuyomiÂzÂuThe seaweed and beni shoga were all\nitems Ayamine-sama requested personally.Âv\e
 
-[000a13|en] yMeiyazuSo that...\p...\pv\e
-[000a13|ru] yMeiyazuSo that...\p...\pv\e
+[000a13|en] ÂyMeiyaÂzÂuSo that...\p...\pÂv\e
+[000a13|ru] ÂyMeiyaÂzÂuSo that...\p...\pÂv\e
 
-[000a14|en] yTakeruzuYou...\p...\pyou went that far just to make yakisoba\nbread?v\e
-[000a14|ru] yTakeruzuYou...\p...\pyou went that far just to make yakisoba\nbread?v\e
+[000a14|en] ÂyTakeruÂzÂuYou...\p...\pyou went that far just to make yakisoba\nbread?Âv\e
+[000a14|ru] ÂyTakeruÂzÂuYou...\p...\pyou went that far just to make yakisoba\nbread?Âv\e
 
-[000a16|en] yKeizu...\p...\pwhere there's a will.v\e
-[000a16|ru] yKeizu...\p...\pwhere there's a will.v\e
+[000a16|en] ÂyKeiÂzÂu...\p...\pwhere there's a will.Âv\e
+[000a16|ru] ÂyKeiÂzÂu...\p...\pwhere there's a will.Âv\e
 
-[000a17|en] yYuukozuOn the outside it was just a perfectly ordinary\npiece of yakisoba bread...\p...\p...\pfor it to contain such\nsecrets...\p...\p...\pwow...\p...\pv\e
-[000a17|ru] yYuukozuOn the outside it was just a perfectly ordinary\npiece of yakisoba bread...\p...\p...\pfor it to contain such\nsecrets...\p...\p...\pwow...\p...\pv\e
+[000a17|en] ÂyYuukoÂzÂuOn the outside it was just a perfectly ordinary\npiece of yakisoba bread...\p...\p...\pfor it to contain such\nsecrets...\p...\p...\pwow...\p...\pÂv\e
+[000a17|ru] ÂyYuukoÂzÂuOn the outside it was just a perfectly ordinary\npiece of yakisoba bread...\p...\p...\pfor it to contain such\nsecrets...\p...\p...\pwow...\p...\pÂv\e
 
-[000a25|en] ySumikazuJust hearing about it makes mine feel\nworthless.v\e
-[000a25|ru] ySumikazuJust hearing about it makes mine feel\nworthless.v\e
+[000a25|en] ÂySumikaÂzÂuJust hearing about it makes mine feel\nworthless.Âv\e
+[000a25|ru] ÂySumikaÂzÂuJust hearing about it makes mine feel\nworthless.Âv\e
 
-[000a26|en] yMikizuI know what you mean.v\e
-[000a26|ru] yMikizuI know what you mean.v\e
+[000a26|en] ÂyMikiÂzÂuI know what you mean.Âv\e
+[000a26|ru] ÂyMikiÂzÂuI know what you mean.Âv\e
 
-[000a28|en] yChizuruzu...\p...\pI-\pI don't really...\p...\pI was only here to put a\nstop to Sensei's weird tournament.v\e
-[000a28|ru] yChizuruzu...\p...\pI-\pI don't really...\p...\pI was only here to put a\nstop to Sensei's weird tournament.v\e
+[000a28|en] ÂyChizuruÂzÂu...\p...\pI-\pI don't really...\p...\pI was only here to put a\nstop to Sensei's weird tournament.Âv\e
+[000a28|ru] ÂyChizuruÂzÂu...\p...\pI-\pI don't really...\p...\pI was only here to put a\nstop to Sensei's weird tournament.Âv\e
 
-[000a29|en] yYuukozuBut you've been cooking since yesterday.v\e
-[000a29|ru] yYuukozuBut you've been cooking since yesterday.v\e
+[000a29|en] ÂyYuukoÂzÂuBut you've been cooking since yesterday.Âv\e
+[000a29|ru] ÂyYuukoÂzÂuBut you've been cooking since yesterday.Âv\e
 
-[000a2b|en] yChizuruzuSe-\pSensei!v\e
-[000a2b|ru] yChizuruzuSe-\pSensei!v\e
+[000a2b|en] ÂyChizuruÂzÂuSe-\pSensei!Âv\e
+[000a2b|ru] ÂyChizuruÂzÂuSe-\pSensei!Âv\e
 
-[000a2d|en] yMeiyazuBy choosing things which Takeru was used to\neating,\p you produced something that was both yakisoba\nbread and not yakisoba bread at the same time...\p...\p...\p...\p\p\nI am in awe,\p Ayamine.v\e
-[000a2d|ru] yMeiyazuBy choosing things which Takeru was used to\neating,\p you produced something that was both yakisoba\nbread and not yakisoba bread at the same time...\p...\p...\p...\p\p\nI am in awe,\p Ayamine.v\e
+[000a2d|en] ÂyMeiyaÂzÂuBy choosing things which Takeru was used to\neating,\p you produced something that was both yakisoba\nbread and not yakisoba bread at the same time...\p...\p...\p...\p\p\nI am in awe,\p Ayamine.Âv\e
+[000a2d|ru] ÂyMeiyaÂzÂuBy choosing things which Takeru was used to\neating,\p you produced something that was both yakisoba\nbread and not yakisoba bread at the same time...\p...\p...\p...\p\p\nI am in awe,\p Ayamine.Âv\e
 
-[000a31|en] ySumikazuYou're right.\p\p Honestly,\p\p it feels like she just\ncame out of nowhere to win this...\p...\p...\p...\p\nWe've no choice but to accept it now!!v\e
-[000a31|ru] ySumikazuYou're right.\p\p Honestly,\p\p it feels like she just\ncame out of nowhere to win this...\p...\p...\p...\p\nWe've no choice but to accept it now!!v\e
+[000a31|en] ÂySumikaÂzÂuYou're right.\p\p Honestly,\p\p it feels like she just\ncame out of nowhere to win this...\p...\p...\p...\p\nWe've no choice but to accept it now!!Âv\e
+[000a31|ru] ÂySumikaÂzÂuYou're right.\p\p Honestly,\p\p it feels like she just\ncame out of nowhere to win this...\p...\p...\p...\p\nWe've no choice but to accept it now!!Âv\e
 
-[000a35|en] yKeizu...\p...\pone must use good food to train him.v\e
-[000a35|ru] yKeizu...\p...\pone must use good food to train him.v\e
+[000a35|en] ÂyKeiÂzÂu...\p...\pone must use good food to train him.Âv\e
+[000a35|ru] ÂyKeiÂzÂu...\p...\pone must use good food to train him.Âv\e
 
-[000a36|en] yTakeruzuWhat?v\e
-[000a36|ru] yTakeruzuWhat?v\e
+[000a36|en] ÂyTakeruÂzÂuWhat?Âv\e
+[000a36|ru] ÂyTakeruÂzÂuWhat?Âv\e
 
-[000a38|en] yKeizu...\p...\p...\p...\pv\e
-[000a38|ru] yKeizu...\p...\p...\p...\pv\e
+[000a38|en] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
+[000a38|ru] ÂyKeiÂzÂu...\p...\p...\p...\pÂv\e
 
-[000a3b|en] yMikizuKei-chan, you're amazing!!v\e
-[000a3b|ru] yMikizuKei-chan, you're amazing!!v\e
+[000a3b|en] ÂyMikiÂzÂuKei-chan, you're amazing!!Âv\e
+[000a3b|ru] ÂyMikiÂzÂuKei-chan, you're amazing!!Âv\e
 
 [000a4a|en] Oooh...\p...\pit's like...\p...\pfriendship is blossoming!?\p\nAmazing! I'm so moved!!\e
 [000a4a|ru] Oooh...\p...\pit's like...\p...\pfriendship is blossoming!?\p\nAmazing! I'm so moved!!\e
 
-[000a4e|en] yMikotozu*sob*``\p\p Takeru,\p it really makes you want to\ncry``v\e
-[000a4e|ru] yMikotozu*sob*``\p\p Takeru,\p it really makes you want to\ncry``v\e
+[000a4e|en] ÂyMikotoÂzÂu*sob*Â`Â`\p\p Takeru,\p it really makes you want to\ncryÂ`Â`Âv\e
+[000a4e|ru] ÂyMikotoÂzÂu*sob*Â`Â`\p\p Takeru,\p it really makes you want to\ncryÂ`Â`Âv\e
 
-[000a4f|en] yTakeruzuYou're right...\p...\pI think, as human beings,\p\nwe've gained something very valuable today.v\e
-[000a4f|ru] yTakeruzuYou're right...\p...\pI think, as human beings,\p\nwe've gained something very valuable today.v\e
+[000a4f|en] ÂyTakeruÂzÂuYou're right...\p...\pI think, as human beings,\p\nwe've gained something very valuable today.Âv\e
+[000a4f|ru] ÂyTakeruÂzÂuYou're right...\p...\pI think, as human beings,\p\nwe've gained something very valuable today.Âv\e
 
-[000a52|en] yMikotozuThis mansion has so many works of art, and all\nof them are on par with national treasures``v\e
-[000a52|ru] yMikotozuThis mansion has so many works of art, and all\nof them are on par with national treasures``v\e
+[000a52|en] ÂyMikotoÂzÂuThis mansion has so many works of art, and all\nof them are on par with national treasuresÂ`Â`Âv\e
+[000a52|ru] ÂyMikotoÂzÂuThis mansion has so many works of art, and all\nof them are on par with national treasuresÂ`Â`Âv\e
 
-[000a5b|en] yTakeruzu...\p...\p...\p...\pyou need to pay more attention to\nwhat's going on.\p That's not why you should be crying.v\e
-[000a5b|ru] yTakeruzu...\p...\p...\p...\pyou need to pay more attention to\nwhat's going on.\p That's not why you should be crying.v\e
+[000a5b|en] ÂyTakeruÂzÂu...\p...\p...\p...\pyou need to pay more attention to\nwhat's going on.\p That's not why you should be crying.Âv\e
+[000a5b|ru] ÂyTakeruÂzÂu...\p...\p...\p...\pyou need to pay more attention to\nwhat's going on.\p That's not why you should be crying.Âv\e
 
-[000a60|en] yYuukozuThen it's all over.\p\p\nYou're all hungry by now, right...\p...\p...?\p\p\nWhy don't you all try out each others' food?v\e
-[000a60|ru] yYuukozuThen it's all over.\p\p\nYou're all hungry by now, right...\p...\p...?\p\p\nWhy don't you all try out each others' food?v\e
+[000a60|en] ÂyYuukoÂzÂuThen it's all over.\p\p\nYou're all hungry by now, right...\p...\p...?\p\p\nWhy don't you all try out each others' food?Âv\e
+[000a60|ru] ÂyYuukoÂzÂuThen it's all over.\p\p\nYou're all hungry by now, right...\p...\p...?\p\p\nWhy don't you all try out each others' food?Âv\e
 
-[000a67|en] yMiki & MikotozuYaaay.v\e
-[000a67|ru] yMiki & MikotozuYaaay.v\e
+[000a67|en] ÂyMiki & MikotoÂzÂuYaaay.Âv\e
+[000a67|ru] ÂyMiki & MikotoÂzÂuYaaay.Âv\e
