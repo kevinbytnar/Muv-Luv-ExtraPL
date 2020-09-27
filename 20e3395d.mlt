@@ -23,7 +23,7 @@ SCR 1 UTF-8
 [00000f|ru] 9 rano?\e
 
 [000010|en] No one's coming to wake me up.\p Well,\p I certainly would\nlike to sleep in a bit on the weekends...\p...\p\e
-[000010|ru] Nikt nie przyszedｩ mnie obudziｨ.\p Cｫｯ,\p nie mam zamiaru\n narzekaｨ na to, ｯe w weekend mogｪ sobie odrobinｪ dｩuｯej\n pospaｨ...\p\e
+[000010|ru] Nikt nie przyszedｩ mnie obudziｨ.\p Cｫｯ,\p nie mam zamiaru\n narzekaｨ na to, ｯe w weekend mogｪ sobie odrobinｪ\n dｩuｯej pospaｨ...\p\e
 
 [000017|en] ...\p...\p\e
 [000017|ru] ...\p...\p\e
@@ -47,7 +47,7 @@ SCR 1 UTF-8
 [00001d|ru] To nie tak,\p ｯe uwaｯam to za coﾛ dziwnego, ｯe nikogo nie\nuﾛwiadczyｩem w tym momencie,\p gdyｯ samotne spｪdzanie\n weekendu to dla mnie nie pierwszyzna.\e
 
 [00001e|en] My parents would often go out without telling me,\p I'd\nwake up really late,\p then come down here all groggy...\p...\p\e
-[00001e|ru] Wczeﾛniej takie cuda siｪ zdarzaｩy.\p Nie raz moi rodzice\n wychodzili sobie tak z domu bez wczeﾛniejszego\n informowania mnie o tym.\p Moja pobudka zazwyczaj\n nadchodziｩa w momencie, gdy do moich uszｫw docieraｩy\n burzliwe dﾜwiｪki tupania po schodach...\p\e
+[00001e|ru] Wczeﾛniej takie cuda siｪ zdarzaｩy.\p Nie raz moi\n rodzice wychodzili sobie tak z domu bez\n wczeﾛniejszego informowania mnie o tym.\p Moja pobudka\n zazwyczaj nadchodziｩa w momencie, gdy do moich uszｫw\n docieraｩy burzliwe dﾜwiｪki tupania po schodach...\p\e
 
 [000a80|en] ...\p...\p...\p...\e
 [000a80|ru] ...\p...\p...\p...\e
@@ -89,7 +89,7 @@ SCR 1 UTF-8
 [000048|ru] *Burczenie* *Burczenie* *Burczenie*...\p...\p\e
 
 [000049|en] There's supposed to be a cook-off today,\p but it's far too\nquiet.\e
-[000049|ru] Niby dzisiaj jest ten wielki dzieﾃ gotowania,\p ale jakoﾛ\n jest zbyt cicho.\e
+[000049|ru] Niby dzisiaj jest ten wielki dzieﾃ gotowania,\p ale\n jakoﾛ jest zbyt cicho.\e
 
 [20004a|en] ──Ah,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
 [20004a|ru] ──Ach,\p juｯ jest!\p Najbardziej rozpoznawalny kucharz\n z Europy...\p\e
@@ -98,7 +98,7 @@ SCR 1 UTF-8
 [00004b|ru] ...\pHm?\e
 
 [20004d|en] ──Not only that...\p...\pit's the chef from today's\ncommercials!\p The man who brings Chinese cuisine to\nthe modern era,\p and was recently honored for his\nachievements by the Chinese government in the form\nof...\p...\p\e
-[20004d|ru] ──Nie tylko tam zdobyｩ posｩuch...\p Obecnie rｫwnieｯ\n bryluje w japoﾃskich reklamach!\p Czｩowiek, ktｫry\n wprowadziｩ chiﾃskｧ kuchniｪ do wspｫlczesnoﾛci,\p a\n ostatnio rｫwnieｯ zostaｩ uhonorowany przez\n przestawiciela chiﾃskich wｩadz...\p\e
+[20004d|ru] ──Nie tylko tam zdobyｩ posｩuch...\p Obecnie rｫwnieｯ\n bryluje w japoﾃskich reklamach!\p Czｩowiek, ktｫry\n wprowadziｩ chiﾃskｧ kuchniｪ do wspｫｩczesnoﾛci,\p a\n ostatnio rｫwnieｯ zostaｩ uhonorowany przez\n przestawiciela chiﾃskich wｩadz...\p\e
 
 [00004f|en] ...\p...\pmmmmmm!?\e
 [00004f|ru] ...\pMmmmmm!?\e
@@ -179,7 +179,7 @@ SCR 1 UTF-8
 [0000a1|ru] 【Kei】「...\pNiezｩa z ciebie idiotka.」\e
 
 [0000a5|en] 【Takeru】「Wait, wait,\p Class Rep,\p can't you two talk this\nout calmly?」\e
-[0000a5|ru] 【Takeru】「Czekaj, czekaj,\p Przedstawicielko,\p a nie\n moｯecie sobie porozmawiaｨ o tym jak dwｫjka racjonalnych\n mｩodych dorosｩych?」\e
+[0000a5|ru] 【Takeru】「Czekaj, czekaj,\p Przedstawicielko,\p a nie\n moｯecie sobie porozmawiaｨ o tym jak dwｫjka\n racjonalnych mｩodych dorosｩych?」\e
 
 [0000b2|en] 【Mikoto】「Guwa!\p Th-\pthis can't be!\p A marble staircase in\nthe entrance hall,\p and an open-air bath in the courtyard!\p\nAnd it's built out of white cedar!」\e
 [0000b2|ru] 【Mikoto】「Guwa!\p To jest po prostu zbyt fajne!\p\nMarmurowe schody w holu wejﾛciowym, a na dziedziﾃcu\n znajduje siｪ kｧpielisko na ﾛwieｯym powietrzu!\n I to wszystko zrobione jest z biaｩegu cedru!」\e
@@ -293,7 +293,7 @@ SCR 1 UTF-8
 [00013a|ru] 【Sumika】「Hｪ～?\p Czy wie moｯe ktoﾛ co siｪ staｩo z\n jajkami, ktｫre tutaj zostawiｩam?」\e
 
 [00013c|en] 【Miki】「Kei-chan,\p get the eggs,\p get them.」\e 
-[00013c|ru] 【Miki】「Kei-chan,\p mogｩabyﾛ mi to podaｨ?\p Nie mogｪ tego\n dosiｪgnｧｨ.」\e 
+[00013c|ru] 【Miki】「Kei-chan,\p mogｩabyﾛ mi to podaｨ?\p Nie mogｪ\n tego dosiｪgnｧｨ.」\e 
 
 [00013e|en] 【Kei】「...\p...\pgot them.」\e
 [00013e|ru] 【Kei】「...\pTrzymaj.」\e
@@ -311,7 +311,7 @@ SCR 1 UTF-8
 [000146|ru] 【Sumika】「Mｫj dom jest jedynym w okolicy caｩej mili.\p\nWiｪc, nie sｧdziｩam, ｯe bｪdzie to problem.」\e
 
 [000148|en] 【Meiya】「This kitchen is quite small.\p\nIt must inconvenience the chefs.\p\nTsukuyomi,\p renovate it at once.」\e
-[000148|ru] 【Meiya】「Ta kuchnia jest za maｩa.\p\n Do tego rｫwnieｯ nie jest wygodna dla naszego kucharza.\p\n Tsukuyumi,\p po tym wszystkim trzeba bｪdzie jｧ\n wyremontowaｨ.」\e
+[000148|ru] 【Meiya】「Ta kuchnia jest za maｩa.\p\n Do tego rｫwnieｯ nie jest wygodna dla naszego kucharza.\p\n Tsukuyumi,\p po tym wszystkim trzeba bｪdzie jｧ\n rozbudowaｨ.」\e
 
 [00014a|en] 【Miki】「Kei-chaaan,\p pick that up this time～」\e
 [00014a|ru] 【Miki】「Kei-chaaan,\p znｫw potrzebujｪ twojej pomocy～」\e
@@ -368,7 +368,7 @@ SCR 1 UTF-8
 [000191|ru] ──Hej co ty wypra...\p Tsukuyomi-san...!\p\nDlaczego trzymacie siｪ razem za rｪce!?\e
 
 [000192|en] ...\p...\pare you...\p...\pa shotacon!?\e
-[000192|ru] ...\pCzy ty wｩaﾛnie prｫbujesz sobie zrobiｨ z niego\b swojego osobistego maｩego kociaka, albo\n coﾛ podobnego!?\e
+[000192|ru] ...\pCzy ty wｩaﾛnie prｫbujesz sobie zrobiｨ z niego\n swojego osobistego maｩego kociaka, albo coﾛ\n podobnego!?\e
 
 [000193|en] So this is what the three idiots were talking about!!\e
 [000193|ru] Wiｪc o tym ta trｫjka idiotek wspominaｩa wczeﾛniej!!\e
@@ -386,10 +386,10 @@ SCR 1 UTF-8
 [00019e|ru] Och,\p ona naprawdｪ gｩaszcze jego wｩosy...\p\e
 
 [0001a7|en] And Mikoto doesn't seem to be enjoying this...\p...\e
-[0001a7|ru] I nie wyglｧda na to ｯeby Mikoto siｪ ﾛwietnie przy tym\n bawiｩ...\e
+[0001a7|ru] I nie wyglｧda na to, ｯeby Mikoto ﾛwietnie siｪ przy\n tym bawiｩ...\e
 
 [0001a8|en] 【Takeru】「You two seem friendly.\p What're you making?」\e
-[0001a8|ru] 【Takeru】「Wyglｧdacie jakbyﾛcie siｪ dobrze dogadywali.\p\n A tak w ogｫle, co wy tutaj wyrabiacie?」\e
+[0001a8|ru] 【Takeru】「Wyglｧdacie jakbyﾛcie siｪ dobrze\n dogadywali.\p A tak w ogｫle, co wy tutaj wyrabiacie?」\e
 
 [0001b1|en] 【Tsukuyomi】「Oh my...\p...\pdon't say that,\p Takeru-sama...\p...\p」\e
 [0001b1|ru] 【Tsukuyomi】「Och jeju...\p Proszｪ tak nie mｫwiｨ,\p\n Takeru-sama...\p」\e
@@ -404,7 +404,7 @@ SCR 1 UTF-8
 [0001ba|ru] 【Mikoto】「Paru rzeczy nam tutaj brakuje,\p wiｪc pｫjdｪ\n je upolowaｨ, poczekajcie tutaj na mnie!」\e
 
 [0001bd|en] 【Tsukuyomi】「Aaaan,\p Yoroi-sama,\p\p if you asked,\p I would\ngo get them myself～～」\e
-[0001bd|ru] 【Tsukuyomi】「Aaa,\p Yoroi-sama,\p\p gdybyﾛ tylko zapytaｩ...\p\n Zdobｪdｪ wszystko czego byﾛ sobie zaｯyczyｩ!～～」\e
+[0001bd|ru] 【Tsukuyomi】「Aaa,\p Yoroi-sama,\p\p gdybyﾛ tylko\n zapytaｩ...\p Zdobｪdｪ wszystko czego byﾛ sobie\n zaｯyczyｩ!～～」\e
 
 [0001c3|en] Hahaha,\p he's getting all flustered──wait a...\phey!\p\nThat line just now sounded dangerous.\e
 [0001c3|ru] Hahaha,\p ale jest zestresowany──Chwila...\phej!\p\nDlaczego ta kwestia zabrzmiaｩa tak zｩowieszczo?\e
@@ -440,7 +440,7 @@ SCR 1 UTF-8
 [0001d8|ru] Jestem taki gｩodny...\p\e
 
 [0001d9|en] 【Takeru】「...\p...\pcould I take a peek?」\e
-[0001d9|ru] 【Takeru】「...\pChyba nic siｪ nie stanie jak rzucｪ na to okiem?」\e
+[0001d9|ru] 【Takeru】「...\pChyba nic siｪ nie stanie jak rzucｪ na to\n okiem?」\e
 
 [0001dd|en] 【Tsukuyomi】「My apologies, Takeru-sama.\p\p\nMeiya-sama is calling me,\p so I must go.」\e
 [0001dd|ru] 【Tsukuyomi】「Wybacz mi, Takeru-sama.\p\p\nMeiya-sama wezwaｩa mnie,\p muszｪ juｯ iﾛｨ.」\e
@@ -461,7 +461,7 @@ SCR 1 UTF-8
 [0001e6|ru] Jestem pewien, ｯe to wｩaﾛnie ludzie nazywajｧ zwierzynｧ\n ｩownｧ.\e
 
 [0001e7|en] I get the feeling I'll just have to put up with this hunger\nfor now.\e
-[0001e7|ru] Mam nieodparte przeczucie, ｯe jedyne co mi pozostaｩo to\nprzetrwanie tego uczucia gｩodu.\e
+[0001e7|ru] Mam nieodparte przeczucie, ｯe jedyne co mi pozostaｩo\n to przetrwanie tego uczucia gｩodu.\e
 
 [0001ee|en] Haaaaaaa...\p...\p3 PM?\e
 [0001ee|ru] *Westchnienie* Czyｯby wybiｩa piｪtnasta?\e
@@ -527,16 +527,16 @@ SCR 1 UTF-8
 [000222|ru] 【Takeru】「Phi, nie bｧdﾜ gｩupia.」\e
 
 [000229|en] 【Sumika】「Ah!\p You really do!」\e
-[000229|ru] 【Sumika】「Ah!\p Naprawdｪ je masz!」\e
+[000229|ru] 【Sumika】「Ach!\p Naprawdｪ je masz!」\e
 
 [00022b|en] Gyaaa!\e
 [00022b|ru] Gyaaa!\e
 
 [00022d|en] 【Sumika】「You really are hopeless～」\e
-[00022d|ru] 【Sumika】「Oh...\pjeju...\p\n Co jaa mam tutaj z tobｧ zrobiｨ～」\e
+[00022d|ru] 【Sumika】「Och...\pjeju...\p\n Co ja mam z tobｧ zrobiｨ～」\e
 
 [000233|en] ──*drop!*\e
-[000233|ru] ──*drop!*\e
+[000233|ru] ──*upadek!*\e
 
 [000236|en] 【Takeru】「Don't throw them out with a smile!」\e
 [000236|ru] 【Takeru】「Nie wyﾛmiewaj siｪ i nie wyrzucaj mi tego!」\e
@@ -548,13 +548,13 @@ SCR 1 UTF-8
 [000239|ru] 【Takeru】「Nie!」\e
 
 [00023b|en] 【Sumika】「Then,\p I'll look sickened...\p...\p...\phu.」\e
-[00023b|ru] 【Sumika】「No dobrze, wiｪc pozostanｪ tylko zniesmaczona.\p HMPH!\p」\e
+[00023b|ru] 【Sumika】「No dobrze, wiｪc pozostanｪ tylko\n zniesmaczona.\p HMPH!\p」\e
 
 [00023d|en] 【Takeru】「...\p...\pthat face is annoying.\nYou're making way too much fun of me.」\e
-[00023d|ru] 【Takeru】「Twｫj wyraz twarzy zaczyna mi graｨ na nerwach.\p\n Za duｯo masz zabawy moim kosztem..」\e
+[00023d|ru] 【Takeru】「Twｫj wyraz twarzy zaczyna mi graｨ na\n nerwach.\p Masz za duｯo zabawy moim kosztem.」\e
 
 [00023f|en] 【Sumika】「Wouldn't you be embarrassed if everyone saw\nthese?」\e
-[00023f|ru] 【Sumika】「A nie powinieneﾛ byｨ teraz zawstydzonypo tym jak\n je zobaczyｩam?」\e
+[00023f|ru] 【Sumika】「A nie powinieneﾛ byｨ teraz zawstydzony\n po tym, jak to zobaczyｩam?」\e
 
 [000240|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000240|ru] 【Takeru】「...\p...\p」\e
@@ -566,37 +566,37 @@ SCR 1 UTF-8
 [000243|ru] 【Takeru】「...\pA twoim prawdziwym powodem przybycia do\n tego pokoju jest?」\e
 
 [000245|en] 【Sumika】「Eh?\p\p I'm just waiting for the stew to finish\ncooking.」\e
-[000245|ru] 【Sumika】「Eh?\p\p Czekam za tym,\p aｯ gulasz skoﾃczy siｪ gotowaｨ.」\e
+[000245|ru] 【Sumika】「Ech?\p\p Czekam na to,\p aｯ gulasz skoﾃczy siｪ\n gotowaｨ.」\e
 
 [000246|en] 【Takeru】「Ah,\p I see.」\e
 [000246|ru] 【Takeru】「Okej.」\e
 
 [000248|en] 【Sumika】「Still,\p it's been a long time since I was in\nTakeru-chan's room～」\e
-[000248|ru] 【Sumika】「No ale wiesz.\p Czujｪ siｪ tak jakbym od wiekｫw nie\n byｩa w twoim pokoju.～」\e
+[000248|ru] 【Sumika】「No, ale wiesz.\p Czujｪ siｪ tak jakbym od\n wiekｫw nie byｩa w twoim pokoju.～」\e
 
 [00024a|en] 【Takeru】「What're you talking about?\nDon't you come here every morning to wake me up?」\e
-[00024a|ru] 【Takeru】「O czym ty mｫwisz?\nA nie przychodzisz tutaj codzienie rano i organizujesz mi\n pobudki?」\e
+[00024a|ru] 【Takeru】「O czym ty mｫwisz?\nA nie przychodzisz tutaj codziennie rano i nie\n organizujesz mi pobudki?」\e
 
 [00024d|en] 【Sumika】「Not that,\p\p I mean other than waking you up!\p\p\nWe can talk up here, after all...\p...\p」\e
-[00024d|ru] 【Sumika】「To nie to samo,\p\p Miaｩam namyﾛli coﾛ innego niｯ\n zwykｩe codzienne budzienie ciebie! Mｫwiｪ o takim  zwykｩych\n odwiedzinach,\p no wiesz, ｯeby tylko mｫc sobie z tobｧ\n porozmawiaｨ tak jak teraz,\p chcｪ tylko powiedzieｨ...\p」\e
+[00024d|ru] 【Sumika】「To nie to samo,\p\p miaｩam na myﾛli coﾛ\n innego niｯ zwykｩe codzienne budzenie ciebie! Mｫwiｪ o\n takich zwykｩych odwiedzinach,\p no wiesz, ｯeby tylko\n mｫc sobie z tobｧ porozmawiaｨ tak jak teraz,\p\n chcｪ tylko powiedzieｨ...\p」\e
 
 [00024e|en] 【Takeru】「That's true.」\e
 [00024e|ru] 【Takeru】「W sumie racja.」\e
 
 [000251|en] 【Sumika】「I used to come play here a lot.」\e
-[000251|ru] 【Sumika】Przyzwyczaiｩam siｪ do przychodzenia tutaj i\n wspｫlnego grania z tobｧ.」\e
+[000251|ru] 【Sumika】「Przyzwyczaiｩam siｪ do przychodzenia tutaj\n i wspｫlnego grania z tobｧ.」\e
 
 [000253|en] 【Takeru】「I remember all the lame board games.」\e
-[000253|ru] 【Takeru】「Pamiｪtam te wszystkie lamerskie gry planszowe.」\e
+[000253|ru] 【Takeru】「Pamiｪtam te wszystkie lamerskie gry\n planszowe.」\e
 
 [000256|en] 【Sumika】「Yeah, yeah!\p And there was that\nSpace-something TV show...\p...\p」\e
-[000256|ru] 【Sumika】「Tak, tak!\p A takｯe byｩ teｯ ten show jak mu byｩo...\p\nkosmiczny...\p」\e
+[000256|ru] 【Sumika】「Tak, tak!\p A takｯe byｩ to show, jak mu\n byｩo...\p Kosmiczny...\p」\e
 
 [000258|en] 【Takeru】「Space Secretary General Gorban?」\e
-[000258|ru] 【Takeru】「Mｫwisz o Kosmicznym Pilocie Kapitanie Gorbanie?」\e
+[000258|ru] 【Takeru】「Mｫwisz o Kosmicznym Pilocie Kapitanie\n Gorbanie?」\e
 
 [00025b|en] 【Sumika】「Something like that.\p\nI listened to a lot of CDs from that.」\e
-[00025b|ru] 【Sumika】「No chyba to byｩo coﾛ w tym rodzaju.\p\nPamiｪtam rｫwnieｯ, ｯe sｩuchaｩam tego dziｪki odtwarzaczowi.」\e
+[00025b|ru] 【Sumika】「Chyba to byｩo coﾛ w tym rodzaju.\p\nPamiｪtam rｫwnieｯ, ｯe sｩuchaｩam tego na\n odtwarzaczu CD.」\e
 
 [00025c|en] 【Takeru】「That does sound familiar...\p...\p」\e
 [00025c|ru] 【Takeru】「Jak to znajomo zabrzmiaｩo...\p」\e
@@ -626,7 +626,7 @@ SCR 1 UTF-8
 [000283|ru] 【Kamiyo & Tomoe & Ebisu】「Braｨ jｧｧｧ!!\p Szarｯaaa!!」\e
 
 [00028b|en] 【Sumika】「Kyaaaaaaa...\p...\pTa-\pTakeru-chaaaaaaaaan...\p...\p」\e
-[00028b|ru] 【Sumika】「Kyaaaaaaa...\pTa-\pTakeru-chaaaaaaaaan...\p」\e
+[00028b|ru] 【Sumika】「Kyaaaaaaa...\p Ta-\pTakeru-chaaaaaaaaan...\p」\e
 
 [00028e|en] 【Takeru】「...\p...\p...\p...\ptake care...\p...\p」\e
 [00028e|ru] 【Takeru】「...\pTrzymaj siｪ...\p」\e
@@ -638,7 +638,7 @@ SCR 1 UTF-8
 [00029c|ru] 【Takeru】「*Kaszel!* Za duｯo kurzu...」\e
 
 [00029d|en] ...\p...\p...\p...\pand now I'm alone again.\e
-[00029d|ru] ...\p...\pZnowu sam..\e
+[00029d|ru] ...\p...\pZnowu sam.\e
 
 [00029e|en] I'm so hungryyy...\p...\p\e
 [00029e|ru] I do tego nadal gｩodny...\p\e
@@ -647,7 +647,7 @@ SCR 1 UTF-8
 [0002a6|ru] Definitywnie Meiya.\e 
 
 [0002a7|en] She's bringing together the best chefs in the world,\p\nso I can expect great things from her!!\e
-[0002a7|ru] Zebraｩa dzisiaj najlepszych szefｫw kuchni z caｩego ﾛwiata,\p\n wiｪc sumie mogｪ oczekiwaｨ od niej najwspalniajszych daﾃ!!\e
+[0002a7|ru] Zebraｩa dzisiaj najlepszych kucharzy z caｩego ﾛwiata,\p\n wiｪc w sumie mogｪ oczekiwaｨ od niej najwspalniajszych\n daﾃ!!\e
 
 [0002a8|en] Okay,\p now that that's decided, I'm off!!\e
 [0002a8|ru] Okej.\p No to postanowione. Wychodzｪ!!\e
@@ -656,7 +656,7 @@ SCR 1 UTF-8
 [0002ad|ru] ──*Puk* *Puk*\e
 
 [0002ae|en] Oh?\e
-[0002ae|ru] Oh?\e
+[0002ae|ru] Och?\e
 
 [0002b2|en] 【Meiya】「Takeru?\p May I come in?」\e
 [0002b2|ru] 【Meiya】「Takeru?\p Mogｪ wejﾛｨ?」\e
@@ -668,37 +668,37 @@ SCR 1 UTF-8
 [0002c1|ru] 【Meiya】「...\p...\p」\e
 
 [0002c3|en] Why're you looking around so much?\e
-[0002c3|ru] Dlaczego zaczｪｩaﾛ siｪ tak mocno rozlgｧdaｨ?\e
+[0002c3|ru] Dlaczego zaczｪｩaﾛ siｪ tak mocno rozglｧdaｨ?\e
 
 [0002c6|en] 【Meiya】「Kamiyo and the others have not cleaned this\nplace?」\e
-[0002c6|ru] 【Meiya】「Kamiyo i pozostali nie posprzｧtaｩy tego miejsca?」\e
+[0002c6|ru] 【Meiya】「Kamiyo i pozostaｩe nie posprzｧtaｩy tego\n miejsca?」\e
 
 [0002c8|en] 【Takeru】「No,\p they did.」\e
 [0002c8|ru] 【Takeru】「Nie,\p posprzｧtaｩy.」\e
 
 [0002c9|en] ...\p...\pthe first time the three idiots appeared\nhere...\p...\pwell...\p...\ptechnically that was cleaning.\e
-[0002c9|ru] ...\pChcｪ powiedzieｨ, ｯe za pierwszym razem jak ta Trｫjka\n Idiotek pojawiｩa siｪ...\p No cｫz...\p Coﾛ tam posprzｧtane\n byｩo.\e
+[0002c9|ru] ...\pChcｪ powiedzieｨ, ｯe za pierwszym razem jak ta\n Trｫjka Idiotek siｪ pojawiｩa...\p No cｫz...\p Coﾛ tam\n posprzｧtane byｩo.\e
 
 [0002cb|en] 【Meiya】「...\p...\pI see.\p\p And yet it is still in disorder.」\e
-[0002cb|ru] 【Meiya】「...\pRozumiem.\p\p I wciｧｯ pomimo tego nieｩad panuje w\n tym pokoju.」\e
+[0002cb|ru] 【Meiya】「...\pRozumiem.\p\p I wciｧｯ pomimo tego nieｩad\n panuje w tym pokoju.」\e
 
 [0002cc|en] 【Takeru】「...\p...\pthat's probably just me making a mess.」\e
 [0002cc|ru] 【Takeru】「...\pA prawdopodobnie ten nieｩad to juｯ moja\n zasｩuga.」\e
 
 [0002ce|en] 【Meiya】「If one is aware of the reality,\p all that remains is\nto remake it.」\e
-[0002ce|ru] 【Meiya】「Jesteﾛ wyraﾜnie ﾛwiadomy swoich wｩasnych\n niedociｧgniｪｨ.\p W takim przypadku pozostaje tylko je naprawiｨ.」\e
+[0002ce|ru] 【Meiya】「Jesteﾛ wyraﾜnie ﾛwiadomy swoich wｩasnych\n niedociｧgniｪｨ.\p W takim przypadku pozostaje tylko je\n naprawiｨ.」\e
 
 [0002cf|en] 【Takeru】「Yeah,\p but one's body and mind are different\nthings.」\e
-[0002cf|ru] 【Takeru】「W sumie racja, ale ｩatwiej mｫwiｨ o wykorzenianiu\n zｩych nawykｫw niｯ,\p faktycznie to zrobiｨ..」\e
+[0002cf|ru] 【Takeru】「W sumie racja, ale ｩatwiej mｫwiｨ o\n wykorzenianiu zｩych nawykｫw, niｯ\p faktycznie to zrobiｨ.」\e
 
 [0002d1|en] 【Meiya】「Yes,\p I see.\p\p\nTsukuyomi once told me something similar.」\e
 [0002d1|ru] 【Meiya】「Tak,\p wiem o czym mｫwisz.\p\p\nTsukuyomi powiedziaｩa mi juｯ wczeﾛniej coﾛ podobnego.」\e
 
 [0002d2|en] 【Takeru】「Eh?」\e
-[0002d2|ru] 【Takeru】「Eh?」\e
+[0002d2|ru] 【Takeru】「Ech?」\e
 
 [0002d4|en] 【Meiya】「"The body will react in ways contrary to the\nheart."\p She spoke of such phenomena.」\e
-[0002d4|ru] 【Meiya】「"Czasami ciaｩo reaguje w sposｫb, ktｫry wydaje siｪ\n caｩkowicie nielogiczny w stosunku do mｫzgu."\p Mｫwiｩa wｩaﾛnie\n o tego typu zjawiskach.」\e
+[0002d4|ru] 【Meiya】「"Czasami ciaｩo reaguje w sposｫb, ktｫry\n wydaje siｪ caｩkowicie nielogiczny w stosunku do\n mｫzgu."\p Mｫwiｩa wｩaﾛnie o tego typu zjawiskach.」\e
 
 [0002d5|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002d5|ru] 【Takeru】「...\p...\p」\e
@@ -713,10 +713,10 @@ SCR 1 UTF-8
 [0002db|ru] 【Meiya】「...\pCo jest? Czyｯby to nie byｩa prawda?」\e
 
 [0002dc|en] 【Takeru】「Well...\p...\pno,\p I guess that's about right.」\e
-[0002dc|ru] 【Takeru】「Oh...\p Cｫｯ,\p uh...\p Nie, w sumie przypuszczam, ｯe to\n prawda.」\e
+[0002dc|ru] 【Takeru】「Och...\p Cｫｯ,\p uch...\p Nie, w sumie\n przypuszczam, ｯe to prawda.」\e
 
 [0002df|en] 【Meiya】「I see.\p\p\n ...\p...\pif I may ask another question,\p what is this?」\e
-[0002df|ru] 【Meiya】「Rozumiem....\p\p\n ...\pJeｯeli mogｪ zadaｨ inne pytanie, co to jest??」\e
+[0002df|ru] 【Meiya】「Rozumiem....\p\p\n ...\pJeｯeli mogｪ zadaｨ inne pytanie, co to jest?」\e
 
 [0002e1|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002e1|ru] 【Takeru】「...\p...\p...\p...\p」\e
@@ -731,7 +731,7 @@ SCR 1 UTF-8
 [0002e9|ru] 【Takeru】「Meiya,\p gdzie to znalazｩaﾛ?」\e
 
 [0002ed|en] 【Meiya】「Oh,\p they were lying on the floor.」\e
-[0002ed|ru] 【Meiya】「Oh,\p leｯaｩy sobie one na podｩodze.」\e
+[0002ed|ru] 【Meiya】「Och,\p leｯaｩy sobie na podｩodze.」\e
 
 [0002ee|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002ee|ru] 【Takeru】「...\p...\p...\p...\p」\e
@@ -749,7 +749,7 @@ SCR 1 UTF-8
 [000302|ru] 【Takeru】「...\p...\p」\e
 
 [000304|en] You're not telling her weird things again, are you?\e
-[000304|ru] Proszｪ cie, nie wkｩadaj juｯ wiｪcej dziwnych pomysｩｫw do jej\n gｩowy...\e
+[000304|ru] Proszｪ ciｪ, nie wkｩadaj juｯ wiｪcej dziwnych pomysｩｫw\n do jej gｩowy...\e
 
 [000307|en] 【Tsukuyomi】「...\p...\pit is something like that.」\e
 [000307|ru] 【Tsukuyomi】「...\pW skrｫcie, wｩaﾛnie o to chodzi.」\e
@@ -758,22 +758,22 @@ SCR 1 UTF-8
 [000309|ru] 【Meiya】「Tak, wierzｪ,\p ｯe zrozumiaｩam.」\e
 
 [00030a|en] I wonder how she explained them...\p...\e
-[00030a|ru] Ooo stary... Ciekawe co ona jej tam na opowiadaｩa...\p\e
+[00030a|ru] Ooo stary... Ciekawe co ona jej tam naopowiadaｩa...\p\e
 
 [00030c|en] 【Meiya】「Huhu...\p...\pyou really are...\p...\p...\p...\p There is no need to\nrely on such things, Takeru,\p when I am here for you.」\e
-[00030c|ru] 【Meiya】「"Cichot"...\p Oj ty...\p...\p Nie ma ｯadnej potrzeby aby korzystaｨ z tego typu rzeczy, Takeru,\p przecieｯ, teraz masz juｯ mnie.」\e
+[00030c|ru] 【Meiya】「*Cichot*...\p Oj ty...\p...\p Nie ma ｯadnej\n potrzeby, aby korzystaｨ z tego typu rzeczy, Takeru,\p\n przecieｯ teraz masz juｯ mnie.」\e
 
 [00030d|en] 【Takeru】「Ummm...\p...\pwait a...\p...\pTsukuyomi-san?」\e
 [00030d|ru] 【Takeru】「Ummm...\p Poczekaj...\p Tsukuyomi-san?」\e
 
 [000310|en] 【Tsukuyomi】「Take your time now.」\e
-[000310|ru] 【Tsukuyomi】「A teraz. Korzystajcie z wspｫlnego czasu.」\e
+[000310|ru] 【Tsukuyomi】「A teraz. Korzystajcie z wspｫlnego\n czasu.」\e
 
 [00031a|en] 【Meiya】「Takeru?」\e
 [00031a|ru] 【Meiya】「Takeru?」\e
 
 [00031d|en] 【Takeru】「H-\phey...\p...\pMeiya?」\e
-[00031d|ru] 【Takeru】「H-\phej...\pMeiya?」\e
+[00031d|ru] 【Takeru】「H-\phej...\p Meiya?」\e
 
 [00031f|en] *pi-piiiiii!!!*\e
 [00031f|ru] *Gw-wiiizd!!!*\e
@@ -785,7 +785,7 @@ SCR 1 UTF-8
 [000335|ru] 【Takeru】「C-\pcooo?」\e
 
 [000337|en] 【Kamiyo】「Until the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!」\e
-[000337|ru] 【Kamiyo】「Przed rostrzygniｪciem konkursu,\p kaｯda z\n uczestniczek ma zakaz kontaktowania siｪ Takeru-sama!!」\e
+[000337|ru] 【Kamiyo】「Przed rostrzygniｪciem konkursu,\p kaｯda z\n uczestniczek ma zakaz kontaktowania siｪ z\n Takeru-sama!!」\e
 
 [000339|en] 【Tomoe】「It is forbidden.」\e
 [000339|ru] 【Tomoe】「To jest zabronione.」\e
@@ -794,22 +794,22 @@ SCR 1 UTF-8
 [00033b|ru] 【Ebisu】「Nie wolno ci tego robiｨ～～」\e
 
 [00033e|en] 【Kamiyo】「H-...\p...\phuh?」\e
-[00033e|ru] 【Kamiyo】「H-...\phuh?」\e
+[00033e|ru] 【Kamiyo】「H-...\phｪ?」\e
 
 [000343|en] 【Kamiyo & Tomoe & Ebisu】「Meiya-sama!!?」\e
 [000343|ru] 【Kamiyo & Tomoe & Ebisu】「Meiya-sama!!?」\e
 
 [000346|en] 【Meiya】「What?\p I did not know...\p...\p...\p...\psuch a decision had\nbeen made.\p Forgive me.\p Well then, Takeru,\p since it is a\nrule...\p...\p」\e
-[000346|ru] 【Meiya】「Czy tak wｩaﾛnie wyglｧda sytuacja?\p Nie wiedziaｩam o istnieniu takiej zasady...\p...\p Wybaczcie mi.\p Cｫｯ Takeru, zasada  to zasada...\p」\e
+[000346|ru] 【Meiya】「Czy tak wｩaﾛnie wyglｧda sytuacja?\p Nie\n wiedziaｩam o istnieniu takiej zasady...\p...\p\n Wybaczcie mi.\p Cｫｯ Takeru, zasada to zasada...\p」\e
 
 [000348|en] 【Takeru】「Ah,\p yeah...\p...\p」\e
 [000348|ru] 【Takeru】「Dobrze...\p」\e
 
 [000356|en] 【Tomoe】「Hawawawa...\p...\pwhat do we do...\p...\p...\p\nTatsumi, Minagi, you shouldn't have done that!!」\e
-[000356|ru] 【Tomoe】「O jeju...\p, o jeju...\p Co myﾛmy narobiｩy...\p...\p\n Tatsumi! Minagi! Nie powinniﾛcie tego robiｨ!!」\e
+[000356|ru] 【Tomoe】「O jeju...\p, o jeju...\p Co myﾛmy narobiｩy...\p\n Tatsumi! Minagi! Nie powinnyﾛcie tego robiｨ!!」\e
 
 [00035a|en] 【Kamiyo】「Yukino, you're the one who opened the door\nwithout checking who it was!!」\e
-[00035a|ru] 【Kamiyo】「Ale to ty byｩaﾛ tｧ, ktｫra otworzyｩa drzwi bez\n wczeﾛniejszego pukania, Yukino!!」\e
+[00035a|ru] 【Kamiyo】「Ale to ty byｩaﾛ tｧ, ktｫra otworzyｩa drzwi\n bez wczeﾛniejszego pukania, Yukino!!」\e
 
 [00035d|en] 【Tomoe】「But! But!」\e
 [00035d|ru] 【Tomoe】「Ale! Ale!」\e
@@ -833,7 +833,7 @@ SCR 1 UTF-8
 [00036b|ru] 【Tomoe】「Co powiesz na to!\p Wskazｫwka numer jeden!\p\n Tylko Meiya-sama moｯe z tobｧ rozmawiaｨ!!」\e
 
 [00036c|en] 【Takeru】「...\p...\pisn't that the answer?\p\nAnd didn't you make a mistake like this once before?」\e
-[00036c|ru] 【Takeru】「...\pAle czy to nie jest wｩaﾛnie odpowiedﾜ na moje\n pytanie?\p Czy wy przypadkiem nie popeｩniacie tego samego\n bｩｪdu,\p co poprzednim razem?」\e
+[00036c|ru] 【Takeru】「...\pAle czy to nie jest wｩaﾛnie odpowiedﾜ\n na moje pytanie?\p Czy wy przypadkiem nie popeｩniacie\n tego samego bｩｪdu,\p co poprzednim razem?」\e
 
 [00036e|en] 【Tomoe】「Gegeh!!」\e
 [00036e|ru] 【Tomoe】「Gegeh!!」\e
@@ -851,7 +851,7 @@ SCR 1 UTF-8
 [000381|ru] *Tup* *Tup* *Tup* *Tup* *Tup* *Tup*...\p\e
 
 [000386|en] Those three really are idiots.\e
-[000386|ru] One na serio sｧ, aｯ tak gｩupie.\e
+[000386|ru] One na serio sｧ aｯ tak gｩupie.\e
 
 [000390|en] Definitely Tama.\e 
 [000390|ru] Definitywnie Tama.\e 
@@ -872,19 +872,19 @@ SCR 1 UTF-8
 [0003ac|ru] 【Miki】「ｳaaaｩ.\p Co za baｩagan!」\e
 
 [0003ae|en] That's the first thing you say after barging in here...\p...\p?\e
-[0003ae|ru] To jest twoja pierwsza reakcja po tym jak siｪ tu zjawiｩaﾛ...?\p\n Aｩｨ...\p\e
+[0003ae|ru] To jest twoja pierwsza reakcja po tym jak siｪ tu\n zjawiｩaﾛ...?\p Aｩｨ...\p\e
 
 [0003af|en] Besides, it isn't even that bad today...\p...\pwe-\pwell,\p maybe\nTama's right.\e
-[0003af|ru] Po za tym\p dzisiaj nie jest aｯ tak ﾜle...\pno cｫｯ,\p po namyﾛle,\p\n w sumie moｯe ona ma racjｪ.\e
+[0003af|ru] Poza tym,\p dzisiaj nie jest aｯ tak ﾜle...\p no cｫｯ,\p po\n namyﾛle\p to w sumie moｯe ona ma racjｪ.\e
 
 [0003b0|en] Those three tidied up the place,\p so why's it this bad\nalready...\p...\p\e
 [0003b0|ru] Zwｩaszcza po tym, jak ta trｫjka posprzｧtaｩa to miejsce\n specjalnie dla mnie...\p Jak to moｯliwe,\p ｯe znowu jest\n tutaj taki syf?\e
 
 [0003b2|en] 【Miki】「It feels like some weird creatures might start\ngrowing in here.」\e
-[0003b2|ru] 【Miki】「Lepiej ｯebyﾛ byｩ bardziej ostroｯny.\p Albo wkrｫtce\n jakieﾛ dziwne kreatury,\p mogｧ ci siｪ tuaj zalegnｧｨ!」\e
+[0003b2|ru] 【Miki】「Lepiej ｯebyﾛ byｩ bardziej ostroｯny.\p Albo\n wkrｫtce jakieﾛ dziwne kreatury\p mogｧ ci siｪ tutaj\n zalｪgnｧｨ!」\e
 
 [0003b3|en] 'Creatures' just grow out of the floor?\e
-[0003b3|ru] Ale czy 'Kreatury' mogｧ zalegnｧｨ siｪ na podｩodze?\e
+[0003b3|ru] Ale czy 'kreatury' mogｧ zalｪgnｧｨ siｪ na podｩodze?\e
 
 [0003b5|en] 【Miki】「Ah,\p what's this?」\e
 [0003b5|ru] 【Miki】「Hej,\p co to jest?」\e
@@ -896,10 +896,10 @@ SCR 1 UTF-8
 [0003b9|ru] 【Takeru】「...\p...\p」\e
 
 [0003ba|en] No point in telling her not to.\e
-[0003ba|ru] Samo mｫwienie jej tego, prawdopodobnie nie powtrzyma jej.\e
+[0003ba|ru] Samo mｫwienie jej tego, prawdopodobnie jej nie\n powtrzyma.\e
 
 [0003bd|en] 【Miki】「Huuuh?\p What is that...\p...\p...\p...\p...\puwaaa,\p amaziiing.」\e
-[0003bd|ru] 【Miki】「Huuuh?\p Co my tutaj mamy...\p...\p ｳaｩ!\p Niewiarygodn!」\e
+[0003bd|ru] 【Miki】「Hｪｪｪ?\p Co my tutaj mamy...\p...\p ｳaｩ!\p\n To niewiarygodne!」\e
 
 [0003be|en] 【Takeru】「...\p...\pwhat is it,\p Tama?\p What'd you find?」\e
 [0003be|ru] 【Takeru】「...\pCo jest,\p Tama?\p Co takiego znalazｩaﾛ?」\e
@@ -908,7 +908,7 @@ SCR 1 UTF-8
 [0003c0|ru] 【Miki】「Coﾛ takiego.」\e
 
 [0003c1|en] 【Takeru】「...\p...\poooh,\p what do we have here...\p...\psuch\nseductive postures...\p...\p This is an intense porn\nmagazine...\p...\pwait,\p Ta-\pTama,\p where'd you find this!?」\e
-[0003c1|ru] 【Takeru】「...\pDo diabｩa!\p Dawno CIEBIE nie widziaｩem...!\p\n Ooo taa,\p spｫjrz na te uwodzicielskie pozy...\p Stary,\p\n to jeden z najlepszych magazynｫw porno,\p jakie posiadam\n w swojej kolekcji...\p Czekaj...\pT-\ptama! Gdzie to\n znalazｩaﾛ!?」\e
+[0003c1|ru] 【Takeru】「...\pDo diabｩa!\p Dawno CIEBIE nie\n widziaｩem...!\p Ooo taa,\p spｫjrz na te uwodzicielskie\n pozy...\p Stary,\p to jeden z najlepszych magazynｫw\n porno,\p jakie posiadam w swojej kolekcji...\p\n Czekaj...\p T-\ptama! Gdzie to znalazｩaﾛ!?」\e
 
 [0003c3|en] 【Miki】「They were under the bed.\p\nLooks like there's a lot more.\p\nI'll go get the rest.」\e
 [0003c3|ru] 【Miki】「Leｯaｩo sobie pod ｩｫｯkiem.\p\n Wyglｧda na to,\p ｯe jest tego o wiele wiｪcej.\p\n Daj mi zobaczyｨ resztｪ.」\e
@@ -917,13 +917,13 @@ SCR 1 UTF-8
 [0003c7|ru] ──*Chwyt*\e
 
 [0003cb|en] 【Miki】「Huh?\p I can't move forward...\p...」\e
-[0003cb|ru] 【Miki】「Huh?\p Nie mogｪ siｪ ruszyｨ...」\e
+[0003cb|ru] 【Miki】「Hｪ?\p Nie mogｪ siｪ ruszyｨ...」\e
 
 [0003cc|en] That's because I'm holding onto your head.\e
-[0003cc|ru] Poniewaｯ zｩapaｩem cie za gｩowｪ.\e
+[0003cc|ru] Poniewaｯ zｩapaｩem ciｪ za gｩowｪ.\e
 
 [0003cd|en] 【Takeru】「You don't need to go get them.\p\nInstead, go put these back.」\e
-[0003cd|ru] 【Takeru】「Wcale nie musisz zobaczyｨ reszty.\p\n Moｯe zamiast tego, odｩoｯysz to co masz z powrotem na miejsce.」\e
+[0003cd|ru] 【Takeru】「Wcale nie musisz zobaczyｨ reszty.\p\n Moｯe zamiast tego, odｩoｯysz to co masz z powrotem na\n miejsce.」\e
 
 [0003d1|en] 【Miki】「Okaaay,\p will do.」\e
 [0003d1|ru] 【Miki】「Okie-dokie!\p Zrobiｪ to.」\e
@@ -938,7 +938,7 @@ SCR 1 UTF-8
 [0003da|ru] 【Takeru】「──Co ja ci wｩaﾛnie powiedziaｩem!!」\e
 
 [0003e3|en] Maybe...\p...\p...\pTama's just playing with me?\e
-[0003e3|ru] A moｯe...\pTama siｪ tylko teraz ze mnｧ droczy?\e
+[0003e3|ru] A moｯe...\p Tama siｪ tylko teraz ze mnｧ droczy?\e
 
 [0003e8|en] *pi-piiiiii!!!*\e
 [0003e8|ru] *Gwi-iiizd!!!*\e
@@ -950,7 +950,7 @@ SCR 1 UTF-8
 [0003fd|ru] 【Takeru】「C-\pcooo?」\e
 
 [0003ff|en] 【Kamiyo】「Until the contest is decided,\p it is forbidden to\nspeak to Takeru-sama!!」\e
-[0003ff|ru] 【Kamiyo】「Przed rostrzygniｪciem konkursu,\p kaｯda z\n uczestniczek ma zakaz kontaktowania z Takeru-sama!!」\e
+[0003ff|ru] 【Kamiyo】「Przed rozstrzygniｪciem konkursu,\p kaｯda z\n uczestniczek ma zakaz kontaktowania siｪ z\n Takeru-sama!!」\e
 
 [000401|en] 【Tomoe】「It is forbidden.」\e
 [000401|ru] 【Tomoe】「To jest zabronione.」\e
@@ -959,7 +959,7 @@ SCR 1 UTF-8
 [000403|ru] 【Ebisu】「Nie wolno ci tego robiｨ～～」\e
 
 [000408|en] 【Kamiyo & Tomoe & Ebisu】「Take her awaaay!!\p Oooooh!!」\e
-[000408|ru] 【Kamiyo & Tomoe & Ebisu】「Braｨ jｧ, dziewczyny!!\p Szarｯa!!」\e
+[000408|ru] 【Kamiyo & Tomoe & Ebisu】「Braｨ jｧ, dziewczyny!!\p\n Szarｯa!!」\e
 
 [000410|en] 【Miki】「Awawawawa...\p...\pTa-\pTakeru-saaaaaaaaan...\p...\p」\e
 [000410|ru] 【Miki】「Aawawawa...\pTa-\pTakeru-saaaaaaaaan...\p」\e
@@ -971,13 +971,13 @@ SCR 1 UTF-8
 [000418|ru] *Tup* *Tup* *Tup* *Tup* *Tup* *Tup*...\p\e
 
 [00041f|en] Scattered porn mags. Seeing these everywhere during\nthe day...\p...\pit's...\p...\pdepressing...\p...\p\e
-[00041f|ru] Na podｩodze zostaｩy porozrzucane magazyny porno...\p\n Oglｧdanie ich w biaｩy dzieﾃ...\p Powoduje, ｯe poczuｩem siｪ\n jakoﾛ pusto w ﾛrodku ...\p\e
+[00041f|ru] Na podｩodze zostaｩy porozrzucane magazyny porno...\p\n Oglｧdanie ich w biaｩy dzieﾃ...\p Powoduje, ｯe poczuｩem\n siｪ jakoﾛ pusto w ﾛrodku...\p\e
 
 [000428|en] Definitely Class Rep.\e 
 [000428|ru] Definitywnie Przedstawicielka.\e 
 
 [000429|en] Given her personality,\p she must be making something\ndecent.\e
-[000429|ru] Biorｧc pod uwagｪ jej perfekcjonistycznｧ naturｪ.\p\n Jestem pewien,\p ｯe mogｪ liczyｨ na to, ｯe zrobi coﾛ naprawdｪ\n niezｩego.\e
+[000429|ru] Biorｧc pod uwagｪ jej perfekcjonistycznｧ naturｪ.\p\n Jestem pewien,\p ｯe mogｪ liczyｨ na to, ｯe zrobi coﾛ\n naprawdｪ niezｩego.\e
 
 [00042a|en] Okay,\p now that that's decided, let's gooo!!\e
 [00042a|ru] Okej.\p No to postanowione, pora daｨ drapaka!!\e
@@ -986,7 +986,7 @@ SCR 1 UTF-8
 [000430|ru] ──*Puk* *Puk*\e
 
 [000431|en] Oh?\e
-[000431|ru] Oh?\e
+[000431|ru] Och?\e
 
 [000434|en] 【Takeru】「Yeees.」\e
 [000434|ru] 【Takeru】「Taaak?」\e
@@ -998,16 +998,16 @@ SCR 1 UTF-8
 [000443|ru] Noo,\p czy to nie sama Przedstawicielka w wｩasnej osobie!\e
 
 [000445|en] 【Chizuru】「Hmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.」\e
-[000445|ru] 【Chizuru】「Hmmm...\p Tak jak siｪ spodziewaｩam, panuje tutaj\n straszny baｩagan...\pale w sumie nie jest aｯ, taki jakiego\n sobie wyobraｯaｩam.」\e
+[000445|ru] 【Chizuru】「Hmmm...\p Tak jak siｪ spodziewaｩam, panuje\n tutaj straszny baｩagan...\p ale w sumie nie jest aｯ taki,\n jak sobie wyobraｯaｩam.」\e
 
 [000446|en] 【Takeru】「Hey...\p...\pwhy's that the first thing you say?\p\nNot to mention,\p what were you imagining?」\e
-[000446|ru] 【Takeru】「Hej...\p Czy naprawdｪ musisz zaczynaｨ swojｧ wizytｪ, od powiedzenia tego?!\p I w ogｫle o co ci chodzi?!\p Co miaｩaﾛ\n namyﾛli,\p ｯe sumie nie jest tutaj, aｯ tak ﾜle?」\e
+[000446|ru] 【Takeru】「Hej...\p Czy naprawdｪ musisz zaczynaｨ swojｧ\n wizytｪ od powiedzenia tego?!\p I w ogｫle o co ci chodzi?!\p\n Co miaｩaﾛ na myﾛli,\p ｯe w sumie nie jest tutaj aｯ tak\n ﾜle?」\e
 
 [000448|en] 【Chizuru】「...\p...\phuhu...\p...\p」\e
-[000448|ru] 【Chizuru】「"Chichot"」\e
+[000448|ru] 【Chizuru】「*Chichot*」\e
 
 [000449|en] 【Takeru】「Don't make fun of me in your head!!」\e
-[000449|ru] 【Takeru】「Nie ﾛmiej sie ze mnie w swoich myﾛlach!!」\e
+[000449|ru] 【Takeru】「Nie ﾛmiej siｪ ze mnie w swoich myﾛlach!!」\e
 
 [00044b|en] 【Chizuru】「Rooms are said to reveal the inner nature of\nthose who live in them.」\e
 [00044b|ru] 【Chizuru】「Powiadajｧ sypialnia moｯe duｯo powiedzieｨ o\n naturze jego wｩaﾛciciela.」\e
