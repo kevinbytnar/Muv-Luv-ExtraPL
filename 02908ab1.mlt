@@ -1433,7 +1433,7 @@ SCR 1 UTF-8
 [0006cd|ru] 【Takeru】「Ech?」\e
 
 [0006cf|en] 【Sumika】「Your mom asked me to!\p So eat it!!\p You have to\neat it!!」\e
-[0006cf|ru] 【Sumika】「Twoja mama poprosiｩa mnie bym ci go\p zrobiｩa!\p WIｴC ZJEDZ TO! MUSISZ TO ZJEﾚｲ!!」\e
+[0006cf|ru] 【Sumika】「Twoja mama poprosiｩa mnie bym ci go\n zrobiｩa!\p WIｴC ZJEDZ TO! MUSISZ TO ZJEﾚｲ!!」\e
 
 [0006d1|en] 【Takeru】「He-\phey,\p don't open it up here!!」\e
 [0006d1|ru] 【Takeru】「He-\phej,\p nie otwieraj mi tutaj tego!!」\e
@@ -1523,7 +1523,7 @@ SCR 1 UTF-8
 [000727|ru] 【Takeru】「...\p...\p...\p...\p」\e
 
 [000728|en] 【Sumika】「They're chefs.」\e
-[000728|ru] 【Sumika】「To szefowie kuchni.」\e
+[000728|ru] 【Sumika】「To kucharze.」\e
 
 [000729|en] 【Miki】「So many of them...\p...\plike little white ants～～」\e
 [000729|ru] 【Miki】「Jest ich tak wielu... jakby byli maｩymi,\n biaｩymi mrｫwkami～～」\e
@@ -1559,7 +1559,7 @@ SCR 1 UTF-8
 [000746|ru] 【Takeru】「Hｪ?」\e
 
 [000748|en] 【Meiya】「Every one of these chefs is a peerless artisan.」\e
-[000748|ru] 【Meiya】「Kaｯdy z tych szefｫw kuchni jest niezrｫwnanym rzemieﾛlnikiem w fachu.」\e
+[000748|ru] 【Meiya】「Kaｯdy z tych kuchmistrzｫw jest niezrｫwnanym\n rzemieﾛlnikiem w swoim fachu.」\e
 
 [00074a|en] 【Miki】「Amaziiiiing!!! Umm...\p...\pMiki would like...\p...\pMiki\nwould...」\e
 [00074a|ru] 【Miki】「Nieeesaaamowiiite!!! Um...\p Zobaczmy...\p\n Zobaczmy....\p」\e
@@ -1571,7 +1571,7 @@ SCR 1 UTF-8
 [000754|ru] 【Miki】「Miaaｩ～」\e
 
 [000759|en] 【Meiya】「Now,\p what would you like?\p If you so desire,\p\neven the rarest of Eastern or Western foods may be\nprovided.」\e
-[000759|ru] 【Meiya】「A teraz, co byﾛ chciaｩ? Nawet najrzadsza\n kuchnia Wschodnia albo Zachodnia nie jest dla nich\n ｯadnym wyzwaniem, wiｪc czujcie siｪ swobodnie\n w wybieraniu.」\e
+[000759|ru] 【Meiya】「A teraz, co byﾛ chciaｩ? Nawet najrzadsza\n kuchnia wschodnia albo zachodnia nie jest dla nich\n ｯadnym wyzwaniem, wiｪc czuj siｪ swobodnie\n w wybieraniu.」\e
 
 [00075f|en] 【Chizuru】「Th-\pthe line goes all the way through the\ncorridor!」\e
 [00075f|ru] 【Chizuru】「Linia z tych kucharzy ciｧgnie siｪ aｯ po\n korytarz!!」\e
@@ -1580,7 +1580,7 @@ SCR 1 UTF-8
 [000763|ru] 【Takeru】「Ki-\pim do cholery sｧ CI ludzie!?」\e
 
 [000766|en] 【Meiya】「Chefs working in the Mitsurugi family kitchens.\p\nI have gathered them here just for you,\p so do not hold\nback.」\e
-[000766|ru] 【Meiya】「Ci szefowie kuchni sｧ na usｩugach rodziny\n Mitsurugi.\p Zebraｩam ich wszystkich tutaj specjalnie\n tylko dla ciebie,\p wiｪc proszｪ, nie krｪpujcie siｪ.」\e
+[000766|ru] 【Meiya】「Ci kucharze sｧ na usｩugach rodziny\n Mitsurugi.\p Zebraｩam ich wszystkich tutaj specjalnie\n tylko dla ciebie,\p wiｪc proszｪ, nie krｪpuj siｪ.」\e
 
 [000769|en] 【Takeru】「Wa-\pwait a minute!」\e
 [000769|ru] 【Takeru】「Po-\pooczekaj chwilkｪ!」\e
@@ -1589,7 +1589,7 @@ SCR 1 UTF-8
 [00076b|ru] 【Meiya】「Oni robiｧ to juｯ kilka minut i bｪdｧ tak\n robiｨ pｫki im nie wydasz polecenia.」\e
 
 [000776|en] 【Takeru】「Uh...\p...\phmm...\p...\p」\e
-[000776|ru] 【Takeru】「Uh...\p...\phmm...\p...\p」\e
+[000776|ru] 【Takeru】「Uch...\p...\phmm...\p...\p」\e
 
 [00077b|en] 【Meiya】「Now,\p speak whatever you may.」\e
 [00077b|ru] 【Meiya】「A teraz,\p powiedz tylko sｩowo.」\e
@@ -1655,7 +1655,7 @@ SCR 1 UTF-8
 [0007bf|ru] 【Sumika】「Hahaha, czasami tak tu siｪ zdarza...\p\n A w kaｯdym bｧdﾜ razie,\p tak dｩugo jak Takeru-chan jest\n nieprzytomny, to przygotowanie Manchu Han jest\n bezcelowe.」\e
 
 [0007c2|en] 【Chizuru】「Mitsurugi-san,\p could you call off those\nnoisy...\p...\pnot that...troublesome...\p...\pnot that either...\p...\p\nAnyway, could you ask all those chefs to leave?」\e
-[0007c2|ru] 【Chizuru】「Mitsurugi-san, mogｩabyﾛ odwoｩaｨ tych\n nieznoﾛnych....\p raczej haｩaﾛliwych...\p znaczy...\p\n W kaｯdym bｧdﾜ razie...\p mogｩabyﾛ odwoｩaｨ tych wszystkich\n Szefｫw Kuchni?」\e
+[0007c2|ru] 【Chizuru】「Mitsurugi-san, mogｩabyﾛ odwoｩaｨ tych\n nieznoﾛnych....\p raczej haｩaﾛliwych...\p znaczy...\p\n W kaｯdym bｧdﾜ razie...\p mogｩabyﾛ odwoｩaｨ tych wszystkich\n kucharzy?」\e
 
 [0007c4|en] 【Meiya】「But then,\p Takeru's lunch would...\p...\p」\e
 [0007c4|ru] 【Meiya】「Ale wtedy,\p lunch Takeru...\p」\e
