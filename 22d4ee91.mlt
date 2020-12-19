@@ -1994,7 +1994,7 @@ SCR 1 UTF-8
 [000577|ru] ...\pAch, no dobra.\e
 
 [000580|en] The winner can do whatever she wants with me for a\nday...\p...\pthat was the original announcement,\p but I never\nthought that Tama would say she wanted a date with\nme.\e 
-[000580|ru] A zwyciｪｯczyni tego wydarzenia zdobyｩa prawo\n spｪdzenia ze mnｧ caｩego dnia wedｩug swojego\n widzimisｪ...\p Ale nigdy w ｯyciu bym nie pomyﾛlaｩ,\n ｯe Tama kiedykolwiek powie, ｯe chiaｩaby iﾛｨ ze mnｧ\n na randkｪ.\e 
+[000580|ru] A zwyciｪｯczyni tego wydarzenia zdobyｩa prawo\n spｪdzenia ze mnｧ caｩego dnia wedｩug swojego\n widzimisiｪ...\p Ale nigdy w ｯyciu bym nie pomyﾛlaｩ,\n ｯe Tama kiedykolwiek powie, ｯe chiaｩaby iﾛｨ ze mnｧ\n na randkｪ.\e 
 
 [000581|en] I wouldn't expect that from a person like Tama...\p...\p\nthat just doesn't feel like her somehow.\e
 [000581|ru] Nie spodziewaｩem siｪ tego po dziewczynie takiej jak\n Tama...\p Po prostu jakoﾛ to nie pasuje do jej stylu.\e
@@ -2012,19 +2012,19 @@ SCR 1 UTF-8
 [000585|ru] ...\p...\p...\p...\p\e
 
 [000586|en] 【Takeru】「...\p...\pisn't she kinda late?」\e
-[000586|ru] 【Takeru】「...\pChyba siｪ trochｪ spｫﾜnia??」\e
+[000586|ru] 【Takeru】「...\pChyba siｪ trochｪ spｫﾜnia.」\e
 
 [000587|en] My watch says it's 10:10 AM.\e
 [000587|ru] A powtarzajｧc za moim zegarkiem, to mamy juｯ 10:10.\e
 
 [000588|en] We agreed to meet up just after ten.\e
-[000588|ru] Nasze spotkanie jak wczeﾛniej umｫwiliﾛmy powinno rozpoczｧｨ siｪ\npunktualnie o 10.\e
+[000588|ru] Nasze spotkanie, jak wczeﾛniej umｫwiliﾛmy, powinno\n rozpoczｧｨ siｪ punktualnie o dziesiｧtej.\e
 
 [000589|en] What happened?\e
-[000589|ru] Czyｯby siｪ coﾛ staｩo?\e
+[000589|ru] Czyｯby coﾛ siｪ staｩo?\e
 
 [00058a|en] I didn't think Tama was the type to be late...\p...\p\e
-[00058a|ru] Przyznam, ｯe nie spodziewaｩem siｪ tego, ｯe jest ona typem\nspｫﾜniary...\p\e
+[00058a|ru] Przyznam, ｯe nie spodziewaｩem siｪ tego, ｯe jest ona\n typem spｫﾜniary...\p\e
 
 [00058c|en] ...\p...\p...\p...\p\e
 [00058c|ru] ...\p...\p...\p...\p\e
@@ -2033,13 +2033,13 @@ SCR 1 UTF-8
 [00058e|ru] 10:20.\e
 
 [00058f|en] Did she get in an accident on the way here?\e
-[00058f|ru] Czy w czasie drogi na nasze spotkanie trafiｩ siｪ jej jakiﾛ\nwypadek?\e
+[00058f|ru] Czy w czasie drogi na nasze spotkanie przytrafiｩ siｪ\n jej jakiﾛ wypadek?\e
 
 [000590|en] If a car hit her, she'd probably fly up,\p\nthen bounce around like a ball...\p...\p\e
-[000590|ru] Gdyby samochｫd jｧ uderzyｩ, prawdopodobnie odleciaｩaby niczym\npiｩka...\p\e
+[000590|ru] Gdyby samochｫd jｧ uderzyｩ, prawdopodobnie odleciaｩaby\n niczym piｩka...\p\e
 
 [000591|en] She ought to bounce pretty high...\p...\p\e
-[000591|ru] A podejrzewam, ｯe po uderzeniu o ziemie odbiｩaby siｪ dosyｨ\nwysoko...\p\e
+[000591|ru] A podejrzewam, ｯe po uderzeniu o ziemiｪ odbiｩaby siｪ\n dosyｨ wysoko...\p\e
 
 [000592|en] ...\p...\p...\p...\p\e
 [000592|ru] ...\p...\p...\p...\p\e
@@ -2048,49 +2048,49 @@ SCR 1 UTF-8
 [000593|ru] Nie powinienem siｪ ﾛmiaｨ.\e
 
 [000596|en] 10:30 AM...\p...\p...\p...\p\nWhat do I do...\p...\p?\e
-[000596|ru] 10:30 ...\p...\p\nCo ja powinienem teraz zrobiｨ...\p?\e
+[000596|ru] 10:30...\p...\p\nCo powinienem teraz zrobiｨ...\p?\e
 
 [000597|en] 【Miki】「Haaa...\phaaa...\phaaa...!」\e
-[000597|ru] 【Miki】「"Dyszenie" "Dyszenie"」\e
+[000597|ru] 【Miki】「*Dyszenie*...*Dyszenie*」\e
 
 [000599|en] ...\p...\phm?\p Ah,\p Tama!!\e
-[000599|ru] ...\pHm?\p Ah,\p Tama!!\e
+[000599|ru] ...\pHm?\p Ach,\p Tama!!\e
 
 [00059a|en] Oooh, oooh,\p she's like a marathon runner about to reach\nthe finish line...\p...\p\e
-[00059a|ru] Ooo, tam jest!\p Caｩkowicie wycieﾃczona. Niczym maratoﾃczyk\nzbliｯajｧcy siｪ do linii mety...\p\e
+[00059a|ru] Ooo, tam jest!\p Caｩkowicie wycieﾃczona. Niczym\n maratoﾃczyk zbliｯajｧcy siｪ do linii mety...\p\e
 
 [00059c|en] 【Takeru】「Tama!\p Why're you so late?\p I was getting\nworried...\p...\p」\e
 [00059c|ru] 【Takeru】「Tama!\p Dlaczego siｪ spｫﾜniｩaﾛ?\p\n Zaczynaｩem siｪ juｯ powoli martwiｨ...\p」\e
 
 [0005a0|en] 【Miki】「Takeru-san,\p I'm sorry～!」\e
-[0005a0|ru] 【Miki】「Takeru-san,\p Bardzo przepraszam～!」\e
+[0005a0|ru] 【Miki】「Takeru-san,\p bardzo przepraszam～!」\e
 
 [0005a1|en] 【Takeru】「Uwawawawa.\p Hey,\p don't cry,\p hey now.」\e
-[0005a1|ru] 【Takeru】「ｳoｩ, ｩoｩ, ｩoｩ.\p Hej,\p nie ma potrzeby abyﾛ mi tutaj\nteraz pｩakaｩa.」\e
+[0005a1|ru] 【Takeru】「ｳoｩ, ｩoｩ, ｩoｩ.\p Hej,\p nie ma potrzeby, abyﾛ\n mi tutaj teraz pｩakaｩa.」\e
 
 [0005a3|en] 【Miki】「I...\p...\p...\pI...\p...\p...\p」\e
-[0005a3|ru] 【Miki】「Ja...\p...\pJa...\p...\p」\e
+[0005a3|ru] 【Miki】「Ja...\p...\p Ja...\p...\p」\e
 
 [0005a4|en] 【Takeru】「I'm not mad.\p Just tell me why you're late.」\e
 [0005a4|ru] 【Takeru】「Spokojnie, nie jestem wkurzony.\p\n Chciaｩem tylko wiedzieｨ, dlaczego siｪ spｫﾜniｩaﾛ.\p\n To wszystko.」\e
 
 [0005a6|en] 【Miki】「Waaaaaah...\p...\p...\p...\p...\p...\pI slept in～」\e
-[0005a6|ru] 【Miki】「Aaaaaaah...\p...\p...\pZaspaｩam～」\e
+[0005a6|ru] 【Miki】「Aaaaaaach...\p...\p...\p Zaspaｩam～」\e
 
 [0005a7|en] That's a rather ordinary reason.\e
 [0005a7|ru] Meh...\p Co za szczegｫlnie niezbyt klimatyczny powｫd.\e
 
 [0005a9|en] 【Miki】「Even after I got under the covers,\p\p I just couldn't\nget to sleep...\p...\p...\p Waaaaaaaaah...\p...」\e
-[0005a9|ru] 【Miki】「Nawet kiedy byｩam juｯ pod koｩdrｧ,\p\p to pomimo tego nie\npotrafiｩam zasnｧｨ....\p...\pｳeeee...!」\e
+[0005a9|ru] 【Miki】「Nawet kiedy byｩam juｯ pod koｩdrｧ,\p\p to pomimo\n tego nie potrafiｩam zasnｧｨ....\p...\p ｳeeee...!」\e
 
 [0005aa|en] 【Takeru】「Uwa,\p wawawawa.\n...\p...\pa-\panyway, stop crying!!」\e
-[0005aa|ru] 【Takeru】「Co...\pah...\nNo weﾜ, daj juｯ spokｫj.\p Sｩuchaj co mｫwiｪ i przestaﾃ pｩakaｨ!」\e
+[0005aa|ru] 【Takeru】「Co...\pach...\nNo weﾜ, daj juｯ spokｫj.\p Sｩuchaj co mｫwiｪ i przestaﾃ\n pｩakaｨ!」\e
 
 [0005b5|en] 【Miki】「Fuwaaa...\p...\p」\e
 [0005b5|ru] 【Miki】「Fuwaaa...\p」\e
 
 [0005b6|en] 【Takeru】「Oh,\p it stopped.」\e
-[0005b6|ru] 【Takeru】「Oh,\p skoﾃczyｩo siｪ.」\e
+[0005b6|ru] 【Takeru】「Och,\p skoﾃczyｩo siｪ.」\e
 
 [0005bf|en] 【Miki】「Waaaaaaaah!」\e
 [0005bf|ru] 【Miki】「Waaaaaaaah!」\e
@@ -2114,61 +2114,61 @@ SCR 1 UTF-8
 [0005e0|ru] 【Miki】「Nie jestem budzikiem.」\e
 
 [0005e6|en] 【Takeru】「Hahaha......\pyou're always almost late for school,\p\nand now you sleep in too...\p...\p Well,\p this sort of thing\nhappens to everyone once in a while.\p Cheer up.」\e
-[0005e6|ru] 【Takeru】「Hahaha...\pZawsze kaｯdego poranka zaspana pｪdzisz\njak szalona.\p Tylko po to aby zdｧｯyｨ przed szkolnym dzwonkiem.\p\nA dzisiaj rｫwnieｯ udaｩo ci siｪ przegapiｨ ustalonｧ przez nas\nobojga godzinｪ...?\p Oh, no cｫｯ...\p Takie rzeczy czasami siｪ\nzdarzajｧ, gｩowa do gｫry.」\e
+[0005e6|ru] 【Takeru】「Hahaha...\p Zawsze kaｯdego poranka pｪdzisz\n zaspana jak szalona.\p Tylko po to, aby zdｧｯyｨ przed\n szkolnym dzwonkiem.\p A dzisiaj rｫwnieｯ udaｩo ci siｪ\n przegapiｨ ustalonｧ przez nas obojga godzinｪ...?\p\n Och, no cｫｯ...\p Takie rzeczy czasami siｪ zdarzajｧ,\n gｩowa do gｫry.」\e
 
 [0005e8|en] 【Miki】「Thank you～\p Takeru-san～\n...\p...\p...\p...\p\pI'm not really that happy for some reason,\p\nbut thank you～」\e
-[0005e8|ru] 【Miki】「Dziｪkujｪ tobie～\p Takeru-san～\n...\p...\p\p Ale sｧdzｪ, ｯe mｫgｩbyﾛ ujｧｨ to w trochｪ milszy sposｫb,\p\nale nadal dziｪkujｪ...\p～」\e
+[0005e8|ru] 【Miki】「Dziｪkujｪ ci～\p Takeru-san～\n...\p...\p\pSｧdzｪ, ｯe mｫgｩbyﾛ ujｧｨ to w trochｪ milszy\n sposｫb,\p ale nadal dziｪkujｪ...\p～」\e
 
 [0005eb|en] 【Takeru】「Now,\p cheer up already.\nTama,\p what day is it today?」\e
 [0005eb|ru] 【Takeru】「No dobra,\p rozchmurz siｪ.\p\nTama - a ty w ogｫle wiesz jaki mamy dzisiaj dzieﾃ?」\e
 
 [0005ed|en] 【Miki】「Ummmm...\p...\p...\p...\p...\p...\pSunday?」\e
-[0005ed|ru] 【Miki】「Ummmm...\p...\p...\pNiedziela?」\e
+[0005ed|ru] 【Miki】「Ummmm...\p...\p...\p Niedzielｪ?」\e
 
 [0005ee|en] 【Takeru】「Ha-ha-ha-ha.\nYou aren't wrong,\p but that's not the answer I wanted.」\e
-[0005ee|ru] 【Takeru】「Ha-ha-ha-ha.\nCｫｯ, nie mylisz siｪ,\p ale to nie jest odpowiedﾜ na jakｧ\nczekaｩem.」\e
+[0005ee|ru] 【Takeru】「Ha-ha-ha-ha.\nCｫｯ, nie mylisz siｪ,\p ale to nie jest odpowiedﾜ na ktｫrｧ\nczekaｩem.」\e
 
 [0005ef|en] Is that all today is to you?\p Is that all I am...\p...\p*sigh*\e
 [0005ef|ru] Czy dzisiejszy dzieﾃ tylko tym dla ciebie jest?\p\nA ja to juｯ siｪ nie liczｪ...\p*Westchnienie*\e
 
 [0005f5|en] 【Miki】「Ah...\p...\p...\pthat's right...\p...\p...\pthe date....\p...\p...\p\nI have a date with you today.」\e
-[0005f5|ru] 【Miki】「Ah...\p...\pNo wｩaﾛnie...\p...!\p Randka...\p...!\p\nMam dzisiaj randkｪ z tobｧ.」\e
+[0005f5|ru] 【Miki】「Ach...\p...\p No wｩaﾛnie...\p...!\p Randka...\p...!\p\nMam dzisiaj randkｪ z tobｧ.」\e
 
 [0005f6|en] 【Takeru】「Did you actually forget that until just now?」\e
-[0005f6|ru] 【Takeru】「Momeﾃcik. Czy ty naprawdｪ o czymﾛ tak waｯnym\nzapomniaｩaﾛ?」\e
+[0005f6|ru] 【Takeru】「Momencik. Czy ty naprawdｪ zapomniaｩaﾛ o\n czymﾛ tak waｯnym?」\e
 
 [0005f8|en] 【Miki】「Eh...\p...\p!?\p\p Ahaha,\p of course not,\p Takeru-san.」\e
-[0005f8|ru] 【Miki】「Eh...\p!?\p\p Ahaha,\p oczywiﾛcie, ｯe nie,\p Takeru-san.」\e
+[0005f8|ru] 【Miki】「Ech...\p!?\p\p Ahaha,\p oczywiﾛcie, ｯe nie,\p\n Takeru-san.」\e
 
 [0005fc|en] That dry laugh only makes you seem more pitiful...\p...\p\e
-[0005fc|ru] Suchy ﾛmiech, ktｫry wydaｩaﾛ z siebie pogarsza tylko twojｧ\nsytuacje ale rｫwnieｯ mｫj nastrｫj...\p\e
+[0005fc|ru] Suchy ﾛmiech, ktｫry z siebie wydaｩaﾛ, tylko pogarsza\n twojｧ sytuacjｪ, oraz do tego rｫwnieｯ mｫj nastrｫj...\p\e
 
 [0005fd|en] So...she noticed she was late,\p and was so preoccupied\nwith getting here she forgot why...\p...\pyeah, I'll go with\nthat.\e
-[0005fd|ru] Moｯe...wｩaﾛnie zauwaｯyｩa, ｯe siｪ spｫﾜniｩa i przez to pｪdzenie\ntutaj caｩkowicie zapomniaｩa o swoim prawdziwym powodzie\nzjawienia siｪ tutaj....\p Tak, trzymajmy siｪ tej tezy.\e
+[0005fd|ru] Moｯe... wｩaﾛnie zauwaｯyｩa, ｯe siｪ spｫﾜniｩa i przez\n to pｪdzenie tutaj caｩkowicie zapomniaｩa o swoim\n prawdziwym powodzie zjawienia siｪ tutaj....\p\n Tak, trzymajmy siｪ tej tezy.\e
 
 [0005fe|en] Cats are said to be really forgetful.\p Yeah.\e
 [0005fe|ru] Powiadajｧ, ｯe koty posiadajｧ dosyｨ krｫtkｧ pamiｪｨ.\e
 
 [0005ff|en] 【Takeru】「...\p...\pso,\p where are we going?」\e
-[0005ff|ru] 【Takeru】「...\pWiｪc,\p no to gdziｪ dokｩadnie mamy zamiar\n siｪ udaｨ?」\e
+[0005ff|ru] 【Takeru】「...\pWiｪc,\p no to gdzie dokｩadnie mamy zamiar\n siｪ udaｨ?」\e
 
 [000601|en] 【Miki】「Ummm,\p well...\p...\p」\e
 [000601|ru] 【Miki】「Ummm,\p nooo...\p」\e
 
 [000610|en] Oh-ho...\p...\pso this is the aquarium I've heard so much\nabout.\e
-[000610|ru] Oh-ho...\pWiｪc to jest to akwarium o ktｫrym tak wiele sｩyszaｩem.\e
+[000610|ru] Och-cho...\p Wiｪc to jest to oceanarium, o ktｫrym tak\n wiele sｩyszaｩem.\e
 
 [000611|en] They have the biggest fish tank in the Eastern\nHemisphere,\p as big as a nine-story building...\p...\p\nor so it says in this pamphlet.\e
-[000611|ru] Wyposaｯeni sｧ w najwiｪksze akwarium na pｫｩkuli wschodniej.\p\nJest podobno tak duｯe jak typowy jedno piｪtrowy budynek...\p\n A przynajmniej tak twierdzｧ na broszurze.\e
+[000611|ru] Wyposaｯeni sｧ w najwiｪksze akwarium na pｫｩkuli\n wschodniej.\p Jest podobno tak duｯe jak typowy\n jednopiｪtrowy budynek...\p A przynajmniej tak twierdzｧ\n na broszurze.\e
 
 [000612|en] ...\p...\p...\p...\p\e
 [000612|ru] ...\p...\p...\p...\p\e
 
 [000613|en] Nine stories...\p...\phow many meters is that?\e
-[000613|ru] Dziewiｪｨ piｪter...\p Ale jak wiele metrｫw to coﾛ ma??\e
+[000613|ru] Dziewiｪｨ piｪter...\p Jak wiele metrｫw to coﾛ ma?\e
 
 [000615|en] If one story is four meters...\p...\pthen it'd be around\nthirty-six meters.\e
-[000615|ru] Jeｯeli jedno piｪtro ma niby 4 metry...\pwyglｧda na to, ｯe to\ncudeﾃko przede ma jakieﾛ 36 metrｫw.\e
+[000615|ru] Jeｯeli jedno piｪtro ma niby 4 metry...\p wyglｧda na to,\n ｯe to cudeﾃko przede mnｧ ma jakieﾛ 36 metrｫw.\e
 
 [000616|en] ...\p...\pthat's pretty big.\e
 [000616|ru] ...\pDosyｨ wysokie.\e
@@ -2177,25 +2177,25 @@ SCR 1 UTF-8
 [000617|ru] Podobnie jak opｩata za wstｪp.\e
 
 [000619|en] 【Takeru】「Hmmmm...\pthis is the only fish tank in the world\nmade out of reinforced transparent glass fibers...\p...\pit says.」\e
-[000619|ru] 【Takeru】「Hmmmm...\pTo jedyne akwarium na ﾛwiecie wykonane\nz wzmocnionego przeroczystego wｩｫkna szklanego.」\e
+[000619|ru] 【Takeru】「Hmmmm...\pTo jedyne akwarium na ﾛwiecie\n wykonane z wzmocnionego przeﾜroczystego wｩｫkna\n szklanego.」\e
 
 [00061c|en] 【Miki】「Glass fibers?\p\p\p\p Are those hard?」\e
 [00061c|ru] 【Miki】「Wｩｫkno szklane?\p\p\p\p Czy to jest twarde?」\e
 
 [00061d|en] 【Takeru】「Your bow wouldn't make a dent.」\e
-[00061d|ru] 【Takeru】「Twｫj ｩuk raczej nie zostawiｩby ｯadnego zgniecenia.」\e
+[00061d|ru] 【Takeru】「Twｫj ｩuk raczej nie zostawiｩby ｯadnego\n wgniecenia.」\e
 
 [00061f|en] 【Miki】「Then...\p...\pmaybe I'll bring it with me next time.」\e
-[00061f|ru] 【Miki】「No to...\pmoｯe nastｪpnym razem przyniosｪ go z sobｧ.」\e
+[00061f|ru] 【Miki】「No to...\p moｯe nastｪpnym razem przyniosｪ go\n ze sobｧ.」\e
 
 [000621|en] You wanna test it?\e
-[000621|ru] Co, czy ty przypadkiem naprawdｪ chcesz to przetestowaｨ\nalbo coﾛ w teﾃ deseﾃ?\e
+[000621|ru] Co? Czy ty przypadkiem naprawdｪ chcesz to\n przetestowaｨ, albo coﾛ w ten deseﾃ?\e
 
 [000622|en] 【Takeru】「With a surface area of 105,000 square meters,\p\nit's literally the largest aquarium in the world...\p...\p」\e
-[000622|ru] 【Takeru】「Z powierchniｧ 105,000 metrｫw kwadratowych jest\nono dosｩownie najwiｪkszym akwarium jakie kiedykolwiek\nzbudowano...\p Hｪ...\p」\e
+[000622|ru] 【Takeru】「Z powierzchniｧ 105 000 metrｫw kwadratowych\n jest ono dosｩownie najwiｪkszym akwarium jakie\n kiedykolwiek zbudowano...\p Hｪ...\p」\e
 
 [000623|en] ...\p...\pthat almost seems impossible.\e
-[000623|ru] ...\pJeｯeli o mnie chodzi, to ta powierzchnia niepotrzebnie jest\ntak ogromna.\e
+[000623|ru] ...\pJeｯeli o mnie chodzi, to ta powierzchnia\n niepotrzebnie jest aｯ tak ogromna.\e
 
 [000628|en] 【Takeru】「Is there really a fish tank thirty-six meters\ntall...\p...\p?」\e
 [000628|ru] 【Takeru】「Czy naprawdｪ istnieje akwarium o wysokoﾛci\ntrzydziestu szeﾛciu metrｫw...\p?」\e
@@ -2204,85 +2204,85 @@ SCR 1 UTF-8
 [00062a|ru] 【Miki】「Mｫj dziadek powiada "Dobrze, naleｯy odrobinｪ\nuderzyｨ w ﾛrodek. Nie moｯesz chybiｨ".」\e
 
 [00062c|en] Can't win against grampa's wealth of knowledge.\e
-[00062c|ru] A przecieｯ nie moｯemy teraz zwｧtpiｨ w mｧdroﾛｨ twojego dziadka,\nco nie?\e
+[00062c|ru] A przecieｯ nie moｯemy teraz zwｧtpiｨ w mｧdroﾛｨ twojego\n dziadka, co nie?\e
 
 [00062e|en] 【Miki】「Fishies～\p\p Fishies～」\e
-[00062e|ru] 【Miki】「Malutki rybki/rybeczki/rybunie～\p\p Malutki rybki/rybeczki/rybunie～」\e
+[00062e|ru] 【Miki】「Malutkie rybki/rybeczki/rybunie～\p\p\n Malutkie rybki/rybeczki/rybunie～」\e
 
 [00062f|en] 【Takeru】「What fish do you like best, Tama?」\e
-[00062f|ru] 【Takeru】「A ktｫra z tych ryb, jest twojｧ ulubionｧ, Tama?」\e
+[00062f|ru] 【Takeru】「A ktｫra z tych ryb jest twojｧ ulubionｧ,\n Tama?」\e
 
 [000631|en] 【Miki】「Ummmm...\p...\p...\pI really like whales and tuna.」\e
-[000631|ru] 【Miki】「Cｫｯ zobaczmy...\p Naprawdｪ lubiｪ wyloryby i tuﾃczyka 」\e
+[000631|ru] 【Miki】「Cｫｯ, zobaczmy...\p Naprawdｪ lubiｪ wieloryby\n i tuﾃczyka.」\e
 
 [000632|en] Whales aren't fish,\p but I won't bother pointing that out.\e
-[000632|ru] Wyloryby nie sｧ rybami, ale pozwolｪ im siｪ wﾛlizgnｧｨ tｪ\nkategoriｪ.\e
+[000632|ru] Wieloryby nie sｧ rybami, ale pozwolｪ im siｪ wﾛlizgnｧｨ\n w tｧ kategoriｪ.\e
 
 [000634|en] 【Miki】「Whales have really soft cheeks...\p...\p...\p...\p\nso they make the best sushi.」\e
-[000634|ru] 【Miki】「Wieloryby sｧ naprawdｪ delikatne na policzkach...\p\na ﾛrednio-tｩusty tuﾃczyk smakuje najlepiej.」\e
+[000634|ru] 【Miki】「Wieloryby sｧ naprawdｪ delikatne na\n policzkach...\p a ﾛrednio-tｩusty tuﾃczyk smakuje\n najlepiej.」\e
 
 [000635|en] 【Takeru】「No,\p I don't mean as food...\p...\p」\e
-[000635|ru] 【Takeru】「Um,\p lecz ja nie mｫwiｩem o takich rybach co moｯna\nsobie schrupaｨ...\p」\e
+[000635|ru] 【Takeru】「Um,\p lecz ja nie mｫwiｩem o takich rybach,\n co moｯna sobie schrupaｨ...\p」\e
 
 [000638|en] 【Miki】「Takeru-san,\p what fish do you like best?」\e
-[000638|ru] 【Miki】「Takeru-san,\p a ty jakiego rodzaju ryby uwaｯasz za\nnajlepsze?」\e
+[000638|ru] 【Miki】「Takeru-san,\p a ty jakiego rodzaju ryby\n uwaｯasz za najlepsze?」\e
 
 [000639|en] 【Takeru】「Sea breams I guess...\p...\pthey are just the best\nwhen cooked.」\e
-[000639|ru] 【Takeru】「Oh, jakbym miaｩ wybraｨ to obstawiｩbym ｯe\nmorlesz bogar jest mojｧ ulubionｧ rybｧ...\p Zwｩaszcza gdy jest\npodawany jako sashimi.」\e
+[000639|ru] 【Takeru】「Och, jakbym miaｩ wybraｨ to obstawiｩbym, ｯe\nmorlesz bogar jest mojｧ ulubionｧ rybｧ...\p Zwｩaszcza\n gdy jest podawany jako sashimi.」\e
 
 [00063a|en] Wait,\p not that! I'm stooping to her level now!\e
-[00063a|ru] W trzymaj konie i nie rｫb tego!\p Nie zniｯaj siｪ do jej poziomu!\e
+[00063a|ru] Wstrzymaj konie i nie rｫb tego!\p Nie zniｯaj siｪ do jej\n poziomu!\e
 
 [00063c|en] ...\p...\p...\p...\p\e
 [00063c|ru] ...\p...\p...\p...\p\e
 
 [00063d|en] What's this strange warm feeling?\e
-[00063d|ru] Co to za dziwne, ciepｩe, niewyraﾜne uczucie??\e
+[00063d|ru] Co to za dziwne, ciepｩe, niewyraﾜne uczucie?\e
 
 [00063e|en] There's this familiar heartfelt sensation, like when one's\nentire family shows up for a picnic.\e
-[00063e|ru] To tak, jakby...\p ktoﾛ wtrzyknｧｩ mi domowｧ szarlotkｪ\nbezpoﾛrednio do mojego mｫzgu.\e
+[00063e|ru] To tak jakby...\p ktoﾛ wstrzyknｧｩ mi domowｧ szarlotkｪ\nbezpoﾛrednio do mojego mｫzgu.\e
 
 [00063f|en] 【Takeru】「...\p...\panyway,\p let's look at the fish.」\e
-[00063f|ru] 【Takeru】「...\pA co powiesz na to,\p ｯebyﾛmy sprawdzili\nsobie niektｫre z tych ryb z akwarium?.」\e
+[00063f|ru] 【Takeru】「...\pA co powiesz na to,\p ｯebyﾛmy sprawdzili\nsobie niektｫre z tych ryb z akwarium?」\e
 
 [000641|en] 【Miki】「Yeah!\p\p Fishy～\p\p\pLun!\p\p Fishies～\p\p\pLun!」\e
 [000641|ru] 【Miki】「Taaak!\p\p Rybki～\p\p\pLala!\p\p Rybusie～\p\p\pLala!」\e
 
 [000642|en] Miki holds both hands to her hips, starts flapping them\nand jogs in front of me.\e
-[000642|ru] Miki najpierw trzyma obie rｪce na biodrach,\p a potem zaczyna\nnimi machaｨ. A na koﾃcu truchtem przybliｯa siｪ do mnie.\e
+[000642|ru] Miki najpierw trzyma obie rｪce na biodrach,\p a potem\n zaczyna nimi machaｨ. A na koﾃcu truchtem przybliｯa siｪ do mnie.\e
 
 [000645|en] 【Miki】「Ah!\p It's a crab～\p\p\p\n A blue king crab, apparently.」\e
-[000645|ru] 【Miki】「Ah!\p To jest krab!～\p\p\p\n Widzisz? Niebieski Krｫl.」\e
+[000645|ru] 【Miki】「Ach!\p To jest krab!～\p\p\p\n Widzisz? Niebieski Krｫl.」\e
 
 [000646|en] 【Takeru】「The Bearing Sea, the Kamchatka Archipelago,\p\nthe Sakhalin Sea,\p the Sea of Okhotsk and other Northern\nseas...\p...\pin Japan from Hokkaido's Cape Erimo to Cape\nNosappu on the Pacific Coast...\p...\p」\e
-[000646|ru] 【Takeru】「Morze Beringa, Archipelag Kamczaka, wzdｩuｯ\nwybrzeｯawyspy Sachalin, Morza Ochockiego oraz inne\norza pｫｩnocne...\pW Japonii od przyglｧdka Erimo Hokkaido do\nprzylｧdka Nosappu na wybrzeｯu na Pacyfiku...\p\p」\e
+[000646|ru] 【Takeru】「Morze Beringa, Archipelag Kamczatka,\n wzdｩuｯ wybrzeｯa wyspy Sachalin, Morza Ochockiego,\n oraz inne morza pｫｩnocne...\p W Japonii od przylｧdka\n Erimo na Hokkaido do przylｧdka Nosappu na Pacyfiku...\p\p」\e
 
 [000649|en] 【Miki】「Boil them,\p and mix with two cups of vinegar or\ncitric juice.\p\p Then they go great with Japanese foods like\nmiso and nabe.」\e
-[000649|ru] 【Miki】「Moｯesz je ugotowaｨ,\p a nastｪpnie dodaｨ dwie szklanki\noctu lub ponzu.\p\p Najwyraﾜniej ﾛwietnie pasujｧ do japoﾃskich\npotraw, takich jak zupa miso i nabe.」\e
+[000649|ru] 【Miki】「Moｯesz je ugotowaｨ,\p a nastｪpnie dodaｨ dwie\n szklanki octu lub ponzu.\p\p Najwyraﾜniej ﾛwietnie pasujｧ\n do japoﾃskich potraw, takich jak zupa miso i nabe.」\e
 
 [00064a|en] 【Takeru】「...\p...\paquariums go into that much detail now?」\e
-[00064a|ru] 【Takeru】「...\pAkwaria zajmujｧ siｪ teraz tak wieloma\nszczegｫｩami?」\e
+[00064a|ru] 【Takeru】「...\pOceanaria zajmujｧ siｪ teraz tak wieloma\nszczegｫｩami?」\e
 
 [00064d|en] 【Miki】「Look,\p it's written right here～」\e
 [00064d|ru] 【Miki】「Po patrz, tutaj jest to napisane!\e
 
 [00064e|en] 【Takeru】「You're kidding...\p...\pthe things aquariums do to\ndraw customers these days～」\e
-[00064e|ru] 【Takeru】「ﾂartujesz soibe...\p Czy to jest wｩaﾛnie to,\p do\nczego muszｧ posuwaｨ siｪ akwaria, aby przyciｧgnｧｨ klientｫw w\ndzisiejszych czasach...?～」\e
+[00064e|ru] 【Takeru】「ﾂartujesz sobie...\p Czy to jest wｩaﾛnie\n to,\p do czego muszｧ posuwaｨ siｪ oceanaria, aby\n przyciｧgnｧｨ klientｫw w dzisiejszych czasach...?～」\e
 
 [000651|en] 【Miki】「It's painful to watch,\p and a futile effort.」\e
-[000651|ru] 【Miki】「To doﾛｨ smutne...\p Myﾛlｪ, ｯe to tak nie dziaｩa.」\e
+[000651|ru] 【Miki】「To doﾛｨ smutne...\p Myﾛlｪ, ｯe to tak nie\n dziaｩa.」\e
 
 [000652|en] 【Takeru】「You know, \pyou can be quite bitter when you\nwant to be.」\e
-[000652|ru] 【Takeru】「Wiesz,\p czasami potrafisz byｨ dosyｨ szorstka,\p\ngdy tylko tego chcesz.」\e
+[000652|ru] 【Takeru】「Wiesz,\p czasami potrafisz byｨ dosyｨ\n szorstka,\p gdy tylko tego chcesz.」\e
 
 [000653|en] 【Takeru】「Still,\p even if they do want to bring in more\ncustomers,\p it'll be a problem if they grab too many of\nthose types.\p Someone might seriously ask them to cook\na fish.」\e
-[000653|ru] 【Takeru】「Ale nadal...\p Nawet jeﾛli prｫbujｧ tylko zwiｪkszyｨ\nsprzedaｯ biletｫw.\p Mam nadziejｪ, ｯe nie dadzｧ siｪ ponieﾛｨ\n emocjom.\p Na przykｩｧd, gdyby zamienili jｧ w jakｧﾛ cudaﾛnｧ\nrestauracjｪ typu "wybierz wｩasnｧ rybkｪ, a my jｧ dla ciebie\njｧ zgrilujemy".」\e
+[000653|ru] 【Takeru】「Ale nadal...\p Nawet jeﾛli prｫbujｧ tylko\n zwiｪkszyｨ sprzedaｯ biletｫw.\p Mam nadziejｪ, ｯe nie\n dadzｧ siｪ ponieﾛｨ emocjom.\p Na przykｩad, gdyby\n zamienili jｧ w jakｧﾛ cudaﾛnｧ restauracjｪ typu\n "wybierz wｩasnｧ rybkｪ, a my jｧ dla ciebie\n zgrillujemy".」\e
 
 [000656|en] 【Miki】「It certainly doesn't look like that kind of fish tank.」\e
-[000656|ru] 【Miki】「Cｫｯ, na szczｪﾛcie restauracje w niczym nie\nprzypominajｧ z wyglｧdu takie akwaria jak te tutaj.」\e
+[000656|ru] 【Miki】「Cｫｯ, na szczｪﾛcie restauracje w niczym nie\nprzypominajｧ z wyglｧdu takich akwariｫw jak te tutaj.」\e
 
 [000657|en] 【Takeru】「Though crab with one cup would be great...\p...\p」\e
-[000657|ru] 【Takeru】「Cochiaｯ muszｪ sam przyznaｨ, ｯe koncepcja\nsiedzienia sobie na wygodniym krzeﾛle i wypicie kilka drinkｫw z jakimﾛ krabem byｩoby caｩkiem wyniosｩym\ndoﾛwiadczeniem...\p」\e
+[000657|ru] 【Takeru】「Cociaｯ muszｪ sam przyznaｨ, ｯe koncepcja\nsiedzenia sobie na wygodnym krzeﾛle i wypicie kilku\n drinkｫw z jakimﾛ krabem byｩaby caｩkiem wyniosｩym\ndoﾛwiadczeniem...\p」\e
 
 [000659|en] 【Miki】「One cup of what?」\e
 [000659|ru] 【Miki】「Napiｩbyﾛ siｪ z krabami?」\e
@@ -2294,7 +2294,7 @@ SCR 1 UTF-8
 [00065c|ru] 【Miki】「Z pewnoﾛciｧ byｩoby to caｩkiem zabawne.」\e
 
 [00065d|en] ...\p...\pdid you get that at all?\e
-[00065d|ru] ...\pCzy ty na pewno zrozumiaｩaﾛ co miaｩem na myﾛli?\e
+[00065d|ru] ...\pCzy na pewno zrozumiaｩaﾛ, co miaｩem na myﾛli?\e
 
 [000660|en] 【Miki】「Then,\p Takeru-san,\p let's go.」\e
 [000660|ru] 【Miki】「Hej,\p Takeru-san,\p ruszajmy.」\e
@@ -2303,34 +2303,34 @@ SCR 1 UTF-8
 [000661|ru] 【Takeru】「Hm? Gdzie teraz?」\e
 
 [000664|en] 【Miki】「Marine Square.」\e
-[000664|ru] 【Miki】「Marine Square.」\e
+[000664|ru] 【Miki】「Plac Morski.」\e
 
 [000665|en] 【Takeru】「Marine Square?」\e
-[000665|ru] 【Takeru】「Marine Square?」\e
+[000665|ru] 【Takeru】「Plac Morski?」\e
 
 [00066c|en] 【Miki】「Here we are!」\e
-[00066c|ru] 【Miki】「O to i jesteﾛmy!」\e
+[00066c|ru] 【Miki】「Oto i jesteﾛmy!」\e
 
 [00066d|en] 【Takeru】「This looks like a ride at an amusement park.」\e
-[00066d|ru] 【Takeru】「Wyglｧdem przypomina przejaｯdzke w wesoｩym\nmiasteczku.」\e
+[00066d|ru] 【Takeru】「Wyglｧdem przypomina przejaｯdｯkｪ w\n wesoｩym miasteczku.」\e
 
 [00066f|en] 【Miki】「I haven't been on it yet...\p...\p...\p...\pbut it's supposed to\nbe amazing.」\e
-[00066f|ru] 【Miki】「Jeszcze nie miaｩam okazji aby to wybrｫbowaｨ...\p...\p\nAle wyddaje mi siｪ, ｯe moｯe nam sprawiｨ wiele frajdy.」\e
+[00066f|ru] 【Miki】「Jeszcze nie miaｩam okazji, aby to\n wybrｫbowaｨ...\p...\p Ale wydaje mi siｪ, ｯe moｯe nam\n sprawiｨ wiele frajdy.」\e
 
 [000670|en] A number of small submersible capsules come in and\nout of the water.\e
-[000670|ru] Wiele, maｩych zanurzanych kapsuｩek zanurza siｪ, a nastｪpnie\nwynurza z wody.\e
+[000670|ru] Wiele maｩych kapsuｩ zanurza siｪ, a nastｪpnie\n wynurza z wody.\e
 
 [000671|en] They move along rails, open their hatches,\p let the old\npassengers out, then take new passengers underwater.\e
-[000671|ru] Poruszajｧ siｪ po szynach, otwierajｧ wｩazy, wypuszczajｧ starych pasaｯerｫw. A nastｪpnie zabierajｧ pod wodｪ nowych klientｫw.\e
+[000671|ru] Poruszajｧ siｪ po szynach, otwierajｧ wｩazy, wypuszczajｧ\n starych pasaｯerｫw, a nastｪpnie zabierajｧ pod wodｪ\n nowych klientｫw.\e
 
 [000672|en] 【Takeru】「So it's something like an undersea safari.」\e
-[000672|ru] 【Takeru】「To troche wyglｧda jak jakieﾛ podwodne safari.」\e
+[000672|ru] 【Takeru】「To trochｪ wyglｧda jak jakieﾛ podwodne\n safari.」\e
 
 [000674|en] 【Miki】「Into the fish tank...\p...\p! Let's go!」\e
-[000674|ru] 【Miki】「A wiｪc w drogｪ! Ku przygodzie w wielkiej wodzie...\p! <----> No to ruszamy! Cel nas, akwarium...! <----> Czekam na twoje propozycje\p」\e
+[000674|ru] 【Miki】「No to ruszamy! Nastｪpny cel, akwarium...\p!」\e
 
 [000675|en] The capsules aren't that big...\p...\p\nAt most, four people could probably fit in one.\e
-[000675|ru] Same kapsuｩy nie sｧ aｯ tak duｯe...\p\n Mogｩyby prawdopdobnie pomieﾛciｨ tylko cztery osoby.\e
+[000675|ru] Same kapsuｩy nie sｧ aｯ tak duｯe...\p\n Mogｩyby prawdopodobnie pomieﾛciｨ tylko cztery osoby.\e
 
 [000677|en] ...\p...\palthough,\p there are a lot of couples lined up here.\e
 [000677|ru] ...\pChociaｯ,\p z drugiej strony...\p\nDosyｨ duｯo par siｪ tutaj znajduje.\e
@@ -2342,10 +2342,10 @@ SCR 1 UTF-8
 [00067d|ru] 【Takeru】「A kim jest Shovel-kun?」\e
 
 [00067f|en] 【Miki】「This tank's idol,\p a Jinbei Shark.」\e
-[00067f|ru] 【Miki】「Jest maskotkｧ tego akwarium,\p a on jest rekinem\nwielorybim.」\e
+[00067f|ru] 【Miki】「Jest maskotkｧ tego oceanarium,\p a on jest\n rekinem wielorybim.」\e
 
 [000683|en] I see.\nDolphins,\p sea lions,\p fur seals, sea otters, penguins...\p...\p\nAquariums always have an idol.\e
-[000683|ru] Rozumiem.\p\nKaｯde akwarium musi mieｨ maskotkｪ...\p\n Czy to delfin, lew morski, foka, wydra morska czy pingwin.\e
+[000683|ru] Rozumiem.\p\nKaｯde akwarium musi mieｨ maskotkｪ...\p\n Czy to delfin, lew morski, foka, wydra morska, czy\n pingwin.\e
 
 [000685|en] 【Miki】「So let's get in....\p...\p...\p Oooh!」\e
 [000685|ru] 【Miki】「Okej, gotowy....\p...?\p ｳiii!」\e
@@ -2357,25 +2357,25 @@ SCR 1 UTF-8
 [00068e|ru] Teraz za oknem jedyne co widzｪ to tylko woda.\e
 
 [000695|en] 【Miki】「Uwaaa...\p...\pamazing,\p amazing～!」\e
-[000695|ru] 【Miki】「ｳaaaｩ...\pTo jest takie,\p takie fajowie～!」\e
+[000695|ru] 【Miki】「ｳaaaｩ...\p To jest takie,\p takie fajowe～!」\e
 
 [000696|en] 【Takeru】「Uuoooh!」\e
 [000696|ru] 【Takeru】「ｳaaaｩ!」\e
 
 [00069e|en] 【Takeru】「There's a school of sardines over there.」\e
-[00069e|ru] 【Takeru】「A tam tyle sardynek co uczniｫw w nie  jednej\nklasie.」\e
+[00069e|ru] 【Takeru】「A tam tyle sardynek, co uczniｫw w nie\n jednej klasie.」\e
 
 [0006a0|en] 【Miki】「They'd be delicious if boiled in soy sauce.」\e
-[0006a0|ru] 【Miki】「Pewnie smakowaｩyby przepysznie, gdybyﾛmy ugotowali\nje w sosie sojowym.」\e
+[0006a0|ru] 【Miki】「Pewnie smakowaｩyby przepysznie, gdybyﾛmy\n ugotowali je w sosie sojowym.」\e
 
 [0006a1|en] 【Takeru】「Uwaaa\p there's a huge squid down there～」\e
-[0006a1|ru] 【Takeru】「ｳaaaｩ\p a tam na dole jest ogromna kaｩamarnica～」\e
+[0006a1|ru] 【Takeru】「ｳaaaｩ,\p a tam na dole jest ogromna\n kaｩamarnica～」\e
 
 [0006a3|en] 【Miki】「It'd be great with somen noodles.」\e
-[0006a3|ru] 【Miki】「Idealnie komponowaｩybysie z kluskami somen.」\e
+[0006a3|ru] 【Miki】「Idealnie komponowaｩaby siｪ z kluskami somen.」\e
 
 [0006a5|en] 【Takeru】「Oooh! Tuna! They're huge...\p...\p」\e
-[0006a5|ru] 【Takeru】「Oooh! Tuﾃczyk! Jakie one wielgaﾛne...\p」\e
+[0006a5|ru] 【Takeru】「Oooch! Tuﾃczyki! Jakie one wielgaﾛne...\p」\e
 
 [0006a7|en] 【Miki】「I wanna eat them.」\e 
 [0006a7|ru] 【Miki】「Chciaｩabym je schrupaｨ.」\e 
@@ -2384,7 +2384,7 @@ SCR 1 UTF-8
 [0006a8|ru] 【Takeru】「Dosyｨ gadania o jedzeniu!」\e
 
 [0006ab|en] 【Miki】「You're right.」\e
-[0006ab|ru] 【Miki】「Masz racje. Przepraszam.」\e
+[0006ab|ru] 【Miki】「Masz racjｪ. Przepraszam.」\e
 
 [0006ac|en] 【Takeru】「So, where's that Scoop-kun?」\e
 [0006ac|ru] 【Takeru】「No, gdzie ten caｩy Scoop-kun?」\e
@@ -2396,16 +2396,16 @@ SCR 1 UTF-8
 [0006b2|ru] Tama wziｪｩa do rｧk ulotkｪ.\e
 
 [0006b7|en] 【Miki】「Twenty meters long...\p...\p\pweighing in at thirty\ntons...\p...\p\phis birthday is August 23rd,\p so he's a Virgo...」\e
-[0006b7|ru] 【Miki】「Ma dwadzieﾛcia metrｫw dｩugoﾛci....\p\p i waｯy\ntrzydzieﾛci ton...\p\p Urodziｩ siｪ 23 sierpnia,\p\n co czyni go Pannｧ...\p」\e
+[0006b7|ru] 【Miki】「Ma dwadzieﾛcia metrｫw dｩugoﾛci....\p\p i waｯy\ntrzydzieﾛci ton...\p\p Urodziｩ siｪ 23 sierpnia,\p co\n czyni go pannｧ...\p」\e
 
 [0006b8|en] 【Takeru】「A shark a Virgo?\p How conceited.」\e
-[0006b8|ru] 【Takeru】Huh,\p a raczej przypuszczam, ｯe jego znakiem zodiaku sｧ Ryby.」\e
+[0006b8|ru] 【Takeru】Hｪ,\p ja raczej przypuszczam, ｯe jego\n znakiem zodiaku sｧ ryby.」\e
 
 [0006ba|en] 【Miki】「It doesn't say what he tastes like though.」\e
-[0006ba|ru] 【Miki】「Dobrze, ｯe nie powiedzieli jak on moｯe smakowaｨ.」\e
+[0006ba|ru] 【Miki】「Dobrze, ｯe nie powiedzieli jak on moｯe\n smakowaｨ.」\e
 
 [0006bb|en] 【Takeru】「Would you even want to eat something that\nbig?」\e
-[0006bb|ru] 【Takeru】「Nawet takiego wielkoluda byﾛ sobie wszamaｩa?」\e
+[0006bb|ru] 【Takeru】「Nawet takiego wielkoluda byﾛ sobie\n wszamaｩa?」\e
 
 [0006c0|en] 【Miki】「Yeah...\p...\pbut there's something funny here.」\e
 [0006c0|ru] 【Miki】「Ach...\p Hej,\p posｩuchaj tego - pora na zabawnｧ\nciekawostkｪ.」\e
@@ -2414,19 +2414,19 @@ SCR 1 UTF-8
 [0006c1|ru] 【Takeru】「No co to za zabawna ciekawostka?」\e
 
 [0006c3|en] 【Miki】「He has an extreme fear of humans...\p...\p\nso he often hides from them.」\e
-[0006c3|ru] 【Miki】「Bardzo siｪ boi siｪ ludzi, wiｪc czesto siｪ przed\nnimi ukrywa.」\e
+[0006c3|ru] 【Miki】「Bardzo boi siｪ ludzi, wiｪc czｪsto siｪ\n przed nimi ukrywa.」\e
 
 [0006c4|en] 【Takeru】「He's twenty meters long and he's afraid of us?」\e
-[0006c4|ru] 【Takeru】「Ma dwadzieﾛci metrｫw dｩugoﾛci i nas siｪ boi?」\e
+[0006c4|ru] 【Takeru】「Ma dwadzieﾛcia metrｫw dｩugoﾛci i nas siｪ\n boi?」\e
 
 [0006c5|en] Maybe really huge guys are just insecure like that.\e 
 [0006c5|ru] Moｯe to tylko nieodｩｧczna cecha bycia naprawdｪ wielkim.\e 
 
 [0006c6|en] Bears are actually cowards, after all.\nAttacking humans is the only defense mechanism they\nknow of...\p...\pI remember hearing something like that.\e
-[0006c6|ru] Pamiｪtam, ｯe sｩyszaｩem coﾛ o tym, ｯe niedﾜwiedzie sｧ tak\nnaprawdｪ z zachowania duｯymi przeraｯonymi kotami...\p\nA atakowanie ludzi jest ich jedynym znanym im mechanizmem\nobronnym.\e
+[0006c6|ru] Pamiｪtam, ｯe sｩyszaｩem coﾛ o tym, ｯe niedﾜwiedzie\n sｧ tak naprawdｪ z zachowania duｯymi przeraｯonymi\n kotami...\p A atakowanie ludzi jest ich jedynym znanym\n im mechanizmem obronnym.\e
 
 [0006c8|en] 【Takeru】「But where would he hide if he's twenty meters\nlong?」\e
-[0006c8|ru] 【Takeru】「Ale jak, u licha, uddaje mu siｪ znaleﾛｨ miejsce w\nktｫrym mogｩoby siｪ schowaｨ dwadzieﾛcia metrｫw dｩugoﾛci\nｯywej masy?」\e
+[0006c8|ru] 【Takeru】「Ale jak, u licha, udaje mu siｪ znaleﾜｨ\n miejsce w ktｫrym mogｩoby siｪ schowaｨ dwadzieﾛcia metrｫw\n dｩugoﾛci ｯywej masy?」\e
 
 [0006cb|en] 【Miki】「He's amazing.」\e
 [0006cb|ru] 【Miki】「Jest bardzo niesamowity, co nie?」\e
@@ -2435,43 +2435,43 @@ SCR 1 UTF-8
 [0006cc|ru] 【Takeru】「Dokｩadnie.」\e
 
 [0006cf|en] 【Miki】「Ah,\p but there's still some more here.」\e
-[0006cf|ru] 【Miki】「Oh,\p ale jest tutaj jeszcze wiｪcej informacji.」\e
+[0006cf|ru] 【Miki】「Och,\p ale jest tutaj jeszcze wiｪcej\n informacji.」\e
 
 [0006d0|en] 【Takeru】「Like what?」\e
 [0006d0|ru] 【Takeru】「Na przykｩad co takiego?」\e
 
 [0006d3|en] 【Miki】「It says...\p...\p...\pwhen he falls in love at first sight,\p\p\nhe'll make many different approaches,\p\p and can be quite\ndangerous.」\e
-[0006d3|ru] 【Miki】「Mｫwiｧ, ｯe...\p...\p kiedy jest kimﾛ zauroczony, bｪdzie\nprｫbowaｩ podejﾛｨ do kogoﾛ takiego na wiele rｫｯnych sposobｫw.\p\nTo moｯe byｨ doﾛｨ niebezpieczne.」\e
+[0006d3|ru] 【Miki】「Mｫwiｧ, ｯe...\p...\p kiedy jest kimﾛ zauroczony,\n bｪdzie prｫbowaｩ podejﾛｨ do kogoﾛ takiego na wiele\n rｫｯnych sposobｫw.\p To moｯe byｨ doﾛｨ niebezpieczne.」\e
 
 [0006d5|en] 【Takeru】「Love at first sight...\p...\pbut there's only one\nJinbei here...\p...\p」\e
 [0006d5|ru] 【Takeru】「Zauroczony kimﾛ...?\p\nAle jest tu tylko jeden rekin wielorybi...\p」\e
 
 [0006d7|en] 【Miki】「That's true.」\e
-[0006d7|ru] 【Miki】「Masz racje co do tego.」\e
+[0006d7|ru] 【Miki】「Masz racjｪ co do tego.」\e
 
 [0006d8|en] 【Takeru】「So who would he fall in love with?\p\nA fair-skinned blue whale?」\e
 [0006d8|ru] 【Takeru】「W kim niby miaｩby siｪ zakochaｨ?\p\nW pｩetwalu bｩｪkitnym o jasnej karnacji?」\e
 
 [0006da|en] 【Miki】「Doesn't seem like it.」\e
-[0006da|ru] 【Miki】「To nie o to chyba chodziｩo autorom ulotki.」\e
+[0006da|ru] 【Miki】「Chyba nie o to chodziｩo autorom ulotki.」\e
 
 [0006db|en] 【Takeru】「So what's it say?」\e
-[0006db|ru] 【Takeru】「No to mnie oﾛwieｨ i co im chodziｩo?」\e
+[0006db|ru] 【Takeru】「No to mnie oﾛwieｨ i powiedz, o co im\n chodziｩo?」\e
 
 [0006dd|en] 【Miki】「Female homo sapiens...\p...\pit says.」\e 
-[0006dd|ru] 【Miki】「Wedｩug ulotki chodzi tutaj o...\p\nKobiete homo sapiens.」\e 
+[0006dd|ru] 【Miki】「Wedｩug ulotki chodzi tutaj o...\p\nKobietｪ homo sapiens.」\e 
 
 [0006de|en] 【Takeru】「...\p...\plove can overcome the differences between\nfish and mammal?」\e
-[0006de|ru] 【Takeru】「...\pWyglｧda na to, ｯe miｩoﾛｨ moｯe pokonaｨ kaｯdｧ\nprzeszkodｪ.\p Nawet granice miｪdzy rybｧ a ssakiem.」\e
+[0006de|ru] 【Takeru】「...\pWyglｧda na to, ｯe miｩoﾛｨ moｯe pokonaｨ\n kaｯdｧ przeszkodｪ.\p Nawet granicｪ miｪdzy rybｧ a ssakiem.」\e
 
 [0006e1|en] 【Miki】「If you think about it,\p it's pretty scary.」\e
 [0006e1|ru] 【Miki】「W sumie jakby dｩuｯej teraz o tym pomyﾛleｨ...\p\nTo moim zdaniem to trochｪ straszne jest.」\e
 
 [0006e2|en] 【Takeru】「And someone would fall for you in one glance.\nYou're just the type.」\e
-[0006e2|ru] 【Takeru】「I prawdopodobnie zakochaｩby sie w tobie od\npierwszego wejrzenia.\p Obstawiam, ｯe jesteﾛ\nw jego typie.」\e
+[0006e2|ru] 【Takeru】「I prawdopodobnie zakochaｩby siｪ w tobie\n od pierwszego wejrzenia.\p Obstawiam, ｯe jesteﾛ\nw jego typie.」\e
 
 [0006e5|en] 【Miki】「Ahaha,\p\p I am kinda popular.」\e
-[0006e5|ru] 【Miki】「Ahaha...\p Oh, jeee...\p Czujｪ siｪ taka popularna.」\e
+[0006e5|ru] 【Miki】「Ahaha...\p Och, jeee...\p Czujｪ siｪ taka\n popularna.」\e
 
 [0006ed|en] 【Takeru】「Uwaaa!?」\e
 [0006ed|ru] 【Takeru】「Uwaaa!?」\e
@@ -2486,13 +2486,13 @@ SCR 1 UTF-8
 [0006f8|ru] 【Miki】「To Shovel-kun!!」\e
 
 [0006f9|en] 【Takeru】「Wasn't he afraid of humans!?」\e
-[0006f9|ru] 【Takeru】「A czy on przypadkiem nie boi siｪ naszego gatunku!?」\e
+[0006f9|ru] 【Takeru】「A czy on przypadkiem nie boi siｪ naszego\n gatunku!?」\e
 
 [0006fb|en] 【Miki】「But the falling in love thing seems to be an\nexception!!」\e
-[0006fb|ru] 【Miki】「Tak!\p Najwaryﾜniej jednak robi wyjｧtek,\p kiedy jest\nkimﾛ zauroczony!!」\e
+[0006fb|ru] 【Miki】「Tak!\p Najwaryﾜniej jednak robi wyjｧtek,\p\n kiedy jest kimﾛ zauroczony!!」\e
 
 [000703|en] He's hitting our capsule with his fins!!\e
-[000703|ru] Uderzyｩ w naszｧ kabine swoimi pｩetwami!!\e
+[000703|ru] Uderzyｩ w naszｧ kabinｪ swoimi pｩetwami!!\e
 
 [000706|en] 【Takeru】「Wait,\p Tamaaa!」\e
 [000706|ru] 【Takeru】「Poczekaj,\p Tamaaa!」\e
@@ -2501,13 +2501,13 @@ SCR 1 UTF-8
 [000709|ru] 【Miki】「Tak!?」\e
 
 [00070a|en] 【Takeru】「Maybe he fell in love with you!!」\e
-[00070a|ru] 【Takeru】「Czy to wｩaﾛnie nie oznacza, ｯe on siｪ w tobie\nzakochaｩ?!」\e
+[00070a|ru] 【Takeru】「Czy to wｩaﾛnie nie oznacza, ｯe on siｪ w\n tobie zakochaｩ?!」\e
 
 [00070c|en] 【Miki】「No way!!」\e
 [00070c|ru] 【Miki】「Nie ma szans!!」\e
 
 [00070d|en] 【Takeru】「You're the only female homo sapiens here!」\e
-[00070d|ru] 【Takeru】「Ale to ty jesteﾛ jedynｧ kobiecｧ homo sapiens\nw tej kabinie!」\e
+[00070d|ru] 【Takeru】「Ale to ty jesteﾛ jedynｧ kobietｧ homo\n sapiens w tej kabinie!」\e
 
 [00070f|en] 【Miki】「I don't wanna be married to a shark!」\e
 [00070f|ru] 【Miki】「Nie chcｪ zostaｨ ｯonｧ jakiegoﾛ rekina!」\e
@@ -2516,40 +2516,40 @@ SCR 1 UTF-8
 [000710|ru] 【Takeru】「Nadchodzi!\p Nadchodzi!」\e
 
 [000714|en] 【Woman's Voice】「Yes,\p this is the emergency center.」\e
-[000714|ru] 【Woman's Voice】「Tak,\p z tej strony centrum ratunkowe.」\e
+[000714|ru] 【Kobiecy Gｩos】「Tak,\p z tej strony centrum ratunkowe.」\e
 
 [000715|en] 【Takeru】「Can you hear me!?」\e 
 [000715|ru] 【Takeru】「Czy dobrze mnie sｩychaｨ!?」\e 
 
 [000716|en] 【Woman's Voice】「What seems to be the problem?」\e
-[000716|ru] 【Woman's Voice】「A w czym paﾃstwo majｧ problem?」\e
+[000716|ru] 【Kobiecy Gｩos】「A w czym paﾃstwo majｧ problem?」\e
 
 [00071a|en] 【Takeru】「Your Shovel-chan is attacking our capsule\ndown here!」\e
-[00071a|ru] 【Takeru】「Wasz Shovel-chan uderza w naszｧ kaspuｩｪ!」\e
+[00071a|ru] 【Takeru】「Wasz Shovel-chan uderza w naszｧ kapsuｩｪ!」\e
 
 [00071b|en] 【Woman's Voice】「Oh my...\phe's doing it again...\p...\p」\e
-[00071b|ru] 【Woman's Voice】「Oh sｩodziutki..\p\nZ twoich ust wynika, ｯe znowu to zrobiｩ...\p」\e
+[00071b|ru] 【Kobiecy Gｩos】「Och sｩodziutki..\p\nZ twoich ust wynika, ｯe znowu to zrobiｩ...\p」\e
 
 [00071c|en] 【Takeru】「Hello there!?」\e
 [00071c|ru] 【Takeru】「Halo!?」\e
 
 [00071d|en] 【Woman's Voice】「Congratulations.\p\nWhen Shovel-kun falls in love with a woman,\p\nthat woman often meets with the man of their...\p...\p」\e
-[00071d|ru] 【Woman's Voice】「Grantulacje.\p\nKiedy Shovel-kun zakocha siｪ w kobiecie, to ta kobieta bｪdzie\nmiaｩa ogromne szczｪﾛcie w kaｯdym swoim romantycznym\nprzedsiｪwziｪciu...\p」\e
+[00071d|ru] 【Kobiecy Gｩos】「Gratulacje.\p\nKiedy Shovel-kun zakocha siｪ w kobiecie, to ta\n kobieta bｪdzie miaｩa ogromne szczｪﾛcie w kaｯdym swoim\n romantycznym przedsiｪwziｪciu...\p」\e
 
 [000720|en] 【Takeru】「He's gonna kill us before that happens!!」\e
 [000720|ru] 【Takeru】「Ale przed tym to on nas pozabija!!」\e
 
 [000721|en] 【Woman's Voice】「Well,\p the capsule is reinforced and all,\p\nso please just enjoy the thrill.」\e
-[000721|ru] 【Woman's Voice】「Nie obiawiaj siｪ kochaniutki,\p nasze kapsuｩy\nzostaｩy porzｧdnie wzomcnione.\p Usiｧdﾜcie wygodnie i cieszcie\nsiｪ swoja wycieczkｧ.」\e
+[000721|ru] 【Kobiecy Gｩos】「Nie obawiaj siｪ kochaniutki,\p\n nasze kapsuｩy zostaｩy porzｧdnie wzmocnione.\p Usiｧdﾜcie\n wygodnie i cieszcie siｪ swojｧ wycieczkｧ.」\e
 
 [000725|en] *click*...\p...\p\e
-[000725|ru] *Klikk*...\p...\p\e
+[000725|ru] *Klik*...\p...\p\e
 
 [00072a|en] Eh?\p Eh?\p Eh?\e
-[00072a|ru] Eh?\p Eh?\p Eh?\e
+[00072a|ru] Ech?\p Ech?\p Ech?\e
 
 [00072b|en] Did you just hang up?\p Did you?\e
-[00072b|ru] Czy ona wｩasnie siｪ rozｩｧczyｩa?\p Na serio to zrobiｩa?\e
+[00072b|ru] Czy ona wｩaﾛnie siｪ rozｩｧczyｩa?\p Na serio to zrobiｩa?\e
 
 [00072e|en] ...\p...\pare you leaving us here to die!?\e
 [00072e|ru] ...\pZostawiｩa nas na pewnｧ ﾛmierｨ!?\e
@@ -2561,13 +2561,13 @@ SCR 1 UTF-8
 [000735|ru] 【Takeru】「Wszystko gra!\p Tama,\p uspokｫj siｪ!」\e
 
 [000739|en] 【Miki】「Waaaa...\p...\pTakeru-saaan!」\e
-[000739|ru] 【Miki】「Waaaa...\pTakeru-saaan!」\e
+[000739|ru] 【Miki】「Waaaa...\p Takeru-saaan!」\e
 
 [00073c|en] Tears well up in the corners of Tama's eyes as she\nclings to me tightly.\e
-[00073c|ru] ｳzy wylewajｧ siｪ z kｧcikｫw oczｫw Tamy, a ona sama lgnie do mnie\nprzeraｯona o swoje ｯycie.\e
+[00073c|ru] ｳzy wylewajｧ siｪ z kｧcikｫw oczu Tamy, a ona sama lgnie\n do mnie przeraｯona o swoje ｯycie.\e
 
 [00073d|en] Aaah,\p she's so fluffy and soft...\p...\e
-[00073d|ru] Aaah,\p jaka ona puszysta i miｪkka...\e
+[00073d|ru] Aaach,\p jaka ona puszysta i miｪkka...\e
 
 [00073e|en] ...\p...\p...\p...\p\e
 [00073e|ru] ...\p...\p\e
@@ -2579,10 +2579,10 @@ SCR 1 UTF-8
 [000748|ru] 【Miki】「Mamusiuuu!!」\e
 
 [00074a|en] 【Takeru】「Tama,\p wink at him!\p Distract him with a wink!」\e
-[00074a|ru] 【Takeru】「Tama,\p mrugnij do niego!\p Moｯe go tym rozproszysz!」\e
+[00074a|ru] 【Takeru】「Tama,\p mrugnij do niego!\p Moｯe go tym\n rozproszysz!」\e
 
 [00074d|en] 【Miki】「Eh...\p...\pummm...\p...\p...\pwink!」\e
-[00074d|ru] 【Miki】「Eh...\pummm...\p...\pmrug!」\e
+[00074d|ru] 【Miki】「Ech...\p ummm...\p...\p mrug!」\e
 
 [000750|en] ...\p...\p...\p...\p\e
 [000750|ru] ...\p...\p\e
@@ -2594,13 +2594,13 @@ SCR 1 UTF-8
 [000761|ru] 【Miki】「Uwawaaaa!」\e
 
 [000765|en] 【Takeru】「...\p...\pthen I'll have to use my last resort!」\e
-[000765|ru] 【Takeru】「...\pNie mam wyboru!\p Bｪdｪ musiaｩ skorzystaｨ z mojej ostatniej deski ratunku!」\e
+[000765|ru] 【Takeru】「...\pNie mam wyboru!\p Bｪdｪ musiaｩ skorzystaｨ\n z mojej ostatniej deski ratunku!」\e
 
 [000769|en] Take thiiiiiiis!!\e
 [000769|ru] ﾂryj to! Bierz to!!\e
 
 [00076d|en] 【Takeru】「──Takeru Wiiiiiink!!!」\e
-[00076d|ru] 【Takeru】「──Mrugniecie Takeru!!!」\e
+[00076d|ru] 【Takeru】「──Mrugniｪcie Takeru!!!」\e
 
 [000771|en] ──*wink!*\e
 [000771|ru] ──*Mrug!*\e
@@ -2612,7 +2612,7 @@ SCR 1 UTF-8
 [00077e|ru] 【Miki】「ｳaｩ!\p Niesamowite!\p Shovel-chan odpuﾛciｩ!」\e
 
 [00077f|en] 【Takeru】「*sigh*...\p...\pthat guy was tough.」\e
-[00077f|ru] 【Takeru】「Ufff...\p.To byｩa ciｪｯka walka.」\e
+[00077f|ru] 【Takeru】「Ufff...\p To byｩa ciｪｯka walka.」\e
 
 [000785|en] I did it.\e
 [000785|ru] Zrobiｩem to.\e
@@ -2630,7 +2630,7 @@ SCR 1 UTF-8
 [00078a|ru] 【Takeru】「Coﾛ nie tak?」\e
 
 [00078c|en] 【Miki】「Eheheh...\p...\p\n...\p...\pmy body's all stiff and I can't move...」\e
-[00078c|ru] 【Miki】「Eheheh...\p\n...\pTak strasznie siｪ baｩam, i nadal nie mogｪ siｪ ruszyｨ...」\e
+[00078c|ru] 【Miki】「Eheheh...\p\n...\pTak strasznie siｪ baｩam i nadal nie mogｪ siｪ\n ruszyｨ...」\e
 
 [00078e|en] 【Takeru】「So let go of me.」\e
 [00078e|ru] 【Takeru】「Cｫｯ...\p ale puﾛciｨ to juｯ mnie moｯesz.」\e
@@ -2648,7 +2648,7 @@ SCR 1 UTF-8
 [000797|ru] 【Takeru】「Poluzuj uchwyt.」\e
 
 [000799|en] 【Miki】「Hmmm,\p about that...\p...\p...\p...\pI can't.」\e
-[000799|ru] 【Miki】「Hmmm,\p jeｯeli o to chodzi...\p...\p Jakoﾛ nie mogｪ.」\e
+[000799|ru] 【Miki】「Hmmm,\p jeｯeli o to chodzi...\p...\p Jakoﾛ nie\n mogｪ.」\e
 
 [00079a|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00079a|ru] 【Takeru】「...\p...\p」\e
@@ -2657,19 +2657,19 @@ SCR 1 UTF-8
 [00079b|ru] Jaaacie...\p Co ja mam z tobｧ zrobiｨ...\p\e
 
 [00079d|en] 【Voice】「Whaaat!?\p A shark!\p A shark is coming this way!!」\e
-[00079d|ru] 【Voice】「Co to jest!?\p To rekin!\p Rekin nadchodzi!!」\e
+[00079d|ru] 【Gｩos】「Co to jest!?\p To rekin!\p Rekin nadchodzi!!」\e
 
 [00079e|en] I can hear someone else screaming from afar.\e
-[00079e|ru] Wｩaﾛnie uszｩyszaｩem czyjeﾛ okrzyki strachu.\e
+[00079e|ru] Wｩaﾛnie usｩyszaｩem czyjeﾛ okrzyki strachu.\e
 
 [0007a0|en] 【Voice】「You──!\p\p Receive the judgment of my sword!!\n*clang!!*」\e
-[0007a0|ru] 【Voice】「Diable──!\p\p\nPosmakuj sprawiedliwoﾛci od mojego ostrza !!\n*Szczｪk!!*」\e
+[0007a0|ru] 【Gｩos】「Diable──!\p\p\nPosmakuj sprawiedliwoﾛci od mojego ostrza!!\n*Szczｪk!!*」\e
 
 [0007a2|en] ...\p...\p...\p...\p\e
 [0007a2|ru] ...\p...\p\e
 
 [0007a4|en] 【Voice】「Wh-\pwhat?\p\p Flooding!?\p\p Uwaaaa!!」\e
-[0007a4|ru] 【Voice】「Cc-\pcooo?\p\p Toniemy!?\p\p Uwaaaa!!」\e
+[0007a4|ru] 【Gｩos】「Cc-\pcooo?\p\p Toniemy!?\p\p Uwaaaa!!」\e
 
 [0007a7|en] ...\p...\p...\p...\p\e
 [0007a7|ru] ...\p...\p\e
@@ -2678,16 +2678,16 @@ SCR 1 UTF-8
 [0007a8|ru] Jakoﾛ tak\p znajomo to dla mnie zabrzmiaｩo...\p\e
 
 [0007a9|en] Like someone's falling to the bottom of the sea...\p...\p\nno,\p to the bottom of the fish tank...\p...\p\e
-[0007a9|ru] Wyglｧda nato, ｯe ktoﾛ zostam zmieciony i wysｩany w gｩｪbiny\nmorskie...\p Eee...\p a wｩaﾛciwie - Teraz jak sobie o tym myﾛlｪ,\ntakie jest ｯycie maｩej rybki w wielkim akwarium...\p\e
+[0007a9|ru] Wyglｧda na to, ｯe ktoﾛ zostaｩ zmieciony i wysｩany\n w gｩｪbiny morskie...\p Eee...\p a wｩaﾛciwie - Teraz jak\n sobie o tym myﾛlｪ, takie jest ｯycie maｩej rybki w\n wielkim akwarium...\p\e
 
 [0007b7|en] 【Miki】「Takeru-san,\p thank you for coming with me today.」\e
-[0007b7|ru] 【Miki】「Takeru-san.\p Dziｪkujｪ, ｯe poszedｩeﾛ ze mnｧ dzisiaj\nna randkｪ.」\e
+[0007b7|ru] 【Miki】「Takeru-san.\p Dziｪkujｪ, ｯe poszedｩeﾛ ze mnｧ\n dzisiaj na randkｪ.」\e
 
 [0007b8|en] 【Takeru】「That was a pretty fun experience.」\e
 [0007b8|ru] 【Takeru】「Przyznam, ｯe to byｩo caｩkiem zabawne\ndoﾛwiadczenie.」\e
 
 [0007b9|en] Being attacked by a shark in an aquarium isn't fun,\nyou know.\e
-[0007b9|ru] Nie kaｯdego dnia zostajesz zaatakowany przez maskotkｪ-rekina\nw akwarium.\e
+[0007b9|ru] Nie kaｯdego dnia zostajesz zaatakowany przez\n rekina-maskotkｪ w akwarium.\e
 
 [0007bb|en] 【Takeru】「Hey...\p...\pcan I ask you something?」\e
 [0007bb|ru] 【Takeru】「Hej...\p mogｪ zadaｨ pytanie?」\e
@@ -2696,16 +2696,16 @@ SCR 1 UTF-8
 [0007bd|ru] 【Miki】「A jakie?」\e
 
 [0007be|en] 【Takeru】「Why'd you participate in the cook-off?」\e 
-[0007be|ru] 【Takeru】「Dlaczego wziｪｩaﾛ udziaｩ w turnieju gotowania?」\e 
+[0007be|ru] 【Takeru】「Dlaczego wziｪｩaﾛ udziaｩ w turnieju\n gotowania?」\e 
 
 [0007c0|en] 【Miki】「What do you mean 'why'?」\e
-[0007c0|ru] 【Miki】「Co masz namyﾛli porzez 'dlaczego'?」\e
+[0007c0|ru] 【Miki】「Co masz na myﾛli poprzez 'dlaczego'?」\e
 
 [0007c1|en] 【Takeru】「Somehow,\p it doesn't feel like the kind of thing\nyou'd do...\p...\p」\e
-[0007c1|ru] 【Takeru】「Jakoﾛ,\p nie czujｪ ｯebyﾛ pasowaｩa do takiego rodzaju rozrywki...\p」\e
+[0007c1|ru] 【Takeru】「Jakoﾛ,\p nie czujｪ ｯebyﾛ pasowaｩa do takiego rodzaju rozgrywki...\p」\e
 
 [0007c3|en] 【Miki】「Hmmm,\p\p about that...\p...\p...\phmmm...\p...\p」\e
-[0007c3|ru] 【Miki】「Hmmm,\p\p poniewaｯ...\phmmm...\p」\e
+[0007c3|ru] 【Miki】「Hmmm,\p\p poniewaｯ...\p hmmm...\p」\e
 
 [0007c4|en] 【Takeru】「Did Yuuko-sensei brainwash you?」\e
 [0007c4|ru] 【Takeru】「Czyｯby Yuuko-sensei wypraｩa ci mｫzg?」\e
@@ -2717,43 +2717,43 @@ SCR 1 UTF-8
 [0007c7|ru] 【Takeru】「To wszystko?」\e
 
 [0007c9|en] 【Miki】「I'm not really sure, but...\p...\p」\e
-[0007c9|ru] 【Miki】「Szczerze to sama nie jestem w 100% pewna...\p」\e
+[0007c9|ru] 【Miki】「Szczerze to sama nie jestem na 100% pewna...\p」\e
 
 [0007ca|en] You say that,\p but it feels like you really do know.\e
-[0007ca|ru] Mｫwisz ｯe tak, no ale jak zawsze odruchowa w takich\nsytuacjach kiwasz gｩowｧ.\e
+[0007ca|ru] Mｫwisz, ｯe tak, ale jak zawsze odruchowo w takich\nsytuacjach kiwasz gｩowｧ.\e
 
 [0007cd|en] 【Miki】「I think everyone was kinda tense during the\ncontest.」\e
-[0007cd|ru] 【Miki】「Po prostu czuｩam, ｯe podczas konkursu wszyscy byli\ntrochｪ zbyt spiｪci.」\e
+[0007cd|ru] 【Miki】「Po prostu czuｩam, ｯe podczas konkursu wszyscy\n byli trochｪ zbyt spiｪci.」\e
 
 [0007ce|en] 【Takeru】「Their eyes were all a little bloodshot.」\e
-[0007ce|ru] 【Takeru】「Wyglｧdaｩo to tak jakby uczestniczki, wpadｩy w\njakiﾛ krwawy szaｩ.」\e
+[0007ce|ru] 【Takeru】「Wyglｧdaｩo to tak, jakby uczestniczki\n wpadｩy w jakiﾛ krwawy szaｩ.」\e
 
 [0007d0|en] 【Miki】「And I couldn't imagine what would happen if the\npower balance between Sumika-chan and Meiya-chan\nwas broken.」\e
-[0007d0|ru] 【Miki】「I nie mogｪ sobie wyobraziｨ co moｯe siｪ wydarzyｨ,\nkiedy potｪga balansu miｪdzy Sumika-chan i Meiya-chan zostanie\nzachwiana.」\e
+[0007d0|ru] 【Miki】「I nie mogｪ sobie wyobraziｨ co moｯe siｪ\n wydarzyｨ, kiedy potｪga balansu miｪdzy Sumika-chan i\n Meiya-chan zostanie zachwiana.」\e
 
 [0007d1|en] ...\p...\ppower balance...\p...\pthat's an interesting way to put it...\e
-[0007d1|ru] ...\p"Potｪga balansu"...?\p Od kiedy to siｪ staｩo konfliktem\ngeopolitycznym?!\e
+[0007d1|ru] ...\p"Potｪga balansu"...?\p Od kiedy to siｪ staｩo\n konfliktem geopolitycznym?!\e
 
 [0007d3|en] 【Miki】「I wondered if me winning was actually the safest\noutcome...\p...」\e
-[0007d3|ru] 【Miki】「Pomyﾛlaｩam, ｯe wygrama moｯe okazaｨ siｪ dla mnie\nnajbezpieczniejszｧ opcjｧ...\p To wszystko...\p」\e
+[0007d3|ru] 【Miki】「Pomyﾛlaｩam, ｯe wygrana moｯe okazaｨ siｪ dla\n mnie najbezpieczniejszｧ opcjｧ...\p To wszystko...\p」\e
 
 [0007d4|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0007d4|ru] 【Takeru】「...\p...\p」\e
 
 [0007d6|en] 【Miki】「We worked so hard on that food.」\e
-[0007d6|ru] 【Miki】「Dlatego robiｩam wszystko co mogｩam aby wygraｨ.」\e
+[0007d6|ru] 【Miki】「Dlatego robiｩam wszystko co mogｩam, aby\n wygraｨ.」\e
 
 [0007d7|en] 【Takeru】「...\p...\pI see.」\e
 [0007d7|ru] 【Takeru】「...\pRozumiem.」\e
 
 [0007d8|en] What Yuuko-sensei said was correct.\e
-[0007d8|ru] Yuuko-sensei miaｩa racje.\e
+[0007d8|ru] Yuuko-sensei miaｩa racjｪ.\e
 
 [0007d9|en] She dug into one of Tama's weaknesses with her\ncharacteristic sharpness.\p I have no doubt that Tama\nparticipated precisely because she acknowledged that\nweakness.\e
-[0007d9|ru] Musiaｩa wykorzystaｨ swojｧ niesｩawna bystroﾛｨ przeciwko\nnajwiｪkszej sｩaboﾛci Tamy.\p I nie wｧtpie, ｯe Tama sama\nchciaｩa w tym wziｧｨ udziaｩ, bo zdawaｩa sobie sprawｪ\nz wｩasnej sｩaboﾛci.\e
+[0007d9|ru] Musiaｩa wykorzystaｨ swojｧ niesｩawnｧ bystroﾛｨ przeciwko\nnajwiｪkszej sｩaboﾛci Tamy.\p I nie wｧtpiｪ, ｯe Tama sama\nchciaｩa w tym wziｧｨ udziaｩ, bo zdawaｩa sobie sprawｪ\nz wｩasnej sｩaboﾛci.\e
 
 [0007da|en] ...\p...\pbut Tama held on to her way of thinking and doing\nthings.\p She merely combined them with Yuuko-sensei's\nwords.\e
-[0007da|ru] ...\pAle Tama nadal zachowywaｩa swｫj instykt i robiｩa wszystko\npo swojemu.\p Po prostu wziｪｩa to, co powiedziaｩa Yuuko-sensei\ni nadaｩa temu swｫj wｩasny wｧtek.\e
+[0007da|ru] ...\pAle Tama nadal zachowywaｩa swｫj instykt i robiｩa\n wszystko po swojemu.\p Po prostu wziｪｩa to, co\n powiedziaｩa Yuuko-sensei i nadaｩa temu swｫj wｩasny\n wｧtek.\e
 
 [0007db|en] 【Takeru】「...\p...\p」\e
 [0007db|ru] 【Takeru】「...\p...\p」\e
@@ -2768,13 +2768,13 @@ SCR 1 UTF-8
 [0007e0|ru] *Gｩask* *Gｩask*\e
 
 [0007e2|en] 【Miki】「Waaa,\p\p\p don't rub my head,\p that's embarrassing.」\e
-[0007e2|ru] 【Miki】「Waaa,\p\p\p nie gｩaszcz mnie,\p To zawstydzajace.」\e
+[0007e2|ru] 【Miki】「Waaa,\p\p\p nie gｩaszcz mnie,\p to zawstydzajｧce.」\e
 
 [0007e3|en] 【Takeru】「I had fun today.」\e
 [0007e3|ru] 【Takeru】「Nieﾜle siｪ dzisiaj bawiｩem.」\e
 
 [0007e5|en] 【Miki】「Miki also had tons of fun.」\e
-[0007e5|ru] 【Miki】「Ja rｫwnieｯ doskonale sie bawiｩam.」\e
+[0007e5|ru] 【Miki】「Ja rｫwnieｯ doskonale siｪ bawiｩam.」\e
 
 [0007e6|en] 【Takeru】「Let's come here again sometime.」\e
 [0007e6|ru] 【Takeru】「Wyskoczmy kiedyﾛ jeszcze gdzieﾛ razem.」\e
@@ -2795,7 +2795,7 @@ SCR 1 UTF-8
 [0007f2|ru] ...\p...\p...\p...\p\e
 
 [0007f3|en] 【Takeru】「I never got the chance to ask why she wanted\na date...\p...\p」\e
-[0007f3|ru] 【Takeru】「No tak...\p Nigdy nie miaｩｪm okazji zapytaｨ jｧ,\p\ndlaczego chciaｩa iﾛｨ ze mnｧ na randkｪ...\p...\p」\e
+[0007f3|ru] 【Takeru】「No tak...\p Nigdy nie miaｩem okazji zapytaｨ\n jｧ,\p dlaczego chciaｩa iﾛｨ ze mnｧ na randkｪ...\p...\p」\e
 
 [0007fb|en] The winner can do whatever she wants with me for a\nday...\p...\pthat was the original announcement,\p\nbut why'd Class Rep order me to come here!?\e 
 [0007fb|ru] A zwyciｪｯczyni tego wydarzenia zdobywa prawo spｪdzenia ze mnｧ caｩego dnia wedｩug swojego widzimisiｪ...\p Niech ktoﾛ mi wyjaﾛni jakim cudem Przedstawicielka rozkazaｩa mi, abym\ntutaj siｪ zjawiｩ!?\e 
