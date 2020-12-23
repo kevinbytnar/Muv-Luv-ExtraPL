@@ -3764,10 +3764,10 @@ SCR 1 UTF-8
 [000a88|ru] Ale przypuszczam, ｯe to nie jest istotne.\p\nPｫjdｪ wziｧｨ kｧpiel.\e
 
 [000a90|en] The winner can do whatever she wants with me for a\nday...\p...\p...\p...\pthat was the original announcement,\p\nbut why did Ayamine call me out here so early!?\e
-[000a90|ru] A zwyciｪｯczyni tego wydarzenia zdobyｩa prawo spｪdzenia ze mnｧ caｩego dnia wedｩug swojego widzimisiｪ...\p Ale dlaczego Ayamine wezwaｩa mnie tutaj o tak wczesnej porze!?\e
+[000a90|ru] A zwyciｪｯczyni tego wydarzenia zdobyｩa prawo spｪdzenia\n ze mnｧ caｩego dnia wedｩug swojego widzimisiｪ...\p Ale\n dlaczego Ayamine wezwaｩa mnie tutaj o tak wczesnej\n porze!?\e
 
 [000a91|en] Ayamine...\p...\pwhat are you gonna do with me...\p...\p\nwhat could you possibly...\p...\p\e
-[000a91|ru] Ayamine...\p Cｫz za szataﾃki plan narodziｩ siｪ w tek twojej gｩowie...\p\e
+[000a91|ru] Ayamine...\p Cｫｯ za szataﾃski plan narodziｩ siｪ w\n twojej gｩowie...\p\e
 
 [000a92|en] ...\p...\p\e
 [000a92|ru] ...\p\e
@@ -3797,7 +3797,7 @@ SCR 1 UTF-8
 [000aa1|ru] Spｫﾜnia siｪ!!\e
 
 [000aa2|en] Why isn't Ayamine showing up!?\e
-[000aa2|ru] Ayamine dlaczego siｪ jeszcze nie pojawiｩaﾛ!?\e
+[000aa2|ru] Ayamine, dlaczego siｪ jeszcze nie pojawiｩaﾛ!?\e
 
 [000aa4|en] ...\p...\p\e
 [000aa4|ru] ...\p\e
@@ -3809,10 +3809,10 @@ SCR 1 UTF-8
 [000aa8|ru] ....\p...\p...\p\e
 
 [000aab|en] Hey, hey, hey,\p I'm not kidding here!! It's already 10:45!!\e
-[000aab|ru] No dobra, co tu siｪ do cholery wyprawia!!\p\nCzy to sｧ jakieﾛ jaja?!\p Mamy juｯ 10:45!!\e
+[000aab|ru] No dobra, co tu siｪ do cholery wyprawia!?\p\nCzy to sｧ jakieﾛ jaja!?\p Mamy juｯ 10:45!!\e
 
 [000aac|en] 【Voice】「Ah...\p...\p...\pyou're here.」\e
-[000aac|ru] 【Voice】「Ah...\p Znalazｩam ciｪ.」\e
+[000aac|ru] 【Gｩos】「Ach...\p Znalazｩam ciｪ.」\e
 
 [000aad|en] That voice!!\e
 [000aad|ru] Ten gｩos!!\e
@@ -3821,16 +3821,16 @@ SCR 1 UTF-8
 [000ab0|ru] 【Kei】「...\pCo tam.」\e
 
 [000ab1|en] 【Takeru】「Don't just say 'hey!' like that!!\p\nI've been waiting here for over an hour!!」\e
-[000ab1|ru] 【Takeru】「ﾂadne mi tam "co tam"!!\p\n Czekam juｯ tutaj za tobｧ prawiｪ juz ｩadnｧ godzinｪ!」\e
+[000ab1|ru] 【Takeru】「ﾂadne mi "co tam"!!\p\n Czekam tutaj na ciebie juｯ ｩadnｧ godzinｪ!」\e
 
 [000ab3|en] 【Kei】「...\p...\pI'm 45 minutes late.」\e
 [000ab3|ru] 【Kei】「Spｫﾜniｩam siｪ zaledwie 45 minut.」\e
 
 [000ab4|en] 【Takeru】「Aaah!?」\e
-[000ab4|ru] 【Takeru】「To ciebe najbardziej zmartwiｩo!?」\e
+[000ab4|ru] 【Takeru】「To ciebie najbardziej zmartwiｩo!?」\e
 
 [000ab6|en] 【Kei】「...\p...\pShirogane came here early.」\e
-[000ab6|ru] 【Kei】「...\pShirogane to ty przybyｩeﾛ zbyt wczeﾛnie.」\e
+[000ab6|ru] 【Kei】「...\pShirogane, to ty przybyｩeﾛ zbyt wczeﾛnie.」\e
 
 [000ab7|en] 【Takeru】「Whaaaaat!!?」\e
 [000ab7|ru] 【Takeru】「ﾂeee jaaak!!?」\e
@@ -3839,25 +3839,25 @@ SCR 1 UTF-8
 [000ab9|ru] 【Kei】「Draｯliwoﾛｨ jest oznakｧ niedoboru wapnia...\p」\e
 
 [000aba|en] 【Takeru】「Hm?\p That a bag of bread?\p That can't be for...\p...\p」\e
-[000aba|ru] 【Takeru】「Hm?\p Czy to torba z piekarni?\p\nNie mｫw mi, ｯe w ﾛrodki trzymasz yaki-...\p」\e
+[000aba|ru] 【Takeru】「Hm?\p Czy to torba z piekarni?\p\nNie mｫw mi, ｯe w ﾛrodku trzymasz yaki-...\p」\e
 
 [000abc|en] 【Kei】「Training.」\e
 [000abc|ru] 【Kei】「Przysmaki.」\e
 
 [000abf|en] 【Takeru】「...\p...\poh,\p it's melon bread?」\e
-[000abf|ru] 【Takeru】「Oh...\p Czyｯbyﾛ miaｩa tam melonowy chleb?」\e
+[000abf|ru] 【Takeru】「Och...\p Czyｯbyﾛ miaｩa tam melonowy chleb?」\e
 
 [000ac3|en] 【Kei】「...\p...\pfeint.」\e
 [000ac3|ru] 【Kei】「...\pWykiwaｩam ciｪ.」\e
 
 [000ac4|en] 【Takeru】「That wasn't a feint and you know it.\p\nAnd since when was melon bread high in calcium?」\e
-[000ac4|ru] 【Takeru】「Wcale, ｯe nie.\p A nie mｫwiｩaﾛ przpadkiem,ｯe\p\n chleb melonowy jest bogaty w wapno?」\e
+[000ac4|ru] 【Takeru】「Wcale, ｯe nie.\p A nie mｫwiｩaﾛ przypadkiem,\n ｯe\p chleb melonowy jest bogaty w wapno?」\e
 
 [000ac6|en] 【Kei】「...\p...\pwhy do you ask?」\e
 [000ac6|ru] 【Kei】「...\pDlaczego pytasz?」\e
 
 [000ac7|en] 【Takeru】「Why...\p...? ...\p...\pbecause irritability is a sign of low\ncalcium?」\e
-[000ac7|ru] 【Takeru】「Dlaczego...?\p\n ...\pPoniewaｯ powiedziaｩaﾛ, ｯe draｯliwoﾛｨ jest onakｧ niedoboru\nwapnia?」\e
+[000ac7|ru] 【Takeru】「Dlaczego...?\p\n ...\pPoniewaｯ powiedziaｩaﾛ, ｯe draｯliwoﾛｨ jest oznakｧ\n niedoboru wapnia?」\e
 
 [000ac9|en] 【Kei】「...\p...\pI didn't mean that.」\e
 [000ac9|ru] 【Kei】「...\pWiｪc powiedziaｩam to.」\e
@@ -3869,19 +3869,19 @@ SCR 1 UTF-8
 [000acc|ru] 【Kei】「Trzymaj, no trzymaj?」\e
 
 [000acd|en] 【Takeru】「Dammit...\p...\pdon't tell me you're late because\nyou went to go buy these.」\e
-[000acd|ru] 【Takeru】「Cholera...\p\nTylko nie mｫw mi, ｯe powodem twojego spｫﾜnienia jest to, ｯe po\ndrodze wskoczyｩaﾛ do piekarni aby zapopatrzyｨ\p\n siｪ w te przysmaki.」\e
+[000acd|ru] 【Takeru】「Cholera...\p\nTylko nie mｫw mi, ｯe powodem twojego spｫﾜnienia jest\n to, ｯe po drodze wskoczyｩaﾛ do piekarni, aby\n zaopatrzyｨ\p siｪ w te przysmaki.」\e
 
 [000acf|en] 【Kei】「...\p...\pthe store opens at half past ten.」\e
 [000acf|ru] 【Kei】「...\pPiekarnia otwiera siｪ o wpｫｩ do dziesiｧtej.」\e
 
 [000ad0|en] 【Takeru】「...\p...\pso why did you...\p...\p」\e
-[000ad0|ru] 【Takeru】「...\pNaprawdｪ potrafisz i wiesz jak mnie porzｧdnie\nwkurzyｨ...\p」\e
+[000ad0|ru] 【Takeru】「...\pNaprawdｪ potrafisz i wiesz jak mnie\n porzｧdnie wkurzyｨ...\p」\e
 
 [000ad2|en] 【Kei】「Here.」\e
 [000ad2|ru] 【Kei】「Trzymaj.」\e
 
 [000ad3|en] 【Takeru】「Aaah,\p thank you.」\e
-[000ad3|ru] 【Takeru】「Aaah,\p dziｪkujｪ.」\e
+[000ad3|ru] 【Takeru】「Aaach,\p dziｪkujｪ.」\e
 
 [000ad5|en] 【Kei】「...\p...\p...\p...\p」\e
 [000ad5|ru] 【Kei】「...\p...\p」\e
@@ -3899,28 +3899,28 @@ SCR 1 UTF-8
 [000adb|ru] 【Kei】「...\pJest to caｩkiem popularne.\p\p\n ﾂeby to kupiｨ naleｯaｩo trochｪ postaｨ w kolejce.」\e
 
 [000adc|en] 【Takeru】「...\p...\pwere you waiting this whole time?」\e
-[000adc|ru] 【Takeru】「...\pPrzez ten caｩy czas czekaｩaﾛ za tym?」\e
+[000adc|ru] 【Takeru】「...\pPrzez ten caｩy czas staｩaﾛ po to?」\e
 
 [000ade|en] 【Kei】「...\p...\pI merely stated a fact.」\e
 [000ade|ru] 【Kei】「Nie...\p Tak tylko mｫwiｪ.」\e
 
 [000adf|en] 【Takeru】「Liar...\p...\pgeez...\p...\pcome on,\p have half of it.\nSo what're we doing today?」\e
-[000adf|ru] 【Takeru】「Kｩamczuch...\pW sumie...\p najwaｯniejszcze, ｯe to juｯ mamy obgadane\p\n Wiｪc,\p cｫｯ takiego bｪdziemy dzisiaj robiｨ?」\e
+[000adf|ru] 【Takeru】「Kｩamczuch...\p W sumie...\p najwaｯniejszcze,\n ｯe to juｯ mamy obgadane,\p wiｪc\p cｫｯ takiego\n bｪdziemy dzisiaj robiｨ?」\e
 
 [000ae1|en] 【Kei】「...\p...\pwhat will we do?」\e
 [000ae1|ru] 【Kei】「...\pA co powinniﾛmy zrobiｨ?」\e
 
 [000ae2|en] 【Takeru】「Gimme a break already...\p...\pI'm impressed you\ncan be this irresponsible on top of being 45 minutes late.」\e
-[000ae2|ru] 【Takeru】「Odpuﾛciｩabyﾛ mi to juｯ...\p\nJestem pod wraｯeniem, ｯe przez te 40 minut jakie zajｪｩo ci\ndotarcie tuta, niczego sensownego nie udaｩo ci siｪ wymyﾛliｨ.」\e
+[000ae2|ru] 【Takeru】「Odpuﾛciｩabyﾛ mi to juｯ...\p\nJestem pod wraｯeniem, ｯe przez te 40 minut, ktｫre\n zajｪｩo ci dotarcie tutaj, niczego sensownego nie\n udaｩo ci siｪ wymyﾛliｨ.」\e
 
 [000ae4|en] 【Kei】「...\p...\pyou complimented me?」\e
-[000ae4|ru] 【Kei】「...\pDziｪkuje za komplement.」\e
+[000ae4|ru] 【Kei】「...\pDziｪkujｪ za komplement.」\e
 
 [000ae5|en] 【Takeru】「Dumbass.」\e
 [000ae5|ru] 【Takeru】「Kretynka.」\e
 
 [000ae7|en] 【Kei】「Then...\p...\plet's get going.」\e
-[000ae7|ru] 【Kei】「No...\pzbierajmy siｪ juｯ.」\e
+[000ae7|ru] 【Kei】「No...\p zbierajmy siｪ juｯ.」\e
 
 [000ae8|en] 【Takeru】「Where to!?」\e
 [000ae8|ru] 【Takeru】「A niby gdzie!?」\e
@@ -3935,37 +3935,37 @@ SCR 1 UTF-8
 [000af5|ru] ...\p...\p\e
 
 [000af6|en] Oh,\p it's just the arcade...\p...\p\e
-[000af6|ru] Z jakiego powodu wybraｩaﾛ salon arcade na miejsce randki...?\p\e
+[000af6|ru] Z jakiego powodu wybraｩaﾛ salon arcade na miejsce\n randki...?\p\e
 
 [000af7|en] But,\p well...\p...\pit certainly isn't a bad place to go...\p...\p\nit's just...\p...\p...\p...\phaa...\e
-[000af7|ru] Chcｪ powiedzieｨ, no cｫｯ...\pz pewnoﾛciｧ nie jest to najgorsze\nmiejsce w ktｫre moglibyﾛmy siｪ udaｨ...\p Tylko...\p ｯe...\pech...\p\e
+[000af7|ru] Chcｪ powiedzieｨ, no cｫｯ...\p z pewnoﾛciｧ nie jest to\n najgorsze miejsce, w ktｫre moglibyﾛmy siｪ udaｨ...\p\n Tylko...\p ｯe...\p ech...\p\e
 
 [000afa|en] 【Kei】「...\p...\pplay me.」\e
 [000afa|ru] 【Kei】「...\pZagraj ze mnｧ.」\e
 
 [000afb|en] Come on...\p...\pdon't you know how good I am at this!?\e
-[000afb|ru] Pff...\p Oh, proszｪ cie.\p\nCzy nie zdajesz sobie sprawy jak dobry w tym jestem!?\e
+[000afb|ru] Pff...\p Och, proszｪ ciｪ.\p\nCzy nie zdajesz sobie sprawy jak dobry w tym jestem!?\e
 
 [000afc|en] 【Takeru】「Okaaaay!! I'll take you ooooon!!!」\e
-[000afc|ru] 【Takeru】「Oh, do jasnej cholery!! OCzywiﾛｨie, ｯe taaak!\p\nWyzwanie przyjete!!!」\e
+[000afc|ru] 【Takeru】「Och, do jasnej cholery!! Oczywiﾛｨie, ｯe\n taaak!\p Wyzwanie przyjｪte!!!」\e
 
 [000b03|en] 【Kei】「...\p...\pin a multiplayer puzzle game.」\e
-[000b03|ru] 【Kei】「W wielosobowｧ grｪ logicznｧ.」\e
+[000b03|ru] 【Kei】「W wieloosobowｧ grｪ logicznｧ.」\e
 
 [000b06|en] 【Takeru】「Whaaat!? Why would I accept such a boring\nchallenge!?」\e
-[000b06|ru] 【Takeru】「Sｩucham!? Dlaczego rzucasz mi wyzwanie w tak\n nudnej dziedzinie!?」\e
+[000b06|ru] 【Takeru】「Sｩucham!? Dlaczego rzucasz mi wyzwanie w\n tak nudnej dziedzinie!?」\e
 
 [000b08|en] 【Kei】「...\p...\pbecause you don't let people finish.」\e
-[000b08|ru] 【Kei】「Poniewaｯ nie pozwalasz ludziom na dokoﾃczenie ich\nkwestii.」\e
+[000b08|ru] 【Kei】「Poniewaｯ nie pozwalasz ludziom na\n dokoﾃczenie ich kwestii.」\e
 
 [000b09|en] But there's only one thing to challenge me at in an\narcade.\e
-[000b09|ru] Ale w tym salonie jest tylko jedna rzecz w ktｫrej moｯesz\nkogoﾛ wyzwaｨ.\e
+[000b09|ru] Ale w tym salonie jest tylko jedna rzecz, w ktｫrej\n moｯesz kogoﾛ wyzwaｨ.\e
 
 [000b0a|en] How was I supposed to know you didn't mean\nValgernon!?\e
-[000b0a|ru] Jakim cudem niby miaｩem wiedzieｨ, ｯe nie mｫwiｩaﾛ o Valgern-On!?\e
+[000b0a|ru] Jakim cudem niby miaｩem wiedzieｨ, ｯe nie mｫwiｩaﾛ o\n Valgern-On!?\e
 
 [000b0b|en] 【Takeru】「Ayamine,\p no man would ever say such a thing.」\e
-[000b0b|ru] 【Takeru】「Ayamine.\p ﾂaden honorowy facet nie zaproponowaｩby\nnawet takiego wyzwania.」\e
+[000b0b|ru] 【Takeru】「Ayamine.\p ﾂaden honorowy facet nie\n zaproponowaｩby nawet takiego wyzwania.」\e
 
 [000b0d|en] 【Kei】「...\p...\pgood to hear.」\e
 [000b0d|ru] 【Kei】「Dobrze, ｯe ja jestem dziewczynｧ.」\e
@@ -3977,22 +3977,22 @@ SCR 1 UTF-8
 [000b10|ru] 【Kei】「To jest moje wyzwanie.」\e
 
 [000b11|en] 【Takeru】「Then please restate it.」\e
-[000b11|ru] 【Takeru】「No to proponujｪ inne wyzwanie.」\e
+[000b11|ru] 【Takeru】「No to proponujｪ inne.」\e
 
 [000b13|en] 【Kei】「...\p...\pI want you to...\p...」\e
-[000b13|ru] 【Kei】「...\p...\pChiaｩabyﾛ, zebyﾛ...\p」\e
+[000b13|ru] 【Kei】「...\p...\pChiaｩabym, ｯebyﾛ...\p」\e
 
 [000b14|en] 【Takeru】「What is it!?」\e
 [000b14|ru] 【Takeru】「Co takiego!?」\e
 
 [000b16|en] 【Kei】「...\p...\pmarry me.」\e
-[000b16|ru] 【Kei】「...\pOｯeniｩ siｪ ze mna.」\e
+[000b16|ru] 【Kei】「...\pOｯeniｩ siｪ ze mnｧ.」\e
 
 [000b17|en] 【Takeru】「I have accepted your request!」\e
-[000b17|ru] 【Takeru】「Pokornie akceptujｪ twojｧ propozycje!」\e
+[000b17|ru] 【Takeru】「Pokornie akceptujｪ twojｧ propozycjｪ!」\e
 
 [000b19|en] 【Kei】「...\p...\pyou mean it?」\e
-[000b19|ru] 【Kei】「...\pNaprawdｪ masz to namyﾛli?」\e
+[000b19|ru] 【Kei】「...\pNaprawdｪ to masz na myﾛli?」\e
 
 [000b1a|en] 【Takeru】「Of course not.」\e
 [000b1a|ru] 【Takeru】「Oczywiﾛcie, ｯe nie.」\e
@@ -4001,13 +4001,13 @@ SCR 1 UTF-8
 [000b1c|ru] 【Kei】「...\pJaka szkoda.」\e
 
 [000b1d|en] 【Takeru】「Eeeh!?」\e
-[000b1d|ru] 【Takeru】「Eeeh!?」\e
+[000b1d|ru] 【Takeru】「Eeech!?」\e
 
 [000b1f|en] 【Kei】「...\p...\pyou mean it?」\e
-[000b1f|ru] 【Kei】「...\pNaprawdｪ masz to namyﾛli?」\e
+[000b1f|ru] 【Kei】「...\pNaprawdｪ to masz na myﾛli?」\e
 
 [000b20|en] 【Takeru】「Mean what!?」\e
-[000b20|ru] 【Takeru】「A niby co miaｩbym innego mieｨ na myﾛli!?」\e
+[000b20|ru] 【Takeru】「A niby co miaｩbym innego mieｨ!?」\e
 
 [000b21|en] ...\p...\p...\p...\p\e
 [000b21|ru] ...\p...\p\e
@@ -4016,16 +4016,16 @@ SCR 1 UTF-8
 [000b23|ru] 【Kei】「...\pKaizer.」\e
 
 [000b24|en] 【Takeru】「Huh?」\e
-[000b24|ru] 【Takeru】「Huh?」\e
+[000b24|ru] 【Takeru】「Hｪ?」\e
 
 [000b26|en] 【Kei】「...\p...\pI'll challenge you in Kaizer.」\e
-[000b26|ru] 【Kei】「...\pWyzywam ciebie i towjego Kaizera.」\e
+[000b26|ru] 【Kei】「...\pWyzywam ciebie i twojego Kaizera.」\e
 
 [000b27|en] 【Takeru】「Oh-ho? Looks like you know a little Valgernon.」\e
-[000b27|ru] 【Takeru】「Oh-ho? Wyglｧda na to, ｯe doszｩy cie sｩuchy czym\njest Valgern-On.」\e
+[000b27|ru] 【Takeru】「Oh-ho? Wyglｧda na to, ｯe doszｩy ciｪ\n sｩuchy, czym jest Valgern-On.」\e
 
 [000b29|en] 【Kei】「If you lose, Shirogane,\p you do whatever I say.\p\p\nIf I lose,\p I will make Shirogane do whatever I say.」\e 
-[000b29|ru] 【Kei】「Jeｯeli przegrasz,\p to zrobisz wszystko co powiem.\p\p\nA jeﾛli ja poniosｪ poraｯkｪ,\p to speｩniｪ za to kaｯde twoje\nｯyczenie.」\e 
+[000b29|ru] 【Kei】「Jeｯeli przegrasz,\p to zrobisz wszystko co\n powiem.\p\p A jeﾛli ja poniosｪ poraｯkｪ,\p to speｩniｪ za to\n kaｯde twoje ｯyczenie.」\e 
 
 [000b2a|en] 【Takeru】「Okay! No man ever goes back on his word!」\e
 [000b2a|ru] 【Takeru】「Okej! Prawdziwy facet nie cofa swoich sｩｫw!」\e
@@ -4037,28 +4037,28 @@ SCR 1 UTF-8
 [000b31|ru] Ayamine wsiada do kokpitu.\e
 
 [200b3c|en] ──Please sit back and fasten your seat belt.\p\nUntil the seat belt is fastened, the seat will not move.\e 
-[200b3c|ru] ──Osiｧdﾜ wygodnie i zapnij pasy.\p\nDopｫki pas bezpieczeﾃstwa nie zostanie zapiｪty, siedzienie siｪ nie przesunie.\e 
+[200b3c|ru] ──Osiｧdﾜ wygodnie i zapnij pasy.\p\nDopｫki pas bezpieczeﾃstwa nie zostanie zapiｪty,\n siedzenie siｪ nie przesunie.\e 
 
 [000b3f|en] Ayamine...\p...\pyou'll learn soon enough.\e
 [000b3f|ru] Ayamine...\p Poｯaｩujesz, ｯe mnie nie doceniｩaﾛ.\e
 
 [200b47|en] ──Please let your seat slide, pulling the lever ahead.\e 
-[200b47|ru] ──Proszｪ pozwoliｨ swojemu siedzeniu przesunｧｨ siｪ, poprzesz\npociｧgniｪcie dﾜwigni do przodu.\e 
+[200b47|ru] ──Proszｪ pozwoliｨ swojemu siedzeniu przesunｧｨ siｪ,\n poprzez pociｧgniｪcie dﾜwigni do przodu.\e 
 
 [000b4b|en] You dare to challenge me at Valgernon...\p...\p\e
 [000b4b|ru] Miaｩaﾛ czelnoﾛｨ rzuciｨ mi wyzwanie w Valgern-On...\p\e
 
 [200b58|en] ──Please insert coin or GR card.\e 
-[200b58|ru] ──Proszｪ wｩoｯyｨ monetｪ albo kartｪ GR .\e 
+[200b58|ru] ──Proszｪ wｩoｯyｨ monetｪ lub kartｪ GR.\e 
 
 [000b5b|en] Sorry, but putting women and children on the battlefield\nwon't make me hold back.\e
-[000b5b|ru] Przepraszam, ale umieszczanie kobiet oraz dzieci na polu\nbitwy,\pnie spoowduje, ｯe bｪdｪ siｪ hamowaｩ.\e
+[000b5b|ru] Przepraszam, ale umieszczanie kobiet i dzieci na\n polu bitwy\p nie spowoduje, ｯe bｪdｪ siｪ hamowaｩ.\e
 
 [000b63|en] You will learn your place!\e
-[000b63|ru] Pokaｯe tobie gdzie jest twoje miejsce!\e
+[000b63|ru] Pokaｯｪ ci gdzie jest twoje miejsce!\e
 
 [200b67|en] ──We have confirmed the embarkation of the first\nmachine.\p\p Please kindly wait until all the positions for\nthe attack have been completed.\e
-[200b67|ru] ──Mamy zaokrｪtowanie pierwszej maszyny.\p\n Proszｪ poczekaｨ, aｯ wszystkie pozycje do ataku\nzostanｧ poprawnie zaｩadowane.\e
+[200b67|ru] ──Potwierdzam zaokrｪtowanie pierwszej maszyny.\p\n Proszｪ poczekaｨ, aｯ wszystkie pozycje do ataku\nzostanｧ poprawnie zaｩadowane.\e
 
 [000b6f|en] 【Kei】「...\p...\pShirogane.」\e
 [000b6f|ru] 【Kei】「...\pShirogane.」\e
@@ -4067,31 +4067,31 @@ SCR 1 UTF-8
 [000b70|ru] 【Takeru】「Nie ma sensu bｩagaｨ teraz o swoje ｯycie.」\e
 
 [000b71|en] 【Kei】「...\p...\pthink hard...\p...\pabout the conditions.」\e
-[000b71|ru] 【Kei】「...\pPostaraj siｪ zapamiｪtaｨ...\p warunki naszej umowy.」\e
+[000b71|ru] 【Kei】「...\pPostaraj siｪ zapamiｪtaｨ...\p warunki naszej\n umowy.」\e
 
 [000b72|en] 【Takeru】「Aaah?」\e
-[000b72|ru] 【Takeru】「Aaah?」\e
+[000b72|ru] 【Takeru】「Aaach?」\e
 
 [000b73|en] Ummm,\p what were they...\p...\p\nI'm pretty sure it went...\p...\p\e
-[000b73|ru] Ummm,\p jak one tam szｩy...?\p\nSｧdzｪ, ｯe to byｩo coﾛ takeigo...\p\e
+[000b73|ru] Ummm,\p jak one tam szｩy...?\p\nSｧdzｪ, ｯe to byｩo coﾛ takiego...\p\e
 
 [000b74|en] 【Takeru】「If I lose,\p I do whatever Ayamine says.\nIf Ayamine loses,\p she makes me do whatever she says...\p...\p」\e
-[000b74|ru] 【Takeru】「Jeｯeli ja przegram to speｩniｪ twoje ｯyczenie\p\nA jeﾛli ty przegrasz, bｪdziesz musiaｩa zrobiｨ to na co ja bｪdｪ miaｩ ochotｪ ...\p」\e
+[000b74|ru] 【Takeru】「Jeｯeli ja przegram to speｩniｪ twoje\n ｯyczenie,\p a jeﾛli ty przegrasz, bｪdziesz musiaｩa zrobiｨ\n to na co ja bｪdｪ miaｩ ochotｪ...\p」\e
 
 [000b75|en] ...\p...\p...\p...\p\e
 [000b75|ru] ...\p...\p\e
 
 [000b76|en] 【Takeru】「────Aaaaah!? You'll have your way with\nme whether I win or lose!!?」\e
-[000b76|ru] 【Takeru】「────Aaaaah!? Czy ty wｩaﾛnie zasugerowaｩaﾛ, ｯe\nistniejｧ alternatywy w ktｫrych mogｪ przegraｨ albo wygraｨｨ!!?」\e
+[000b76|ru] 【Takeru】「────Aaaaach!? Czy ty wｩaﾛnie\n zasugerowaｩaﾛ, ｯe istniejｧ alternatywy, w ktｫrych mogｪ\n przegraｨ albo wygraｨ!!?」\e
 
 [000b77|en] 【Kei】「...\p...\pscatterbrain.」\e
 [000b77|ru] 【Kei】「...\pRoztrzepaniec.」\e
 
 [000b78|en] 【Takeru】「Please! Reset the conditions!」\e
-[000b78|ru] 【Takeru】「No weﾜ! To dobra pora abyﾛ zmieniｩa warunki!」\e
+[000b78|ru] 【Takeru】「No weﾜ! To dobra pora, abyﾛ zmieniｩa\n warunki!」\e
 
 [000b79|en] 【Kei】「...\p...\pmen never go back on their word.」\e
-[000b79|ru] 【Kei】「...\pPrawdziwy facet nie cofa swoich sｩｫw」\e
+[000b79|ru] 【Kei】「...\pPrawdziwy facet nie cofa swoich sｩｫw.」\e
 
 [000b7a|en] 【Takeru】「Damn iiiiiiit!!」\e
 [000b7a|ru] 【Takeru】「Do licha!!」\e
@@ -4100,34 +4100,34 @@ SCR 1 UTF-8
 [200b7e|ru] ──Pozycje do ataku sｧ gotowe.\e 
 
 [200b8a|en] ──Skyscape Submerged has been decided as the\nbattlefield.\e 
-[200b8a|ru] ──Jako pole bitwy wybranu Skyscape Submerged.\e 
+[200b8a|ru] ──Jako pole bitwy wybrano Skyscape Submerged.\e 
 
 [000b91|en] 【Kei】「...\p...\psince we're in the same mech,\nonly skill will decide the victor.」\e
-[000b91|ru] 【Kei】「...\pW momeﾃcie gdy wybralikﾛmy te samy mechy.\p\n Jedynie nasze umiejｪtnoﾛci zdecydujｧ o zwyciｪstwie.」\e
+[000b91|ru] 【Kei】「...\pW momencie, gdy wybraliﾛmy te samy mechy,\p\n jedynie nasze umiejｪtnoﾛci zdecydujｧ o zwyciｪstwie.」\e
 
 [000b92|en] 【Takeru】「Then I'll show you just how skilled I am.」\e
-[000b92|ru] 【Takeru】「No to pokaｯｪ tobie jak duｯe umijｪtnoﾛci posiadam.」\e
+[000b92|ru] 【Takeru】「No to pokaｯｪ tobie jak duｯe umiejｪtnoﾛci\n posiadam.」\e
 
 [000bcf|en] I have no idea how skilled Ayamine is,\nso I should be cautious for now.\e
-[000bcf|ru] Nie mam pojｪcia jaki poziom reprezentuje Ayamine, wiｪc powinienem\nteraz zchowaｨ ostroｯnoﾛｨ.\e
+[000bcf|ru] Nie mam pojｪcia jaki poziom reprezentuje Ayamine, wiｪc\n powinienem teraz zachowaｨ ostroｯnoﾛｨ.\e
 
 [000bd0|en] She went out of her way to set conditions depending on\nthis battle,\p so she's not a complete amateur...\p...\p\e
 [000bd0|ru] Zdecydowaｩa o polu bitwy i o warunkach zwyciｪstwa.\p\nCo oznacza, ｯe nie jest ona kompletnｧ amatorkｧ...\p\e
 
 [000bd3|en] ...\p...\plock-on!?\e
-[000bd3|ru] ...\pWymierza we mnie<--->Namierza mnie?\e
+[000bd3|ru] ...\pNamierza mnie?\e
 
 [000bd5|en] She's firing!?\e
 [000bd5|ru] Otwiera do mnie ogieﾃ!?\e
 
 [000bde|en] It's the smart gun!\e
-[000bde|ru] TO jest inteligetny pistolet!\e
+[000bde|ru] To jest inteligetny pistolet!\e
 
 [000be2|en] *blam!*\e
 [000be2|ru] *Bum!*\e
 
 [000be3|en] 【Takeru】「...\p...\pyou can't hit me that easily!\p\nLead your target!」\e
-[000be3|ru] 【Takeru】「...\p...\pNie moｯesz trafiｨ mnie z takiej odlegｩoﾛci!\nNie wspominajｧc juｯ o tym ogromnym meteorytem pomiｪdzy nami!」\e
+[000be3|ru] 【Takeru】「...\p...\pNie moｯesz trafiｨ mnie z takiej\n odlegｩoﾛci! Nie wspominajｧc juｯ o tym ogromnym\n meteorycie pomiｪdzy nami!」\e
 
 [000be4|en] 【Kei】「...\p...\pshooting is tough.」\e
 [000be4|ru] 【Kei】「...\pStrzelanie jest trudne.」\e
@@ -4136,10 +4136,10 @@ SCR 1 UTF-8
 [000be5|ru] Przez moment ten dziwny atak przestraszyｩ mnie.\e
 
 [000be6|en] The random attack of a first-timer.\nIts randomness is actually quite threatening.\e
-[000be6|ru] Jak kaｯdy debiutant, po prostu atakuje bez ｯadnego stylu\ni powodu.\p Fakt, ｯe ｫw atak byｩ caｩkowicie losowy...\p Sprawia,\nｯe w takich chwilach naleｯy zachowaｨ zwiｪkszonｧ ostroｯnoﾛｨ.\e
+[000be6|ru] Jak kaｯdy debiutant, po prostu atakuje bez ｯadnego\n stylu i powodu.\p Fakt, ｯe ｫw atak byｩ caｩkowicie\n losowy...\p Sprawia, ｯe w takich chwilach naleｯy zachowaｨ\n szczegｫlnｧ ostroｯnoﾛｨ.\e
 
 [000be8|en] If I just watch out for her beginner's luck...\p...\p\nthis'll be easy!\e
-[000be8|ru] Jeﾛli tylko bｪdｪ wystrzegaｩ sie jej fuksu poczｧtkujｧcego...\p\nTo bｪdzie to buｩka z masｩem !\e
+[000be8|ru] Jeﾛli tylko bｪdｪ wystrzegaｩ siｪ jej fuksu\n poczｧtkujｧcego...\p To bｪdzie buｩka z masｩem!\e
 
 [000bed|en] 【Takeru】「Charge!」\e
 [000bed|ru] 【Takeru】「Szarｯa!」\e
@@ -4151,22 +4151,22 @@ SCR 1 UTF-8
 [000bf6|ru] Przedzieram siｪ przez chmary asteroid!\e
 
 [000c1d|en] Ayamine's shooting of course,\p but she's hitting nothing\nbut meteorites.\e
-[000c1d|ru] Ayamine wciｧｯ strzela, ale jedyne co trafia to meteoryty.\e
+[000c1d|ru] Ayamine wciｧｯ strzela, ale jedyne co trafia to\n meteoryty.\e
 
 [000c1e|en] I don't even need to evade them.\e
 [000c1e|ru] Nie muszｪ nawet unikaｨ jej pociskｫw.\e
 
 [000c2c|en] I measure the time it'll take to get to her mech by\nintuition.\e
-[000c2c|ru] Korzystajｧc z moich umiejｪtnoﾛci rozumowania przestrzennego,\p\nszacujｪ, ile czasu minie.\p Zanim jej mech znajdzie siｪ\n w zasiｪgu mojego wzroku.\e
+[000c2c|ru] Korzystajｧc z moich umiejｪtnoﾛci rozumowania\n przestrzennego,\p szacujｪ ile czasu minie,\p zanim jej mech\n znajdzie siｪ w zasiｪgu mojego wzroku.\e
 
 [000c3c|en] And wait for the right moment to...\p...\e
-[000c3c|ru] I we wｩaﾛciwym momeﾃcie naleｯy tylko...\e
+[000c3c|ru] I we wｩaﾛciwym momencie naleｯy tylko...\e
 
 [000c3d|en] ──Pull the trigger!\e
 [000c3d|ru] ──Nacisnｧｨ przycisk!\e
 
 [000c4f|en] The beam pierces through Ayamine's waist,\p\nwiping out over half her shields.\e
-[000c4f|ru] Wiｧzka przebija siｪ czysto przez Ayamine,\p niszczｧc ponad\n poｩowｪ jej tarcz.\e
+[000c4f|ru] Wiｧzka przebija siｪ czysto przez Ayamine,\p niszczｧc\n ponad poｩowｪ jej tarcz.\e
 
 [000c52|en] 【Kei】「...\p...\pow.」\e
 [000c52|ru] 【Kei】「...\pAｩa.」\e
@@ -4175,7 +4175,7 @@ SCR 1 UTF-8
 [000c53|ru] No dobrze!\p Czas wykoﾃczyｨ ciｪ kolejnym ruchem!\e
 
 [000c58|en] Kaizer specializes in close-quarters combat,\p\nso I close in on Ayamine's mech at maximum speed.\e
-[000c58|ru] Kaizer specjalizuje siｪ w walce z zwarciu.\p\nPostanowiｩem zbliｯyｨ siｪ do jej mecha z maksymalnｧ prｪdkoﾛciｧ.\e
+[000c58|ru] Kaizer specjalizuje siｪ w walce w zwarciu.\p\nPostanowiｩem zbliｯyｨ siｪ do jej mecha z maksymalnｧ\n prｪdkoﾛciｧ.\e
 
 [000c6c|en] Ayamine still hasn't pulled out her saber!\e
 [000c6c|ru] Ayamine nadal nie wyciｧgnｪｩa swojej szabli!\e
@@ -4211,13 +4211,13 @@ SCR 1 UTF-8
 [000c97|ru] 【Takeru】「To nie jest glicz,\p co nie?!」\e
 
 [000c98|en] My mech spins during its invincibility period.\nThe sense of danger makes me sweat.\e
-[000c98|ru] Mｫj mech wirujｧc znalazｩ siｪ teraz w stanie w ktｫym nic\n nie mogｪ zrobiｨ.\p Poczucie zagroｯenia sprawia, ｯe\n caｩy siｪ pocｪ.\e
+[000c98|ru] Mｫj mech wirujｧc znalazｩ siｪ teraz w stanie, w ktｫrym\n nic nie mogｪ zrobiｨ.\p Poczucie zagroｯenia sprawia, ｯe\n caｩy siｪ pocｪ.\e
 
 [000ca1|en] Ayamine is──right in front of me!\e
 [000ca1|ru] ﾚmierｨ zapukaｩa do moich drzwi!\nWraz z pojawieniem siｪ przede mnｧ Ayamine!\e
 
 [000cad|en] 【Takeru】「You can't keep getting lucky forever...\p...\p!」\e
-[000cad|ru] 【Takeru】「Jednakｯe twoje szczｪﾛcie w koﾃcu siｪ skoﾃczy...\p!」\e
+[000cad|ru] 【Takeru】「Jednakｯe twoje szczｪﾛcie w koﾃcu siｪ\n skoﾃczy...\p!」\e
 
 [000cae|en] I pull the trigger!\e
 [000cae|ru] Wciskam przycisk!\e
@@ -4226,19 +4226,19 @@ SCR 1 UTF-8
 [000caf|ru] Wiem na pewno, ｯe mｫj jest o wiele szybszy!\p\n Nie ma moｯliwoﾛci abyﾛ──!!!?\e
 
 [000cb0|en] 【Takeru】「Dodge...\p...\pthat...\p...\p!?」\e
-[000cb0|ru] 【Takeru】「Uniknｪｩa...\ptego...\p!?」\e
+[000cb0|ru] 【Takeru】「Uniknｪｩa...\p tego...\p!?」\e
 
 [000cb6|en] Ayamine evaded my saber literally by a hair's breadth.\p\nAnd she's readying her smart gun!?\e
-[000cb6|ru] Ayamine wymknｪｩa sie mojej szabli dosｩownie na szerokoﾛｨ\nwｩosa.\p W tej chwili przygotowuje wｩaﾛnie swojｧ inteligetnｧ\n spluwｪ do ataku!?\e
+[000cb6|ru] Ayamine wymknｪｩa siｪ mojej szabli dosｩownie na\n szerokoﾛｨ wｩosa.\p W tej chwili przygotowuje wｩaﾛnie\n swojｧ inteligetnｧ spluwｪ do ataku!?\e
 
 [000cb7|en] Standard shooting should be impossible at this\nrange──which means──!?\e
-[000cb7|ru] Na takich zasiｪgu podstawowy ostrzaｩ powinienen byｨ nie\n moｯliwy do oddania.\p──Co moｯe oznaczaｨ tylko jedno──!?\e
+[000cb7|ru] Na takim zasiｪgu podstawowy ostrzaｩ powinienen byｨ\n niemoｯliwy do oddania.\p ──Co moｯe oznaczaｨ tylko\n jedno──!?\e
 
 [000cb8|en] 【Takeru】「Gatling smash!?」\e
 [000cb8|ru] 【Takeru】「Gatling Smasher!?」\e
 
 [000cd6|en] ────That move shouldn't be able to lock on so\naccurately!!\e
-[000cd6|ru] ────Ten specjalny atak nie powinien w stanie...\p\nW takiej skutecznoﾛci wyzerowaｨ moje hpｨ!!\e
+[000cd6|ru] ────Ten specjalny atak nie powinien byｨ w stanie...\p\nW takiej skutecznoﾛci wyzerowaｨ moje hp!!\e
 
 [000cd7|en] 【Takeru】「Guaaaaaaaaaaaa!?」\e
 [000cd7|ru] 【Takeru】「Guaaaaaaaaaaaa!?」\e
@@ -4262,13 +4262,13 @@ SCR 1 UTF-8
 [000ced|ru] Zapytaｩem o rewanｯ, ale skoﾃczyｩ siｪ drugｧ poraｯkｧ...\p\e
 
 [000cee|en] The second round just added insult to injury...\p...\p\nI didn't even hit her once...\p...\p\e
-[000cee|ru] Dogrywka bardziej tylko poszerzyｩa mojｧ ranｪ...\p\nNie miaｩem nawet okazji jｧ uderzyｨ...\p\e
+[000cee|ru] Dogrywka tylko bardziej poszerzyｩa mojｧ ranｪ...\p\nNie miaｩem nawet okazji jｧ uderzyｨ...\p\e
 
 [000cef|en] Even when she closed in, I couldn't do anything more\nthan fend her off,\p so once she got up next to me,\nit was all over.\e
-[000cef|ru] Nawet kiedy udaｩo mi siｪ zbliｯyｨ, to nadal nic nie mogｩem\nzrobiｨ.\p Jedyne co udaｩo mi siｪ osiｧgnｧｨ to odeprzeｨ jej\nostrzaｩ.\pAle gdy tylko siｪ do mnie zbliｯyｩa, to byｩo juz\n po zamiatane.\e
+[000cef|ru] Nawet kiedy udaｩo mi siｪ zbliｯyｨ, to nadal nic nie\n mogｩem zrobiｨ.\p Jedyne co udaｩo mi siｪ osiｧgnｧｨ to\n odeprzeｨ jej ostrzaｩ,\p ale gdy tylko siｪ do mnie\n zbliｯyｩa, to byｩo juｯ pozamiatane.\e
 
 [000cf0|en] For some reason, it feels like I've been stabbed several\ntimes...\p...\p\e
-[000cf0|ru] Z jakiegoﾛ powodu czujｪ siｪ jakby ktoﾛ dﾜgnｧｩ mnie noｯem\nw plecy...\p\e
+[000cf0|ru] Z jakiegoﾛ powodu czujｪ siｪ, jakby ktoﾛ dﾜgnｧｩ mnie\n noｯem w plecy...\p\e
 
 [000cf1|en] 【Takeru】「You're actually really good...\p...\p」\e
 [000cf1|ru] 【Takeru】「Powiedz, duｯo w to graｩaﾛ...?\p」\e
@@ -4277,40 +4277,40 @@ SCR 1 UTF-8
 [000cf3|ru] 【Kei】「...\pMoｯe.」\e
 
 [000cf4|en] 【Takeru】「There's no way I'd lose so tragically\notherwise...\p...\p」\e
-[000cf4|ru] 【Takeru】「Nie ma mowy, ｯebym przegraｩ z takim przytupem\nz kimﾛ kto nigdy w to nie graｩ...\p」\e
+[000cf4|ru] 【Takeru】「Nie ma mowy, ｯebym przegraｩ z takim\n przytupem z kimﾛ, kto nigdy w to nie graｩ...\p」\e
 
 [000cf5|en] ...\p...\pto be honest,\p it's hard to bear.\nI'm downright shocked.\e
-[000cf5|ru] ...\pSzerze mｫwiｧc, ten jeden raz zabolaｩ mnie wystarczajｧco\nmocno.\p Moja duma legｩa w gruzach.\e
+[000cf5|ru] ...\pSzerze mｫwiｧc, ten jeden raz zabolaｩ mnie\n wystarczajｧco mocno.\p Moja duma legｩa w gruzach.\e
 
 [000cf6|en] And Ayamine of all people...\p...\p\e
-[000cf6|ru] Z wszystkich moｯliwych ludzi, to wｩaﾛnie Ayamine...\p\nByｩa tｧ ktｫra mnie zmiotｩa z powierzchni ziemii...\p\e
+[000cf6|ru] Z wszystkich moｯliwych ludzi, to wｩaﾛnie Ayamine...\p\nByｩa tｧ, ktｫra mnie zmiotｩa z powierzchni Ziemi...\p\e
 
 [000cf7|en] 【Takeru】「Please tell me why I lost.\nThis is gonna bother me so much I can't sleep.」\e
 [000cf7|ru] 【Takeru】「Proszｪ, powiedz mi, dlaczego przegraｩem.\p\nJeﾛli nie dowiem siｪ, dlaczego...\p\nTo nie sｧdzｪ, ｯe bｪdｪ mｫgｩ dziﾛ zasnｧｨ.」\e
 
 [000cf9|en] 【Voice】「Kyaaa!\p Gu!\p Mmm...gu!」\e
-[000cf9|ru] 【Voice】「Kyaaa!\p Gu!\p Mmm...gu!」\e
+[000cf9|ru] 【Gｩos】「Kyaaa!\p Gu!\p Mmm...gu!」\e
 
 [000cfb|en] 【Voice】「Wh-...\p...\pwhat?\p This doll's just a fake!\nHow could it...」\e
-[000cfb|ru] 【Voice】「Wh-...\pCo?\p O co chodzi z tｧ marionetkｧ?!\p\nJak to moｯliwe...」\e
+[000cfb|ru] 【Gｩos】「C-...\pCo?\p O co chodzi z tｧ marionetkｧ?!\p\nJak to moｯliwe...」\e
 
 [000d00|en] 【Voice】「Guaa! M-\pmy glasses...\p...\p!!」\e
-[000d00|ru] 【Voice】「Guaa! M-\pmoje okulary...\p!!」\e
+[000d00|ru] 【Gｩos】「Guaa! M-\pmoje okulary...\p!!」\e
 
 [000d03|en] 【Takeru】「...\p...\psomeone's being really noisy over there.」\e
 [000d03|ru] 【Takeru】「...\pKtoﾛ tam naprawdｪ haｩasuje.」\e
 
 [000d05|en] 【Kei】「Some idiot's getting beaten up by the doll in the\nboxing game...\p...\p」\e
-[000d05|ru] 【Kei】「Jakiﾛ idiota zostaje pobity przez kukieｩkｪ w grze\nbokserkiej...\p」\e
+[000d05|ru] 【Kei】「Jakiﾛ idiota zostaje pobity przez kukieｩkｪ w\n grze bokserskiej...\p」\e
 
 [000d06|en] 【Takeru】「That's kinda what it sounded like, but...\p...\p\nhey,\p wait,\p Ayamine!」\e
-[000d06|ru] 【Takeru】「Tak to zabrzmiaｩo, ale...\p\n Co do...?!\p Hej,\p poczekaj!\p\nAyamine!」\e
+[000d06|ru] 【Takeru】「Tak to zabrzmiaｩo, ale...\p\n Co do...?!\p Hej,\p poczekaj!\p Ayamine!」\e
 
 [000d0a|en] 【Kei】「...\p...\pI must decide what to do next...\p...」\e
 [000d0a|ru] 【Kei】「...\pMuszｪ zdecydowaｨ co bｪdzie nastｪpne...」\e
 
 [000d0b|en] 【Takeru】「Hey,\p Ayamine,\p don't be so stingy...\p...\p」\e
-[000d0b|ru] 【Takeru】「Hej,\p Ayamine.\p Zdradﾜ mi powｫd mojej poraｯki...\p」\e
+[000d0b|ru] 【Takeru】「Hej,\p Ayamine.\p Zdradﾜ mi powｫd mojej\n poraｯki...\p」\e
 
 [000d0d|en] 【Kei】「...\p...\pImperial Park Hotel.」\e
 [000d0d|ru] 【Kei】「...\pImperial Park Hotel.」\e
@@ -4322,13 +4322,13 @@ SCR 1 UTF-8
 [000d13|ru] Imperial Park Hoteeeeel!?\e
 
 [000d14|en] Sh-\pshe can't mean──!?\e
-[000d14|ru] Nie ma ona namyﾛli──!?\e
+[000d14|ru] Nie ma ona na myﾛli chyba──!?\e
 
 [000d15|en] A hotel...\p...\p\nI have to do whatever she says...\p...\pshe can't be...\p...\p\e
-[000d15|ru] Hotel...?\p\nMuszｪ speｩniｨ kaｯdｧ jej zachcianke...\p\nOna chyba nie ma namyﾛli tego...\p\e
+[000d15|ru] Hotel...?\p\nMuszｪ speｩniｨ kaｯdｧ jej zachciankｪ...\p\nOna chyba nie ma na myﾛli tego...\p\e
 
 [000d17|en] 【Kei】「...\p...\pI desire food at the top floor.」\e
-[000d17|ru] 【Kei】「...\pPragnｪ skosztowaｨ jedzenia z najwyｯszego z piｪtra.」\e
+[000d17|ru] 【Kei】「...\pPragnｪ skosztowaｨ jedzenia z najwyｯszego\n piｪtra.」\e
 
 [000d1a|en] 【Takeru】「Whaaaaaaaat!?」\e
 [000d1a|ru] 【Takeru】「Cooooooooo!?」\e
@@ -4343,16 +4343,16 @@ SCR 1 UTF-8
 [000d1e|ru] 【Takeru】「Nigdy wczeﾛniej nie chciaｩem tak mocno...\p!」\e
 
 [000d1f|en] After defeating me with a truly overpowering level of\nskill,\p she's gonna wreak havoc on my wallet too...\p...\p!?\e
-[000d1f|ru] Pokonaｩa mnie naprawdｪ z przytｩaczajｧcym poziomem umiejｪtnoﾛci.\p A teraz zhaﾃbi mnie jeszcze bardziej, siejｧc spustoszenie w moim portfelu...!?\p\e
+[000d1f|ru] Pokonaｩa mnie naprawdｪ z przytｩaczajｧcym poziomem\n umiejｪtnoﾛci.\p A teraz zhaﾃbi mnie jeszcze bardziej,\n siejｧc spustoszenie w moim portfelu...!?\p\e
 
 [000d20|en] 【Takeru】「U-\punacceptable...\p...\punbearable...\p...\p!」\e
 [000d20|ru] 【Takeru】「Niedopuszczalne...\p\nTo jest nie do zniesiena...!\p」\e
 
 [000d22|en] 【Kei】「...\p...\pthen let's make haste.」\e
-[000d22|ru] 【Kei】「...\pNo dalej, zbierajmy sie.」\e
+[000d22|ru] 【Kei】「...\pNo dalej, zbierajmy siｪ.」\e
 
 [000d2d|en] 【Takeru】「The restaurant on the top floor of the Imperial\nPark Hotel...\p...\p」\e
-[000d2d|ru] 【Takeru】「Reustaracja na najwyｯszym piｪtrze Hotelu Imperial\nPark...\p」\e
+[000d2d|ru] 【Takeru】「Restauracja na najwyｯszym piｪtrze\n Hotelu Imperial Park...\p」\e
 
 [000d2f|en] 【Kei】「...\p...\pnice view.」\e
 [000d2f|ru] 【Kei】「...\pMa ｩadne widoczki.」\e
@@ -4361,10 +4361,10 @@ SCR 1 UTF-8
 [000d30|ru] 【Takeru】「Czy to nie jest przypadkiem...\p\nSiedemdziesiｧte piｪtro...?\p」\e
 
 [000d32|en] 【Kei】「...\p...\pyou can see the flow of traffic really well.」\e
-[000d32|ru] 【Kei】「...\pZ pewnoﾛciｧ pewnie dobrze widaｨ z gｫry przepｩyw ruchul.」\e
+[000d32|ru] 【Kei】「...\pZ pewnoﾛciｧ dobrze widaｨ z gｫry\n przepｩyw ruchu ulicznego.」\e
 
 [000d33|en] 【Takeru】「You can even distinguish the faces of people\nwalking down there.」\e
-[000d33|ru] 【Takeru】「Phhh. Jeﾛli uwaｯasz, ｯe to fajne...\p\nA co jeﾛli powiem,\p ｯe mogｪ nawet ujrzeｨ z takiej\nodlegｩoﾛci twarz kaｯdego przechodzｧcego po chodzinku czｩowieka.」\e
+[000d33|ru] 【Takeru】「Phhh. Jeﾛli uwaｯasz, ｯe to fajne...\p\nA co jeﾛli powiem,\p ｯe mogｪ nawet ujrzeｨ z takiej\nodlegｩoﾛci twarz kaｯdego czｩowieka przechodzｧcego po\n chodniku.」\e
 
 [000d35|en] 【Kei】「...\p...\pa bird of prey?」\e
 [000d35|ru] 【Kei】「...\pCzy ty jesteﾛ drapieｯnym ptakiem?」\e
@@ -4376,22 +4376,22 @@ SCR 1 UTF-8
 [000d38|ru] 【Kei】「...\pCｫｯ, nie chcｪ, ｯebyﾛ zostaｩ bankrutem.」\e
 
 [000d3b|en] Eh...\p...\p?\e
-[000d3b|ru] Eh...\p?\e
+[000d3b|ru] Ech...\p?\e
 
 [000d44|en] 【Takeru】「Thank you...\p...\p」\e
 [000d44|ru] 【Takeru】「Dziｪkujｪ...\p」\e
 
 [000d45|en] Thank goodness she decided on the Sky Temple\ninstead...\p...\p\e
-[000d45|ru] Jestem bardzo szczｪﾛliwy, ｯe zdecydowaｩa siｪ na Sky Temple...\p\e
+[000d45|ru] Jestem bardzo szczｪﾛliwy, ｯe zdecydowaｩa siｪ na\n Niebiaﾃskｧ ﾚwiｧtyniｪ...\p\e
 
 [000d46|en] If we'd gone to the top floor restaurant,\p there's no doubt\nI'd die instantly the day the bill arrived.\e
-[000d46|ru] Gdybyﾛmy poszli do restauracji na najwyｯszym piｪtrze...\p\nBez wｧtpienia padｩbym martwy,momeﾃcie gdy tylko ujrzaｩbym ile tam wszystko kosztuje.\e
+[000d46|ru] Gdybyﾛmy poszli do restauracji na najwyｯszym piｪtrze...\p\nBez wｧtpienia padｩbym martwy w momencie, gdy tylko\n ujrzaｩbym ile tam wszystko kosztuje.\e
 
 [000d47|en] 【Takeru】「Aaah!\p I don't care anymore,\p I'll eat anything!」\e
-[000d47|ru] 【Takeru】「Ahhh...!\p\nNo dobrze! Idziemy na caｩoﾛｨ, zamawiaj wszystko na co masz\nochote」\e
+[000d47|ru] 【Takeru】「Achhh...!\p\nNo dobrze! Idziemy na caｩoﾛｨ, zamawiaj wszystko na co\n masz ochotｪ!」\e
 
 [000d49|en] 【Kei】「...\p...\pin that case...\p...\p...\p...\plet's have lunch.」\e
-[000d49|ru] 【Kei】「...\pZakceptowaｩam...\p...\p Niech to bｪdzie nasz lunch.」\e
+[000d49|ru] 【Kei】「...\pZaakceptowaｩam...\p...\p Niech to bｪdzie nasz\n lunch.」\e
 
 [000d4a|en] 【Takeru】「Yes, yes...\p...\p」\e
 [000d4a|ru] 【Takeru】「Tak, tak...\p」\e
@@ -4403,16 +4403,16 @@ SCR 1 UTF-8
 [000d4c|ru] 【Takeru】「Wiｪc,\p wracajｧc do wczeﾛniejszego tematu...」\e
 
 [000d4f|en] 【Kei】「...\p...\pif you want another rematch,\p just ask.」\e
-[000d4f|ru] 【Kei】「...\pJeﾛli chiaｩbyﾛ kolejnego rewanｯu,\p wystarczy zapytaｨ.」\e
+[000d4f|ru] 【Kei】「...\pJeﾛli chciaｩbyﾛ kolejnego rewanｯu,\p\n wystarczy zapytaｨ.」\e
 
 [000d50|en] 【Takeru】「Please stop trying to demolish my integrity...\p...\p」\e
-[000d50|ru] 【Takeru】「Proszｪ przestaﾃ niszczyｨ pozostaｩoﾛci mojej dumy\njakie mi jeszcze zostaｩy...\p」\e
+[000d50|ru] 【Takeru】「Proszｪ przestaﾃ niszczyｨ pozostaｩoﾛci\n mojej dumy, jakie mi jeszcze zostaｩy...\p」\e
 
 [000d52|en] 【Kei】「...\p...\pweakling.」\e
 [000d52|ru] 【Kei】「...\pSｩabeusz.」\e
 
 [000d53|en] 【Takeru】「There are times when men must hold back\ntheir tears and retreat.」\e
-[000d53|ru] 【Takeru】「Sｧ chwile, kiedy czｩowiek musi przeｩknｧｨ ｩzy poraｯki\ni odwaｯnie siｪ wycofaｨ gdy nadejdzie odpowiednia chwila.」\e
+[000d53|ru] 【Takeru】「Sｧ chwile, kiedy czｩowiek musi przeｩknｧｨ\n ｩzy poraｯki i odwaｯnie siｪ wycofaｨ, gdy nadejdzie\n odpowiednia chwila.」\e
 
 [000d55|en] 【Kei】「...\p...\phmmm.」\e
 [000d55|ru] 【Kei】「...\pNie mｫw tak. No co ty.」\e
@@ -4427,16 +4427,16 @@ SCR 1 UTF-8
 [000d59|ru] 【Takeru】「No wiem!\p Ale pytam o szczegｫｩy!!」\e
 
 [000d5b|en] ...\p...\pokay, deep breath...\p...\e
-[000d5b|ru] ...\pOkej,\p weﾜ gｩｪboki wdech..\e
+[000d5b|ru] ...\pOkej,\p weﾜ gｩｪboki wdech...\e
 
 [000d5d|en] 【Kei】「...\p...\pyou can't beat me while you're busy showing\noff.」\e
-[000d5d|ru] 【Kei】「...\pNie moｯesz mnie pokonaｨ,\p kiedy jesteﾛ zbyt zajｪty\npopisywaniem siｪ.」\e
+[000d5d|ru] 【Kei】「...\pNie moｯesz mnie pokonaｨ,\p kiedy jesteﾛ\n zbyt zajｪty popisywaniem siｪ.」\e
 
 [000d5e|en] 【Takeru】「Eh...\p...\p?」\e
-[000d5e|ru] 【Takeru】「Eh...\p?」\e
+[000d5e|ru] 【Takeru】「Ech...\p?」\e
 
 [000d60|en] 【Kei】「Shirogane,\p\p you can't beat yourself,\p\nso you can't beat me.\p\p That's all.」\e
-[000d60|ru] 【Kei】「Nie moｯesz pokonaｨ  samego siebie.\p\nTo wｩaﾛnie z tego powodu nie mogｩeﾛ pokonaｨ mnie.\p\p\nTo wszystko.」\e
+[000d60|ru] 【Kei】「Nie moｯesz pokonaｨ samego siebie.\p\nTo wｩaﾛnie z tego powodu nie mogｩeﾛ pokonaｨ mnie.\p\p\nTo wszystko.」\e
 
 [000d61|en] 【Takeru】「I see.\p So that's what it was...\p...」\e
 [000d61|ru] 【Takeru】「Rozumiem.\p Wiｪc o to chodziｩo...」\e
@@ -4445,28 +4445,28 @@ SCR 1 UTF-8
 [000d62|ru] ...\p...\p\e
 
 [000d63|en] 【Takeru】「Ummm...\p...\pthat didn't make any sense at all...\p...」\e
-[000d63|ru] 【Takeru】「Ummm...\pmogｩabyﾛ to jakoﾛ zrozumiale wytｩumaczyｨ...」\e
+[000d63|ru] 【Takeru】「Ummm...\p mogｩabyﾛ to jakoﾛ zrozumiale\n wytｩumaczyｨ...」\e
 
 [000d65|en] 【Kei】「...\p...\pidiot?」\e
 [000d65|ru] 【Kei】「...\pGｩupi jesteﾛ?」\e
 
 [000d66|en] 【Takeru】「Hey...\p...\p」\e
-[000d66|ru] 【Takeru】「Posｩuchaj...\pty...\p」\e
+[000d66|ru] 【Takeru】「Posｩuchaj...\p ty...\p」\e
 
 [000d68|en] 【Kei】「...\p...\pthere, there.」\e
 [000d68|ru] 【Kei】「...\pO jejciu,\p o jejciu.」\e
 
 [000d69|en] 【Takeru】「Geez...\p...\p...\p...\p\pso then, Ayamine,\p\ncan you beat yourself?」\e
-[000d69|ru] 【Takeru】「Geez...\p...\pUgh...\p no dobrze.\p\nAyamine czyｯby to oznaczaｩo, ｯe twoje zwyciｪstwo wziｪｩo sie\nz tego...\p Poniewaｯ JESTEﾚ w stanie pokonaｨ samｧ siebie...\p\nCzyli mｫwiｧc proﾛciej wｩasne sｩaboﾛci?」\e
+[000d69|ru] 【Takeru】「O rany...\p...\p Ech...\p no dobrze.\p\nAyamine, czyｯby to oznaczaｩo, ｯe twoje zwyciｪstwo\n wziｪｩo siｪ z tego...\p Poniewaｯ JESTEﾚ w stanie pokonaｨ\n samｧ siebie...\p Czyli mｫwiｧc proﾛciej - wｩasne\n sｩaboﾛci?」\e
 
 [000d6b|en] 【Kei】「...\p...\p...\phu...\p...\p」\e
 [000d6b|ru] 【Kei】「...\p...\pHeh...\p」\e
 
 [000d6c|en] 【Takeru】「That was an amazing laugh just now.」\e
-[000d6c|ru] 【Takeru】「Zdajesz sobie sprawｪ z tego...\p\nﾂe jak nikt inny na ﾛwiecie potrafisz wypuﾛciｨ sobie od tak\nnajbardziej z aroganckich ﾛmiechｫw jakiekolwiek sｩyszaｩem.」\e
+[000d6c|ru] 【Takeru】「Zdajesz sobie sprawｪ z tego...\p\nﾂe jak nikt inny na ﾛwiecie potrafisz wypuﾛciｨ\n najbardziej z aroganckich ﾛmiechｫw, jakiekolwiek\n sｩyszaｩem?」\e
 
 [000d6e|en] 【Kei】「...\p...\pdon't compliment me,\p it's embarrassing.」\e
-[000d6e|ru] 【Kei】「...\pNie komplementuj mnie tak.\p\nPowodujesz, ｯe siｪ czerwienieje.」\e
+[000d6e|ru] 【Kei】「...\pNie komplementuj mnie tak.\p\nPowodujesz, ｯe siｪ czerwieniejｪ.」\e
 
 [000d6f|en] 【Takeru】「Are your ears working properly?」\e
 [000d6f|ru] 【Takeru】「A twoje uszy dziaｩajｧ prawidｩowo?」\e
@@ -4481,7 +4481,7 @@ SCR 1 UTF-8
 [000d73|ru] W ogｫle nie mogｪ jej rozgryﾜｨ.\e
 
 [000d74|en] 【Takeru】「But that attitude of yours is why you and Class\nRep keep grating on each other.」\e
-[000d74|ru] 【Takeru】「Ale wiesz, to wｩaﾛnie ta twoja postawasprawia\nwｩaﾛnie.\p ﾂe ty i Przedstawicielka przez ten\n caｩy czas rzucacie siｪ sobie do gardeｩ.」\e
+[000d74|ru] 【Takeru】「Ale wiesz, to wｩaﾛnie ta twoja postawa\n sprawia wｩaﾛnie,\p ｯe ty i Przedstawicielka przez ten\n caｩy czas rzucacie siｪ sobie do gardeｩ.」\e
 
 [000d76|en] 【Kei】「...\p...\pClass Rep is a dog of the system.」\e
 [000d76|ru] 【Kei】「...\pPrzedstawicielka jest kundlem systemu.」\e
@@ -4490,7 +4490,7 @@ SCR 1 UTF-8
 [000d77|ru] 【Takeru】「Tak, dobrze wiem co o niej myﾛlisz.」\e
 
 [000d79|en] 【Kei】「...\p...\pbut moreover,\p she's a dog of herself.」\e
-[000d79|ru] 【Kei】「...\pA co wiｪcej, jest ona niewolnikiem samej siebie.」\e
+[000d79|ru] 【Kei】「...\pA co wiｪcej, jest ona niewolnikiem samej\n siebie.」\e
 
 [000d7a|en] 【Takeru】「What?」\e
 [000d7a|ru] 【Takeru】「Co?」\e
@@ -4502,19 +4502,19 @@ SCR 1 UTF-8
 [000d7c|ru] Co to miaｩo oznaczaｨ?\e
 
 [000d7e|en] 【Kei】「...\p...\pshe can't see herself over Shirogane.」\e
-[000d7e|ru] 【Kei】「...\pPoniewaｯ, jest jeszcze bardziej ﾛlepa na swoje\nwady niｯ ty.」\e
+[000d7e|ru] 【Kei】「...\pPoniewaｯ, jest jeszcze bardziej ﾛlepa na\n swoje wady niｯ ty.」\e
 
 [000d7f|en] 【Takeru】「Eh?」\e
-[000d7f|ru] 【Takeru】「Eh?」\e
+[000d7f|ru] 【Takeru】「Ech?」\e
 
 [000d81|en] 【Kei】「...\p...\pshe's no enemy of mine.」\e
 [000d81|ru] 【Kei】「...\pNie stanowi ona dla mnie zagroｯenia.」\e
 
 [000d82|en] 【Takeru】「If Class Rep was here,\p she'd be throwing a fit.」\e
-[000d82|ru] 【Takeru】「Gdyby tylko byｩa ona z nami,\p to dostaｩaby ataku.」\e
+[000d82|ru] 【Takeru】「Gdyby tylko byｩa ona z nami,\p to dostaｩaby\n ataku.」\e
 
 [000d87|en] 【Voice】「Th-\pth-\pover thereeee──!! M-\pmy shoeee!!」\e
-[000d87|ru] 【Voice】「Uh-oh, uh-oh, uh-oh!──!! Mｫj but!!」\e
+[000d87|ru] 【Gｩos】「Uch-och, uch-och, uch-och!──!! Mｫj but!!」\e
 
 [000d88|en] 【Takeru】「...\p...\psomeone's making a lot of noise.」\e
 [000d88|ru] 【Takeru】「...\pKtoﾛ robi tam duｯo haｩasu.」\e
@@ -4532,22 +4532,22 @@ SCR 1 UTF-8
 [000d8e|ru] 【Takeru】「Jeszcze ostatnie pytanie.」\e
 
 [000d90|en] 【Kei】「...\p...\plike an interview.」\e
-[000d90|ru] 【Kei】「...\pNie zdawaｩam sobie sprawe, ｯe to wywiad..」\e
+[000d90|ru] 【Kei】「...\pNie zdawaｩam sobie sprawy, ｯe to wywiad.」\e
 
 [000d91|en] 【Takeru】「Why did you want to go on a date with me\nanyway?」\e
-[000d91|ru] 【Takeru】「Dlaczego chciaｩaﾛ w ogｫle iﾛｨ ze mnｧ na randkｪ?」\e
+[000d91|ru] 【Takeru】「Dlaczego chciaｩaﾛ w ogｫle iﾛｨ ze mnｧ na\n randkｪ?」\e
 
 [000d93|en] 【Kei】「...\p...\pso many questions.」\e
 [000d93|ru] 【Kei】「...\pTak wiele pytaﾃ.」\e
 
 [000d94|en] 【Takeru】「What's wrong with that?\p\nTalking is important on a date.」\e
-[000d94|ru] 【Takeru】「Co w tym zｩego?\p\nChcｪ powiedzieｨ, przecieｯ to randka.\p\nGadanie w ten sposｫb jest waｯnｧ czｪﾛciｧ randki.」\e
+[000d94|ru] 【Takeru】「Co w tym zｩego?\p\nChcｪ powiedzieｨ, ｯe przecieｯ to randka.\p\nGadanie w ten sposｫb jest waｯnｧ czｪﾛciｧ randki.」\e
 
 [000d9a|en] 【Kei】「...\p...\pmaybe.」\e
 [000d9a|ru] 【Kei】「...\pNie jestem pewna dlaczego.」\e
 
 [000d9b|en] 【Takeru】「Maybe...\p...?\p ...\p...\pif all you wanted to do was kick\nmy ass like that,\p then there was no need for a date...\p...\p」\e
-[000d9b|ru] 【Takeru】「"Nie jestem pewna"...\p...\p\nJeﾛli wszystko, co chciaｩaﾛ zrobiｨ, to skopanie mi tyｩka w grze.\p\n To naprawdｪ nie musielibyﾛmy siｪ posuwaｨ do tego wszystkiego.\p\nA mｫwiｪ o bawieniu siｪ w udawanie prawdziwej randki.」\e
+[000d9b|ru] 【Takeru】「"Nie jestem pewna"...\p...\p\nJeﾛli wszystko, co chciaｩaﾛ zrobiｨ, to skopanie mi\n tyｩka w grze,\p to naprawdｪ nie musielibyﾛmy siｪ\n posuwaｨ do tego wszystkiego.\p A mｫwiｪ o bawieniu siｪ\n w udawanie prawdziwej randki.」\e
 
 [000d9d|en] 【Kei】「...\p...\pnow that you mention it...\p...」\e
 [000d9d|ru] 【Kei】「...\pTeraz,\p kiedy o tym wspominasz...」\e
@@ -4556,22 +4556,22 @@ SCR 1 UTF-8
 [000d9e|ru] ...\pProszｪ, nie mｫw mi, ｯe wｩaﾛnie przeｯyｩaﾛ objawienie?\e
 
 [000d9f|en] 【Takeru】「Didn't you want to go on a date with me\nbecause you liked me?」\e
-[000d9f|ru] 【Takeru】「Jeﾛli jesteﾛmy teraz ze sobｧ tacy szczerzy.\p\nPrzyznaj,\p wybraｩaﾛ siｪ na randkｪze mnｧ, bo tak naprawdｪ\nmnie lubisz, prawda?」\e
+[000d9f|ru] 【Takeru】「Skoro jesteﾛmy teraz ze sobｧ tacy szczerzy.\p\nPrzyznaj,\p wybraｩaﾛ siｪ na randkｪ ze mnｧ, bo tak\n naprawdｪ mnie lubisz, prawda?」\e
 
 [000da1|en] 【Kei】「Yes.」\e
 [000da1|ru] 【Kei】「Tak.」\e
 
 [000da3|en] ──*spit!*\e
-[000da3|ru] ──*spit!*\e
+[000da3|ru] ──*spluniｪcie!*\e
 
 [000da6|en] 【Voice】「No-\pno-\pnot thereeee!!\p M-\pmy shoeees!!」\e
-[000da6|ru] 【Voice】「Uh-oh, uh-oh, uh-oh! Mｫj but!!!」\e
+[000da6|ru] 【Gｩos】「Uch-och, uch-och, uch-och! Mｫj but!!!」\e
 
 [000da8|en] 【Kei】「...\p...\pfilthy.」\e
 [000da8|ru] 【Kei】「...\pObrzydliwe.」\e
 
 [000da9|en] 【Takeru】「──*cough*\p *cough!*」\e
-[000da9|ru] 【Takeru】「──*Kaszel*\p *Kaszel!*」\e
+[000da9|ru] 【Takeru】「──*Kaszlniｪcie*\p *Kaszlniｪcie*!」\e
 
 [000dab|en] 【Kei】「...\p...\pjust kidding.」\e
 [000dab|ru] 【Kei】「...\pTaka ｩatwowiernoﾛｨ.」\e
@@ -4583,7 +4583,7 @@ SCR 1 UTF-8
 [000dae|ru] 【Kei】「...\pKekeke.」\e
 
 [000daf|en] 【Takeru】「I mean, it doesn't sound like a joke when you\nsay it.」\e
-[000daf|ru] 【Takeru】「To nie tak. Po prostu nigdy nie wiem kiedy sobie\nｯartujesz, a kiedy jesteﾛ powaｯna.」\e
+[000daf|ru] 【Takeru】「To nie tak. Po prostu nigdy nie wiem,\n kiedy sobie ｯartujesz, a kiedy jesteﾛ powaｯna.」\e
 
 [000db8|en] 【Kei】「See you tomorrow then.」\e
 [000db8|ru] 【Kei】「Do jutra.」\e
@@ -4592,7 +4592,7 @@ SCR 1 UTF-8
 [000db9|ru] 【Takeru】「Cｫｯ za wyﾛmienity ｯart.」\e
 
 [000dba|en] Is she really gonna come to school?\e
-[000dba|ru] Przecieｯ i tak nawet nie ma zamiaru jutro iﾛｨ do szkoｩy, co nie?\e
+[000dba|ru] Przecieｯ i tak nawet nie ma zamiaru jutro iﾛｨ do\n szkoｩy, co nie?\e
 
 [000dbc|en] 【Kei】「...\p...\psee you.」\e
 [000dbc|ru] 【Kei】「...\pDo zobaczenia.」\e
@@ -4607,7 +4607,7 @@ SCR 1 UTF-8
 [000dc0|ru] ....\p...\pAyamine Kei.\e
 
 [000dc1|en] I just don't get you...\p...\p\e
-[000dc1|ru] Zwyczajnie na ﾛwiecie nie jestem w stanie ciebie ogarnｧｨ ...\p\e
+[000dc1|ru] Zwyczajnie na ﾛwiecie nie jestem w stanie ciebie\n ogarnｧｨ...\p\e
 
 [000dc2|en] You're too deep...\p...\e
 [000dc2|ru] Najwyraﾜniej zbyt gｩｪbokｧ jesteﾛ dla mnie osobｧ...\e
