@@ -1145,19 +1145,19 @@ SCR 1 UTF-8
 [00055e|ru] Och,\p Ayamine teｯ tu jest.\p\nJak zazwyczaj bywa, nie mam bladego pojｪcia cｫｯ\n ona tutaj moｯe robiｨ...\p\e
 
 [00055f|en] ...\p...\pstill...\e
-[00055f|ru] ...\p Powiedziawszy to...\e
+[00055f|ru] ...\pPowiedziawszy to...\e
 
 [000561|en] B-\pblack...\p...\p\nHmmm...\p...\pthose make you look pretty mature.\e
 [000561|ru] Hｪ...\p Cz-czarne...\p\nNo,\p no...\p jesteﾛ o wiele dojrzalsza niｯ sugerowaｩby\n twｫj wiek.\e
 
 [000562|en] Come to think of it,\p\nAyamine does kinda feel like a black cat.\e
-[000562|ru] Jak teraz o tym pomyﾛlｪ,\p\nAyamine trochｪ przypomina takiego czarnego kota.\e
+[000562|ru] Jak teraz o tym pomyﾛlｪ,\p Ayamine trochｪ przypomina\n takiego czarnego kota.\e
 
 [000564|en] Of course, Tama's like a cat too but...\p...\pactually,\nI should say she really is one.\e
 [000564|ru] Oczywiﾛcie, Tama teｯ coﾛ z kota posiada....\p\n Chociaｯ,\p ona raczej jest jednym z nich.\e
 
 [000565|en] But Ayamine seems like a more...\p...\psupple feline.\e
-[000565|ru] Ale po namyﾛle, myﾛlｪ, ｯe do Ayamine bardziej pasuje\n okreﾛlenie...\p "giｪtka kocica".\e
+[000565|ru] Ale po namyﾛle, uwaｯam, ｯe do Ayamine bardziej\n pasuje okreﾛlenie...\p "giｪtka kocica".\e
 
 [000566|en] Not so much a cat as...\p...\pa black panther.\e
 [000566|ru] Nie, ona jest czymﾛ wiｪcej niｯ zwyczajnym kotem...\n Jest raczej jak czarna pantera.\e
@@ -1169,7 +1169,7 @@ SCR 1 UTF-8
 [000569|ru] 【Kei】「...\p...\p」\e
 
 [00056a|en] 【Takeru】「Yo! You seem to be doing well today.」\e
-[00056a|ru] 【Takeru】「Siemaneczko! Wyglｧa na to, ｯe u ciebie\n wszystko w najlepszym porzｧdeczku.」\e
+[00056a|ru] 【Takeru】「Siemaneczko! Wyglｧda na to, ｯe u ciebie\n wszystko w najlepszym porzｧdeczku.」\e
 
 [00056b|en] 【Kei】「...\p...\pyou were staring...\p...\p...\pwhy?」\e
 [00056b|ru] 【Kei】「...\pGapiｩeﾛ siｪ...\p...\p dlaczego?」\e
@@ -1202,7 +1202,7 @@ SCR 1 UTF-8
 [00057a|ru] 【Kei】「...\pTylko ｯartowaｩam.」\e
 
 [00057c|en] 【Takeru】「...\p...\phey now.」\e
-[00057c|ru] 【Takeru】「...\pweﾜ przestaﾃ.」\e
+[00057c|ru] 【Takeru】「...\pWeﾜ przestaﾃ.」\e
 
 [000581|en] 【Takeru】「Uuu...\p...\pI'm so hungry～」\e
 [000581|ru] 【Takeru】「Uuu...\p Jestem gｩodny.～」\e
@@ -1262,7 +1262,7 @@ SCR 1 UTF-8
 [0005c7|ru] 【Kei】「...\pNiczego nie jesteﾛ mi winien.」\e
 
 [0005c8|en] 【Takeru】「You know I can't accept that.\p\nCan I at least pay you for the bread?」\e
-[0005c8|ru] 【Takeru】「Wiesz, ｯe nie mogｪ tego tak zostawiｨ.\p\n Czy jest sposｫb abym mｫgｩ spｩaciｨ swｫj dｩug?」\e
+[0005c8|ru] 【Takeru】「Wiesz, ｯe nie mogｪ tego tak zostawiｨ.\p\n Czy jest sposｫb, abym mｫgｩ spｩaciｨ swｫj dｩug?」\e
 
 [0005ca|en] 【Kei】「...\p...\pno...\p...\pI'm giving it away because I want to.」\e
 [0005ca|ru] 【Kei】「...\pNie...\p Nie podarowaｩam ci tego, poniewaｯ\n oczekiwaｩam czegoﾛ w zamian.」\e
@@ -1280,7 +1280,7 @@ SCR 1 UTF-8
 [0005cf|ru] 【Kei】「...\p...\p」\e
 
 [0005d0|en] 【Takeru】「I don't care if you train me,\p\nso how about I come here every day as thanks?」\e
-[0005d0|ru] 【Takeru】「No, bｪdｪ ciｪ tutaj codziennie odwiedzaｩ.\p\n To bｪdzie wｩaﾛnie mｫj sposｫb, aby tobie podziｪkowaｨ.\p\n Oraz nie obchodzi mnie, czy masz zamiar mnie tresowaｨ,\n albo coﾛ innego zrobiｨ.」\e
+[0005d0|ru] 【Takeru】「No, bｪdｪ ciｪ tutaj codziennie odwiedzaｩ.\p\n To bｪdzie wｩaﾛnie mｫj sposｫb, aby tobie podziｪkowaｨ.\p\n Nie obchodzi mnie, czy masz zamiar mnie tresowaｨ,\n albo coﾛ innego zrobiｨ.」\e
 
 [0005d2|en] 【Kei】「...\p...\pare you alright?」\e
 [0005d2|ru] 【Kei】「...\pA z tobｧ wszystko dobrze?」\e
@@ -1376,7 +1376,7 @@ SCR 1 UTF-8
 [00061a|ru] Nawet nie pomyﾛlaｩem, ｯe ktoﾛ moｯe\n zamiast tego uｯyｨ szczytu ogrodzenia....\p\e
 
 [00061b|en] ──Wait a minute, who sits up there!!?\e
-[00061b|ru] ──o znaczy, kto przecieｯ przy zdrowych zmysｩach\n usiadｩby tam!!?\e
+[00061b|ru] ──To znaczy, kto przecieｯ przy zdrowych zmysｩach\n usiadｩby tam!!?\e
 
 [000621|en] 【Takeru】「I'm so hungry～」\e
 [000621|ru] 【Takeru】「Stary, aleｯ ja gｩodny jestem～～」\e
@@ -2915,7 +2915,7 @@ SCR 1 UTF-8
 [000b5d|ru] 【Takeru】「Skｧd ten opｫr?」\e
 
 [000b5f|en] 【Chizuru】「Either you didn't really mean that, or you're\njust going to run away from it later.」\e
-[000b5f|ru] 【Chizuru】「Teraz oferujesz pomoc,\n ale wiem doskonale,\n ｯe przed zakoﾃczeniem zadania zdｧｯysz siｪ ulotniｨ.」\e
+[000b5f|ru] 【Chizuru】「Teraz oferujesz pomoc, ale wiem\n doskonale, ｯe przed zakoﾃczeniem zadania\n zdｧｯysz siｪ ulotniｨ.」\e
 
 [000b64|en] 【Takeru】「...\p...\pcome on...」\e
 [000b64|ru] 【Takeru】「...\pNie bｧdﾜ taka...」\e
@@ -2927,19 +2927,19 @@ SCR 1 UTF-8
 [000b6c|ru] Wyrywam jej to pudeｩko z rｧk...\p...\p Zaraz! To coﾛ waｯy\n chyba z toneee!\e
 
 [000b70|en] 【Takeru】「What the hell is this!? What's in here!?」\e
-[000b70|ru] 【Takeru】「Co do jasnej cholery?\p\n A tak w ogｫle co tam siｪ znajduje?」\e
+[000b70|ru] 【Takeru】「Co do jasnej cholery?\p\n A tak w ogｫle, co siｪ tam znajduje?」\e
 
 [000b73|en] 【Chizuru】「Stuff for the upcoming sports festival.」\e
 [000b73|ru] 【Chizuru】「Rzeczy zwiｧzane z zbliｯajｧcym siｪ\n festiwalem sportowym.」\e
 
 [000b74|en] 【Takeru】「The sports festival? Oh yeah...\p...\pthat's coming\nup soon.」\e 
-[000b74|ru] 【Takeru】「Festiwal sportowy? No tak...\p w sumie to\n juｯ caｩkiem nie dｩugo.」\e 
+[000b74|ru] 【Takeru】「Festiwal sportowy? No tak...\p w sumie to\n juｯ caｩkiem niedｩugo.」\e 
 
 [000b75|en] Two weeks from now, I think?\e
 [000b75|ru] Tak za dwa tygodnie?\e
 
 [00161f|en] 【Takeru】「Must be tough being on the student council.\p\nGotta do all these preparations for everything.\p\nSo,\p should I just carry this to the council room?」\e
-[00161f|ru] 【Takeru】「Obecnoﾛｨ w radzie uczniowskiej z pewnoﾛciｧ\n nie jest ｩatwa.\p Trzeba siｪ angaｯowaｨ w te wszystkie\n przygotowania na kaｯde moｯliwe wydarzenie. Wiｪc,\n zakｩadam, ｯe powinienem zanieﾛｨ to do sali\n samorzｧdowej?」\e
+[00161f|ru] 【Takeru】「Obecnoﾛｨ w radzie uczniowskiej z pewnoﾛciｧ\n nie jest ｩatwa.\p Trzeba siｪ angaｯowaｨ w te wszystkie\n przygotowania na kaｯde moｯliwe wydarzenie, wiｪc\n zakｩadam, ｯe powinienem zanieﾛｨ to do sali\n samorzｧdowej?」\e
 
 [001623|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [001623|ru] 【Chizuru】「...\p...\p...\p...\p」\e
@@ -2969,7 +2969,7 @@ SCR 1 UTF-8
 [000b7f|ru] 【Takeru】「Jeﾛli miaｩaﾛ tyle problemｫw, aby dostaｨ siｪ\n na pierwsze piｪtro,\p to jak zamierzaｩaﾛ siｪ dostaｨ na\n trzecie?」\e
 
 [000b81|en] 【Chizuru】「I was going to take breaks on the way, that's\nall.」\e
-[000b81|ru] 【Chizuru】「Po drodzｪ chciaｩam, robiﾛ sobie przerwy,\n to wszystko.」\e
+[000b81|ru] 【Chizuru】「Po drodze chciaｩam robiｨ sobie przerwy,\n to wszystko.」\e
 
 [000b82|en] 【Takeru】「You can't be serious.」\e
 [000b82|ru] 【Takeru】「Chyba nie jesteﾛ powaｯna.」\e
@@ -3008,10 +3008,10 @@ SCR 1 UTF-8
 [000b98|ru] 【Chizuru】「Ale nie moｯesz byｨ jednoczeﾛnie\n przewodniczｧcｧ klubu i czｩokiniｧ rady,\p wiｪc teraz im\n tylko pomagam.」\e
 
 [001540|en] 【Takeru】「Wow...\p...\paaah, that's right,\p you were the\nlacrosse team captain.」\e
-[001540|ru] 【Takeru】「ｳaｩ...\p aaach, no takt,\p przecieｯ jesteﾛ\n kapitankｧ druｯyny lacrosse.」\e
+[001540|ru] 【Takeru】「ｳaｩ...\p aaach, no fakt,\p przecieｯ jesteﾛ\n kapitankｧ druｯyny lacrosse.」\e
 
 [000b9b|en] 【Chizuru】「Which is about to be disbanded.」\e
-[000b9b|ru] 【Chizuru】「Tego, co ma zostaｨ rozwiｧzany.」\e
+[000b9b|ru] 【Chizuru】「Tego co ma zostaｨ rozwiｧzany.」\e
 
 [000b9d|en] 【Takeru】「Sooorry,\p don't be so touchy about it.」\e
 [000b9d|ru] 【Takeru】「Przepraszam, okej?\p Nie musisz mieｨ\n wiｪcej pretensji.」\e

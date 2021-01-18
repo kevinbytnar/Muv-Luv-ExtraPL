@@ -17,7 +17,7 @@ SCR 1 UTF-8
 [000145|ru] Co jest z tymi ruchami!?\e
 
 [00014b|en] He really does have higher maneuverability...\p...\e
-[00014b|ru] Ten mech na prawdｪ ma o wiele lepszｧ mobilnoﾛｨ...\e
+[00014b|ru] Ten mech naprawdｪ ma o wiele lepszｧ mobilnoﾛｨ...\e
 
 [00014c|en] You've been practicing without telling me,\p haven't you!?\e
 [00014c|ru] Czy ty\p ｨwiczysz sobie za moimi plecami!?\e
@@ -95,7 +95,7 @@ SCR 1 UTF-8
 [00023e|ru] *ka-boom*...\p...\p\e
 
 [00023f|en] ...\p...\pmy saber definitely went through the Xao-myun.\e
-[00023f|ru] ...Jestem pewien tego, ｯe moja szabla przebiｩa Xao-myun.\e
+[00023f|ru] ...Jestem pewien tego, ｯe moja szabla przebiｩa\n Xao-myun.\e
 
 [000240|en] But in the process,\p my Kaizer blew up and fell to its\nknees.\e
 [000240|ru] Ale zanim uderzenie zostaｩo zarejestrowone,\p to mｫj\n poturbowany eksplozjami Kaizer opadｩ na kolana.\p\e
@@ -113,7 +113,7 @@ SCR 1 UTF-8
 [00024d|ru] Szabla Kaizera powinna byｨ szybsza!\e
 
 [00024e|en] It's supposed to be the fastest close-quarters weapon\non any mech!!\e
-[00024e|ru] Przecieｯ jest ona najszybszｧ broniｧ biaｩｧ w caｩej grze!!\e
+[00024e|ru] Przecieｯ jest ona najszybszｧ broniｧ biaｩｧ w caｩej\n grze!!\e
 
 [000251|en] Three frames faster than the Xao-myun's punch...!!\e
 [000251|ru] Jest ona o trzy klatki szybsza niｯ uderzenie Xao-myun!!\e
@@ -146,16 +146,16 @@ SCR 1 UTF-8
 [00026f|ru] ...\p...\p...\p...\p\e
 
 [000271|en] 【Takeru】「Oh,\p it's Sumika...\p...\p」\e
-[000271|ru] 【Takeru】「Och,\p to tylko Ty, Sumika...\p」\e
+[000271|ru] 【Takeru】「Och,\p to tylko ty, Sumika...\p」\e
 
 [000272|en] 【Sumika】「Hawa...\p...\pwawa...\p...\p」\e
-[000272|ru] 【Sumika】「Hawa...\pwawa...\p」\e
+[000272|ru] 【Sumika】「Hawa...\p wawa...\p」\e
 
 [000273|en] 【Voice】「Sumika-chaaaan,\p is my stupid son up yeeeet?」\e
 [000273|ru] 【Gｩos】「Sumika-chaaaan?\p Czy mｫj beznadziejny syn\n juｯ wstaｩ?」\e
 
 [000274|en] 【Takeru】「Sumika...\p...\peven on Sundays, you're an early\nriser.\p So, what're you doing here?」\e
-[000274|ru] 【Takeru】「Sumiko...\p Jesteﾛ dosyｨ wczeﾛnie,\n nie sｧdzisz?\n W szczegｫlnoﾛci, ｯe dzisiaj jest niedziela i takie tam.\n Wiｪc? Co mogｪ dla Ciebie zrobiｨ?」\e
+[000274|ru] 【Takeru】「Sumiko...\p Jesteﾛ dosyｨ wczeﾛnie, nie\n sｧdzisz? W szczegｫlnoﾛci, ｯe dzisiaj jest niedziela\n i takie tam. Wiｪc? Co mogｪ dla ciebie zrobiｨ?」\e
 
 [000280|en] 【Sumika】「...\p...\p...\p...\p」\e
 [000280|ru] 【Sumika】「...\p...\p...\p...\p」\e
@@ -221,7 +221,7 @@ SCR 1 UTF-8
 [000318|ru] 【Takeru】「A od kiedy staｩaﾛ siｪ taka waｯna i mocna?!\p\n HM?! Masz tupet, ｯe mｫwisz mi to w taki sposｫb!」\e
 
 [00031a|en] 【Sumika】「That huuurt...\p...\p...\p...\p Why'd you do that!?」\e
-[00031a|ru] 【Sumika】「To boooolaaaｩoo... Dlaczego to zrobiｩeﾛ?!!?」\e
+[00031a|ru] 【Sumika】「To boooolaaaｩoo... Dlaczego to zrobiｩeﾛ?!」\e
 
 [00031d|en] 【Takeru】「You're the one who punched me in the face!\nI seriously thought I was about to be reincarnated!\nThis is just payback.」\e
 [00031d|ru] 【Takeru】「To ty byｩaﾛ tｧ, ktｫra mnie uderzyｩa w\n twarz! Juｯ myﾛlaｩem, ｯe zaczynam nowe ｯycie!\n A to byｩa zapｩata za tamto!」\e
@@ -245,7 +245,7 @@ SCR 1 UTF-8
 [00032b|ru] 【Sumika】「Habu!!」\e
 
 [00032f|en] 【Takeru】「Save those lines for when your breasts get\nbigger!\p Real boobs are...\p...\p Real boobs should be...\p...\p」\e
-[00032f|ru] 【Takeru】「Zachowaj to do momentu, gdy juｯ bｪdziesz\n miaｩa prawdziwe cycki! Takie prawdziwe co majｧ\n pewnｧ objｪtoﾛｨ, pewnｧ wagｪ i pewne...\p」\e
+[00032f|ru] 【Takeru】「Zachowaj to do momentu, gdy juｯ bｪdziesz\n miaｩa prawdziwe cycki! Takie co majｧ pewnｧ\n objｪtoﾛｨ, pewnｧ wagｪ i pewne...\p」\e
 
 [000358|en] 【Sumika】「Takeru-chan, youuuu...\p...\p」\e
 [000358|ru] 【Sumika】「Takeru-chan, ty...\p」\e
@@ -260,7 +260,7 @@ SCR 1 UTF-8
 [000377|ru] 【Takeru】「Gagaaaarin!!!」\e
 
 [000380|en] 【Takeru】「Geez...\p...\pit's nothing worth hitting people\nover...\p...\p」\e
-[000380|ru] 【Takeru】「Jeju... Nie ma powodu aby biｨ innych\n ludzi...\p」\e
+[000380|ru] 【Takeru】「Jeju... Nie ma powodu, aby biｨ innych\n ludzi...\p」\e
 
 [000381|en] Ow-ow-ow...\p...\p That one might've left a mark.\e
 [000381|ru] Aｩa-aｩa-aｩa...\p Lepiej ｯebym nie miaｩ po tym siniaka.\e
@@ -281,7 +281,7 @@ SCR 1 UTF-8
 [000389|ru] 【Sumika】「Nie powinieneﾛ ｯartowaｨ o tej krｫtkotrwaｩej utracie pamiｪci. Mieliﾛmy pomｫc twoim rodzicom zebraｨ\n rzeczy, ktｫre sｧ im potrzebne na ich wakacje!」\e
 
 [00038a|en] 【Takeru】「...\p...\pno one told me about this.」\e
-[00038a|ru] 【Takeru】「... Nikt mi o tym nie powiedziaｩ.」\e
+[00038a|ru] 【Takeru】「...Nikt mi o tym nie powiedziaｩ.」\e
 
 [00038c|en] 【Sumika】「Ah, that's right,\p your mom asked me to drag\nyou along today.\p She said something about her stupid\nson not listening when she told him about it.」\e
 [00038c|ru] 【Sumika】「No tak. Twoja mama poprosiｩa mnie rｫwnieｯ,\n abym zabraｩa ciｪ ze sobｧ, poniewaｯ uwaｯaｩa,\n ｯe jej "zidiociaｩy syn" nie sｩuchaｩ jej\n w momencie, gdy mu o tym powiedziaｩa.」\e
@@ -296,7 +296,7 @@ SCR 1 UTF-8
 [000390|ru] 【Takeru】「I tak w ogｫle to ich wina, ｯe mi o tym\n powiedzieli, gdy zostaｩo tak maｩo czasu!\n I dlaczego musieli oni wybraｨ "Niezrｫwnane Zimno,\n czyli peｩne syberyjskie doﾛwiadczenie" albo coﾛ w tym\n stylu? Czy oni naprawdｪ prｫbujｧ siｪ zabiｨ!?」\e
 
 [000392|en] 【Sumika】「Eh?\p Wasn't it the 'Tour of Aegean myths and\nlegends along the Silk Road'?」\e
-[000392|ru] 【Sumika】「Ech?\p Hｪ? Czy to nie byｩa przypadkiem:\n"Podrｫｯ po egejskich mitach i legendach\n wzdｩuｯ jedwabnego szlaku"??」\e
+[000392|ru] 【Sumika】「Ech?\p Hｪ? Czy to nie byｩa przypadkiem:\n"Podrｫｯ po egejskich mitach i legendach\n wzdｩuｯ jedwabnego szlaku"?」\e
 
 [000393|en] 【Takeru】「Huh?」\e
 [000393|ru] 【Takeru】「Hｪ?」\e
@@ -308,16 +308,16 @@ SCR 1 UTF-8
 [000396|ru] 【Takeru】「Ale to nie jest to o czym mｫwiｩ mi mｫj\n tata.」\e
 
 [000399|en] 【Sumika】「He did?」\e
-[000399|ru] 【Sumika】「Naprawdｪ??」\e
+[000399|ru] 【Sumika】「Naprawdｪ?」\e
 
 [00039a|en] 【Takeru】「...\p...\pso,\p what are we gonna buy?」\e
-[00039a|ru] 【Takeru】「...Wiｪc, jaka jest ta nasza lista zakupｫw??」\e
+[00039a|ru] 【Takeru】「...Wiｪc, jaka jest ta nasza lista zakupｫw?」\e
 
 [00039c|en] 【Sumika】「Super Sunscreen from TQ Arms, and...\p...\p」\e
 [00039c|ru] 【Sumika】「Super krem do opalania z TQ Arms, oraz...\p」\e
 
 [00039d|en] 【Takeru】「...\p...\pthey wouldn't need that in Siberia, would\nthey?」\e
-[00039d|ru] 【Takeru】「...Oni raczej nie bｪdｧ tego potrzebowaｨ na \nSyberii, a moｯe jednak??」\e
+[00039d|ru] 【Takeru】「...Oni raczej nie bｪdｧ tego potrzebowaｨ na \nSyberii, czy oni...?」\e
 
 [00039f|en] 【Sumika】「They're going to the Aegean Sea. Definitely.」\e
 [00039f|ru] 【Sumika】「To zdecydowanie bｪdzie ci potrzebne,\n gdy bｪdziesz siｪ znajdowaｨ nad morzem Egejskim...」\e
@@ -335,10 +335,10 @@ SCR 1 UTF-8
 [0003a8|ru] 【Sumika】「Przynajmniej zadzwoﾃ do nich i zapytaj.」\e
 
 [0003aa|en] 【Takeru】「Those two have this serious,\p fundamental\ninability to communicate.\p This mess ought to teach them\na lesson.」\e
-[0003aa|ru] 【Takeru】「ci dwaj majｧ naprawdｪ powaｯnｧ podstawowｧ\n niezdolnoﾛｨ do komunikowania siｪ.\n Niech to bｪdzie dla nich lekcja.」\e
+[0003aa|ru] 【Takeru】「Ci dwaj majｧ naprawdｪ powaｯnｧ podstawowｧ\n niezdolnoﾛｨ do komunikowania siｪ.\n Niech to bｪdzie dla nich lekcja.」\e
 
 [0003af|en] 【Sumika】「Looking at Takeru-chan,\p that kinda makes\nsense...\p...\p」\e
-[0003af|ru] 【Sumika】「Patrzｧc na Ciebie jaki wyszedｩeﾛ to mogｪ\n w coﾛ takiego uwierzyｨ...\p」\e
+[0003af|ru] 【Sumika】「Patrzｧc na ciebie jaki wyszedｩeﾛ to mogｪ\n w coﾛ takiego uwierzyｨ...\p」\e
 
 [0003b7|en] 【Sumika】「Owieee!!!」\e
 [0003b7|ru] 【Sumika】「Aｩaa!!!」\e
@@ -368,7 +368,7 @@ SCR 1 UTF-8
 [0003d5|ru] 【Sumika】「Takeru-chaaan, pomｫｯ mi trochｪ\n z tymi zakupami...\p」\e
 
 [0003d8|en] 【Takeru】「Wow,\p now that the culture festival's over,\p it\nreally does feel like autumn...\p...\phow to put this...\p...\pit has\nthis relaxing feel to it, making you want to leave things\nunfinished...\p...\p」\e
-[0003d8|ru] 【Takeru】「ｳaｩ.\p Teraz, kiedy festiwal kultury siｪ\n skoﾃczyｩ w koﾃcu zaczyna powoli czuｨ jesieniｧ...\n To wszystko sprawia, ｯe mam ochotｪ poｩoｯyｨ siｪ i ｯyｨ\n sobie bez ｯadnych zmartwieﾃ...\p\nNo, wiesz co mam na myﾛli?...\p」\e
+[0003d8|ru] 【Takeru】「ｳaｩ.\p Teraz, kiedy festiwal kultury siｪ\n skoﾃczyｩ, w koﾃcu zaczyna powoli czuｨ jesieniｧ...\n To wszystko sprawia, ｯe mam ochotｪ poｩoｯyｨ siｪ i ｯyｨ\n sobie bez ｯadnych zmartwieﾃ...\p\nNo, wiesz co mam na myﾛli?...\p」\e
 
 [0003da|en] 【Sumika】「Heeey...\p...\pthese are heavy...\p...\p」\e
 [0003da|ru] 【Sumika】「Halo... One sｧ naprawdｪ ciｪｯkie...\p」\e
@@ -425,7 +425,7 @@ SCR 1 UTF-8
 [000402|ru] 【Sumika】「Taak.」\e
 
 [000403|en] Yikes...\p...\pher family really is rich...\p...\p\e
-[000403|ru] Kurcze...\p jej rodzina jest o wiele bogatsza,\n niｯ na poczｧtku myﾛlaｩem...\p\e
+[000403|ru] Kurczę...\p jej rodzina jest o wiele bogatsza,\n niｯ na poczｧtku myﾛlaｩem...\p\e
 
 [000405|en] 【Sumika】「Actually...\p...\p...\pmy parents are going out\nsoon...\p...\p...\p...\pso maybe...\p...\p...\pyou could...\p...\p...\pcome over to\nmy place?」\e
 [000405|ru] 【Sumika】「Hej, wiｪc...\p skoro twoi rodzice bｪdｧ\n poza miastem... czy moｯe chciaｩbyﾛ...\npｫjﾛｨ zjeﾛｨ do mnie?」\e
@@ -452,19 +452,19 @@ SCR 1 UTF-8
 [000411|ru] 【Takeru】「Super!!\p\n Zacznijmy moｯe od smaｯonego ryｯu...\p」\e
 
 [000413|en] 【Sumika】「Aaah...\p...\pthat would be good...\p...\p」\e
-[000413|ru] 【Sumika】「Ochh... Zabrzmiaｩo bardzo smacznie...」\e
+[000413|ru] 【Sumika】「Och... Zabrzmiaｩo bardzo smacznie...」\e
 
 [000414|en] 【Takeru】「Then...\p...\pbarbeque I think it was?\p\nThat'd be nice...\p...\p」\e
-[000414|ru] 【Takeru】「I nastｪpnie... co myﾛlisz moｯe o grillu?\n To teｯ powinno byｨ bardzo dobre.\p」\e
+[000414|ru] 【Takeru】「I nastｪpnie... co myﾛlisz o grillu?\n To teｯ powinno byｨ bardzo dobre.\p」\e
 
 [000417|en] 【Sumika】「All we have is a hot plate...\p...\p」\e
 [000417|ru] 【Sumika】「Dobrze, ale jeﾛli chcesz grillowaｨ w\nten gorｧcy dzieﾃ to przypuszczam, ｯe moｯe pojawiｨ\n siｪ problem...\p」\e
 
 [000418|en] 【Takeru】「Not.\p A.\p Problem!!\p Aaah, that's right, that's\nright!!\p I mustn't forget that.」\e
-[000418|ru] 【Takeru】「Nie bｪdzie\p ｯadnego problemu!!\p\n A, no wｩaﾛnie!! UH!\n Jak mogｩem zapomnieｨ o daniu gｩｫwnym?」\e
+[000418|ru] 【Takeru】「Nie bｪdzie\p ｯadnego problemu!!\p\n A, no wｩaﾛnie!! UCH!\n Jak mogｩem zapomnieｨ o daniu gｩｫwnym?」\e
 
 [00041a|en] 【Sumika】「What? What is it?」\e
-[00041a|ru] 【Sumika】「Ochhh, o jakim daniu gｩｫwnym mｫwisz??」\e
+[00041a|ru] 【Sumika】「Ochhh, o jakim daniu gｩｫwnym mｫwisz?」\e
 
 [00041b|en] 【Takeru】「Steamed dobin!」\e
 [00041b|ru] 【Takeru】「Steamed dobin!」\e
@@ -473,7 +473,7 @@ SCR 1 UTF-8
 [00041d|ru] 【Sumika】「Steamed dobin?」\e
 
 [00041e|en] 【Takeru】「You've never heard of it?\p\nYou take a dobin\p - a kind of teapot -\p then put sea\nbreams, shrimp, matsutake and sauces into it, and boil\nthe whole thing.」\e
-[00041e|ru] 【Takeru】「Nigdy o nim nie sｩyszaｩaﾛ? Bierzesz dobin - rodzaj czajnika - wrzucasz do niego\n kilka leszczy, krewetek,\n matsutake i sosｫw, a nastｪpnie\n gotujesz caｩoﾛｨ.」\e
+[00041e|ru] 【Takeru】「Nigdy o nim nie sｩyszaｩaﾛ? Bierzesz dobin - rodzaj czajnika - wrzucasz do niego kilka\n leszczy, krewetek, matsutake i sosｫw,\n a nastｪpnie gotujesz caｩoﾛｨ.」\e
 
 [000420|en] 【Sumika】「Wow,\p breams and shrimp?\p\nThat would be such a luxury...\p...」\e
 [000420|ru] 【Sumika】「Wow,\p leszcze i krewetki?\p\n Brzmi caｩkiem przepysznie...\p」\e
@@ -524,7 +524,7 @@ SCR 1 UTF-8
 [00044a|ru] 【Sumika】「A za co to niby byｩo!? Wiesz, ｯe to\n bolaｩo!!!」\e
 
 [00044b|en] 【Takeru】「You are just...\p...\pyou are...\p...\p...\p...\pgaaa!!\nAnyway, you aren't talking about matsutake!!」\e
-[00044b|ru] 【Takeru】「Dlaczego, ty maｩa... ty maｩa...\n ECH!! Cholera, to wcale nie sｧ matsutake !!!」\e
+[00044b|ru] 【Takeru】「Dlaczego, ty maｩa... ty maｩa...\n ECH!! Cholera, to wcale nie sｧ matsutake!!!」\e
 
 [00044d|en] 【Sumika】「You...\p...\p」\e
 [00044d|ru] 【Sumika】「Wystarczy juｯ tego!\p」\e
@@ -539,7 +539,7 @@ SCR 1 UTF-8
 [00045a|ru] 【Sumika】「Myﾛlaｩam, ｯe ci mｫwiｩam, ｯe to BOLAｳO!!!!!」\e
 
 [000463|en] 【Sumika】「...\p...\pheeey,\p you alive?」\e
-[000463|ru] 【Sumika】「...\pHeeej, jesteﾛ caｩy??」\e
+[000463|ru] 【Sumika】「...\pHeeej, jesteﾛ caｩy?」\e
 
 [00046c|en] 【Sumika】「Takeru-chaaaaan?」\e
 [00046c|ru] 【Sumika】「Takeru-chaaaaan?」\e
@@ -551,7 +551,7 @@ SCR 1 UTF-8
 [000479|ru] 【Sumika】「...\p...\p...\p...\p」\e
 
 [000482|en] 【Sumika】「This is embarrassing, so...\p...\p\nI'm going home, okay?」\e
-[000482|ru] 【Sumika】「To trochｪ krｪpujｧce, wiｪc...\n Ja juｯ sobie pｫjdｪ do domu, okej??」\e
+[000482|ru] 【Sumika】「To trochｪ krｪpujｧce, wiｪc...\n Ja juｯ sobie pｫjdｪ do domu, okej?」\e
 
 [000484|en] Oh no you don't!\e
 [000484|ru] Och nie, nie pｫjdziesz!\e
@@ -563,7 +563,7 @@ SCR 1 UTF-8
 [000492|ru] 【Takeru】「Suuumiiikaaaaa!!」\e
 
 [000494|en] 【Sumika】「Ah,\p you were alive?」\e
-[000494|ru] 【Sumika】「Och,\p jesteﾛ caｩy??」\e
+[000494|ru] 【Sumika】「Och,\p jesteﾛ caｩy?」\e
 
 [000496|en] 【Takeru】「...\p...\pI can't believe...\p...\pyou'd just leave me here to\ndie...\p...\p」\e
 [000496|ru] 【Takeru】「...Nie mogｪ w to uwierzyｨ!\n Zostawiｩabyﾛ mnie tutaj na pewnｧ ﾛmierｨ...\p」\e
@@ -641,7 +641,7 @@ SCR 1 UTF-8
 [0004c7|ru] 【Sumika】「Ale...\p」\e
 
 [0004cd|en] 【Takeru】「...\p...\p*sigh*...\p...\pso, what do you want to eat?」\e
-[0004cd|ru] 【Takeru】「...\p*echhhh*...\nWiｪc, co chciaｩabyﾛ zjeﾛｨ?」\e
+[0004cd|ru] 【Takeru】「...\p*Westchnięcie*...\nWiｪc, co chciaｩabyﾛ zjeﾛｨ?」\e
 
 [0004d0|en] 【Sumika】「Eh!!?\p Really!!?」\e
 [0004d0|ru] 【Sumika】「Ech!!?\p Naprawdｪ!!?」\e
@@ -674,10 +674,10 @@ SCR 1 UTF-8
 [0004de|ru] Sprawdzaｩaﾛ moｯe czy majｧ tam jakieﾛ specjalne\n promocje?\p Juｯ to zrobiｩem! Tak to prawda,\n sprawdziｩem juｯ.\e
 
 [0004e0|en] The shining, radiant king of the mountains: Matsutake\nMeal for 1,890 yen!!\p And no restaurant would ever lie\nabout that.\p They're real matsutake!\e
-[0004e0|ru] Olﾛniewajｧcy, promienisty krｫl gｫr:\n posiｩek Matsutake tylko za 1890 jenｫw!!\p\n  I na pewno ｯadna restauracja nigdy by nie kｩamaｩa\n w tej sprawie. I to jest prawdziwy matsutake!\e
+[0004e0|ru] Olﾛniewajｧcy, Promienisty Krｫl Gｫr:\n posiｩek matsutake tylko za 1890 jenｫw!!\p\n  I na pewno ｯadna restauracja nigdy by nie kｩamaｩa\n w tej sprawie. I to jest prawdziwy matsutake!\e
 
 [0004e2|en] Ah,\p with the rice and vegetables on the side,\p it'd be\nanother 150 yen.\nHu-hu-hu...\p...\plooks like I really will get what I wanted.\e
-[0004e2|ru] Acha, a za dodatkowe 150 jenｫw mogｪ dodaｨ duｯｧ warstwｪ\n smaｯonego ryｯu He he he... Wyglｧda na to, ｯe w koﾃcu\n i tak osiｧgnｪ to co od poczｧtku chciaｩem.\e
+[0004e2|ru] Acha, a za dodatkowe 150 jenｫw mogｪ dodaｨ duｯｧ warstwｪ\n smaｯonego ryｯu Hehehe... Wyglｧda na to, ｯe w koﾃcu\n i tak osiｧgnｪ to co od poczｧtku chciaｩem.\e
 
 [0004e4|en] 【Sumika】「Ah,\p only 750 yen per person.」\e
 [0004e4|ru] 【Sumika】「Och, cｫｯ, ale daｩa mi tylko 750 jenｫw\n na gｩowｪ...」\e
@@ -701,7 +701,7 @@ SCR 1 UTF-8
 [0004fc|ru] 【Takeru】「TO NIEDOPUSZCZALNE!」\e
 
 [000500|en] 【Sumika】「Ah,\p it's a dog! Look Takeru-chan, it's a dog!\p\p\nHeeey,\p doggieee,\p doggieee!!」\e
-[000500|ru] 【Sumika】「Ochh, spｫjrz! Szczeniak! Spｫjrz Takeru,\n tam jest szczeniak! Hej maｩy! Tuuuutaj malutki!!!!」\e
+[000500|ru] 【Sumika】「Och, spｫjrz! Szczeniak! Spｫjrz Takeru,\n tam jest szczeniak! Hej maｩy! Tuuuutaj malutki!!!!」\e
 
 [00050b|en] 【Takeru】「Ugaa!!!」\e
 [00050b|ru] 【Takeru】「Ugaa!!!」\e
@@ -710,7 +710,7 @@ SCR 1 UTF-8
 [000513|ru] 【Sumika】「Hej!! Co to miaｩo byｨ!? Przestraszyｩeﾛ go\n i przez to nam uciekｩ!!」\e
 
 [000517|en] 【Takeru】「When did my Matsutake Meal change into this\nordinary hamburger!?」\e
-[000517|ru] 【Takeru】「W ktｫrym momencie mｫj cenny posiｩek\n Matsutake zmieniｩ siｪ w zwykｩego, starego\n hamburgera!?!?」\e
+[000517|ru] 【Takeru】「W ktｫrym momencie mｫj cenny posiｩek\n matsutake zmieniｩ siｪ w zwykｩego, starego\n hamburgera!?!?」\e
 
 [000519|en] 【Sumika】「You're still whining about that...\p...\p」\e
 [000519|ru] 【Sumika】「A ty nadal o tym...?\p」\e
@@ -725,7 +725,7 @@ SCR 1 UTF-8
 [00051d|ru] 【Takeru】「Odmawiam zaakceptowania tego!!!!」\e
 
 [00051f|en] 【Sumika】「Then I guess you won't be needing this.\p\nHeeey,\p doggie!\p Doggieee!!\p I have food～」\e
-[00051f|ru] 【Sumika】「Wiｪc domyﾛlam siｪ, ｯe nie bｪdziesz tego juｯ\n potrzebowaｩ. Piesku podejdﾜ tutaj! Tutaj maｩy!!\n Mam jedzonko dla ciebie!～」\e
+[00051f|ru] 【Sumika】「Wiｪc domyﾛlam siｪ, ｯe nie bｪdziesz już tego\n potrzebowaｩ. Piesku podejdﾜ tutaj! Tutaj maｩy!!\n Mam jedzonko dla ciebie!～」\e
 
 [000524|en] 【Takeru】「Give that back!!」\e
 [000524|ru] 【Takeru】「Oddawaj to z powrotem!!」\e
@@ -737,7 +737,7 @@ SCR 1 UTF-8
 [000529|ru] 【Takeru】　──MNIAM MNIAM MNIAM...\p\e
 
 [0008ff|en] 【Sumika】「Ah, \pah...\p...\p...\p...\p Really now,\p sit down and eat\nslower.」\e
-[0008ff|ru] 【Sumika】「Hej...\p Daj spokoj.\n Usiｧdﾜ i przeｯuj jedzenie.」\e
+[0008ff|ru] 【Sumika】「Hej...\p Daj spokój.\n Usiｧdﾜ i przeｯuj jedzenie.」\e
 
 [00052e|en] 【Takeru】「Shud uhp! Nn...\p...\p*gulp*...\p...\p*gulp*...\p...\p」\e
 [00052e|ru] 【Takeru】「Cicho bｧdﾜ! Mmmm mniam mniam...\p」\e
@@ -770,7 +770,7 @@ SCR 1 UTF-8
 [000548|ru] 【Takeru】「Ach!? Hej!!!」\e
 
 [00054b|en] Damn this stupid dog...\p...\pthose little round eyes of yours\nare just asking for it!!\e
-[00054b|ru] Niech szlag trafi tego gｩupiego psa...\p\nPrzestaﾃ patrzeｨ na mnie tymi maｩymi oczami!\e
+[00054b|ru] Niech szlag trafi tego gｩupiego psa...\p\nPrzestaﾃ patrzeｨ na mnie tymi maｩymi oczkami!\e
 
 [00054d|en] 【Takeru】「Grrrrrrrrrrrr...\p...\p」\e
 [00054d|ru] 【Takeru】「Grrrrrrrrrrrr...\p...\p」\e
@@ -812,7 +812,7 @@ SCR 1 UTF-8
 [000567|ru]  Rozumiem...\p Wiｪc przybraｩaﾛ tｧ powierzchownｧ dobroｨ,\n ktｫrｧ uｯywasz tylko do oszukiwania obcych ci ludzi.\p\e
 
 [000568|en] 【Sumika】「It's been a long time since we last ate\ntogether like this,\p hasn't it?」\e
-[000568|ru] 【Sumika】「No, ale wiesz? Chyba juｯ trochｪ czasu\n minｪｩo od momentu kiedy sobie tak siedzieliﾛmy i razem\n jedliﾛmy posiｩek, prawda??」\e
+[000568|ru] 【Sumika】「No, ale wiesz? Chyba juｯ trochｪ czasu\n minｪｩo od momentu kiedy sobie tak siedzieliﾛmy i razem\n jedliﾛmy posiｩek, prawda?」\e
 
 [000569|en] 【Takeru】「...\p...\pnn?」\e
 [000569|ru] 【Takeru】「...Hmm??」\e
@@ -827,7 +827,7 @@ SCR 1 UTF-8
 [00056c|ru] 【Sumika】「Kiedy byliﾛmy w przedszkolu i tak dalej.」\e
 
 [00056d|en] ...\p...\pway too long ago. It's been more than a while.\e
-[00056d|ru] ...Zbyt dawno abym mｫgｩ pamiｪtaｨ...\p\n I nazwaｩbym to czymﾛ  wiｪcej niｯ tylko "chwilｧ".\e
+[00056d|ru] ...Zbyt dawno abym mｫgｩ pamiｪtaｨ...\p\n I nazwaｩbym to czymﾛ wiｪcej niｯ tylko "chwilｧ".\e
 
 [00056e|en] 【Sumika】「You know,\p in that park...\p...\pnear our houses...\p...\p」\e
 [00056e|ru] 【Sumika】「Pamiｪtasz?\p Jak jedliﾛmy razem w tym parku?\n W tym co znajduje przed naszymi domami...\p」\e
@@ -842,7 +842,7 @@ SCR 1 UTF-8
 [000571|ru] 【Takeru】「Pamiｪtam.」\e
 
 [000579|en] Back then, my friends and I used to compete to see\nhow high up the walls we could pee.\e
-[000579|ru] Wtedy ja i moi przyjaciele uｯywaliﾛmy tego miejsca\n do rywalizacji w ktｫrej chodziｩo o to kto jak najwyｯej\n obsika ﾛcianｪ muru.\e
+[000579|ru] Wtedy ja i moi przyjaciele uｯywaliﾛmy tego miejsca\n do rywalizacji, w ktｫrej chodziｩo o to kto jak najwyｯej\n obsika ﾛcianｪ muru.\e
 
 [00057a|en] Actually,\p we started doing that at your house,\p but your\nmom got mad, so we moved to the park instead.\e
 [00057a|ru] Choｨ technicznie rzecz biorｧc, zaczｪliﾛmy to robiｨ\n na twoim domie. Ale wtedy twoja mama bardzo siｪ\n zdenerwowaｩa, wiｪc musieliﾛmy przenieﾛｨ siｪ do parku.\e
@@ -1055,7 +1055,7 @@ SCR 1 UTF-8
 [0005f5|ru] 【Takeru】「...No co jest?\p Czyｯby nie smakowaｩ ci\n hamburger???」\e
 
 [0005f7|en] 【Sumika】「No, not that...\p...\pmore importantly,\p today was\nfun, don't you think?」\e
-[0005f7|ru] 【Sumika】「Nie, to nie to...\p Ale tak czy inaczej...\p\n Dzisiaj byｩo caｩkiem fajnie, prawda??」\e
+[0005f7|ru] 【Sumika】「Nie, to nie to...\p Ale tak czy inaczej...\p\n Dzisiaj byｩo caｩkiem fajnie, prawda?」\e
 
 [0005f8|en] 【Takeru】「Hmmm?」\e
 [0005f8|ru] 【Takeru】「Hmmm?」\e
@@ -1136,19 +1136,19 @@ SCR 1 UTF-8
 [000620|ru] 【Takeru】「Hm? ...Gdy o tym wspominasz to szczerze\n nawet ich nie zapytaｩem o to.」\e
 
 [000622|en] 【Sumika】「I can't believe you...\p...\p」\e
-[000622|ru] 【Sumika】「Nie wierzｪ w ciebie...\p」\e
+[000622|ru] 【Sumika】「Nie wierzｪ ci...\p」\e
 
 [000623|en] 【Takeru】「It doesn't matter.\p What I need is neither tundra\nnor myth.\p It's personal freedom!」\e
 [000623|ru] 【Takeru】「Nie potrzebujｪ ｯadnych mitｫw i tundr.\p\n Jedyne czego potrzebujｪ to mojej osobistej wolnoﾛci!!」\e
 
 [000625|en] 【Sumika】「But I'm still gonna come wake you up\ntomorrow, okay?」\e
-[000625|ru] 【Sumika】「Jutro teｯ przyjdｪ ciｪ obudziｨ,\n wiesz o tym??」\e
+[000625|ru] 【Sumika】「Jutro teｯ przyjdｪ ciｪ obudziｨ,\n wiesz o tym?」\e
 
 [000626|en] 【Takeru】「Hu-hu-hu, how are you gonna do that?\p\nMy mom's up in the wild blue yonder right about now.」\e
 [000626|ru] 【Takeru】「I niby jak masz zamiar to zrobiｨ? Haha.\p\n Jesteﾛ teraz nikim bez twojego sｩugi i mojej mamy.」\e
 
 [000628|en] 【Sumika】「I'll do it! No matter what, I will wake you up!!」\e
-[000628|ru] 【Sumika】「Nie waｯne co, ale i tak przyjdｪ i ciｪ\n obudzｪ!」\e
+[000628|ru] 【Sumika】「Nie waｯne jak, ale i tak przyjdｪ i ciｪ\n obudzｪ!」\e
 
 [000629|en] 【Takeru】「Oooh?」\e
 [000629|ru] 【Takeru】「Oooch?」\e
@@ -1166,7 +1166,7 @@ SCR 1 UTF-8
 [00062f|ru] 【Takeru】「Ccc-ooo...\p?」\e
 
 [000631|en] 【Sumika】「You'd better not forget those words.\p\p\p\nHu!\p Hu!\p Huuu!\p Well then,\p good night～」\e
-[000631|ru] 【Sumika】「ﾂebyﾛ pamiｪtaｩ to co powiedziaｩeﾛ!\n Ha ha ha! Okej, dobranoc～!」\e
+[000631|ru] 【Sumika】「ﾂebyﾛ pamiｪtaｩ to co powiedziaｩeﾛ!\n Hahaha! Okej, dobranoc～!」\e
 
 [000635|en] 【Takeru】「Hey,\p wait...\p...\p」\e
 [000635|ru] 【Takeru】「Hej,\p poczekaj...\p」\e
@@ -1202,7 +1202,7 @@ SCR 1 UTF-8
 [000644|ru] Moｯe zapytam jutro Mikoto, aby poszedｩ ze mnｧ\n po szkole do salonu gier.\e
 
 [000645|en] Still...\p...\pI bought this hardware for the sole purpose of\nmarathoning,\p and then they stop making games for it...\p...\p\e
-[000645|ru] Kupiｩem tｪ konsolｪ Dramcost jedynie dla tej jednej gry.\p\n Ale nadal nie mogｪ uwierzyｨ, ｯe juｯ ich nie\n produkujｧ... \p\e
+[000645|ru] Kupiｩem tą konsolｪ Dramcost jedynie dla tej jednej gry.\p\n Ale nadal nie mogｪ uwierzyｨ, ｯe juｯ ich nie\n produkujｧ... \p\e
 
 [000646|en] The next one should be coming out for the PS2.\e
 [000646|ru] Przypuszczam, ｯe kolejna czｪﾛｨ wyjdzie na PS2.\e

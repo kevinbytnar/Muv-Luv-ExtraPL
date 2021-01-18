@@ -74,7 +74,7 @@ SCR 1 UTF-8
 [000044|ru] 【Kobieta】「Wyglｧda na to, ｯe moje ｯycie tutaj nie\n bｪdzie ｩatwe, ale niech tak bｪdzie...\p\n Byｩam na to przygotowana...」\e
 
 [000045|en] ...\p...\pwhat?\e
-[000045|ru] ...\pHuh??\e
+[000045|ru] ...\pHę?\e
 
 [000046|en] But...\p...\pI'm...\p...\pI'm not prepared to share a bed with you...\p...\p\e
 [000046|ru] Ale..\p Ja..\p Nie jestem przygotowany na dzielenie\n ｩｫｯka z tobｧ...\p\e
@@ -389,7 +389,7 @@ SCR 1 UTF-8
 [0001d8|ru] 【Takeru】「Rozumiem...\p」\e
 
 [0001da|en] 【Sumika】「After all,\p you never listen to what anyone else\nsays.\p It's far too late to do anything about that,\p ahaha...\p...\p」\e
-[0001da|ru] 【Sumika】「W koﾃcu  i tak nigdy nie sｩuchasz tego\n co ktoﾛ ma ci do powiedzenia.\p Oraz nie zapowiada siｪ,\nｯe coﾛ w tej sprawie siｪ zmieni w najbliｯszym czasie,\p\n hahaha...\p」\e
+[0001da|ru] 【Sumika】「W koﾃcu  i tak nigdy nie sｩuchasz tego\n co ktoﾛ ma ci do powiedzenia,\p oraz nie zapowiada siｪ,\nｯe coﾛ w tej sprawie siｪ zmieni w najbliｯszym czasie,\p\n hahaha...\p」\e
 
 [0001db|en] 【Takeru】「Didn't you just say something really cruel in a\ncasual tone?」\e
 [0001db|ru] 【Takeru】「Czy tylko mi siｪ wydaje, ale czy tam byｩa\n jakaﾛ dobrze ukryta zniewaga?」\e
@@ -494,7 +494,7 @@ SCR 1 UTF-8
 [00023d|ru] Cholera...\p Zablokowaｩa to swojｧ torbｧ.\e
 
 [000240|en] 【Sumika】「He-\pheeen,\p you won't be hitting me anymore.」\e
-[000240|ru] 【Sumika】「He-\pheeen,\p juｯ nigdy mnie nie uderzysz.\nJuｯ siｪ ciebie nie bojｪ!」\e
+[000240|ru] 【Sumika】「He-\phehe,\p juｯ nigdy mnie nie uderzysz.\nJuｯ siｪ ciebie nie bojｪ!」\e
 
 [000241|en] 【Takeru】「...\p...\pah! There's a ghost over there!」\e
 [000241|ru] 【Takeru】「...\pPatrz! Tam jest duch!」\e
@@ -518,7 +518,7 @@ SCR 1 UTF-8
 [000260|ru] Coﾛ wystrzeliｩo w powietrze i wylｧdowaｩo na mojej\n twarzy...\p Co to jest...?\e
 
 [000262|en] It's that doll Sumika always has on her book bag.\nIt's always in a Santa suit for some reason...\p...\pthis\nstrange little...\p...\pthis strange...\p...\pummm...\p...\p\e
-[000262|ru] To ta lalka, ktｫrｧ Sumika zawsze przywiｧzuje  do swojej\n torby z ksiｧｯkami. I z jakiegoﾛ powodu przez caｩy rok\n to coﾛ ma na sobie kostium ﾚwiｪtego Mikoｩaja...\p\nW sumie...\p to trochｪ dziwne... ummm...\p\e
+[000262|ru] To ta lalka, ktｫrｧ Sumika zawsze przywiｧzuje do swojej\n torby z ksiｧｯkami. I z jakiegoﾛ powodu przez caｩy rok\n to coﾛ ma na sobie kostium ﾚwiｪtego Mikoｩaja...\p\nW sumie...\p to trochｪ dziwne... ummm...\p\e
 
 [000264|en] 【Sumika】「Owieeee...\p...\pI thought I was gonna die～～」\e
 [000264|ru] 【Sumika】「Aｩa...\p Myﾛlaｩam, ｯe juｯ po mnie～～!」\e
@@ -695,7 +695,7 @@ SCR 1 UTF-8
 [00030c|ru] 【Takeru】「A tak przy okazji, Przedstawicielko.\n Czy dzisiejszego poranka teｯ wypeｩniｩaﾛ swoje obowiｧzki\n w druｯynie Lacrosse?」\e
 
 [00030e|en] 【Class Rep】「...\p...\pI did.\p Why do you ask?」\e
-[00030e|ru] 【Przedstawicielka】「...\pTak, zrobiｩam to.\n A tak w ogｫle co ciｪ to obchodzi?」\e
+[00030e|ru] 【Przedstawicielka】「...\pTak, zrobiｩam to.\n A tak w ogｫle, co ciｪ to obchodzi?」\e
 
 [00030f|en] 【Takeru】「Right after the cultural festival...\p...\pthat's not\ngood...\p...\p All that exercise makes it really easy for blood\nto rush to your head.\p\nTake a break and smell the roses once in a while.」\e
 [00030f|ru] 【Takeru】「ｳaaaｩ, ｨwiczysz nawet mimo tego, ｯe\n dopiero skoﾃczyｩ siｪ festiwal kultury?\p Nie zrozum\n mnie ﾜle, podziwiam twoje oddanie, ale czy nie\n uwaｯasz, ｯe moｯe pracujesz trochｪ, no nie wiem, za\n ciｪｯko? Naucz siｪ odrobinkｪ odpoczywaｨ chociaｯ\n czasami. Zapewniam, ｯe twoje ciﾛnienie krwi bｪdzie ci\n za to wdziｪczne.」\e
@@ -707,7 +707,7 @@ SCR 1 UTF-8
 [000314|ru] 【Sumika】「Ech?\p Mi?」\e
 
 [000316|en] 【Class Rep】「If you're seen arriving late and making all\nthat noise, the teacher's going to get mad at you too,\nKagami-san, not just Shirogane-kun.」\e
-[000316|ru] 【Przedstawicielka】「Jeﾛli Sumika zostanie zauwaｯona\n na waszym wspｫlnym spｫﾜnianiu siｪ to z pewnoﾛciｧ\n dostanie od nauczyciela reprymendｪ i ty o tym dobrze\n wiesz. \e
+[000316|ru] 【Przedstawicielka】「Jeﾛli Sumika zostanie zauwaｯona\n na waszym wspｫlnym spｫﾜnianiu siｪ, to z pewnoﾛciｧ\n dostanie od nauczyciela reprymendｪ i ty o tym dobrze\n wiesz. \e
 
 [000319|en] 【Takeru】「Eeeh? But she never wakes me up early\nenough.\p There's nothing I can do about that.\n Right, Sumika?」\e
 [000319|ru] 【Takeru】「ﾂe co? Ale spｫjrz na to tak, problem polega\n na tym, ｯe ona nigdy nie budzi mnie wystarczajｧco\n wczeﾛnie. A ja nic na to nie mogｪ poradziｨ.\n Prawda Sumiko?」\e
@@ -740,7 +740,7 @@ SCR 1 UTF-8
 [000332|ru] 【Takeru】「Hej, dajcie juｯ spokｫj\p...」\e
 
 [000334|en] 【Class Rep】「Anyway, Shirogane-kun, while I can't stop\nyou from being late, you can't make this much noise in\nthe classroom!」\e
-[000334|ru] 【Przedstawicielka】「W kaｯdym bｧdﾜ razie,\n Shirogane-kun, nic nie mogｪ zrobiｨ z twoim ciｧgｩym\n spoﾛnianiem siｪ, ale przynajmniej przestaﾃ robiｨ\n takie zamieszanie za kaｯdym razem kiedy jesteﾛ w\n naszej klasie!」\e
+[000334|ru] 【Przedstawicielka】「W kaｯdym bｧdﾜ razie,\n Shirogane-kun, nic nie mogｪ zrobiｨ z twoim ciｧgｩym\n spｫﾜnianiem siｪ, ale przynajmniej przestaﾃ robiｨ\n takie zamieszanie za kaｯdym razem, kiedy jesteﾛ w\n naszej klasie!」\e
 
 [000335|en] 【Takeru】「Sumika's the one who started it...\p...\p」\e
 [000335|ru] 【Takeru】「Ale to Sumika zaczｪｩa...\p」\e
@@ -752,7 +752,7 @@ SCR 1 UTF-8
 [000339|ru] 【Takeru】「Dobrze, dobrze, zrozumiaｩem.\n Tylko nie patrz tak na mnie.」\e
 
 [00033b|en] 【Class Rep】「If you keep up this lazy lifestyle of yours...\p...\p」\e
-[00033b|ru] 【Przedstawicielka】「Jeｯeli wciｧｯ bｪdziesz utrzymywaｩ\nten twｫj leniwy tryb ｯycia to...\p」\e
+[00033b|ru] 【Przedstawicielka】「Jeｯeli wciｧｯ bｪdziesz utrzymywaｩ\nten swｫj leniwy tryb ｯycia to...\p」\e
 
 [00033c|en] ...\p...\poh come on,\p you're still not done?\e
 [00033c|ru] ...\pOch cudownie, a ona dalej swoje?\e
@@ -779,7 +779,7 @@ SCR 1 UTF-8
 [00034f|ru] 【Przedstawicielka】「Cc-\pooo!?」\e
 
 [000350|en] 【Takeru】「From now on, come wake me up every\nmorning!!」\e
-[000350|ru] 【Takeru】「Od teraz to ty bｪdziesz codzienne rano do\n mnie przychodziｨ i zajmiesz siｪ moimi pobudkami!!」\e
+[000350|ru] 【Takeru】「Od teraz to ty bｪdziesz codziennie rano do\n mnie przychodziｨ i zajmiesz siｪ moimi pobudkami!!」\e
 
 [000359|en] 【Class Rep】「...\p...\phuh?」\e
 [000359|ru] 【Przedstawicielka】「...\pHｪ?」\e
@@ -788,7 +788,7 @@ SCR 1 UTF-8
 [00035e|ru] 【Sumika】「...\p...\p...\p...\p」\e
 
 [00035f|en] 【Takeru】「If you did that,\p I wouldn't be late,\p\nand I wouldn't cause any trouble for Sumika.\p\nRight?\p Am I right?」\e
-[00035f|ru] 【Takeru】「Jeｯeli bｪdziesz siｪ tym zajmowaｨ,\p to ja\n z pewnoﾛciｧ nie bｪdｪ siｪ spｫﾜniaｨ.\p W wyniku tego nie\n bｪdｪ sprawiaｩ kｩopotｫw Sumice, genialne co nie?\n A co? Moｯe nie mam racji?」\e
+[00035f|ru] 【Takeru】「Jeｯeli bｪdziesz siｪ tym zajmowaｨ,\p to ja\n z pewnoﾛciｧ nie bｪdｪ siｪ spｫﾜniaｨ.\p W wyniku czego nie\n bｪdｪ sprawiaｩ kｩopotｫw Sumice, genialne co nie?\n A co? Moｯe nie mam racji?」\e
 
 [000360|en] 【Class Rep】「...\p...\p...\p...\p」\e
 [000360|ru] 【Przedstawicielka】「...\p...\p...\p...\p」\e
@@ -797,7 +797,7 @@ SCR 1 UTF-8
 [000364|ru] Ha! Ha! Ha! Caｩkowicie jｧ to zaskoczyｩo!!\e 
 
 [000365|en] 【Takeru】「Let's see...\p...\pin order to get here on time...\p...\p\nyou'd have to arrive earlier than Sumika does now,\p but\nonly up to thirty minutes earlier, okay?」\e
-[000365|ru] 【Takeru】「Zobaczmy...\p ｯebym dotarｩ do szkoｩy na czas.\nPowinnaﾛ pojawiaｨ siｪ u mnie prｪdzej niｯ robi to\n teraz Sumika,\p ale dobrze by byｩo ｯebyﾛ\n zmieﾛciｩa siｪ w obrｪbie 30 minut, zaｩapaｩaﾛ?」\e
+[000365|ru] 【Takeru】「Zobaczmy...\p ｯebym dotarｩ do szkoｩy na\n czas, powinnaﾛ pojawiaｨ siｪ u mnie prｪdzej niｯ robi\n to teraz Sumika,\p ale dobrze by byｩo ｯebyﾛ\n zmieﾛciｩa siｪ w obrｪbie 30 minut, zaｩapaｩaﾛ?」\e
 
 [000366|en] 【Class Rep】「...\p...\p...\p...\p」\e
 [000366|ru] 【Przedstawicielka】「...\p」\e
@@ -836,7 +836,7 @@ SCR 1 UTF-8
 [0003ad|ru] 【Miki】「Aｩa!! Aｩa!!」\e
 
 [0003ae|en] 【Class Rep】「Are you okay? But you too, Tamase-san.\p\n If you left a little earlier, you wouldn't have to rush all\nthe time.」\e
-[0003ae|ru] 【Przedstawicielka】「Caｩa jesteﾛ? Ale Tamase-san.\p\n Muszｪ to powiedzieｨ, ale wiesz o tym ｯe, jakbyﾛ\n odrobinｪ wczeﾛniej wyszｩa z domu to byﾛ nie musiaｩa\n teraz tak pｪdziｨ.」\e
+[0003ae|ru] 【Przedstawicielka】「Caｩa jesteﾛ? Ale Tamase-san.\p\n Muszｪ to powiedzieｨ, ale wiesz o tym, ｯe jakbyﾛ\n odrobinｪ wczeﾛniej wyszｩa z domu to byﾛ nie musiaｩa\n teraz tak pｪdziｨ.」\e
 
 [0003b0|en] 【Miki】「Aauuu...\p...\p...\p...\phauuuu...\p...\p...\p...\p」\e
 [0003b0|ru] 【Miki】「Aｩaaa...\p haｩaaa...\p」\e
@@ -881,7 +881,7 @@ SCR 1 UTF-8
 [0003c8|ru] 【Takeru】「Cholera...\p Dlaczego nigdy nie porzucasz\n swojej roli przedstawicielki.」\e
 
 [0003ca|en] 【Chizuru】「I am the class representative.」\e
-[0003ca|ru] 【Chizuru】Bo ja jestem przedstawicielkｧ.」\e
+[0003ca|ru] 【Chizuru】Bo jestem przedstawicielkｧ.」\e
 
 [0003cc|en] 【Takeru】「It hurts when you take me seriously, you know.」\e
 [0003cc|ru] 【Takeru】「Stary, to coﾛ co wykonaｩem przed chwilｧ\n nazywamy ｯartem.\p Moｯe czas wychodowaｨ sobie jakｧﾛ\n koﾛｨ odpowiedzialnｧ za poczucie humoru.」\e
@@ -1013,7 +1013,7 @@ SCR 1 UTF-8
 [00043e|ru] 【Sumika】「Taa, byｩ on w dobrych relacjach z\n Yoroi-kun.」\e
 
 [00043f|en] Hmmm,\p they must have gotten along well because they\nwere both weirdos.\p They were instinctively attracted to\neach other or something...\p...\p\e
-[00043f|ru] Hmmm,\p Oboje byli dziwakami, wiｪc pewnie siｪ dobrze ze\n sobｧ dogadywali. Tak jakby instynktownie, niczym jak\n dwa magnesy, przyciｧgali siｪ do siebie albo\n coﾛ w tym stylu.\p\e
+[00043f|ru] Hmmm,\p oboje byli dziwakami, wiｪc pewnie siｪ dobrze ze\n sobｧ dogadywali. Tak jakby instynktownie, niczym jak\n dwa magnesy, przyciｧgali siｪ do siebie albo\n coﾛ w tym stylu.\p\e
 
 [000440|en] It felt like those two didn't need words to communicate.\nActually,\p they never used words effectively at all...\p...\p\e
 [000440|ru] Zawsze czuｩem, ｯe ta dwｫjka nie potrzebowaｩa sｩｫw, aby\n komunikowaｨ siｪ ze sobｧ. Bｪdｧc szczerym, jestem pewien,\n ｯe nigdy nie sｩyszaｩem jak ze sobｧ rozmawiali za\n pomocｧ peｩnych zdaﾃ...\p\e
@@ -1253,7 +1253,7 @@ SCR 1 UTF-8
 [000603|ru] 【Takeru】「No dalej, Sumika!\p\nPrzecieｯ ty jesteﾛ po mojej stronie, prawda!?」\e
 
 [000609|en] Wait,\p I'm the one who beat her half to death a moment\nago!!\p Craaaaaaaaaaap!!!\e
-[000609|ru] Chwila.\p Dopiero co jｧ udeerzyｩem!\p Chooleeraa!!!!\e
+[000609|ru] Chwila.\p Dopiero co jｧ uderzyｩem!\p Chooleeraa!!!!\e
 
 [000613|en] 【Sumika】「Takeru-chan, youuuuuu...\p...\p...\p...\p」\e
 [000613|ru] 【Sumika】「Takeru-chan....\p...\p」\e
@@ -1469,10 +1469,10 @@ SCR 1 UTF-8
 [0006e6|ru] 【Meiya】「Czy powiedziaｩeﾛ, ｯe idziesz na stoｩｫwkｪ?\p\n Sｩyszaｩam, ｯe takie miejsca sｧ bardzo zatｩoczone w\n porze lunchu.」\e
 
 [0006e7|en] 【Takeru】「Yeah,\p that place is a war zone.\p\nThat's why I have to hurry...」\e
-[0006e7|ru] 【Takeru】「Taak,\p to prawdziwa strefa wojny.\p\n Dlatego muszｪ siｪ poﾛpieszyｨ...」\e
+[0006e7|ru] 【Takeru】「Taak,\p to prawdziwa strefa wojny.\p\n Dlatego muszｪ siｪ pospieszyｨ...」\e
 
 [0006e9|en] 【Meiya】「War zone!?\p You would dare enter such a\ndangerous place for a single meal!?」\e
-[0006e9|ru] 【Meiya】「Strefa wojny!?\p Odwarzysz siｪ wejﾛｨ w tak\p\n niebezpieczne miejsce tylko z powodu jednego posiｩku?!」\e
+[0006e9|ru] 【Meiya】「Strefa wojny!?\p Odwaｯysz siｪ wejﾛｨ w tak\p\n niebezpieczne miejsce tylko z powodu jednego posiｩku?!」\e
 
 [0006ea|en] 【Takeru】「Well...\p...\pif I don't go, I can't eat...\p...\p\nand it's not really that dangerous.」\e
 [0006ea|ru] 【Takeru】「Cｫｯ...\p Jeｯeli nie pｫjdｪ to bｪdｪ gｩodny...\p\n I w sumie to nie jest aｯ tak niebezpieczne...」\e
@@ -1508,7 +1508,7 @@ SCR 1 UTF-8
 [000712|ru] 【Meiya】「Wyglｧda na to, ｯe juｯ przybyli.」\e
 
 [000713|en] 【Takeru】「There who are?」\e
-[000713|ru] 【Takeru】「Kto przybyｩ??」\e
+[000713|ru] 【Takeru】「Kto przybyｩ?」\e
 
 [00071a|en] Ah!?\p What the heck!?\e
 [00071a|ru] Ach!?\p Co do cholery ma to wszystko znaczyｨ!?\e
@@ -1589,7 +1589,7 @@ SCR 1 UTF-8
 [00076b|ru] 【Meiya】「Oni robiｧ to juｯ kilka minut i bｪdｧ tak\n robiｨ pｫki im nie wydasz polecenia.」\e
 
 [000776|en] 【Takeru】「Uh...\p...\phmm...\p...\p」\e
-[000776|ru] 【Takeru】「Uch...\p...\phmm...\p...\p」\e
+[000776|ru] 【Takeru】「Uch...\p...\p hmm...\p...\p」\e
 
 [00077b|en] 【Meiya】「Now,\p speak whatever you may.」\e
 [00077b|ru] 【Meiya】「A teraz,\p powiedz tylko sｩowo.」\e
@@ -1739,7 +1739,7 @@ SCR 1 UTF-8
 [00080a|ru] 【Meiya】「Bardzo dobrze.\p Jeｯeli nalegasz...\p\n Szefie kuchni!」\e
 
 [00080d|en] 【Head Chef】「Yes!\p We are yours to command!」\e
-[00080d|ru] 【Szef Kuchni】Tak!\p Zrobimy jak rozkaｯesz!」\e
+[00080d|ru] 【Szef Kuchni】「Tak!\p Zrobimy jak rozkaｯesz!」\e
 
 [000813|en] 【Takeru】「*sigh*\p What in the world were you thinking...\p...\p」\e
 [000813|ru] 【Takeru】「Ech.\p Co ona sobie myﾛlaｩa...\p」\e
@@ -1844,7 +1844,7 @@ SCR 1 UTF-8
 [0008ab|ru] Kilka mｩodszych dzieci siedzi sobie na ｩawce i\n sｧ caｩkowicie wciｧgniｪte karciankｧ.\e
 
 [0008ac|en] We don't even glance at the beautiful slide,\p or the\nsandbox.\e
-[0008ac|ru] Nawet praktycznie nie rzuciｩy okiem na nowｧ\n zjezdｯalniｪ, ani takｯe na prawdopodobnie tｧ najbardziej\n sanitarnｧ piaskownicｪ na Ziemii.\e
+[0008ac|ru] Nawet praktycznie nie rzuciｩy okiem na nowｧ\n zjeｯdｯalniｪ, ani takｯe na prawdopodobnie tｧ najbardziej\n sanitarnｧ piaskownicｪ na Ziemii.\e
 
 [0008ae|en] 【Meiya】「The depths of the hearts\p\nOf humankind cannot be known.\p\nBut in my birthplace\p\nThe plum blossoms smell the same\p\nAs in the years gone by.」\e 
 [0008ae|ru] 【Meiya】「Byｨ moｯe ludzkie serce teraz jest dla mnie\n zagadkｧ,\p ale w moim rodzinnym mieﾛcie kwiaty jeszcze\n pachniaｩy czasami, ktｫre juｯ przeminｪｩy.」\e 
@@ -1931,7 +1931,7 @@ SCR 1 UTF-8
 [0008fb|ru] ──Uwaaaaaaaaaaaaa!!!!!\e
 
 [000900|en] 【Meiya】「What is it?\p Why so noisy?」\e
-[000900|ru] 【Meiya】「Co jest?\p Dlaczego krzyczysz??」\e
+[000900|ru] 【Meiya】「Co jest?\p Dlaczego krzyczysz?」\e
 
 [000903|en] 【Takeru】「Awa...\p...\pawawawa...\p...\pwh-\pwhat are you doing\nhere!!!!」\e
 [000903|ru] 【Takeru】「Awa...\p aaaaa...\p Cooo ty tutaj robisz?!!!!」\e
@@ -1988,7 +1988,7 @@ SCR 1 UTF-8
 [000932|ru] 【Takeru】「Cicho bｧdﾜ!\p Przecieｯ juｯ mｫwiｩem, ｯe nic\n o tym nie wiem!!」\e
 
 [000934|en] 【Sumika】「Why're you telling me to shut up!?\p\nAnd what've you been up to since your parents left for\nvacation, huh!!!?」\e
-[000934|ru] 【Sumika】「Dlaczego kaｯesz mi byｨ cicho?!\p\n Coﾛ ty narobiｩ w momencie gdy twoi rodzicie\n pojechali na wakacje!!」\e
+[000934|ru] 【Sumika】「Dlaczego kaｯesz mi byｨ cicho?!\p\n Coﾛ ty narobiｩ w momencie, gdy twoi rodzice\n pojechali na wakacje!!」\e
 
 [000937|en] 【Takeru】「I don't know!! I don't know, I don't know, I don't\nknow, I don't know, I don't know, I don't know, I don't\nknow, I don't know, I don't know, I don't know, I don't\nknow, I don't know, I don't know, I don't know, I don't\nknow, I don't know, I don't know, I don't know!!!」\e
 [000937|ru] 【Takeru】「Nie wiem! Nie wiem! Nie wiem! Nie wiem!\nNie wiem! Nie wiem! Nie wiem! Nie wiem!\nNie wiem! Nie wiem! Nie wiem! Nie wiem!\nNie wiem! Nie wiem! Nie wiem! Nie wiem!」\e

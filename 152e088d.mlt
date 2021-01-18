@@ -137,7 +137,7 @@ SCR 1 UTF-8
 [000069|ru] 【Takeru】「Nowaaaaaaaaaaaaaaaaaaaaaah!!!!!!!」\e
 
 [000072|en] 【Woman】「Some good mackerel arrived in Matsuwa\ntoday,\p so I made sushi out of it.」\e
-[000072|ru] 【Kobieta】「Dziﾛ w Matsuwie pojawiｩo siｪ trochｪ\n dobrych makreli, wiｪc postanowiｩam zrobiｨ z niej sushi.」\e
+[000072|ru] 【Kobieta】「Dziﾛ w Matsuwie pojawiｩo siｪ trochｪ\n dobrych makreli, wiｪc postanowiｩam zrobiｨ z niej\n sushi.」\e
 
 [000075|en] 【Meiya】「That certainly does sound good.\p\n We should start eating now...\p...\p...\p...\p\nIs something the matter,\p Takeru?」\e
 [000075|ru] 【Meiya】「Brzmi dobrze. Przejdﾜmy juｯ do\n naszego posiｩku.\p Coﾛ nie tak, Takeru?」\e
@@ -176,7 +176,7 @@ SCR 1 UTF-8
 [000090|ru] ...\pIm wiｪcej o tym wszystkim myﾛlｪ...\p\n To tym bardziej jestem zdezorientowany.\e 
 
 [000091|en] 【Takeru】「Anyway! You're prohibited from sleeping in my\nbed from now on.\p Got it?」\e
-[000091|ru] 【Takeru】「W kaｯdym razie! Od teraz nie wolno ci\n spaｨ w moim ｩｫｯku. Zrozumiaｩaﾛ??」\e
+[000091|ru] 【Takeru】「W kaｯdym razie! Od teraz nie wolno ci\n spaｨ w moim ｩｫｯku. Zrozumiaｩaﾛ?」\e
 
 [000093|en] 【Meiya】「Why?」\e
 [000093|ru] 【Meiya】「A czemuｯ to?」\e
@@ -203,7 +203,7 @@ SCR 1 UTF-8
 [0000a3|ru] 【Sumika】「Jesteﾛ bez seeercaaaa!\p\n Zaｩoｯyｩeﾛ innｧ blokadｪ? Oszuuukuuujeeesz!!!」\e
 
 [0000a6|en] So it's Sumika. Loud as ever I see...\p...\p\e
-[0000a6|ru] Czeﾛｨ, Sumika. Gｩoﾛna jak zawsze, widzｪ...\p\e
+[0000a6|ru] Czeﾛｨ Sumika. Gｩoﾛna jak zawsze widzｪ...\p\e
 
 [0000a7|en] 【Sumika】「It's suspicious!\p Takeru-chan, something's up!!」\e
 [0000a7|ru] 【Sumika】「Coﾛ knujesz, Takeru-chan!!!\p To jest\n bardzo podejrzane!!」\e
@@ -335,7 +335,7 @@ SCR 1 UTF-8
 [000139|ru] 【Takeru】「...\pCzy wｩaﾛnie zasugerowaｩaﾛ, ｯe podrｫｯ\n do okoｩa ﾛwiata to w sumie nic wielkiego?」\e
 
 [00013b|en] 【Tsukuyomi】「They should be back on New Years' at the\nearliest.」\e
-[00013b|ru] 【Tsukuyomi】「Gdzieﾛ tak na poczｧtku, roku powinni\n wrｫciｨ do domu.」\e
+[00013b|ru] 【Tsukuyomi】「Gdzieﾛ tak na poczｧtku roku powinni\n wrｫciｨ do domu.」\e
 
 [00013e|en] 【Takeru】「Whaaaaaaaaaaaaat!!!!??」\e
 [00013e|ru] 【Takeru】「Cooooooooooooooo!!!!??」\e
@@ -392,7 +392,7 @@ SCR 1 UTF-8
 [000176|ru] 【Takeru】「Prooooszeeeee!!!!!!!」\e
 
 [000183|en] 【Meiya】「Regarding the argument between you and\nKagami yesterday evening, I could not even fathom what\nit was about or why it went on for such a long time, so I\nwould certainly like to hear an explanation as to...\p...\p」\e
-[000183|ru] 【Meiya】「I przede wszystkim nie jestem pewna\n co do przyczyny waszej wczorajszej wieczornej kｩｫtni\n z Kagami, byｩabym bardzo wdziｪczna za wszelkie\n wyjaﾛnienia co do tej sytuacji, ktｫre\n moglibyﾛcie mi daｨ...\p...\p」\e
+[000183|ru] 【Meiya】「I przede wszystkim nie jestem pewna\n co do przyczyny waszej wczorajszej wieczornej kｩｫtni\n z Kagami. Byｩabym bardzo wdziｪczna za wszelkie\n wyjaﾛnienia co do tej sytuacji, ktｫre\n moglibyﾛcie mi daｨ...\p...\p」\e
 
 [000185|en] 【Tsukuyomi】「Meiya-sama.」\e
 [000185|ru] 【Tsukuyomi】「Meiya-sama.」\e
@@ -605,7 +605,7 @@ SCR 1 UTF-8
 [0002a6|ru] 【Meiya】「Kagami!!!」\e
 
 [0002ac|en] Ah,\p the car stopped...\p...\phuh?\e
-[0002ac|ru] Ach,\p samochｫd siｪ zatrzymaｩ...\phｪ?\e
+[0002ac|ru] Ach,\p samochｫd siｪ zatrzymaｩ...\p hｪ?\e
 
 [0002b1|en] I'm pretty sure that's...\p...\p\e
 [0002b1|ru] A spoiler tego samochodu wyglｧda jakoﾛ znajomo...\p\e
@@ -653,7 +653,7 @@ SCR 1 UTF-8
 [0002e4|ru] 【Takeru】「A to nie ty przypadkiem powinnaﾛ zachowaｨ\n szczegｫlnｧ ostroｯnoﾛｨ?」\e
 
 [0002e7|en] 【Meiya】「Takeru,\p is this woman...\p...\p...\p...\pa teacher?」\e
-[0002e7|ru] 【Meiya】「Takeru,\p czy ta kobieta...\p jest jednｧ\n z twoich nauczycielek??」\e
+[0002e7|ru] 【Meiya】「Takeru,\p czy ta kobieta...\p jest jednｧ\n z twoich nauczycielek?」\e
 
 [0002e9|en] 【Takeru】「Yeah,\p class D's Kouzuki Yuuko-sensei....\p...\pshe\nteaches physics...\p...\pand...\pwell, she's what she looks like.」\e
 [0002e9|ru] 【Takeru】「Taaa,\p to Kouzuki Yuuko-sensei z klasy D...\p\nJest ona nauczycielkｧ fizyki i posiada takｧ osobowoﾛｨ\n jakｧ sama widziaｩaﾛ.」\e
@@ -665,7 +665,7 @@ SCR 1 UTF-8
 [0002ec|ru] 【Takeru】「..\pNie,\p to tylko Yuuko-sensei jest\n wyjｧtkiem.」\e
 
 [0002ee|en] 【Yuuko】「...\p...\phmmm,\p is this the rumored transfer student?」\e
-[0002ee|ru] 【Yuuko】「...Hmmm?\p A czy to nie przypadkiem ta nowo\n przeniesiona uczennica o ktｫrej tak duｯo sｩyszaｩam??」\e
+[0002ee|ru] 【Yuuko】「...Hmmm?\p A czy to nie przypadkiem ta nowo\n przeniesiona uczennica, o ktｫrej tak duｯo sｩyszaｩam?」\e
 
 [0002f3|en] 【Takeru】「Uhhh...\p...\p」\e
 [0002f3|ru] 【Takeru】「Cｫｯ, uhhh...\p...\p」\e
@@ -710,10 +710,10 @@ SCR 1 UTF-8
 [000329|ru] 【Meiya】「Ja tam nie wiem.」\e
 
 [00032b|en] 【Sumika】「Is she always like that?」\e
-[00032b|ru] 【Sumika】「Czy ona zawsze, och??」\e
+[00032b|ru] 【Sumika】「Czy ona zawsze, och?」\e
 
 [00032c|en] 【Takeru】「Is she always like that?」\e
-[00032c|ru] 【Takeru】「Zawsze tak robi??」\e
+[00032c|ru] 【Takeru】「Zawsze tak robi?」\e
 
 [00032e|en] 【Meiya】「She is.」\e
 [00032e|ru] 【Meiya】「Tak, zawsze tak robiｩa.」\e
@@ -755,7 +755,7 @@ SCR 1 UTF-8
 [6014f6|ru] i wszystko co dzieje siｪ na twoich oczach.\n
 
 [20153a|en] (A five-minute lecture on the successes and future\naspirations of the Mitsurugi financial group)\e
-[20153a|ru] (Piｪciominutowy wykｩad na temat sukcesｫw i przy-\nszｩych aspiracji Mitsurugi financial group)\e
+[20153a|ru] (Piｪciominutowy wykｩad na temat sukcesｫw i\n przyszｩych aspiracji Mitsurugi financial group)\e
 
 [00034e|en] 【Sumika】「Haa...\p...\p」\e
 [00034e|ru] 【Sumika】「Haa...\p...\p」\e
@@ -797,7 +797,7 @@ SCR 1 UTF-8
 [000369|ru] 【Takeru】「Mimo to...\p Yuuko-sensei naprawdｪ daｩa\n radｪ utrzymaｨ swojｧ postawｪ...\p Nawet nie drgnｪｩa w\n momencie, gdy miaｩa nｫｯ przy gardle......」\e
 
 [00036e|en] 【Meiya】「She truly is master of her own mind.\p I am\nimpressed by Instructor Kouzuki's tremendous courage.」\e
-[00036e|ru] 【Meiya】「Rzeczywiﾛcie jest ona mistrzem wｩasnego\n rozumu.\p Jestem pod ogromnym wraｯeniem twojej odwagi\n Instruktorze Kouzuki.」\e
+[00036e|ru] 【Meiya】「Rzeczywiﾛcie jest ona mistrzem wｩasnego\n rozumu.\p Jestem pod ogromnym wraｯeniem twojej odwagi,\n Instruktorko Kouzuki.」\e
 
 [000370|en] 【Yuuko】「...\p...\p...\p」\e
 [000370|ru] 【Yuuko】「\p...\p」\e
@@ -845,7 +845,7 @@ SCR 1 UTF-8
 [000395|ru] 【Takeru】「A nic.」\e
 
 [000396|en] ...\p...\pMeiya's looking at me without any particular\nexpression, but...\p...\pwhy did she come here in the first\nplace?\e
-[000396|ru] ...\pMeiya przyglｧda siｪ nam bez jakiejkolwiek\n zmiany wyrazu twarzy u niej...\p I tak w ogｫle\n dlaczego ona siｪ tutaj pojawiｩa?\e
+[000396|ru] ...\pMeiya przyglｧda siｪ nam bez jakiejkolwiek\n zmiany wyrazu twarzy u niej...\p I tak w ogｫle,\n dlaczego ona siｪ tutaj pojawiｩa?\e
 
 [000397|en] The heir to the world's foremost financial group.\p\nWhy'd she get my dad to sign that unusual permit,\p\nand what's she gonna do with it?\e
 [000397|ru] Mam na myﾛli to, ｯe przecieｯ jest spadkobierczyniｧ\n najwaｯniejszej grupy finansowej na ﾛwiecie, prawda?\n\p Dlaczego kazaｩa mojemu tacie podpisaｨ to dziwaczne\n pozwolenie i co najwaｯniejsze, co chce z tym zrobiｨ?\e
@@ -908,13 +908,13 @@ SCR 1 UTF-8
 [0003c0|ru] 【Sumika】「Ach...\p」\e
 
 [0003c3|en] 【Chizuru】「I'm not complaining or anything,\p\nbut try not to overdo it at school.」\e
-[0003c3|ru] 【Chizuru】「To nie jest mojｧ sprawｧ, ｯeby temperowaｨ\n twoje zachowanie,\p ale jeｯeli juｯ jesteﾛ na terenie\n kampusu\p to moｯe zaczniesz sam siｪ hamowaｨ.」\e
+[0003c3|ru] 【Chizuru】「Nie jest mojｧ sprawｧ, ｯeby temperowaｨ\n twoje zachowanie,\p ale jeｯeli juｯ jesteﾛ na terenie\n kampusu\p to moｯe zaczniesz sam siｪ hamowaｨ.」\e
 
 [0003c5|en] 【Takeru】「Don't be harsh...\p...\pis the blood rushing to your\nhead again from all that practice?」\e
 [0003c5|ru] 【Takeru】「Nie bｧdﾜ taka ostra dla mnie...\p Wyglｧda na\n to, ｯe nie tylko ciﾛnienie krwi w twoich ｯyｩach jest\n wysokie po tych twoich praktykach?」\e
 
 [0003c7|en] 【Meiya】「What has Sakaki been practicing?」\e
-[0003c7|ru] 【Meiya】「A co wｩaﾛciwie ｨwiczy Sakaki??」\e
+[0003c7|ru] 【Meiya】「A co wｩaﾛciwie ｨwiczy Sakaki?」\e
 
 [0003cb|en] 【Sumika】「Lacrosse.」\e
 [0003cb|ru] 【Sumika】「Lacrosse.」\e
@@ -1034,7 +1034,7 @@ SCR 1 UTF-8
 [00042f|ru] 【Meiya】「Doskonaｩa robota, Takeru!!」\e
 
 [000432|en] 【Takeru】「What're you gonna do?」\e
-[000432|ru] 【Takeru】「A ty gdzie siｪ teraz wybierasz??」\e
+[000432|ru] 【Takeru】「A ty gdzie siｪ teraz wybierasz?」\e
 
 [000435|en] 【Meiya】「Leave it to me and the secrets of the Mitsurugi\nMugen Kidou swordfighting style!」\e
 [000435|ru] 【Meiya】「Zostaw tｪ sprawｪ mi, oraz szkole szermierki\n Mitsurugi Mugen Kidou!」\e
@@ -1061,7 +1061,7 @@ SCR 1 UTF-8
 [00044e|ru] 【Takeru】「Nie mam bladego pojｪcia. Moｯe poszｩa\n wypｪdziｨ demona albo coﾛ w tym stylu? Zniknｪｩa w\n momencie, gdy juｯ miaｩem opowiedzieｨ jej o\n utrapieniach, ktｫre nawiedziｩy klub lacrosse...」\e
 
 [000450|en] 【Sumika】「...\p...\psuch as?」\e
-[000450|ru] 【Sumika】「...\pNa przykｩad jakich??」\e
+[000450|ru] 【Sumika】「...\pNa przykｩad jakich?」\e
 
 [000451|en] 【Takeru】「Eh? Ah, the lacrosse club is suffering because\nit's unpopular, its funds keep getting cut, and some of its\nmembers couldn't get good enough grades to participate.\p\nThey've already decided to disband them if this continues\nfor another year.」\e
 [000451|ru] 【Takeru】「Hmm? Ph, wiｪc zacznijmy od tego, ｯe klub\n cierpi z powodu braku popularnoﾛci, jakichkolwiek\n pochwaｩ, nowych rekrutｫw i przede wszystkim brakuje\n im funduszy. A gwoﾜdziem do trumny jest to, ｯe zapadｩa\n decyzja o rozwiｧzaniu ich klubu w przyszｩym roku.」\e
@@ -1076,7 +1076,7 @@ SCR 1 UTF-8
 [000456|ru] 【Sumika】「Nie mｫw tak, przez to gadanie zrobiｩo mi\n siｪ przykro z ich powodu...\p」\e
 
 [000457|en] 【Takeru】「I'm the one you should feel sorry for.\nEvery morning she goes to practice, gets her blood\nboiling and stresses herself out before attacking me with\nthose abusive words of hers.」\e
-[000457|ru] 【Takeru】「To mi powinno byｨ przykro z tego powodu.\n Kaｯdego poranka ona tutaj przychodzi i podnosi swoje\n ciﾛnienie krwi w czasie swoich porannych praktyk.\n Potem ona uwalnia caｩy ten swｫj stｩumiony stres w\n postaci atakｫw sｩownych na mojｧ osobｪ.」\e
+[000457|ru] 【Takeru】「To mi powinno byｨ przykro z tego powodu.\n Kaｯdego poranka ona tutaj przychodzi i podnosi swoje\n ciﾛnienie krwi w czasie swoich porannych praktyk.\n Potem uwalnia caｩy ten swｫj stｩumiony stres w\n postaci atakｫw sｩownych na mojｧ osobｪ.」\e
 
 [000459|en] 【Sumika】「Isn't that your own fault?\p Come on,\p let's go.\p\nWe're gonna be late.」\e
 [000459|ru] 【Sumika】「Ale przypadkiem to nie jest twoja wina,\n ｯe jesteﾛ przez niｧ wyzywany? No dobra. Chodﾜmy\n juｯ, bo siｪ spｫﾜnimy.」\e
@@ -2000,7 +2000,7 @@ SCR 1 UTF-8
 [000854|ru] 【Takeru】「Stary, aleｯ ja gｩodny jestem～」\e
 
 [000855|en] Even the delta force assaulting my carnal lust enshrined\nwith majestic dignity in the middle of her skirt doesn't\nmake me feel any better.\e
-[000855|ru] Nawet kuszｧcy Trｫjkｧt Bermudzki wyglｧdajｧcy\n majestatycznie spod spｫdnicy nie sprawia mi\n prawdziwej przyjemnoﾛci.\e
+[000855|ru] Nawet kuszｧcy Trｫjkｧt Bermudzki, wyglｧdajｧcy\n majestatycznie spod spｫdnicy, nie sprawia mi\n prawdziwej przyjemnoﾛci.\e
 
 [000856|en] How to put this...\p...\p...\p...\phauuu...\p...\p\e
 [000856|ru] Jak mogｪ to ujｧｨ...\p hauuu...\p\e
@@ -2330,7 +2330,7 @@ SCR 1 UTF-8
 [000a40|ru] Szczerze to o kim moｯe byｨ mowa? Przecieｯ to\n niemoｯliwe, aby mｫwiｩa o Tsukuyomi-san...\e
 
 [000a42|en] 【Yuuko】「They really were the Mitsurugis.\nEverything they do is big and showy...\p...\p」\e
-[000a42|ru] 【Yuuko】「Tobie znani sｧ jaki Mitsurugi Financial\n Group. Wszystko robiｧ efektownie i z przytupem...\p」\e
+[000a42|ru] 【Yuuko】「Tobie znani sｧ jako Mitsurugi Financial\n Group. Wszystko robiｧ efektownie i z przytupem...\p」\e
 
 [000a43|en] 【Takeru】「I take it they were worthy opponents for you.」\e
 [000a43|ru] 【Takeru】「Tylko ty tak twierdzisz.」\e
@@ -2558,7 +2558,7 @@ SCR 1 UTF-8
 [000bb9|ru] 【Kei】「To Shirogane powiedziaｩ, a nie ja..」\e
 
 [000bba|en] 【Takeru】「Huuuh?」\e
-[000bba|ru] 【Takeru】「Heh?」\e
+[000bba|ru] 【Takeru】「Hｪ?」\e
 
 [000bbc|en] 【Chizuru】「Did he now?\p Unfortunately,\p I'm also on\ncleaning duty.\p I'm not letting you off that easy.\p\nHere's your broom.」\e
 [000bbc|ru] 【Chizuru】「Tak powiedziaｩ?\p Niefortunnie dla niego,\p\n gdyｯ ja rｫwnieｯ dzisiaj bｪdｪ sprzｧtaｩa. Nie mam wiｪc\n zamiaru ci tak ｩatwo odpuﾛciｨ. Oto twoja miotｩa.」\e
@@ -2618,7 +2618,7 @@ SCR 1 UTF-8
 [000bee|ru] 【Chizuru】「Ech?...\pach,\p ach...\paaach, zapomnij o tym!!\n Co za kretynka!!」\e
 
 [000bf2|en] 【Takeru】「Huuuh?」\e
-[000bf2|ru] 【Takeru】「Heh?」\e
+[000bf2|ru] 【Takeru】「Hｪ?」\e
 
 [000bf4|en] 【Meiya】「Is something happening?」\e
 [000bf4|ru] 【Meiya】「Co bｪdziemy teraz robiｨ?」\e
@@ -2627,7 +2627,7 @@ SCR 1 UTF-8
 [000bf6|ru] 【Sumika】「Bｪdziemy sprzｧtaｨ.」\e
 
 [000bf8|en] 【Meiya】「I see...\p...\p...\p...\pmaking clean that which one\ndirtied...\p...\p\na novel and admirable attitude.\p I shall assist.」\e
-[000bf8|ru] 【Meiya】「Rozumiem...\p Wiｪc bｪdziemy sprzｧtaｨ baｩagan,\n ktｫry sami zrobiliﾛcie...\p Co za literackie i godne\n podziwu podejﾛcie.」\e
+[000bf8|ru] 【Meiya】「Rozumiem...\p Wiｪc bｪdziemy sprzｧtaｨ baｩagan,\n ktｫry sami zrobiliﾛmy...\p Co za literackie i godne\n podziwu podejﾛcie.」\e
 
 [000bf9|en] Novel? Really?\e
 [000bf9|ru] Literackie? Naprawdｪ?\e
@@ -2771,7 +2771,7 @@ SCR 1 UTF-8
 [000c7a|ru] 【Takeru】「To szalenie waｯna poszukiwana rola,\p wiｪc\n nie kaｯdy ma szansｪ to zrobiｨ.\p Na szczｪﾛcie dla\n ciebie, Meiya, dziﾛ moja kolej.」\e
 
 [000c7f|en] 【Meiya】「Is it truly all right...\p...\p...\p...\pfor me to do that?」\e
-[000c7f|ru] 【Meiya】「Taki zaszczyt...\p Czy jesteﾛ pewien, ｯe\n chcesz mi jｧ przekazaｨ?」\e
+[000c7f|ru] 【Meiya】「Taki zaszczyt...\p Czy jesteﾛ pewien, ｯe\n chcesz mi go przekazaｨ?」\e
 
 [000c80|en] 【Takeru】「Of course,\p this is to help you.\nYou need to learn how society works.」\e
 [000c80|ru] 【Takeru】「Oczywiﾛcie.\p Wszystko dla ciebie, Meiya.\p\n Dla ciebie bｪdzie to bardzo edukacyjne doﾛwiadczenie.」\e
@@ -3161,7 +3161,7 @@ SCR 1 UTF-8
 [000df3|ru] Nie miaｩem pojｪcia, ｯe jest tak dobra.\e
 
 [000df4|en] All the arrows I've seen so far have hit the bullseye.\p\nIt almost feels like she's showing off.\e
-[000df4|ru] Wszystkie strzaｩy, ktｫre wystrzeliｩa od tamtej pory i\n od momentu kiedy siｪ pojawiｩem trafiｩy w tarczｪ...\p\n ｳaｩ, caｩkiem niezｩa jest.\e
+[000df4|ru] Wszystkie strzaｩy, ktｫre wystrzeliｩa od tamtej pory i\n od momentu kiedy siｪ pojawiｩem, trafiｩy w tarczｪ...\p\n ｳaｩ, caｩkiem niezｩa jest.\e
 
 [000df5|en] 【Female Archer 1】「Umm...\p...\pdo you need something?」\e
 [000df5|ru] 【ｳuczniczka 1】「Potrzebujesz czegoﾛ?」\e
@@ -3386,7 +3386,7 @@ SCR 1 UTF-8
 [000eb2|ru] 【Takeru】「Nie i nie mam pojｪcia, co oznacza to\n Hanshi.」\e
 
 [000eb4|en] 【Captain】「Really now...\pthe highest title any archer can\nreceive is Hanshi 10th dan.\p I don't think anyone currently\nin Japan has reached 10...\p...\pbut Tamase's father is just\nbelow that.」\e
-[000eb4|ru] 【Kapitan】「Ech...\p Najwyｯszym tytuｩem, jaki moｯe\n zdobyｨ kaｯdy ｩucznik to Hanshi 10 dan.\p Sｧdzｪ,\n ｯe w tej chwili w Japonii nie ma ｯadnych ｩucznikｫw z\n takimi zdolnoﾛciami.」\e
+[000eb4|ru] 【Kapitan】「Ech...\p Najwyｯszym tytuｩem, jaki moｯe\n zdobyｨ kaｯdy ｩucznik, to Hanshi 10 dan.\p Sｧdzｪ,\n ｯe w tej chwili w Japonii nie ma ｯadnych ｩucznikｫw z\n takimi zdolnoﾛciami.」\e
 
 [000eb5|en] 【Takeru】「Wow...\p...\p」\e
 [000eb5|ru] 【Takeru】「ｳaｩ...\p」\e
@@ -3443,7 +3443,7 @@ SCR 1 UTF-8
 [000edd|ru] 【Miki】「Przepraszam...\p...\p....\p...\p....\p...\p hauuah!!?\p\nTa-Ta-Takeru-san!!」\e
 
 [000ee0|en] 【Captain】「Well, I'll be going now.」\e
-[000ee0|ru] 【Kapitan】「Cｫｯ, to bｪdｪ siｪ zbieraｩ.」\e
+[000ee0|ru] 【Kapitan】「Cｫｯ, to bｪdｪ siｪ zbieraｨ.」\e
 
 [000ee9|en] 【Female Archers】「Good work today～～!!」\e
 [000ee9|ru] 【ｳuczniczki】「Dobrze siｪ spisaｩeﾛ～～!!」\e
@@ -3452,7 +3452,7 @@ SCR 1 UTF-8
 [000eea|ru] ...\pAle on tak naprawdｪ niczego nie zrobiｩ.\p Tutaj\n zapewne chodzi o te wszystkie klubowe sprawy,\n ktｫrych nigdy nie zrozumiem.\e
 
 [000eec|en] 【Takeru】「I should probably go too.\p\nHave fun practicing.」\e
-[000eec|ru] 【Takeru】「Ja teｯ juｯ bｪdｪ wracaｩ.\p Miｩej zabawy.」\e
+[000eec|ru] 【Takeru】「Ja teｯ juｯ bｪdｪ wracaｨ.\p Miｩej zabawy.」\e
 
 [000ef0|en] 【Miki】「Ah...\p...\p...\p...\po-\pokay...\p...\pI'm sorry.」\e
 [000ef0|ru] 【Miki】「Ach...\p...\p...\p...\p o-\pokej...\p...\p Przepraszam.」\e
@@ -3566,7 +3566,7 @@ SCR 1 UTF-8
 [001000|ru] 【Takeru】「...\pW ogｫle nas sｩuchaｩaﾛ?」\e
 
 [001002|en] 【Sumika】「Huh?\p Is this a love letter?」\e
-[001002|ru] 【Sumika】「Heh?\p Czyｯby to list miｩosny?」\e
+[001002|ru] 【Sumika】「Hｪ?\p Czyｯby to list miｩosny?」\e
 
 [001004|en] 【Takeru】「Oh-ho...\p...\p」\e 
 [001004|ru] 【Takeru】「Och-ho...\p...\p」\e 
@@ -3788,7 +3788,7 @@ SCR 1 UTF-8
 [001111|ru] 【Takeru】「...\pSumika,\p przestaﾃ tak raｯｧco podsｩuchiwaｨ\n i podejdﾜ tutaj.」\e
 
 [001117|en] 【Sumika】「Eh? Ah...\p...\pahaha...\p...\p」\e
-[001117|ru] 【Sumika】「Ech? Ach...\p...\pahaha...\p...\p」\e
+[001117|ru] 【Sumika】「Ech? Ach...\p...\p ahaha...\p...\p」\e
 
 [001119|en] 【Tsukuyomi】「Now then,\p I shall begin before sunset...\p...\p」\e
 [001119|ru] 【Tsukuyomi】「Dobrze wiｪc,\p mam zamiar zaczｧｨ przed\n zachodem sｩoﾃca.」\e
