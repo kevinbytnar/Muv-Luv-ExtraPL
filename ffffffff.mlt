@@ -146,13 +146,13 @@ SCR 1 UTF-8
 [597a1776|ru] \c2) Nie\d\e
 
 [28666c21|en] \c2) I can't accept that\d\e
-[28666c21|ru] \c2) I can't accept that\d\e
+[28666c21|ru] \c2) Nie mogｪ siｪ na to zgodziｨ\d\e
 
 [570d68d3|en] \c1) Sumika, change places\d\n
-[570d68d3|ru] \c1) Sumika, change places\d\n
+[570d68d3|ru] \c1) Sumika, pora na zamiane\d\n
 
 [a43bc6b2|en] \c2) Sumika, good luck\d\e
-[a43bc6b2|ru] \c2) Sumika, good luck\d\e
+[a43bc6b2|ru] \c2) Sumika, powodzenia tak trzymaj\d\e
 
 [9fc82d53|en] \c1) Go to the roof\d\n
 [9fc82d53|ru] \c1) Moｯe pｫjdｪ na dach?\d\n
@@ -161,13 +161,13 @@ SCR 1 UTF-8
 [e0c9d115|ru] \c2) Go to the physics prep room\d\e
 
 [cf0a7e48|en] \c1) You can go home without me\d\n
-[cf0a7e48|ru] \c1) You can go home without me\d\n
+[cf0a7e48|ru] \c1) Moｯesz wracaｨ do domu beze mnie\d\n
 
 [aa8caf80|en] \c2) Guess I'll go home\d\e
-[aa8caf80|ru] \c2) Guess I'll go home\d\e
+[aa8caf80|ru] \c2) Przypuszczam, ｯe powinienem siｪ juｯ zbieraｨ do domu\d\e
 
 [2a970224|en] \c1) Stay with Sumika and Meiya\d\n
-[2a970224|ru] \c1) Stay with Sumika and Meiya\d\n
+[2a970224|ru] \c1)  Meiya\d\n
 
 [72d82e0e|en] \c2) Go home with Tama\d\e
 [72d82e0e|ru] \c2) Go home with Tama\d\e
