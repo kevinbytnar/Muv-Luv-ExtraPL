@@ -149,16 +149,16 @@ SCR 1 UTF-8
 [28666c21|ru] \c2) Nie mogｪ siｪ na to zgodziｨ\d\e
 
 [570d68d3|en] \c1) Sumika, change places\d\n
-[570d68d3|ru] \c1) Sumika, pora na zamiane\d\n
+[570d68d3|ru] \c1) Sumika, pora na zmianｪ\d\n
 
 [a43bc6b2|en] \c2) Sumika, good luck\d\e
-[a43bc6b2|ru] \c2) Sumika, powodzenia tak trzymaj\d\e
+[a43bc6b2|ru] \c2) Sumika, powodzenia, tak trzymaj\d\e
 
 [9fc82d53|en] \c1) Go to the roof\d\n
 [9fc82d53|ru] \c1) Moｯe pｫjdｪ na dach?\d\n
 
 [e0c9d115|en] \c2) Go to the physics prep room\d\e
-[e0c9d115|ru] \c2) Go to the physics prep room\d\e
+[e0c9d115|ru] \c2) Pｫjdｪ na zaplecze sali fizycznej\d\e
 
 [cf0a7e48|en] \c1) You can go home without me\d\n
 [cf0a7e48|ru] \c1) Moｯesz wracaｨ do domu beze mnie\d\n
@@ -263,10 +263,10 @@ SCR 1 UTF-8
 [2007cad5|ru] \c2) Don't go\d\e
 
 [ea9238cd|en] \c1) Close quarters battle\d\n
-[ea9238cd|ru] \c1) Close quarters battle\d\n
+[ea9238cd|ru] \c1) Walka w zwarciu\d\n
 
 [7baeda09|en] \c2) Long-range battle\d\e
-[7baeda09|ru] \c2) Long-range battle\d\e
+[7baeda09|ru] \c2) Walka daleko-dystansowa\d\e
 
 [51d4c959|en] \c1) Start Muv-Luv Extra\d\n
 [51d4c959|ru] \c1) Start Muv-Luv Extra\d\n
