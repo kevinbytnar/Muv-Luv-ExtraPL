@@ -1,50 +1,50 @@
-SCR 1 Shift-JIS
+SCR 1 UTF-8
 69
 
-[00000f|en] yChizuruzuToday we'll all go onto the field and play a full\ngame.v\e
-[00000f|ru] yChizuruzuDzisiaj idziemy na boisko, poniewa¯ bªdziemy\ngra©y na normalnych zasadach.v\e
+[00000f|en] ã€Chizuruã€‘ã€ŒToday we'll all go onto the field and play a full\ngame.ã€\e
+[00000f|ru] ã€Chizuruã€‘ã€ŒDzisiaj idziemy na boisko, poniewaï½¯\n bï½ªdziemy graï½©y na normalnych zasadach.ã€\e
 
-[000011|en] ySumikazuYaaay!v\e
-[000011|ru] ySumikazuJeeej!v\e
+[000011|en] ã€Sumikaã€‘ã€ŒYaaay!ã€\e
+[000011|ru] ã€Sumikaã€‘ã€ŒJeeej!ã€\e
 
-[000013|en] yChizuruzuI explained all of the tournament rules\nyesterday,\p so you should all know them by now.\p\nIs that a safe assumption?v\e
-[000013|ru] yChizuruzuWyjaÛni©am wam wczoraj zasady, kt«re bªd§\nobowi§zywa©y na turnieju.\p Wiªc ka¯da z was powinna ju¯ zna¨\nzasady.\p Mogª za©o¯y¨, ¯e to jest bezpieczna hipoteza?v\e
+[000013|en] ã€Chizuruã€‘ã€ŒI explained all of the tournament rules\nyesterday,\p so you should all know them by now.\p\nIs that a safe assumption?ã€\e
+[000013|ru] ã€Chizuruã€‘ã€ŒWyjaï¾›niï½©am wam wczoraj zasady, ktï½«re bï½ªdï½§\nobowiï½§zywaï½¨ na turnieju,\p wiï½ªc kaï½¯da z was powinna\n juï½¯ je znaï½¨.\p Mogï½ª zaï½©oï½¯yï½¨, ï½¯e to jest bezpieczna\n hipoteza?ã€\e
 
-[000016|en] yMeiyazuYes,\p we will not err.v\e
-[000016|ru] yMeiyazuTak.\p Nie pope©nimy b©ªdu.v\e
+[000016|en] ã€Meiyaã€‘ã€ŒYes,\p we will not err.ã€\e
+[000016|ru] ã€Meiyaã€‘ã€ŒTak.\p Nie popeï½©nimy ï½¯adnego bï½©ï½ªdu.ã€\e
 
-[000018|en] yChizuruzuThen split into groups of three.\p\nI'll explain more about the positions when you're ready.\p\nThen try playing a game.v\e
-[000018|ru] yChizuruzuOkej podzielmy siª na trzyosobowe grupy.\p\nSzybko wyjaÛniª, gdzie zaczyna siª ka¯da pozycja na boisku.\p\nA potem bªdziemy mog©y spr«bowa¨.v\e
+[000018|en] ã€Chizuruã€‘ã€ŒThen split into groups of three.\p\nI'll explain more about the positions when you're ready.\p\nThen try playing a game.ã€\e
+[000018|ru] ã€Chizuruã€‘ã€ŒOkej, podzielmy siï½ª na trzyosobowe grupy.\p\nSzybko wyjaï¾›niï½ª, gdzie zaczyna siï½ª kaï½¯da pozycja na\n boisku,\p a potem bï½ªdziemy mogï½©y sprï½«bowaï½¨.ã€\e
 
-[00001c|en] yTakeruzu*yaaaaaaawn*...\p...\pv\e
-[00001c|ru] yTakeruzu*Ziewaaanieee*...\p...\pv\e
+[00001c|en] ã€Takeruã€‘ã€Œ*yaaaaaaawn*...\p...\pã€\e
+[00001c|ru] ã€Takeruã€‘ã€Œ*Ziewaaanieee*...\p...\pã€\e
 
 [00001d|en] They're really enthusiastic for a Sunday morning...\p...\p\nMaybe I should increase my blood sugar a bit.\e
-[00001d|ru] Jak na niedzielny poranek s§ bardzo entuzjatyczne...\p\nMo¯e powinienem sobie zwiªkszy¨ dawkª cukru w krwi.\e
+[00001d|ru] Jak na niedzielny poranek sï½§ bardzo entuzjastyczne...\p\nMoï½¯e powinienem sobie zwiï½ªkszyï½¨ dawkï½ª cukru we krwi.\e
 
 [000025|en] Chocolate is delicious.\p Especially the kind they only sell\nin winter.\p I've actually been looking for one of these for\na while.\e
-[000025|ru] Czekolada jest pyszn§ opcj§.\nSzeg«lnie ta, kt«r§ sprzedaj§ tylko zim§.\p\e
+[000025|ru] Czekolada jest pysznï½§ opcjï½§.\nSzczegï½«lnie ta, ktï½«rï½§ sprzedajï½§ tylko zimï½§.\p\e
 
 [000026|en] But I never go to the convenience store this early.\nHooray for morning practice!\e
-[000026|ru] Ale nigdy tak wczeÛnie nie chodzi©em do spo¯ywczaka.\p\nNiech ¯yj§ poranne praktyki!\e
+[000026|ru] Ale nigdy tak wczeï¾›nie nie chodziï½©em do spoï½¯ywczaka.\p\nNiech ï½¯yjï½§ poranne praktyki!\e
 
-[000027|en] yChizuruzuShirogane-kun,\p would you blow the whistle?v\e
-[000027|ru] yChizuruzuShirogane-kun,\p dmuchniesz w gwizdek?v\e
+[000027|en] ã€Chizuruã€‘ã€ŒShirogane-kun,\p would you blow the whistle?ã€\e
+[000027|ru] ã€Chizuruã€‘ã€ŒShirogane-kun,\p dmuchniesz w gwizdek?ã€\e
 
-[000028|en] yTakeruzuFweh?v\e
-[000028|ru] yTakeruzuFweh?v\e
+[000028|en] ã€Takeruã€‘ã€ŒFweh?ã€\e
+[000028|ru] ã€Takeruã€‘ã€ŒFweh?ã€\e
 
-[000031|en] yChizuruzuWhat're you eating?\p Hurry it up.v\e
-[000031|ru] yChizuruzuCzy ty w©aÛnie jesz?\p\nDalej poÛpiesz siª.v\e
+[000031|en] ã€Chizuruã€‘ã€ŒWhat're you eating?\p Hurry it up.ã€\e
+[000031|ru] ã€Chizuruã€‘ã€ŒCzy ty wï½©aï¾›nie jesz?\p\nDalej, poï¾›piesz siï½ª.ã€\e
 
-[000035|en] yTakeruzuFine, fine...\p...\pokay,\p here we goooo!!v\e
-[000035|ru] yTakeruzuDobrze, dobrze...\p Okej, zaczynamy!!v\e
+[000035|en] ã€Takeruã€‘ã€ŒFine, fine...\p...\pokay,\p here we goooo!!ã€\e
+[000035|ru] ã€Takeruã€‘ã€ŒDobrze, dobrze...\p Okej, zaczynamy!!ã€\e
 
-[000037|en] ySumikazuOooh!v\e
-[000037|ru] ySumikazu³uuu!v\e
+[000037|en] ã€Sumikaã€‘ã€ŒOooh!ã€\e
+[000037|ru] ã€Sumikaã€‘ã€Œï½³uuu!ã€\e
 
-[00003a|en] yMeiyazuWhenever you are ready!v\e
-[00003a|ru] yMeiyazuZacznij gdy bªdziesz got«w!v\e
+[00003a|en] ã€Meiyaã€‘ã€ŒWhenever you are ready!ã€\e
+[00003a|ru] ã€Meiyaã€‘ã€ŒZacznij, gdy bï½ªdziesz gotï½«w!ã€\e
 
 [000046|en] ...\p...\p\e
 [000046|ru] ...\p\e
@@ -59,151 +59,151 @@ SCR 1 Shift-JIS
 [00004d|ru] ...\p...\p\e
 
 [00004e|en] What can I say about this...\p...\e
-[00004e|ru] Jakby to uj§¨...\e
+[00004e|ru] Jakby to ujï½§ï½¨...\e
 
 [00004f|en] With all these problems,\p actually winning the match is a\nlong way off.\e
-[00004f|ru] To co my mamy na ten moment...\p\nTo z pewnoÛci§ s§ doÛ¨ fundamentalne problemy.\p\nI nie m«wiª tylko o kwestii zwi§zanej z prac§ zespo©ow§.\e
+[00004f|ru] To co mamy na ten moment...\p\nTo z pewnoï¾›ciï½§ sï½§ doï¾›ï½¨ fundamentalne problemy.\p\nI nie mï½«wiï½ª tylko o kwestii zwiï½§zanej z pracï½§\nzespoï½©owï½§.\e
 
-[000053|en] yMeiyazu„Ÿ„ŸHaaaaaaa!!v\e
-[000053|ru] yMeiyazu„Ÿ„ŸHaaaaaaa!!v\e
+[000053|en] ã€Meiyaã€‘ã€Œâ”€â”€Haaaaaaa!!ã€\e
+[000053|ru] ã€Meiyaã€‘ã€Œâ”€â”€Haaaaaaa!!ã€\e
 
 [000067|en] ...\p...\p...\p...\pwhy'd you cut the goal in half?\e
-[000067|ru] ...\p...\pZ jakiego powodu przeciª©aÛ bramkª na p«©?\e
+[000067|ru] ...\p...\pZ jakiego powodu przeciï½ªï½©aï¾› bramkï½ª na pï½«ï½©?\e
 
 [00006c|en] And how the hell did you do that with a wooden stick!!?\e
-[00006c|ru] I tak w og«le jakim cudem dokona©aÛ to za pomoc§ drewnianego kija!!?\e
+[00006c|ru] I tak w ogï½«le, jakim cudem dokonaï½©aï¾› tego za pomocï½§\ndrewnianego kija!!?\e
 
-[000078|en] ySumikazuWa!\p Wait a minute,\p th-\pthere's no way this is\nright```v\e
-[000078|ru] ySumikazuCo!\p Chwileczkª,\p to nie mo¯liwe, ¯eby by©a to\nprawda```v\e
+[000078|en] ã€Sumikaã€‘ã€ŒWa!\p Wait a minute,\p th-\pthere's no way this is\nrightï½ï½ï½ã€\e
+[000078|ru] ã€Sumikaã€‘ã€ŒCo!?\p Chwileczkï½ª,\p to niemoï½¯liwe, ï½¯eby to\nbyï½©a prawdaï½ï½ï½ã€\e
 
-[00008d|en] ySumikazuTakeru-chan,\p you meanie`v\e
-[00008d|ru] ySumikazuTakeru-chan,\p wredny jesteÛ`v\e
+[00008d|en] ã€Sumikaã€‘ã€ŒTakeru-chan,\p you meanieï½ã€\e
+[00008d|ru] ã€Sumikaã€‘ã€ŒTakeru-chan,\p wredny jesteï¾›ï½ã€\e
 
 [00008e|en] You just tripped over yourself! Don't blame me!\e
-[00008e|ru] Sama siª potknª©aÛ! Nie obwiniaj mnie za swoje b©ªdy!\e
+[00008e|ru] Sama siï½ª potknï½ªï½©aï¾›! Nie obwiniaj mnie za swoje bï½©ï½ªdy!\e
 
-[000098|en] yMikizuHiya!\p\p Hiya!v\e
-[000098|ru] yMikizuHiya!\p\p Hiya!v\e
+[000098|en] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
+[000098|ru] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
 
-[0000a1|en] „Ÿ„Ÿ*bop!*\p *bop!*\e
-[0000a1|ru] „Ÿ„Ÿ*Bop!*\p *Bop!*\e
+[0000a1|en] â”€â”€*bop!*\p *bop!*\e
+[0000a1|ru] â”€â”€*Bop!*\p *Bop!*\e
 
 [0000a4|en] That isn't the ball!! That's Ayamine's chest!\e
-[0000a4|ru] To nie jest pi©ka!!\p\nTo tylko piersi Ayamine!\e
+[0000a4|ru] To nie jest piï½©ka!!\p\nTo tylko piersi Ayamine!\e
 
-[0000a5|en] yMikizuHiya!\p\p Hiya!v\e
-[0000a5|ru] yMikizuHiya!\p\p Hiya!v\e
+[0000a5|en] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
+[0000a5|ru] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
 
-[0000ae|en] „Ÿ„Ÿ*bop!*\p *bop!*\e
-[0000ae|ru] „Ÿ„Ÿ*Bop!*\p *Bop!*\e
+[0000ae|en] â”€â”€*bop!*\p *bop!*\e
+[0000ae|ru] â”€â”€*Bop!*\p *Bop!*\e
 
 [0000b1|en] My head hurts...\p...\pthis is no time to be having dirty\nthoughts!\e
-[0000b1|ru] To powoduje tylko u mnie b«le g©owy...\p\nNie mam nawet si©y aby sobie z tego sproÛnie za¯artowa¨!\e
+[0000b1|ru] To powoduje tylko u mnie bï½«le gï½©owy...\p\nNie mam nawet siï½©y, aby sobie z tego sproï¾›nie\n zaï½¯artowaï½¨!\e
 
-[0000b2|en] yKeizu...\p...\pis that fun?v\e
-[0000b2|ru] yKeizu...\pBawi siª to?v\e
+[0000b2|en] ã€Keiã€‘ã€Œ...\p...\pis that fun?ã€\e
+[0000b2|ru] ã€Keiã€‘ã€Œ...\pBawi ciï½ª to?ã€\e
 
-[0000b3|en] yMikizuHiya!\p\p Hiya!v\e
-[0000b3|ru] yMikizuHiya!\p\p Hiya!v\e
+[0000b3|en] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
+[0000b3|ru] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
 
-[0000be|en] „Ÿ„Ÿ*grab!*\e
-[0000be|ru] „Ÿ„Ÿ*Chwyt!*\e
+[0000be|en] â”€â”€*grab!*\e
+[0000be|ru] â”€â”€*Chwyt!*\e
 
 [0000c1|en] Oh,\p Ayamine picked her up with one hand.\n...\p...\pby her head!\e
-[0000c1|ru] Oh,\p Ayamine podnios©a j§ do g«ry jedn§ rªk§...\p\nChwytaj§c j§ za g©owª!\e
+[0000c1|ru] Och,\p Ayamine podniosï½©a jï½§ do gï½«ry jednï½§ rï½ªkï½§...\p\nChwytajï½§c jï½§ za gï½©owï½ª!\e
 
-[0000ca|en] yMikizuHiya!\p\p Hiya!v\e
-[0000ca|ru] yMikizuHiya!\p\p Hiya!v\e
+[0000ca|en] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
+[0000ca|ru] ã€Mikiã€‘ã€ŒHiya!\p\p Hiya!ã€\e
 
-[0000cb|en] yKeizu...\p...\p...\p...\pv\e
-[0000cb|ru] yKeizu...\p...\pv\e
+[0000cb|en] ã€Keiã€‘ã€Œ...\p...\p...\p...\pã€\e
+[0000cb|ru] ã€Keiã€‘ã€Œ...\p...\pã€\e
 
-[0000cc|en] yChizuruzuHaaaaaaaaaaaaaaaaaaaaaaaaaaa...\p...v\e
-[0000cc|ru] yChizuruzuHaaaaaaaaaaaaaaaaaaaaaaaaaaa...v\e
+[0000cc|en] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaaaaaaaaaa...\p...ã€\e
+[0000cc|ru] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaaaaaaaaaa...ã€\e
 
-[0000d1|en] yTakeruzuThink we can win this?v\e
-[0000d1|ru] yTakeruzuCzy my z tym czymÛ mamy w og«le jakieÛ szanse na\njak§kolwiek wygran§?v\e
+[0000d1|en] ã€Takeruã€‘ã€ŒThink we can win this?ã€\e
+[0000d1|ru] ã€Takeruã€‘ã€ŒCzy z tym czymï¾› mamy w ogï½«le jakieï¾›\nszanse na jakï½§kolwiek wygranï½§?ã€\e
 
-[0000d2|en] yChizuruzuThat was a pretty good joke.v\e
-[0000d2|ru] yChizuruzuAleÛ ty naprawdª zabawny.v\e
+[0000d2|en] ã€Chizuruã€‘ã€ŒThat was a pretty good joke.ã€\e
+[0000d2|ru] ã€Chizuruã€‘ã€ŒJesteï¾› naprawdï½ª zabawny.ã€\e
 
-[0000d3|en] yTakeruzu...\p...\pI was asking seriously.v\e
-[0000d3|ru] yTakeruzu...\pAle ja pyta©em tak na serio.v\e
+[0000d3|en] ã€Takeruã€‘ã€Œ...\p...\pI was asking seriously.ã€\e
+[0000d3|ru] ã€Takeruã€‘ã€Œ...\pAle ja pytaï½©em tak na serio.ã€\e
 
-[0000d4|en] yChizuruzu...\p...\pit'd be nice if we could.v\e
-[0000d4|ru] yChizuruzu...\pFajnie by©oby gdybyÛmy jakieÛ mieli.v\e
+[0000d4|en] ã€Chizuruã€‘ã€Œ...\p...\pit'd be nice if we could.ã€\e
+[0000d4|ru] ã€Chizuruã€‘ã€Œ...\pFajnie byï½©oby, gdybyï¾›my jakiekolwiek\nmieli.ã€\e
 
-[0000d5|en] yTakeruzuAh,\p hey,\p don't look so resigned!\p\nDon't stare off into the distance either!v\e
-[0000d5|ru] yTakeruzuAaa,\p no dalej!\p\nNie poddawaj siª!\p\nZakaz rezygnowania i g©owa do g«ry!v\e
+[0000d5|en] ã€Takeruã€‘ã€ŒAh,\p hey,\p don't look so resigned!\p\nDon't stare off into the distance either!ã€\e
+[0000d5|ru] ã€Takeruã€‘ã€ŒAaa,\p no dalej!\p Nie poddawaj siï½ª!\p\nZakaz rezygnowania i gï½©owa do gï½«ry!ã€\e
 
-[0000d6|en] yChizuruzu...\p...\pwhy's everyone like this now?\p What\nhappened to their great performance yesterday...\p...\p?v\e
-[0000d6|ru] yChizuruzu...\pDlaczego nagle zaczª©y siª tak zachowywa¨?\p\nCo siª sta©o z ich wczorajszym Ûwietnym debiucie...\p?v\e
+[0000d6|en] ã€Chizuruã€‘ã€Œ...\p...\pwhy's everyone like this now?\p What\nhappened to their great performance yesterday...\p...\p?ã€\e
+[0000d6|ru] ã€Chizuruã€‘ã€Œ...\pDlaczego nagle zaczï½ªï½©y siï½ª tak\n zachowywaï½¨?\p Co siï½ª staï½©o z ich wczorajszym ï¾›wietnym\n debiutem...\p?ã€\e
 
-[0000d7|en] yTakeruzuTo put it nicely, they're the type to put things\nto practice...\p...\pv\e
-[0000d7|ru] yTakeruzJakby to ©adnie powiedzie¨.\p\nNajwyraÜniej wygl§da na to,\p ¯e zaliczaj§ siª do tak zwanych:\p\n"Praktycznych" uczni«w...\pv\e
+[0000d7|en] ã€Takeruã€‘ã€ŒTo put it nicely, they're the type to put things\nto practice...\p...\pã€\e
+[0000d7|ru] ã€Takeruã€‘ã€ŒJakby to ï½©adnie powiedzieï½¨,\p\nnajwyraï¾œniej wyglï½§da na to,\p ï½¯e zaliczajï½§ siï½ª do tak\n zwanych\p "praktycznych" uczniï½«w...\pã€\e
 
-[0000d8|en] yChizuruzu...\p...\pand to put it harshly?v\e
-[0000d8|ru] yChizuruzu...\pA tak bardziej dosadniej?v\e
+[0000d8|en] ã€Chizuruã€‘ã€Œ...\p...\pand to put it harshly?ã€\e
+[0000d8|ru] ã€Chizuruã€‘ã€Œ...\pA tak bardziej dosadnie?ã€\e
 
-[0000d9|en] yTakeruzuThey completely forget the basics when it\ncomes time to play and just go nuts.v\e
-[0000d9|ru] yTakeruzuW momencie gdy zaczª©a siª gra, ca©kowicie\nzapomnia©y o zasadach i po prostu oszala©y.v\e
+[0000d9|en] ã€Takeruã€‘ã€ŒThey completely forget the basics when it\ncomes time to play and just go nuts.ã€\e
+[0000d9|ru] ã€Takeruã€‘ã€ŒW momencie gdy zaczï½ªï½©a siï½ª gra, caï½©kowicie\nzapomniaï½©y o zasadach i po prostu oszalaï½©y.ã€\e
 
-[0000da|en] yChizuruzuHaaaaaaaaaaaaaaaaaaaaaaaaaaa...\p...v\e
-[0000da|ru] yChizuruzuHaaaaaaaaaaaaaaaaaaaaaaaaaaa...v\e
+[0000da|en] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaaaaaaaaaa...\p...ã€\e
+[0000da|ru] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaaaaaaaaaa...ã€\e
 
-[0000e3|en] yTakeruzuHuddle! Huddle!! Huddleeeeeeee!!!v\e
-[0000e3|ru] yTakeruzuZbi«rka! Zb«rka!! Dziewczyny, czas na zbi«rkª!!!v\e
+[0000e3|en] ã€Takeruã€‘ã€ŒHuddle! Huddle!! Huddleeeeeeee!!!ã€\e
+[0000e3|ru] ã€Takeruã€‘ã€ŒZbiï½«rka! Zbï½«rka!! Dziewczyny, czas na\n zbiï½«rkï½ª!!!ã€\e
 
-[0000ef|en] yTakeruzuIs each and every one of you an idiot!!?v\e
-[0000ef|ru] yTakeruzuPowiedzcie, jak durne mo¯ecie byc!!?v\e
+[0000ef|en] ã€Takeruã€‘ã€ŒIs each and every one of you an idiot!!?ã€\e
+[0000ef|ru] ã€Takeruã€‘ã€ŒPowiedzcie, jak durne moï½¯ecie byï½¨!!?ã€\e
 
-[0000f2|en] ySumikazuOnly idiots call other people idiots!v\e
-[0000f2|ru] ySumikazuTylko g©upki wyzywaj§ innych od g©upk«w!v\e
+[0000f2|en] ã€Sumikaã€‘ã€ŒOnly idiots call other people idiots!ã€\e
+[0000f2|ru] ã€Sumikaã€‘ã€ŒTylko gï½©upki wyzywajï½§ innych od gï½©upkï½«w!ã€\e
 
-[0000f4|en] yTakeruzuThis is no time for that!!v\e
-[0000f4|ru] yTakeruzuNie mamy teraz na to czasu!!v\e
+[0000f4|en] ã€Takeruã€‘ã€ŒThis is no time for that!!ã€\e
+[0000f4|ru] ã€Takeruã€‘ã€ŒNie mamy teraz na to czasu!!ã€\e
 
-[0000f6|en] ySumikazuIt's your fault, Takeru-chan.v\e
-[0000f6|ru] ySumikazuAle to ty zacz§©eÛ, Takeru-chan.v\e
+[0000f6|en] ã€Sumikaã€‘ã€ŒIt's your fault, Takeru-chan.ã€\e
+[0000f6|ru] ã€Sumikaã€‘ã€ŒAle to ty zaczï½§ï½©eï¾›, Takeru-chan.ã€\e
 
-[0000fe|en] ySumikazuOwieee!v\e
-[0000fe|ru] ySumikazuA©a!v\e
+[0000fe|en] ã€Sumikaã€‘ã€ŒOwieee!ã€\e
+[0000fe|ru] ã€Sumikaã€‘ã€ŒAï½©a!ã€\e
 
-[000100|en] yTakeruzuYou dumbass!v\e
-[000100|ru] yTakeruzuIdiotka!v\e
+[000100|en] ã€Takeruã€‘ã€ŒYou dumbass!ã€\e
+[000100|ru] ã€Takeruã€‘ã€ŒIdiotka!ã€\e
 
-[000103|en] yMikizuI'm sorryyy...\p...\p...\p...\pI gave in to temptation...\p...\pv\e
-[000103|ru] yMikizuPrzepraszam...\p...\p Uleg©am pokusie...\pv\e
+[000103|en] ã€Mikiã€‘ã€ŒI'm sorryyy...\p...\p...\p...\pI gave in to temptation...\p...\pã€\e
+[000103|ru] ã€Mikiã€‘ã€ŒPrzepraszam...\p...\p Ulegï½©am pokusie...\pã€\e
 
 [000105|en] ...\p...\pwhat temptation!?\e
 [000105|ru] ...\pPokusie!?\e
 
-[000108|en] yKeizu...\p...\pI didn't do anything.v\e
-[000108|ru] yKeizu...\pNic nie zrobi©am.v\e
+[000108|en] ã€Keiã€‘ã€Œ...\p...\pI didn't do anything.ã€\e
+[000108|ru] ã€Keiã€‘ã€Œ...\pNic nie zrobiï½©am.ã€\e
 
-[00010a|en] yTakeruzuThat's just as much of a problem.v\e
-[00010a|ru] yTakeruzuWiem. I w tym jest problem.v\e
+[00010a|en] ã€Takeruã€‘ã€ŒThat's just as much of a problem.ã€\e
+[00010a|ru] ã€Takeruã€‘ã€ŒWiem. I w tym jest problem.ã€\e
 
-[000111|en] yChizuruzuHaaaaaaaaaaaaaaaaaaa...\p...\pv\e
-[000111|ru] yChizuruzuHaaaaaaaaaaaaaaaaaaa...\pv\e
+[000111|en] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaa...\p...\pã€\e
+[000111|ru] ã€Chizuruã€‘ã€ŒHaaaaaaaaaaaaaaaaaaa...\pã€\e
 
-[000112|en] yTakeruzuWe'll never be able to play a match at this rate!\nWe need to start over from the basics!!v\e
-[000112|ru] yTakeruzuNigdy nie bªdziemy w stanie rozegra¨ meczu w\ntakim tempie!\p Musimy zacz§¨ od podstaw!!v\e
+[000112|en] ã€Takeruã€‘ã€ŒWe'll never be able to play a match at this rate!\nWe need to start over from the basics!!ã€\e
+[000112|ru] ã€Takeruã€‘ã€ŒNigdy nie bï½ªdziemy w stanie rozegraï½¨\n meczu w takim tempie!\p Musimy zaczï½§ï½¨ od\n podstaw!!ã€\e
 
-[000114|en] yChizuruzuBut isn't the problem that they're forgetting\nthe basics?v\e
-[000114|ru] yChizuruzuAle problemem  nie jest ¯e zapomnia©y o\npodstawach?v\e
+[000114|en] ã€Chizuruã€‘ã€ŒBut isn't the problem that they're forgetting\nthe basics?ã€\e
+[000114|ru] ã€Chizuruã€‘ã€ŒAle problemem nie jest to, ï½¯e zapomniaï½©y\n o podstawach?ã€\e
 
-[000115|en] yTakeruzuWe'll beat it into their bodies!v\e
-[000115|ru] yTakeruzuWiªc wsadzimy te zasady prosto do ich cia©!v\e
+[000115|en] ã€Takeruã€‘ã€ŒWe'll beat it into their bodies!ã€\e
+[000115|ru] ã€Takeruã€‘ã€ŒWiï½ªc wsadzimy te zasady prosto do ich ciaï½©!ã€\e
 
-[000117|en] yKeizu...\p...\pthat sounds perverted.v\e
-[000117|ru] yKeizu...\pZbereÜnie zabrzmialo.v\e
+[000117|en] ã€Keiã€‘ã€Œ...\p...\pthat sounds perverted.ã€\e
+[000117|ru] ã€Keiã€‘ã€Œ...\pZbereï¾œnie zabrzmiaï½©o.ã€\e
 
-[000120|en] yTakeruzuSay whatever you want! We're training harder!!v\e
-[000120|ru] yTakeruzuNazywaj to sobie jak chcesz!\p\nOd teraz zaczynamy naprawdª ciª¯ki trening!!v\e
+[000120|en] ã€Takeruã€‘ã€ŒSay whatever you want! We're training harder!!ã€\e
+[000120|ru] ã€Takeruã€‘ã€ŒNazywaj to sobie jak chcesz!\p\nOd teraz zaczynamy naprawdï½ª ciï½ªï½¯ki trening!!ã€\e
 
-[000122|en] yMeiyazuWhat should we do?v\e
-[000122|ru] yMeiyazuCo mamy robi¨?v\e
+[000122|en] ã€Meiyaã€‘ã€ŒWhat should we do?ã€\e
+[000122|ru] ã€Meiyaã€‘ã€ŒCo mamy robiï½¨?ã€\e
 
-[00012b|en] yTakeruzuWe'll split into smaller teams and train.\p\nListen while I announce the pairings.v\e
-[00012b|ru] yTakeruzuPodzielimy siª i bªdziemy trenowa¨ w mniejszych\ngrupach. Po prostu wykonujcie rozkazy, dobrze?\p\nTeraz powiem kto z kim bªdzie ¨wiczy©.v\e
+[00012b|en] ã€Takeruã€‘ã€ŒWe'll split into smaller teams and train.\p\nListen while I announce the pairings.ã€\e
+[00012b|ru] ã€Takeruã€‘ã€ŒPodzielimy siï½ª i bï½ªdziemy trenowaï½¨\n w mniejszych grupach. Po prostu wykonujcie rozkazy,\n dobrze?\p Teraz powiem kto z kim bï½ªdzie ï½¨wiczyï½¨.ã€\e
