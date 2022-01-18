@@ -95,7 +95,7 @@ SCR 1 UTF-8
 [00023e|ru] *ka-boom*...\p...\p\e
 
 [00023f|en] ...\p...\pmy saber definitely went through the Xao-myun.\e
-[00023f|ru] ...Jestem pewien tego, ｯe moja szabla przebiｩa\n Xao-myun.\e
+[00023f|ru] ...Jestem pewien, ｯe moja szabla przebiｩa\n Xao-myun.\e
 
 [000240|en] But in the process,\p my Kaizer blew up and fell to its\nknees.\e
 [000240|ru] Ale zanim uderzenie zostaｩo zarejestrowone,\p to mｫj\n poturbowany eksplozjami Kaizer opadｩ na kolana.\p\e
@@ -119,7 +119,7 @@ SCR 1 UTF-8
 [000251|ru] Jest ona o trzy klatki szybsza niｯ uderzenie Xao-myun!!\e
 
 [000252|en] ...\p...\p...\p...\peven if they'd hit simultaneously, I shouldn't have\nlost...\p...!!\e
-[000252|ru] ...Jeｯeli byﾛmy zaatakowali siｪ w tym samym momencie,\n to nie ma mowy ｯebym przegraｩ...!!\e
+[000252|ru] ...Jeｯeli zaatakowali byﾛmy w tym samym momencie,\n to nie ma mowy ｯebym przegraｩ...!!\e
 
 [000253|en] Damn iiiiit...\p...\p...\p...\p\e
 [000253|ru] Jasna cholera...\e

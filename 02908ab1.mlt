@@ -605,7 +605,7 @@ SCR 1 UTF-8
 [0002bf|ru] 【Takeru】「He-\phej! Przestaﾃ mnie ciｧgnｧｨ!」\e
 
 [0002c1|en] 【Sumika】「But you can't run quickly on your own right\nnow, can you?\p So I'll pull you along.」\e
-[0002c1|ru] 【Sumika】「Cｫｯ, przecieｯ nie masz juｯ siｩ, by mｫc\n wystarczajｧco szybko pobiegnｧｨ, prawda?\p\n  Nigdy ci siｪ to nie uda, jeﾛli nie bｪdｪ ciｧgnｪｩa ciｪ\n za sobｧ.」\e
+[0002c1|ru] 【Sumika】「Cｫｯ, przecieｯ nie masz juｯ siｩ, by mｫc\n wystarczajｧco szybko pobiec, prawda?\p\n  Nigdy ci siｪ to nie uda, jeﾛli nie bｪdｪ ciｧgnｪｩa ciｪ\n za sobｧ.」\e
 
 [0002c2|en] 【Takeru】「And whose fault is that!?」\e
 [0002c2|ru] 【Takeru】「Och, a jak myﾛlisz, czyja to wina!?」\e
@@ -1163,7 +1163,7 @@ SCR 1 UTF-8
 [00052e|ru] 【Sumika】「Kim do cholery jest ta dziewczyna～!!?」\e
 
 [000532|en] 【Takeru】「Wait a minute,\p all of you, calm down!\p\nI'll answer your questions one at a time...\p...\p」\e
-[000532|ru] 【Takeru】「Chwileczkｪ, poczekajcie!\p Dziewczyny\n wszystkie, uspokｫjcie siｪ! Mｫwcie po kolej, proszｪ...\p」\e
+[000532|ru] 【Takeru】「Chwileczkｪ, poczekajcie!\p Dziewczyny,\n uspokｫjcie siｪ! Mｫwcie po kolej, proszｪ...\p」\e
 
 [000536|en] 【Miki】「How far have you gone!?」\e
 [000536|ru] 【Miki】「Na jakim etapie jesteﾛcie?」\e
@@ -1193,7 +1193,7 @@ SCR 1 UTF-8
 [000568|ru] 【Sumika】「Aｩaaa!!」\e
 
 [000571|en] 【Takeru】「Nnnnnnnnnn...\p...\pare you an idiot!!!??\p\nDon't say that she slept with me so loudly!!!!」\e
-[000571|ru] 【Takeru】「Grrrr...\p\n CO DO DIABｳA JEST Z TOBｱ NIE TAK!!??\p\nCzy naprawdｪ nie mogｩaﾛ zachowaｨ tego dla siebie!!!!」\e
+[000571|ru] 【Takeru】「Grrrr...\p\n CO DO DIABｳA JEST Z TOBｱ NIE TAK!!??\p\nCzy naprawdｪ nie mogｩaﾛ zachowaｨ tego dla siebie!!??」\e
 
 [000575|en] Ah...\p...\p...\p...\p\e
 [000575|ru] Ach...\p...\p...\p...\p\e
@@ -1802,7 +1802,7 @@ SCR 1 UTF-8
 [000885|ru] ...\p...\p...\p...\p\e
 
 [000886|en] 【Takeru】「...\p...\pyou know,\p I think it's just an incredible\ncoincidence,\p but we seem to have the same route home,\nso I was wondering where you live.」\e
-[000886|ru] 【Takeru】「...\pWiｪc hej,\p jestem przekonany, ｯe to tylko\n totalny zbieg okolicznoﾛci, ale poniewaｯ wyglｧda na to, ｯe idziemy tｧ samｧ drogｧ do domu, wiｪc zastanawiam siｪ,\n gdzie dokｩadnie mieszkasz, Meiya?」\e
+[000886|ru] 【Takeru】「...\pHej,\p jestem przekonany, ｯe to tylko\n totalny zbieg okolicznoﾛci, ale poniewaｯ wyglｧda na to, ｯe\n idziemy tｧ samｧ drogｧ do domu, zastanawiam siｪ,\n gdzie dokｩadnie mieszkasz, Meiya?」\e
 
 [000889|en] 【Meiya】「Go straight there,\p and then my house is on that\nblock.」\e
 [000889|ru] 【Meiya】「Podｧｯaj tｧ drogｧ, a nastｪpnie skrｪｨ w prawo.\p\n Na pewno tego nie przegapisz.」\e
@@ -1838,13 +1838,13 @@ SCR 1 UTF-8
 [0008a8|ru] 【Meiya】「...\p...\p...\p...\p」\e
 
 [0008aa|en] The park where Sumika and I used to play as kids.\nWe pass by here every day,\p but we don't look at it\nanymore.\e
-[0008aa|ru] To ten sam park w ktｫrym ja i Sumika bawiliﾛmy siｪ\n jak byliﾛmy mali. Kaｯdego dnia mijaliﾛmy to miejsce\n i prawie zawsze nie zwracamy nawet na niego uwagi.\e
+[0008aa|ru] To ten sam park w ktｫrym ja i Sumika bawiliﾛmy siｪ\n jak byliﾛmy mali. Kaｯdego dnia mijaliﾛmy to miejsce\n i prawie nigdy nie zwracaliﾛmy na niego uwagi.\e
 
 [0008ab|en] A few little kids sit on the bench, talking about cards or\nsomething.\e
 [0008ab|ru] Kilka mｩodszych dzieci siedzi sobie na ｩawce i\n sｧ caｩkowicie wciｧgniｪte karciankｧ.\e
 
 [0008ac|en] We don't even glance at the beautiful slide,\p or the\nsandbox.\e
-[0008ac|ru] Nawet praktycznie nie rzuciｩy okiem na nowｧ\n zjeｯdｯalniｪ, ani takｯe na prawdopodobnie tｧ najbardziej\n sanitarnｧ piaskownicｪ na Ziemii.\e
+[0008ac|ru] Nawet nie rzuciｩy okiem na nowｧ zjeｯdｯalniｪ,\n ani takｯe na prawdopodobnie tｧ najbardziej\n sanitarnｧ piaskownicｪ na Ziemii.\e
 
 [0008ae|en] 【Meiya】「The depths of the hearts\p\nOf humankind cannot be known.\p\nBut in my birthplace\p\nThe plum blossoms smell the same\p\nAs in the years gone by.」\e 
 [0008ae|ru] 【Meiya】「Byｨ moｯe ludzkie serce teraz jest dla mnie\n zagadkｧ,\p ale w moim rodzinnym mieﾛcie kwiaty jeszcze\n pachniaｩy czasami, ktｫre juｯ przeminｪｩy.」\e 
@@ -1865,7 +1865,7 @@ SCR 1 UTF-8
 [0008b7|ru] 【Meiya】「Czy to...\p miejsce skurczyｩo siｪ?」\e
 
 [0008b9|en] 【Takeru】「No, no,\p we've just gotten bigger.\p\nBy the way, Sumika,\p remember when we talked about\nthis place yesterday?\p ...\p...\pI remembered something\nelse...\p...\p」\e
-[0008b9|ru] 【Takeru】「Nie, nie,\p to my tylko uroﾛliﾛmy.\p\n A tak przy okazji, Sumika,\p pamiｪtasz jak wczoraj\nsobie rozmawialiﾛmy o tym parku? Wｩaﾛnie sobie coﾛ\n przypomniaｩem...\p」\e
+[0008b9|ru] 【Takeru】「Nie, nie,\p to tylko my uroﾛliﾛmy.\p\n A tak przy okazji, Sumika,\p pamiｪtasz jak wczoraj\nsobie rozmawialiﾛmy o tym parku? Wｩaﾛnie sobie coﾛ\n przypomniaｩem...\p」\e
 
 [0008bb|en] 【Sumika】「It can't possibly be something good.」\e
 [0008bb|ru] 【Sumika】「I to raczej nic dobrego.」\e
@@ -1976,13 +1976,13 @@ SCR 1 UTF-8
 [00092b|ru] 【Sumika】「Ta-Ta-Ta-Ta-Takeru-chaaaaan!!!!!\p\nCo-co-co-co-co to ma wszystko znaczyｨ!!!」\e
 
 [00092c|en] 【Takeru】「I-I-I-I-I have no idea!!!!」\e
-[00092c|ru] 【Takeru】「A NIBY SKｱD MAM WIEDZIEｲ!!!!」\e
+[00092c|ru] 【Takeru】「A NIBY SKｱD MAM WIEDZIEｲ!!??」\e
 
 [00092f|en] 【Sumika】「D-\pd-\pd-\pdon't think you can get away with\nplaying dumb!!\p This is worse than what happened this\nmorning!!!!」\e
-[00092f|ru] 【Sumika】「Nie myﾛl sobie, ｯe pozwolｪ ci uciec,\n gdy sobie tak udajesz, ｯe o niczym nie wiesz!\p Najpierw\n dziﾛ rano, a teraz to!! Co tutaj do cholery siｪ\n dzieje!!!!」\e
+[00092f|ru] 【Sumika】「Nie myﾛl sobie, ｯe pozwolｪ ci uciec,\n gdy sobie tak udajesz, ｯe o niczym nie wiesz!\p Najpierw\n dziﾛ rano, a teraz to!! Co się tutaj do cholery\n dzieje!!??」\e
 
 [000931|en] 【Meiya】「Aaah...\p...\p...\p...\pboth of you...\p...\p」\e
-[000931|ru] 【Meiya】「Aaach...\p oby dwoje...\p」\e
+[000931|ru] 【Meiya】「Aaach...\p obydwoje...\p」\e
 
 [000932|en] 【Takeru】「Shut up!!\p I said I don't know and I don't!!」\e
 [000932|ru] 【Takeru】「Cicho bｧdﾜ!\p Przecieｯ juｯ mｫwiｩem, ｯe nic\n o tym nie wiem!!」\e
