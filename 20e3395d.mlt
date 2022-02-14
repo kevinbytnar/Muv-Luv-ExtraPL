@@ -89,7 +89,7 @@ SCR 1 UTF-8
 [000048|ru] *Burczenie* *Burczenie* *Burczenie*...\p...\p\e
 
 [000049|en] There's supposed to be a cook-off today,\p but it's far too\nquiet.\e
-[000049|ru] Niby dzisiaj jest ten wielki dzieﾃ gotowania,\p ale\n jakoﾛ jest zbyt cicho.\e
+[000049|ru] Niby dzisiaj jest ten wielki dzieﾃ gotowania,\p ale\n jest jakoﾛ zbyt cicho.\e
 
 [20004a|en] ──Ah,\p there he is!\p The best chef in all of Europe\nhas...\p...\p\e
 [20004a|ru] ──Ach,\p juｯ jest!\p Najbardziej rozpoznawalny kucharz\n z Europy...\p\e
@@ -422,13 +422,13 @@ SCR 1 UTF-8
 [0001cf|ru] No i poszedｩ...\p\e
 
 [0001d0|en] Was it just an excuse to get away from her...\p...\p\nor did he really go to get something...\p...\p?\e
-[0001d0|ru] Wiｪc takｧ sztuczkｪ uｯyｩ, aby od niej uciec...\p\nLub moｯe faktycznie udaｩ siｪ na polowanie...\p?\e
+[0001d0|ru] Wiｪc takiej sztuczki uｯyｩ, aby od niej uciec...\p\nLub moｯe faktycznie udaｩ siｪ na polowanie...\p?\e
 
 [0001d1|en] 【Takeru】「...\p...\pwhat's he making?」\e
 [0001d1|ru] 【Takeru】「...\pCo on aktualnie wyprawia?」\e
 
 [0001d4|en] 【Tsukuyomi】「Well...\p...\p\pI do not know...\p...\p\pbut Yoroi-sama is\nmaking it,\p\p so I have no doubt it is something wonderful.」\e
-[0001d4|ru] 【Tsukuyomi】「W sumie...\p sama nie wiem...\p \nAle jeｯeli Yoroki-sama to robi to nie mam wｧtpliwoﾛci\p,\n ｯe bｪdziemy tym oczarowani.」\e
+[0001d4|ru] 【Tsukuyomi】「W sumie...\p sama nie wiem...\p \nAle jeｯeli Yoroki-sama, to robi to nie mam wｧtpliwoﾛci\p,\n ｯe bｪdziemy tym oczarowani.」\e
 
 [0001d6|en] ...\p...\p...\p...\p\e
 [0001d6|ru] ...\p...\p...\p...\p\e
@@ -995,7 +995,7 @@ SCR 1 UTF-8
 [00043f|ru] 【Chizuru】「...\p...\p」\e
 
 [000443|en] What?\p Class Rep!\e
-[000443|ru] Noo,\p czy to nie sama Przedstawicielka w wｩasnej osobie!\e
+[000443|ru] Noo,\p czy to nie sama Przedstawicielka we wｩasnej osobie!\e
 
 [000445|en] 【Chizuru】「Hmmm...\p...\p...\pit's messy, as expected,\p but not as\nbad as I imagined.」\e
 [000445|ru] 【Chizuru】「Hmmm...\p Tak jak siｪ spodziewaｩam, panuje\n tutaj straszny baｩagan...\p ale w sumie nie jest aｯ taki,\n jak sobie wyobraｯaｩam.」\e
@@ -1091,7 +1091,7 @@ SCR 1 UTF-8
 [00048b|ru] 【Takeru】「...\p...\p」\e
 
 [000490|en] 【Chizuru】「You won't do as I say?」\e
-[000490|ru] 【Chizuru】「Oﾛmielasz siｪ mi sprzeciwiaｨ?」\e
+[000490|ru] 【Chizuru】「Oﾛmielasz mi siｪ sprzeciwiaｨ?」\e
 
 [000492|en] 【Takeru】「I'll do it!\p Please allow me to do it!」\e
 [000492|ru] 【Takeru】「Wｩaﾛnie, ｯe tak!\p Proszｪ, pozwｫl mi to\n zrobiｨ!」\e
@@ -1193,13 +1193,13 @@ SCR 1 UTF-8
 [000511|ru] Niedobrze.\p Wyglｧda na to, ｯe moja przyszｩoﾛｨ zostaｩa\n juｯ przesｧdzona.\e
 
 [000513|en] 【Chizuru】「What's wrong?\p\nYour hands haven't moved for a while now.」\e
-[000513|ru] 【Chizuru】「Coﾛ nie tak?\p\n Nagle stanｧｩeﾛ na chwilｪ, jakby coﾛ zmroziｩo ci krew\n w ｯyｩach.」\e
+[000513|ru] 【Chizuru】「Coﾛ nie tak?\p\n Nagle stanｧｩeﾛ na chwilｪ, jakby coﾛ ci zmroziｩo krew\n w ｯyｩach.」\e
 
 [000514|en] ──Ha!?\e
 [000514|ru] ──Ha!?\e
 
 [00051b|en] ...\p...\phas Class Rep's tremendous presence been making\nme see things!?\e
-[00051b|ru] ...\pCzyｯby zbliｯajｧca siｪ konfrontacja z\n Przedstawicielkｧ wywoｩuje u mnie omamy?\e
+[00051b|ru] ...\pCzyｯby zbliｯajｧca siｪ konfrontacja z\n Przedstawicielkｧ wywoｩywaｩa u mnie omamy?\e
 
 [000523|en] 【Chizuru】「H-\phey,\p Shirogane-kun...\p...\peh-\pwhat do you have\nthere...\p...\p?」\e
 [000523|ru] 【Chizuru】「Poczekaj,\p Shirogane-kun...\p Co ty tam\n masz?」\e
@@ -1250,7 +1250,7 @@ SCR 1 UTF-8
 [00055b|ru] 【Ebisu】「Jakie to dziwne～～」\e
 
 [00055d|en] 【Takeru】「If you're after Class Rep, she just left.」\e
-[00055d|ru] 【Takeru】「Jeｯeli waszym celem byｩa Przedstawicielka,\p\n to ona zdｧｯyｩa juｯ sobie pｫjﾛｨ.」\e
+[00055d|ru] 【Takeru】「Jeｯeli waszym celem byｩa Przedstawicielka,\p\n to zdｧｯyｩa juｯ sobie pｫjﾛｨ.」\e
 
 [00055f|en] 【Kamiyo】「...\p...\p...\p...\p」\e
 [00055f|ru] 【Kamiyo】「...\p...\p」\e
@@ -1562,7 +1562,7 @@ SCR 1 UTF-8
 [0006af|ru] 【Yuuko】「Robi wraｯenie～\p\p Wyglｧda tak, jakby zostaｩo\n wyciｧgniｪte ｯywcem prosto z jakiejﾛ mangi.」\e
 
 [0006b1|en] 【Meiya】「I feel that the initial delight upon seeing its\ncolors,\p\p\p the sounds and smells when taking one's portion,\p\p\p\nand the taste and satisfaction during the first bite all\ncombine perfectly to make the meal what it is.」\e
-[0006b1|ru] 【Meiya】「Czujｪ, ｯe poczｧtkowa radoﾛｨ z oglｧdania\n jego kolorｫw, dﾜwiｪkｫw i zapochｫw podczas\n przyjmowania porcji, oraz smak i satysfakcja podczas\n pierwszego ugryzienia doskonale siｪ ｩｧczｧ ze sobｧ, by\n dziｪki temu mｫc podarowaｨ temu posiｩkowi jego\n indywidualnｧ osobowoﾛｨ.」\e
+[0006b1|ru] 【Meiya】「Czujｪ, ｯe poczｧtkowa radoﾛｨ z oglｧdania\n jego kolorｫw, dﾜwiｪkｫw i zapachｫw podczas\n przyjmowania porcji, oraz smak i satysfakcja podczas\n pierwszego ugryzienia doskonale siｪ ｩｧczｧ ze sobｧ, by\n dziｪki temu mｫc podarowaｨ temu posiｩkowi jego\n indywidualnｧ osobowoﾛｨ.」\e
 
 [0006b2|en] 【Takeru】「I see.」\e
 [0006b2|ru] 【Takeru】「Rozumiem.」\e
@@ -1613,7 +1613,7 @@ SCR 1 UTF-8
 [0006d3|ru] 【Takeru】「Rozumiem...\p」\e
 
 [0006d4|en] 【Meiya】「So,\p in addition to my existing staff,\p\p I gathered\ntogether several of the world's best chefs to take many\nkinds of modern food into account.」\e
-[0006d4|ru] 【Meiya】「Tak wiｪc,\p oprｫcz mojej dotychczasowej\n kadry, zebraｩam kilku najbardziej znanych\n kuchmistrzｫw, aby ponownie wyobraziｨ sobie te\n potrawy, biorｧc pod uwagｪ rｫwnoczeﾛnie ich\n wspｫｩczesnｧ smakowitoﾛｨ.」\e
+[0006d4|ru] 【Meiya】「Tak wiｪc,\p oprｫcz mojej dotychczasowej\n kadry, zebraｩam kilku najbardziej znanych\n kuchmistrzｫw, aby ponownie wyobraziｨ sobie te\n potrawy, biorｧc rｫwnoczeﾛnie pod uwagｪ ich\n wspｫｩczesnｧ smakowitoﾛｨ.」\e
 
 [0006d5|en] 【Takeru】「A-...\p...\pamazing!」\e
 [0006d5|ru] 【Takeru】「CHOLERA...!」\e
@@ -1745,7 +1745,7 @@ SCR 1 UTF-8
 [000775|ru] 【Kei】「...\pNie oceniaj po wyglｧdzie.」\e
 
 [00077f|en] 【Yuuko】「Wow...\p...\p...\pwhat's your secret?」\e
-[00077f|ru] 【Yuuko】「Interesujｧce...\p...\p Sｧ moｯe tam jakieﾛ\n tajemnicze skｩadniki?」\e
+[00077f|ru] 【Yuuko】「Interesujｧce...\p...\p Sｧ tam moｯe jakieﾛ\n tajemnicze skｩadniki?」\e
 
 [000781|en] 【Kei】「...\p...\pyou'll find out when you eat it.」\e
 [000781|ru] 【Kei】「...\pOdkryjesz to, gdy siｪ poczｪstujesz.\e
@@ -1754,7 +1754,7 @@ SCR 1 UTF-8
 [000783|ru] 【Yuuko】「Sｩyszaｩeﾛ co powiedziaｩa,\p Shirogane.」\e
 
 [000784|en] 【Takeru】「...\p...\pI'll do my best.」\e
-[000784|ru] 【Takeru】「...\pDam z siebie wszysko.」\e
+[000784|ru] 【Takeru】「...\pDam z siebie wszystko.」\e
 
 [00078e|en] 【Yuuko】「So,\p now that everyone's introduced their food,\p\nlet's wait for Shirogane to eat them all.\p\nEveryone else go to the waiting room!」\e
 [00078e|ru] 【Yuuko】「Wiｪc, teraz po prezentacji kaｯdego z daﾃ,\n poczekamy aｯ Shirogane upora siｪ z nimi wszystkimi.\n A reszta skieruje siｪ do poczekalni!」\e
@@ -2006,7 +2006,7 @@ SCR 1 UTF-8
 [000986|ru] 【Kei】「...\pCo za zaskakujｧca kobieta.」\e
 
 [000988|en] 【Chizuru】「...\p...\pyou didn't need to say that.」\e
-[000988|ru] 【Chizuru】「...\pNikt nie pytaｩ ciｪ o zdanie.」\e
+[000988|ru] 【Chizuru】「...\pNikt ciｪ nie pytaｩ o zdanie.」\e
 
 [000992|en] 【Sumika】「Now that you mention it...\p...\p...\pSakaki-san is\nalways fighting with Takeru-chan.」\e
 [000992|ru] 【Sumika】「Jak teraz o tym wspominasz...\p To Sakaki-san\n i Takeru-chan znani sｧ z tego, ｯe zawsze skaczｧ\n sobie nawzajem do gardeｩ, co nie?」\e

@@ -215,10 +215,10 @@ SCR 1 UTF-8
 [0000ce|ru] 【Sumika】「N-\pnaprawdｪ, nie zadrｪczaj siｪ tym...\p\nNie chcｪ sprawiaｨ tobie niepotrzebnych kｩopotｫw...\p」\e
 
 [0000cf|en] 【Meiya】「Why are you being so reserved, Kagami?\p\p\p\nYou have done no less for me.」\e
-[0000cf|ru] 【Meiya】「Dlaczego jesteﾛ taka powﾛciｧgliwa, Kagami?\p\p\p\nSama dla mnie juｯ nie jedno zrobiｩaﾛ.」\e
+[0000cf|ru] 【Meiya】「Dlaczego jesteﾛ taka powﾛciｧgliwa, Kagami?\p\p\p\nSama dla mnie juｯ niejedno zrobiｩaﾛ.」\e
 
 [0000d0|en] 【Sumika】「Eh...\p...\pth-\pthat's not true...\p...\p」\e
-[0000d0|ru] 【Sumika】「Ech...\p...\p To nie prawda...\p」\e
+[0000d0|ru] 【Sumika】「Ech...\p...\p To nieprawda...\p」\e
 
 [0000d1|en] 【Meiya】「You are so humble.\p\p\n...\p...\p...\p...\pI will not force it upon you.\p\p\nIf it is a bother,\p do not hesitate to say so.」\e
 [0000d1|ru] 【Meiya】「Jesteﾛ strasznie pokorna.\p\p\p\n Nie mam zamiaru zmuszaｨ ciｪ do niczego.\p Wiesz, jeﾛli\n to ci przeszkadza, to naprawdｪ nie wahaj mi siｪ o\n tym powiedzieｨ.」\e
@@ -320,7 +320,7 @@ SCR 1 UTF-8
 [000156|ru] 【Takeru】「──Hｴ? A skｧd ty mnie niby znasz?」\e
 
 [00015c|en] 【Chizuru】「When someone becomes famous, everyone\nknows the basic facts about them.」\e
-[00015c|ru] 【Chizuru】「Cｫｯ, w naszej szkole zazwyczaj zdobywa siｪ\nsｩawｪ tylko przez 3 powody.」\e
+[00015c|ru] 【Chizuru】「Cｫｯ, w naszej szkole zazwyczaj zdobywa siｪ\nsｩawｪ tylko z trzech powodｫw.」\e
 
 [000160|en] 【Akane】「A cool guy,\p\p pretty smart too,\p\p but also a truly\nincredible idiot...\p...\p」\e
 [000160|ru] 【Akane】「Albo jesteﾛ jednym z tych fajnych\n dzieciakｫw,\p\p albo jesteﾛ jednym z geniuszｫw,\p\p albo\n naleｯysz do totalnych jeｩopｫw...\p」\e
@@ -428,7 +428,7 @@ SCR 1 UTF-8
 [0001f6|ru] 【Takeru】「ﾂe co?」\e
 
 [0001f8|en] 【Sumika】「You really don't have any delicacy at all.」\e
-[0001f8|ru] 【Sumika】「Nie masz w sobie ani odrobinｪ delikatnoﾛci.」\e
+[0001f8|ru] 【Sumika】「Nie masz w sobie ani odrobiny delikatnoﾛci.」\e
 
 [0001fb|en] 【Takeru】「Seriously, what is it?」\e
 [0001fb|ru] 【Takeru】「Naprawdｪ, o co ci chodzi?」\e
@@ -1508,7 +1508,7 @@ SCR 1 UTF-8
 [000575|ru] 【Kei】「...\p...\p」\e
 
 [000576|en] 【Takeru】「And...\p...\pwell...\p...\pthis is my last year here...\p...」\e
-[000576|ru] 【Takeru】「I poza tym...\p To jest nasza ostatnia\n szansa...\p ﾂebyﾛmy mogli zrobiｨ coﾛ takiego zanim\n jak doroﾛniemy...\p」\e
+[000576|ru] 【Takeru】「I poza tym...\p To jest nasza ostatnia\n szansa...\p ﾂebyﾛmy mogli zrobiｨ coﾛ takiego zanim\ndoroﾛniemy...\p」\e
 
 [000578|en] 【Kei】「...\p...\p...\p...\p」\e
 [000578|ru] 【Kei】「...\p...\p」\e

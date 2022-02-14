@@ -422,7 +422,7 @@ SCR 1 UTF-8
 [000191|ru] 【Sumika】「Zaprawdｪ niezmiernie rzadkim widokiem jest\nujrzenie spｫﾜnionej Sakaki-san.」\e
 
 [000192|en] 【Takeru】「Sorry,\p I need to talk to Class Rep about\nsomething.\p Go on without me.」\e
-[000192|ru] 【Takeru】「Wybaczcie,\p ale muszｪ o czymﾛ waｯnym\n porozmawiaｨ z Przedstawicielkｧ.\p Idﾜcie dalej beze\n mnie.」\e
+[000192|ru] 【Takeru】「Wybaczcie,\p ale muszｪ porozmawiaｨ o\n czymﾛ waｯnym z Przedstawicielkｧ.\p Idﾜcie dalej beze\n mnie.」\e
 
 [000194|en] 【Sumika】「Ah,\p Takeru-chan!?」\e
 [000194|ru] 【Sumika】「Ach,\p Takeru-chan!?」\e
@@ -1568,7 +1568,7 @@ SCR 1 UTF-8
 [000507|ru] 【Kei】「No tak,\p rzeczywiﾛcie przesadziｩam.」\e
 
 [000508|en] 【Takeru】「If you're that coordinated,\p you really\nshould...\p...\pplay lacrosse.」\e
-[000508|ru] 【Takeru】「Jeﾛli twoja koordynacja jest aｯ na tak\p\nwysokim poziomie...\p to powinnaﾛ z nami zagraｨ.」\e
+[000508|ru] 【Takeru】「Jeﾛli twoja koordynacja jest na aｯ tak\p\nwysokim poziomie...\p to powinnaﾛ z nami zagraｨ.」\e
 
 [000509|en] 【Kei】「...\p...\p...\p...\p」\e
 [000509|ru] 【Kei】「...\p...\p」\e
@@ -1646,7 +1646,7 @@ SCR 1 UTF-8
 [00052f|ru] 【Kei】「...\pCiesz siｪ swojｧ drzemkｧ.」\e
 
 [000530|en] 【Takeru】「Thanks.\p Bye.」\e
-[000530|ru] 【Takeru】「Dziｪko no.\p To narka.」\e
+[000530|ru] 【Takeru】「Dziｪki.\p To narka.」\e
 
 [000532|en] 【Kei】「...\p...\pyeah.」\e
 [000532|ru] 【Kei】「...\pTaaa.」\e
@@ -1919,7 +1919,7 @@ SCR 1 UTF-8
 [000626|ru] 【Takeru】「Cudownie, co nie?\p\nNo to teraz naciﾛnij przycisk "Rejestracja Prｫbna".」\e
 
 [20062d|en] ──All members of the GR crew welcome you aboard!\e
-[20062d|ru] ──Wszyscy czｩonkowie zaｩogi GR serdecznie sｧ witani\n na pokｩadzie!\e
+[20062d|ru] ──Wszyscy czｩonkowie zaｩogi GR sｧ serdecznie witani\n na pokｩadzie!\e
 
 [000630|en] 【Sumika】「Not bad,\p not bad.」\e
 [000630|ru] 【Sumika】「Nieﾜle,\p nieﾜle.」\e

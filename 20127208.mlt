@@ -131,7 +131,7 @@ SCR 1 UTF-8
 [00005c|ru] 【Tsukuyomi】「Przygotowaｩam rｫwnieｯ dzisiaj\n troszeczkｪ mniej daﾃ, niｯ mam w zwyczaju to robiｨ,\n poniewaｯ chciaｩam abyﾛcie mogli cieszyｨ siｪ ich\n smakiem.」\e
 
 [00005e|en] 【Meiya】「It is fine.\p\p Rice and miso is enough for a\nJapanese person.\p\p\p Having such splendid plums in addition\nto that...\p...\p...\pI am satisfied.」\e
-[00005e|ru] 【Meiya】「Jest dobrze.\p\p Posiｩek z ryｯu i zupy miso\n usatysfakcjonuje kaｯdego obywatela Japonii.\p\p\p A sam\n fakt dodania do nich tak prestiｯowych ﾚliwek, tylko\n potｪguje uczucie satysfakcji.」\e
+[00005e|ru] 【Meiya】「Jest dobrze.\p\p Posiｩek z ryｯu i zupy miso\n usatysfakcjonuje kaｯdego obywatela Japonii.\p\p\p A sam\n fakt dodania do nich tak prestiｯowych ﾛliwek, tylko\n potｪguje uczucie satysfakcji.」\e
 
 [000061|en] 【Tsukuyomi】「Thank you very much.」\e
 [000061|ru] 【Tsukuyomi】「Bardzo dziｪkujｪ.」\e
@@ -620,7 +620,7 @@ SCR 1 UTF-8
 [00032f|ru] 【Takeru】「Haa...\p...\p」\e
 
 [000331|en] Talking to this woman always ends with someone mixing\nup 'causality' and 'quantum theories' and 'love.'\e
-[000331|ru] Ta kobieta ma tendencje do mylenia siｪ w wszystkich\n sprawach,\p ktｫre porusza. Nie waｯne czy mｫwi o\n codziennych sprawach,\p czy moｯe porusza kwestie\n zwiｧzane z teoriami kwantowymi, czy nawet w\n sprawach miｩosnych.\e
+[000331|ru] Ta kobieta ma tendencje do mylenia siｪ w wszystkich\n sprawach,\p ktｫre porusza. Niewaｯne czy mｫwi o\n codziennych sprawach,\p czy moｯe porusza kwestie\n zwiｧzane z teoriami kwantowymi, czy nawet w\n sprawach miｩosnych.\e
 
 [000333|en] 【Yuuko】「Most likely,\p\p you possess a force resembling\nhow electromagnetism holds electrons around a nucleus!」\e
 [000333|ru] 【Yuuko】「Najprawdopodobniej wywierasz na nie jakiﾛ\n dziwny rodzaj energii! Coﾛ w stylu elektromagnetyzmu,\n czyli siｩ ktｫre utrzymujｧ elektrony wokｫｩ jｧdra!」\e
@@ -638,7 +638,7 @@ SCR 1 UTF-8
 [000339|ru] 【Takeru】「Okej...\p」\e
 
 [00033a|en] This is the kind of nonsense that gets you ignored by\nthe scientific community...\p...\p\e
-[00033a|ru] Chyba to jest ten z rodzajｫw herezji, za ktｫrｧ moｯna\n dostaｨ ekskomunikｪ z ﾛrodowiska naukowego...\p\e
+[00033a|ru] Chyba to jest ten z rodzajｫw herezji, za ktｫrｧ moｯna\n dostaｨ ekskomunikｪ ze ﾛrodowiska naukowego...\p\e
 
 [00033c|en] 【Yuuko】「──Well,\p anyway,\p that means you're a very\ninteresting specimen to me.」\e
 [00033c|ru] 【Yuuko】「──Cｫｯ,\p w kaｯdym bｧdﾜ razie.\p\nKrｫtko mｫwiｧc, jesteﾛ dla mnie bardzo interesujｧcym\n egzemplarzem.」\e
@@ -656,7 +656,7 @@ SCR 1 UTF-8
 [000346|ru] 【Takeru】「Hｪｪｪ?」\e
 
 [000348|en] 【Yuuko】「Tomorrow at 10 AM,\p we'll have it at Shirogane's\nnew mansion...\p...\p...\pmaybe I should call it Mitsurugi's\nmansion?\p\p Anyway,\p we're having it there.」\e
-[000348|ru] 【Yuuko】「Jutro o 10 rano.\p\n Zbierzemy siｪ w nowej posiadｩoﾛci Shirogane...\p...\p\n Albo raczej powinnam powiedzieｨ w posiadｩoﾛci\n Mitsurugi?\p No cｫｯ, w kaｯdym razie to wｩaﾛnie\n tam bitwa siｪ rozpocznie.」\e
+[000348|ru] 【Yuuko】「Jutro o 10 rano.\p\n Zbierzemy siｪ w nowej posiadｩoﾛci Shirogane...\p...\p\n Albo raczej powinnam powiedzieｨ w posiadｩoﾛci\n Mitsurugi?\p No cｫｯ, w kaｯdym razie to wｩaﾛnie\n tam rozpocznie siｪ bitwa.」\e
 
 [000349|en] 【Takeru】「Wa-\pwait a minute here!」\e
 [000349|ru] 【Takeru】「Chwileczkｪ!」\e
@@ -728,7 +728,7 @@ SCR 1 UTF-8
 [0003d7|ru] 【Meiya】「...\p...\p」\e
 
 [0003d9|en] 【Yuuko】「Did they not teach you this at empress school?\p\p\p\nThe world is a big place,\p\p\p and the people in it are\ncomplicated.」\e
-[0003d9|ru] 【Yuuko】「Nie uczyli ciebie takich rzeczy, szkolna\n cesarzowo?\p\p\p ﾚwiat jest wielkim miejscem,\p\p\p a ludzie\n mieszkajｧcym na nim\p naprawdｪ sｧ skomplikowanymi\n bytami.」\e
+[0003d9|ru] 【Yuuko】「Nie uczyli ciebie takich rzeczy, szkolna\n cesarzowo?\p\p\p ﾚwiat jest wielkim miejscem,\p\p\p a ludzie\n mieszkajｧcy na nim\p sｧ naprawdｪ skomplikowanymi\n bytami.」\e
 
 [0003db|en] 【Meiya】「You mean to say I am being conceited?」\e
 [0003db|ru] 【Meiya】「Chcesz powiedzieｨ, ｯe jestem zarozumiaｩa?」\e
@@ -767,7 +767,7 @@ SCR 1 UTF-8
 [00042a|ru] 【Takeru】「Jeszcze siｪ do tego nie przyzwyczaiｩaﾛ.」\e
 
 [000435|en] 【Meiya】「...\p...\paaah,\p f-\pforgive me.\p\p ...\p...\pfor now I shall play\nalong with Instructor Kouzuki's game...\p...\p...\pI certainly am\nunfamiliar with the machinations of male-female\nrelationships.」\e
-[000435|ru] 【Meiya】「Ach...\p Wybacz mi.\p\p Ale teraz mam zamiar\n wziｧｨ udziaｩ w tej grze, jakｧ wｩaﾛnie organizuje nam\n Instruktorka Kouzuki.\p Wiesz, w jednej kwestii ma ona\n racjｪ. W zawirowaniach miｪdzy ludzkich jestem\n caｩkowicie nieobeznana.」\e
+[000435|ru] 【Meiya】「Ach...\p Wybacz mi.\p\p Ale teraz mam zamiar\n wziｧｨ udziaｩ w tej grze, jakｧ wｩaﾛnie organizuje nam\n Instruktorka Kouzuki.\p Wiesz, w jednej kwestii ma ona\n racjｪ. W zawirowaniach miｪdzyludzkich jestem\n caｩkowicie nieobeznana.」\e
 
 [000445|en] 【Tomoe】「──This is terrible!!」\e
 [000445|ru] 【Tomoe】「──To straszne!!」\e
@@ -800,7 +800,7 @@ SCR 1 UTF-8
 [00048a|ru] 【Chizuru】「Niby dlaczego miaｩabym w tym\n uczestniczyｨ?!\p A tak w ogｫle, nauczyciel nie powinien\n prowokowaｨ takich sytuacji.」\e
 
 [00048c|en] 【Yuuko】「I'm sorry,\p Sakaki.\p\p\nI'm not too good with common sense.」\e
-[00048c|ru] 【Yuuko】「Wybacz mi,\p Sakaki.\p\p\n Ale nic nie poradzｪ, ｯe z zdrowym rozsｧdkiem nie\n jest mi po drodze.」\e
+[00048c|ru] 【Yuuko】「Wybacz mi,\p Sakaki.\p\p\n Ale nic nie poradzｪ, ｯe ze zdrowym rozsｧdkiem nie\n jest mi po drodze.」\e
 
 [00048e|en] 【Chizuru】「Sensei!!」\e
 [00048e|ru] 【Chizuru】「Sensei!!」\e
@@ -1040,7 +1040,7 @@ SCR 1 UTF-8
 [00065c|ru] 【Takeru】「Sumika, Meiya,\p proszｪ nie rｫbcie tego.\p\nJeｯeli teraz zakopiecie topｫr wojenny to dacie radｪ\n to jeszcze odkrｪciｨ...\p」\e
 
 [00066d|en] 【Sumika】「We can't do that!\p\p\p This is a bloody war with our\nwomanly pride on the line...\p...\p!!\p We can never return to\nthose kind and gentle days of old!!」\e
-[00066d|ru] 【Sumika】「Nie ma mowy!\p\p\p Od teraz jet to krwawa\n wojna, gdzie nasza kobieca duma gra pierwsze\n skrzypce...!\p Nie ma szans na to, ｯe powrｫcimy do\n tych dni peｩnych burzliwych serc i bｩogiej niewiedzy!」\e
+[00066d|ru] 【Sumika】「Nie ma mowy!\p\p\p Od teraz jest to krwawa\n wojna, gdzie nasza kobieca duma gra pierwsze\n skrzypce...!\p Nie ma szans na to, ｯe powrｫcimy do\n tych dni peｩnych burzliwych serc i bｩogiej niewiedzy!」\e
 
 [0006a0|en] 【The Whole Class】「Oooooooooooooooh!!?」\e
 [0006a0|ru] 【Caｩa Klasa】「Oooooooooooooooch!!?」\e

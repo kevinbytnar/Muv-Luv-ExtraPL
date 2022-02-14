@@ -2861,10 +2861,10 @@ SCR 1 UTF-8
 [000815|ru] 【Takeru】「W sumie nikim...\p Przepraszam...\p」\e
 
 [000816|en] Who did I think you were?\p\n...\p...\psomeone other than Class Rep,\p obviously.\e
-[000816|ru] Za kogo ja co cholery ciｪ miaｩem?\p\n...\pNo z pewnoﾛciｧ nie obstawiｩbym zakｩadｫw, ｯe to ty\n jesteﾛ naszｧ Przedstawicielkｧ.\e
+[000816|ru] Za kogo ja ciｪ do cholery miaｩem?\p\n...\pNo z pewnoﾛciｧ nie obstawiｩbym zakｩadｫw, ｯe to ty\n jesteﾛ naszｧ Przedstawicielkｧ.\e
 
 [000817|en] You look like a completely different person!!\e
-[000817|ru] Przecieｯ wyglｧdasz caｩkowicie jak inna osoba!!\e
+[000817|ru] Przecieｯ wyglｧdasz jak caｩkowicie inna osoba!!\e
 
 [000819|en] 【Chizuru】「Anyway...\p...\p...\pI won,\p so you'll be hanging out\nwith me all day?」\e
 [000819|ru] 【Chizuru】「W kaｯym razie...\p...\p Wygraｩam,\p wiｪc to\noznacza, ｯe bｪdziesz ze mnｧ spｪdzaｨ caｩy dzisiejszy\n dzieﾃ.」\e
@@ -2972,7 +2972,7 @@ SCR 1 UTF-8
 [000855|ru] 【Takeru】「No dalej, nie zaprzeczaj! Twoje oczy\n caｩkowicie zdradzajｧ twoje uczucia. Zdajesz sobie\n sprawｪ, ｯe kｩamstwo odejmuje tobie parｪ punktｫw\n sｩodkoﾛci...\p」\e
 
 [000857|en] 【Chizuru】「I'm not cute to begin with!!」\e
-[000857|ru] 【Chizuru】「A kto powiedziaｩ, ｯe w ogｫle chciaｩam\n prｫbowaｩ byｨ sｩodka w twoich oczach!!」\e
+[000857|ru] 【Chizuru】「A kto powiedziaｩ, ｯe w ogｫle chciaｩam\n prｫbowaｨ byｨ sｩodka w twoich oczach!!」\e
 
 [000858|en] 【Man With Girlfriend】「Hey,\p is that a bickering couple?」\e
 [000858|ru] 【Chｩopak z Dziewczynｧ】「Hej,\p nie sｧdzisz, ｯe trochｪ\n za wczeﾛnie na kｩｫtnie kochankｫw?」\e
@@ -3575,7 +3575,7 @@ SCR 1 UTF-8
 [0009f5|ru] 【Chizuru】「...\pNie nazywaj tego randkｧ.」\e
 
 [0009f6|en] 【Takeru】「I see, so you're still trying to say it's something\nelse.」\e
-[0009f6|ru] 【Takeru】「Taaa, wｩaﾛnie o to chodzi! A teraz w\n kolejnej czｪﾛci, ja odpowiadam "No dobra, wiｪc jak\n POWINIENEM to nazywaｨ".」\e
+[0009f6|ru] 【Takeru】「Taaa, wｩaﾛnie o to chodzi! A teraz w\n kolejnej czｪﾛci, ja odpowiadam "No dobra, wiｪc jak\n POWINIENEM to nazywaｨ?"」\e
 
 [0009f8|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0009f8|ru] 【Chizuru】「...\p...\p」\e
@@ -3689,7 +3689,7 @@ SCR 1 UTF-8
 [000a61|ru] 【Takeru】「Yo,\p jak tam?」\e
 
 [000a62|en] 【Sumika】「I wanted to ask how today went.」\e
-[000a62|ru] 【Sumika】「Chciaｩam siｪ zapytaｨ, jak miniｧｩ ci\n dzisiejszy dzieﾃ.」\e
+[000a62|ru] 【Sumika】「Chciaｩam siｪ zapytaｨ, jak ci minｧｩ\n dzisiejszy dzieﾃ.」\e
 
 [000a63|en] 【Takeru】「Hm? Well...\p...\pit was pretty fun.」\e
 [000a63|ru] 【Takeru】「Hm? Cｫｯ...\p trzeba przyznaｨ, ｯe byｩo\n zabawnie.」\e
@@ -3740,7 +3740,7 @@ SCR 1 UTF-8
 [000a77|ru] 【Sumika】「Ach...\p N-\pnic! Nic nie mｫwiｩam!!」\e
 
 [000a78|en] 【Takeru】「Why're you panicking?」\e
-[000a78|ru] 【Takeru】「Skｧd ta panika siｪ u ciebie wziｪｩa?」\e
+[000a78|ru] 【Takeru】「Skｧd wziｪｩa siｪ u ciebie ta panika?」\e
 
 [000a79|en] 【Sumika】「I'm not!\p I'm not!」\e
 [000a79|ru] 【Sumika】「To nie prawda!\p To nie prawda!」\e
@@ -3758,7 +3758,7 @@ SCR 1 UTF-8
 [000a86|ru] ...\pCo to miaｩo byｨ?\e
 
 [000a87|en] Something about Meiya and Sumika tonight...\p...\p\nI don't get them...\p...\p\e
-[000a87|ru] Coﾛ nie tak dzisiejszego wieczora jest z Meiyｧ i\n Sumikｧ...\p Nie ｩapiｪ tego...\p\e
+[000a87|ru] Coﾛ jest nie tak dzisiejszego wieczora z Meiyｧ i\n Sumikｧ...\p Nie ｩapiｪ tego...\p\e
 
 [000a88|en] But I guess it doesn't matter,\p I'll go take a bath now.\e
 [000a88|ru] Ale przypuszczam, ｯe to nie jest istotne.\p\nPｫjdｪ wziｧｨ kｧpiel.\e

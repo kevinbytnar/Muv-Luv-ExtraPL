@@ -86,7 +86,7 @@ SCR 1 UTF-8
 [000077|ru] 【Takeru】「Okej...\p niech ci bｪdzie...\p」\e
 
 [000079|en] 【Meiya】「It has also been said that destiny is something\nyou build yourself.\p  However unbreakable the chains of\ndestiny may be, I cannot be so carefree about it.\n Her words drove that into me.」\e
-[000079|ru] 【Meiya】「Rｫwnieｯ\p wspomniaｩa, ｯe to my tworzymy\n wｩasnｧ ﾛcieｯkｪ przeznaczenia po ktｫrej kroczymy.\p\n Mimo, ｯe jestem zwolenniczkｧ tezy, ｯe ｩaﾃcuchy losu\n sｧ czymﾛ niezniszczalnym. Jej sｩowa mocno trafiｩy do\n mnie i postanowiｩam\p wziｧｨ sprawy w wｩasne rｪce.」\e
+[000079|ru] 【Meiya】「Rｫwnieｯ\p wspomniaｩa, ｯe to my tworzymy\n wｩasnｧ ﾛcieｯkｪ przeznaczenia po ktｫrej kroczymy.\p\n Mimo, ｯe jestem zwolenniczkｧ tezy, ｯe ｩaﾃcuchy losu\n sｧ czymﾛ niezniszczalnym. Jej sｩowa mocno trafiｩy do\n mnie i postanowiｩam\p wziｧｨ sprawy we wｩasne rｪce.」\e
 
 [00007b|en] 【Sumika】「──Geh!」\e
 [00007b|ru] 【Sumika】「──Geh!」\e
@@ -152,7 +152,7 @@ SCR 1 UTF-8
 [0000a3|ru] 【Sumika】「W-\pwiｪｪｪc...\p...\p gdy twoi rodzice\n odeszli...\p...\p To po prostu czujｪ,\p ｯe jako twｫj sｧsiad\n powinnam byｨ tｧ jednｧ...\p Ktｫra powinna siｪ tobｧ\n zajmowaｨ...\p」\e
 
 [0000a5|en] 【Meiya】「Tsukuyomi and the others can handle all of that.」\e
-[0000a5|ru] 【Meiya】「Tsukuyomi i reszta sｩuｯby powinni sobie z\n tym zadaniem poradziｨ.」\e
+[0000a5|ru] 【Meiya】「Tsukuyomi i reszta sｩuｯby powinni sobie\nporadziｨ z tym zadaniem.」\e
 
 [0000a8|en] 【Sumika】「B-b-buuut!!」\e
 [0000a8|ru] 【Sumika】「A-a-aleee!!」\e
@@ -188,7 +188,7 @@ SCR 1 UTF-8
 [0000c5|ru] Wszyscy wysportowani oraz ci mniej sｧ zobowiｧzani do\nuczestniczenia w festiwalu sportowym.\p No,\p a dla reszty\nmamy niebezpieczeﾃstwo potocznie nazywane zbijakiem.\e 
 
 [0000c6|en] Balls that hard and fast could kill me!!\e
-[0000c6|ru] Piｩki w naszym zbijaku pｪdzｧ z tak nieludzkｧ\nprｪdkoﾛciｧ...\p Mｫwiｪ wam, gdy tylko one kogoﾛ trafiｧ,\p\nto z pewnoﾛciｧ zabijｧ kogoﾛ!!\e
+[0000c6|ru] Piｩki w naszym zbijaku pｪdzｧ z tak nieludzkｧ\nprｪdkoﾛciｧ...\p Mｫwiｪ wam, gdy tylko kogoﾛ trafiｧ,\p\nto z pewnoﾛciｧ go zabijｧ!!\e
 
 [0000c7|en] Even if the active sports team members can't\nparticipate,\p there are plenty of needlessly strong guys\nwho'd show up for that.\e
 [0000c7|ru] Nawet jeﾛli czｩonkowie aktywnej druｯyny sportowej\n nie mogｧ w tym uczestniczyｨ,\p to pomimo tego nadal\p jest\n wielu oszaｩamiajｧcych kolesi,\p ktｫrzy z pewnoﾛciｧ\n wｩaﾛciwie ich zastｧpiｧ.\e
@@ -413,7 +413,7 @@ SCR 1 UTF-8
 [00018f|ru] ...\pBeznadziejny przypadek.\e
 
 [000190|en] 【Takeru】「...\p...\pSumika,\p I'm tagging you in.」\e 
-[000190|ru] 【Takeru】「...\pSumika,\p zostawiam resztｪ tobie.」\e 
+[000190|ru] 【Takeru】「...\pSumika,\p resztｪ zostawiam tobie.」\e 
 
 [000192|en] 【Sumika】「Eh?\p Eh?\p I can't handle this.」\e
 [000192|ru] 【Sumika】「Ech?\p Ech?\p Nie moｯesz tak po prostu\n zrzucaｨ tego obowiｧzku na mnie!」\e
@@ -1442,7 +1442,7 @@ SCR 1 UTF-8
 [000530|ru] I tak sobie odchodzisz jakby nigdy nic?\e
 
 [000531|en] She's always going off, doing her own thing...\p...\pthough\nthat's just who she is.\e
-[000531|ru] Ona zawsze tak robi. Zawsze robi wszystko po swojemu...\p\nAle przypuszczam, ｯe ona taka juｯ po prostu jest.\e
+[000531|ru] Ona zawsze tak robi. Zawsze robi wszystko po swojemu...\p\nAle przypuszczam, ｯe taka juｯ po prostu jest.\e
 
 [000533|en] Hm...\p...\p?\e
 [000533|ru] Hm...\p?\e
@@ -1703,7 +1703,7 @@ SCR 1 UTF-8
 [0005ee|ru] 【Sumika】「Dlatego byｩoby ﾛwietnie, pomyﾛl～～」\e
 
 [0005ef|en] 【Takeru】「That's why we're the way we are now...\p...\p」\e
-[0005ef|ru] 【Takeru】「A nie moｯe zostaｨ tak jak jest teraz...\p」\e
+[0005ef|ru] 【Takeru】「A nie moｯe zostaｨ tak jak jest teraz...?\p」\e
 
 [0005f0|en] 【Sumika】「Takeru-chan,\p I'd never ask anyone else.」\e
 [0005f0|ru] 【Sumika】「Nikogo wczeﾛniej o to nie pytaｩam, poza\n tobｧ.」\e
