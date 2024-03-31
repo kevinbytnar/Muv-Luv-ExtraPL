@@ -5,10 +5,10 @@ SCR 1 Shift-JIS
 [000001|ru] yTakeruzu...\pMeiya.v\e
 
 [000004|en] ySumikazu...\p...\pokay...\p...\pthat's what I thought you'd say.v\e 
-[000004|ru] ySumikazu...\pTak...\p\nTak s§dzi©am,\p ¯e to powiesz.v\e 
+[000004|ru] ySumikazu...\pTak...\p\nS§dzi©am,\p ¯e to powiesz.v\e 
 
 [000005|en] yTakeruzuI won't make any excuses.\p\nBut if you have any questions, I'll answer.v\e
-[000005|ru] yTakeruzuNie mam zamiaru wymyÛla¨ ¯adnych wym«wek.\p\nAle je¯eli chcesz zada¨ mi to pytanie,\p\nto odpowiem ci, na to pytanie.v\e
+[000005|ru] yTakeruzuNie mam zamiaru wymyÛla¨ ¯adnych wym«wek.\p\nAle je¯eli chcesz o coÛ zapyta¨, to odpowiem ci\p\n na twoje pytanie.v\e
 
 [000009|en] ySumikazu...\p...\p...\p...\pv\e
 [000009|ru] ySumikazu...\p...\pv\e
@@ -26,7 +26,7 @@ SCR 1 Shift-JIS
 [000010|ru] ySumikazu...\pWybra©eÛ Meiye...\p z powodu obietnicy?v\e
 
 [000011|en] yTakeruzu...\p...\pI don't think so.\nIt's kinda...\p...\pI don't really know, but...\p...\pI feel something\nfrom her...\p...\pthat I don't from you.v\e
-[000011|ru] yTakeruzu...\pNie s§dzª,\p ¯e to tylko z tego powodu...\p\nTo tak jakby...\p tak naprawdª to sam nie wiem,\p\nale...\p czujª od nie coÛ...\p czego nie czujª od ciebie.v\e
+[000011|ru] yTakeruzu...\pNie s§dzª,\p ¯e to tylko z tego powodu...\p\nTo tak jakby...\p w sumie tak naprawdª to sam nie wiem,\p\nale...\p czujª od niej coÛ...\p czego nie czujª od ciebie.v\e
 
 [000013|en] ySumikazu„Ÿ„ŸThat's no good.v\e
 [000013|ru] ySumikazu„Ÿ„ŸNie mo¯esz tego zrobi¨.v\e
@@ -35,7 +35,7 @@ SCR 1 Shift-JIS
 [000014|ru] yTakeruzuHuh...\p?v\e
 
 [000016|en] ySumikazuYou can't go to her with such a vague reason.\p\p\nSay it...\p...\pjust say you love her...\p...\psay you love Meiya.v\e
-[000016|ru] ySumikazuNie mo¯esz do niej iÛ¨z tak niejasnego powodu.\p\p\nPowiedz to...\p Po prostu powiedz, ¯e j§ kochasz...\p\nPowiedz,\p ¯e kochasz Meiye.v\e
+[000016|ru] ySumikazuNie mo¯esz do niej iÛ¨ z tak niejasnego powodu.\p\p\nPowiedz to...\p Po prostu powiedz, ¯e j§ kochasz...\p\nPowiedz,\p ¯e kochasz Meiye.v\e
 
 [000017|en] yTakeruzu...\p...\p...\p...\pv\e
 [000017|ru] yTakeruzu...\p...\pv\e
@@ -59,7 +59,7 @@ SCR 1 Shift-JIS
 [000025|ru] yTakeruzu...\pTak.v\e
 
 [000027|en] ySumikazuDon't come back to try and help me, okay?v\e
-[000027|ru] ySumikazuNawet jeÛli tu wr«cisz,\p nie przygotujª ju¯ tobie bekonu.\p\nZrozumia©eÛ?v\e
+[000027|ru] ySumikazuNawet jeÛli tu wr«cisz,\p nie przygotujª ju¯ tobie\p\nbekonu. Zrozumia©eÛ?v\e
 
 [000028|en] yTakeruzu...\p...\pyeah.v\e
 [000028|ru] yTakeruzu...\pWiem.v\e
@@ -71,10 +71,10 @@ SCR 1 Shift-JIS
 [00002b|ru] yTakeruzuOh,\p zrobiª to.v\e
 
 [00002d|en] ySumikazuHuhu...\p...\pthat's exactly why...\p...\pyou're so cool,\nTakeru-chan...\p...\pv\e
-[00002d|ru] ySumikazuHeh...\p heh...\p Rozumiem...\p\nTo w©aÛnie sprawia,\p ¯e jesteÛ strasznym marzycielem,\p Takeru-sam...\pv\e
+[00002d|ru] ySumikazuHeh...\p heh...\p Rozumiem...\p\nTo w©aÛnie sprawia,\p ¯e jesteÛ strasznym marzycielem,\p\nTakeru-sam...\pv\e
 
 [00002e|en] yTakeruzu...\p...\piiidiot.v\e
-[00002e|ru] yTakeruzu...\pOh,\p a weÜ przestaÃ.v\e
+[00002e|ru] yTakeruzu...\pOh,\p a no weÜ przestaÃ.v\e
 
 [000035|en] ySumikazu...\p...\p*sigh*`\p ...\p...\pgood luck...\p...\pMeiya's...\p...\phard to\nget...\p...\pv\e
 [000035|ru] ySumikazu...\p*Westchnienie*...\p\nPowodzenia...\p Meiya jest...\p niez©ym uparciuchem...\pv\e
@@ -107,7 +107,7 @@ SCR 1 Shift-JIS
 [00004c|ru] yTsukuyomizuTakeru...\psama!?v\e
 
 [00004d|en] yTakeruzuWhat's wrong?\p\nYou look shocked...\p...\pweren't you expecting me?v\e
-[00004d|ru] yTakeruzuCoÛ nie tak?\p\nWygl§dasz na szokowan§...\p\nA czy ty przypadkiem,\p nie powinnaÛ siª mnie spodziewa¨?v\e
+[00004d|ru] yTakeruzuCoÛ nie tak?\p\nWygl§dasz na szokowan§...\p A czy ty przypadkiem, nie powinnaÛ\p\nsiª mnie spodziewa¨?v\e
 
 [00004f|en] yTsukuyomizu...\p...\pI am very sorry.v\e
 [00004f|ru] yTsukuyomizu...\pMoje najszczersze przeprosiny.v\e
@@ -116,31 +116,31 @@ SCR 1 Shift-JIS
 [000050|ru] yTakeruzuTa tutaj,\p nie jest zwyczajn§ limuzyn§...\pv\e
 
 [000052|en] yTsukuyomizu...\p...\pthis is a personal decision of mine.v\e
-[000052|ru] yTsukuyomizu...\pTak.\pnWidzisz, dzia©am z w©asnej inicjatywy.v\e
+[000052|ru] yTsukuyomizu...\pTak.\p A nie m«wi©am?\p Dzia©am z mojej w©asnej\p\ninicjatywy.v\e
 
 [000053|en] yTakeruzuPlease...\p...\ptake me to where Meiya is.v\e
-[000053|ru] yTakeruzuProszª...\p\nPotrzebujª,\p abyÛ zabra©a mnie do niej.v\e
+[000053|ru] yTakeruzuProszª...\p Potrzebujª,\p abyÛ zabra©a mnie do Meiyi.v\e
 
 [000055|en] yTsukuyomizuIn that case,\p please change into these\ninside the car.v\e
-[000055|ru] yTsukuyomizuW takim przypadku,\p bªdzie musia© siª\p\nprzebra¨ w samochodzie.v\e
+[000055|ru] yTsukuyomizuW takim przypadku,\p bªdziesz musia© przebra¨\p\nsiª w samochodzie.v\e
 
 [000056|en] ...\p...\p...\p...\pmy school uniform?\e
 [000056|ru] ...\p...\pMundurek szkolny?\e
 
 [000058|en] yTsukuyomizuThe place we are about to visit is holy.\p\nIt has been the resting place of Mitsurugi for generations.\p\nNo one may enter without wearing a uniform.v\e
-[000058|ru] yTsukuyomizuSt§d postawimy stopª na Ûwiªtej ziemi.\p\nNasz cel jest miejscem spoczynku Mitsurugich od pokoleÃ.\p\nWejÛcie bez formalnego stroju jest surowo zabrionione.v\e
+[000058|ru] yTsukuyomizuRuszamy do ziemi Ûwiªtej.\p\nNaszym celem jest miejscem spoczynku Mitsurugich od\p\npokoleÃ. WejÛcie bez formalnego stroju jest surowo zabrionione.v\e
 
 [000059|en] yTakeruzuWhere are we trying to go?v\e
 [000059|ru] yTakeruzuA gdzie dok©adnie zmierzamy?v\e
 
 [00005d|en] yTsukuyomizuMeiya-sama is...\p...\p...\p...\pcurrently undergoing a\nceremony.v\e
-[00005d|ru] yTsukuyomizuMeiya-sama jest...\p...\p w trakcie uczestinctwa w\p\nceremonii.v\e
+[00005d|ru] yTsukuyomizuMeiya-sama jest...\p...\p w trakcie uczestinctwa\p\nw ceremonii.v\e
 
 [00005e|en] yTakeruzuCeremony...\p...\p? You mean...\p...\pv\e
-[00005e|ru] yTakeruzuCeremoni...\p\nNie chesz powiedzie¨...\pv\e
+[00005e|ru] yTakeruzuCeremoni...\p Nie chesz powiedzie¨ ¯e...\pv\e
 
 [000060|en] yTsukuyomizuYes,\p it is as you suspect.\p\nEven Meiya-sama cannot undo a vow to marry someone.v\e
-[000060|ru] yTsukuyomizuTak,\p jest tak,\p jak podejrzewasz.\p\nNawet Meiya-sama nie mo¯e odwo©a¨ przysiªgi, kt«r§\p\nwczeÛniej z©o¯y©a.v\e
+[000060|ru] yTsukuyomizuTak,\p jest tak,\p jak podejrzewasz.\p\nNawet Meiya-sama nie mo¯e odwo©a¨ przysiªgi, kt«r§ wczeÛniej\p\nz©o¯y©a.v\e
 
 [000061|en] yTakeruzuThen hurry!!\p Take me to Meiya, now!!v\e
 [000061|ru] yTakeruzuNo to ruchy!!\p\n Musimy siª zbiera¨, i to natychmiast!!v\e
@@ -167,7 +167,7 @@ SCR 1 Shift-JIS
 [000085|ru] yTakahashizuTsukuyomi...\p co to ma wszystko oznacza¨?v\e
 
 [000094|en] yTsukuyomizuTakahashi...\p...\pmove your car.v\e
-[000094|ru] yTsukuyomizuTakahashi...\ a3jeÛ nam z drogiv\e
+[000094|ru] yTsukuyomizuTakahashi...\p zejdÜ nam z drogiv\e
 
 [000096|en] yTakahashizuDo you...\p...\punderstand what it is you are\ntrying to do?v\e
 [000096|ru] yTakahashizuZdajesz sobie...\p sprawª co ty w©aÛnie\p\nwyprawiasz...?v\e
@@ -176,7 +176,7 @@ SCR 1 Shift-JIS
 [000098|ru] yTsukuyomizu....\p...\pv\e
 
 [00009a|en] yTakahashizuYou would dare defy the will of\nMeiya-sama?v\e
-[00009a|ru] yTakahashizuOÛmieli©yÛ siª przeciwstawi¨\p\nwoli Meiyi-sama?v\e
+[00009a|ru] yTakahashizuOÛmieli©aÛ siª przeciwstawi¨ woli\p\nMeiyi-sama?v\e
 
 [0000a1|en] yKamiyo & Tomoe & EbisuzuMana-sama``!?v\e
 [0000a1|ru] yKamiyo & Tomoe & EbisuzuMana-sama``!?v\e
@@ -185,19 +185,19 @@ SCR 1 Shift-JIS
 [0000a5|ru] yTsukuyomizu...\p...\pv\e
 
 [0000a7|en] yTakahashizuYour actions are in direct violation of her\norders.\p You will never be granted an audience with\nMeiya-sama even if you do go.v\e
-[0000a7|ru] yTakahashizuTwoje dzia©ania s§ bezpoÛrednim naruszeniem\p\njej rozkaz«w.\p Nigdy nie dostaniesz audiencji u\p\nMeiyi-sama,\p nawet jeÛli tam dostrze¯.v\e
+[0000a7|ru] yTakahashizuTwoje dzia©ania s§ bezpoÛrednim naruszeniem\p\njej rozkaz«w.\p Nigdy nie dostaniesz audiencji u Meiyi-sama,\p\nnawet jeÛli siª tam dostaniesz.v\e
 
 [0000a9|en] yTsukuyomizuUu...\p...\pv\e
 [0000a9|ru] yTsukuyomizuUu...\pv\e
 
 [0000ab|en] yTakahashizuBesides, with your driving skills,\p\nthe ceremony will be over before you arrive.v\e
-[0000ab|ru] yTakahashizuCo wiªcej,\p dziªki twoim umijejªtnoÛciom,\p\nprowadzenia samochodu,\p ceremonia zakoÃczy siª przed\p\ntwoim przyjazdem.v\e
+[0000ab|ru] yTakahashizuCo wiªcej,\p dziªki twoim umijejªtnoÛciom\p\nprowadzenia samochodu,\p to ceremonia zakoÃczy siª przed\p\ntwoim przyjazdem.v\e
 
 [0000ad|en] yTsukuyomizuYou do not know until you try.v\e
 [0000ad|ru] yTsukuyomizuNie wiemy tego,\p p«ki nie spr«bujemy.v\e
 
 [0000af|en] yTakahashizuAs long as I am here,\p it is impossible.v\e
-[0000af|ru] yTakahashizuTak d©ugo jak ja tu jestem,\p to nie\p\nnªdzie to mo¯liwe.v\e
+[0000af|ru] yTakahashizuTak d©ugo jak ja tu jestem,\p to nie bªdzie\p\nto mo¯liwe.v\e
 
 [0000b1|en] yTakeruzuThen please move your car!v\e
 [0000b1|ru] yTakeruzuWiªc proszª przesuÃ samoch«d, teraz!v\e
@@ -221,10 +221,10 @@ SCR 1 Shift-JIS
 [0000bf|ru] yEbisuzuI co z nami bªdzie je¯eli to siª wydarzy```?v\e
 
 [0000c1|en] Dammit!\p Isn't there something we can do!?\e
-[0000c1|ru] Cholera!\p\nCzy naprawdª nic nie mo¯emy z tym zrobi¨!?\e
+[0000c1|ru] Cholera!\p Czy naprawdª nic nie mo¯emy z tym zrobi¨!?\e
 
 [0000c2|en] I finally remembered my promise!\p I hardened my resolve!\p\nI came this far thanks to Sumika's encouragement, and\nnow„Ÿ„Ÿ!!\e
-[0000c2|ru] W momencie gdy sobie przypomnia©em o obietnicy!\p\nI gdy ju¯ o wszystkim zdecydowa©em!\p\nNawet dosta©em b©ogos©awieÃstwo Sumiki!\p\nNie mogª siª teraz podda¨„Ÿ„Ÿ!!\e
+[0000c2|ru] Dzieje siª to w momencie gdy sobie przypomnia©em o obietnicy!\p\nI gdy ju¯ o wszystkim zdecydowa©em!\p\nNawet dosta©em b©ogos©awieÃstwo Sumiki!\p\nNie mogª siª teraz podda¨„Ÿ„Ÿ!!\e
 
 [0000c3|en] „Ÿ„ŸHm?\e
 [0000c3|ru] „Ÿ„ŸHm?\e
@@ -269,7 +269,7 @@ SCR 1 Shift-JIS
 [0000ea|ru] yTakahashi & TsukuyomizuAh!!v\e
 
 [0000ed|en] yTsukuyomizuTh-...\p...\pthis is„Ÿ!!\p Takeru-sama, why...\p...\p!?v\e
-[0000ed|ru] yTsukuyomizuT-...\pto jest„Ÿ!!\p\nTakeru-sama, dlaczego ty to masz...\p!?v\e
+[0000ed|ru] yTsukuyomizuT-...\pto jest„Ÿ!!\p\nTakeru-sama, sk§d ty to masz...\p!?v\e
 
 [0000ee|en] yTakeruzuMeiya gave it to me on our birthday.\p\nShe said it might offer me a bit of protection...\p...\pv\e
 [0000ee|ru] yTakeruzuMeiya da©a mi to na nasze urodziny.\p\nPowiedzia©a,\p ¯e mo¯e mi to zapewni¨ trochª ochrony...\pv\e
@@ -287,7 +287,7 @@ SCR 1 Shift-JIS
 [0000f5|ru] yTakeruzuDzisiaj...\p znalaz©em go na biurku...\p\nChocia¯ wczeÛniej od©o¯y©em go do szuflady!v\e
 
 [0000f6|en] Some of my feelings overflowed just now...\p...\p\none drop I couldn't hold back.\e
-[0000f6|ru] Przez chwilª pozwala©a siª kierowa¨ swoim uczuciom...\p\nMimo ca©ej swojej determinacji,\p ca©ej swojej determinacji,\p\nnie mog©a ca©kowicie st©umi¨ swoich emocji.\e
+[0000f6|ru] Przez chwilª pozwala©a siª kierowa¨ swoim uczuciom...\p\nMimo ca©ej swojej determinacji, nie mog©a ca©kowicie\p\nst©umi¨ swoich emocji.\e
 
 [0000f7|en] Meiya's waiting for me!!\e
 [0000f7|ru] Meiya na mnie czeka!!\e
@@ -299,7 +299,7 @@ SCR 1 Shift-JIS
 [0000fc|ru] yTakahashizu...\pTsukuyomi.v\e
 
 [0000fe|en] yTsukuyomizuIt certainly does have Meiya's name\nengraved on it...\p...\pv\e
-[0000fe|ru] yTsukuyomizuZ pewnoÛci§ ma na sobie wygrawerowane\p\nimiª Meiyi...\pv\e
+[0000fe|ru] yTsukuyomizuZ pewnoÛci§ ma na sobie wygrawerowane imiª\p\nMeiyi...\pv\e
 
 [0000ff|en] yTakahashizu...\p...\p...\p...\pv\e
 [0000ff|ru] yTakahashizu...\p...\pv\e
@@ -308,7 +308,7 @@ SCR 1 Shift-JIS
 [000101|ru] yTsukuyomizu...\p...\pv\e
 
 [000103|en] yTakahashizu...\p...\pwhat does it matter?v\e
-[000103|ru] yTakahashizu...\pCo to ma znaczy¨?v\e
+[000103|ru] yTakahashizu...\pI co w zwi§zku z tym?v\e
 
 [000107|en] yTakeruzu„Ÿ„ŸEh!?v\e
 [000107|ru] yTakeruzu„Ÿ„ŸHuh!?v\e
@@ -320,25 +320,25 @@ SCR 1 Shift-JIS
 [00010b|ru] yTsukuyomizu„Ÿ„ŸTakahashi!v\e
 
 [00010d|en] yTakahashizu...\p...\pTsukuyomi is Meiya-sama's personal\nservant,\p while I am Oyakata-sama's chauffeur.\p\nThat ring holds no power over me.v\e
-[00010d|ru] yTakahashizu...\pTsukuyomi mo¯e i jest osobist§ s©u¯§c§\p\nMeiyi-sama, ale ja jestem jedynie szoferem g©owy\p\nrodziny. Ten pierÛcieÃ nie ma nade mn§ w©adzy.v\e
+[00010d|ru] yTakahashizu...\pTsukuyomi mo¯e i jest osobist§ s©u¯§c§\p\nMeiyi-sama, ale ja jestem jedynie szoferem g©owy rodziny.\p\nTen pierÛcieÃ nie ma nade mn§ w©adzy.v\e
 
 [00010e|en] yTakeruzu...\p...\pn-\pno way...\p...\pTsukuyomi-san?v\e
-[00010e|ru] yTakeruzu...\pNie ma mowy...\p\nCzy to prawda, Tsukuyomi-san?v\e
+[00010e|ru] yTakeruzu...\pNie ma mowy...\p Czy to prawda, Tsukuyomi-san?v\e
 
 [000110|en] yTsukuyomizuUnfortunately...\p...\pMeiya-sama's orders are\noverruled by Oyakata-sama's,\p as he is the current\nleader...\p...\pv\e
-[000110|ru] yTsukuyomizuNiestety tak...\p Rozkaz Meiyi-sama zostaje\p\nuniewa¯niony przez Mistrza,\p poniewa¯ jest on obecn§\p\ng©ow§ rodziny...\pv\e
+[000110|ru] yTsukuyomizuNiestety tak...\p Rozkaz Meiyi-sama zostaje\p\nuniewa¯niony przez Mistrza,\p poniewa¯ jest on obecn§ ng©ow§\p\nrodziny...\pv\e
 
 [000111|en] ...\p...\pit can't be...\p...\e
 [000111|ru] ...\pTo nie mo¯e siª dzia¨...\e
 
 [000112|en] ...\p...\pI finally...\p...\pfinally...\p...\premembered my bond with\nMeiya...\p...\p\e
-[000112|ru] ...\pNareszcie...\p nareszcie...\p przypomnia©em sobie moj§ wieÜ\p\nz Meiy§...\p\e
+[000112|ru] ...\pNareszcie...\p nareszcie...\p przypomnia©em sobie o mojej\p\nwiªzi z Meiy§...\p\e
 
 [000113|en] ...\p...\p...\p...\pI finally worked up such strong feelings...\p...\p\e
 [000113|ru] ...\p...\pI gdy w koÃcu zrozumia©em w©asne uczucia...\p\e
 
 [000115|en] yTsukuyomizuTakeru-sama...\p...\pI apologize...\p...\p...\p...\p\nI could not be of service...\p...\p!v\e
-[000115|ru] yTsukuyomizuTakeru-sama...\p Moje najszczersze przeprosiny...\p\nAle obawiam siª,\p ¯e koniec koÃc«w nie przydam siª tobie...\p!v\e
+[000115|ru] yTsukuyomizuTakeru-sama...\p Musisz mi wybaczy¨...\p\nAle obawiam siª,\p ¯e koniec koÃc«w nie przydam siª tobie...\p!v\e
 
 [000117|en] ...\p...\p...\p...\p\e
 [000117|ru] ...\p...\p\e
@@ -350,7 +350,7 @@ SCR 1 Shift-JIS
 [000119|ru] ...\pNie mogª tego zaakceptowa¨.\e
 
 [00011a|en] „Ÿ„Ÿ„Ÿ„ŸI can't let it end this way!!\e
-[00011a|ru] „Ÿ„Ÿ„Ÿ„ŸNie mogª pozwoli¨ aby to siª tak wszystko skoÃczy©o!!\e
+[00011a|ru] „Ÿ„Ÿ„Ÿ„ŸNie mogª pozwoli¨ na taki koniec!!\e
 
 [000128|en] „Ÿ„Ÿ„Ÿ„ŸOwww!\e
 [000128|ru] „Ÿ„Ÿ„Ÿ„ŸA©a!\e
@@ -359,7 +359,7 @@ SCR 1 Shift-JIS
 [00012a|ru] yTakahashizu„Ÿ„ŸCzekaj,\p Shirogane Takeru!\p\nCo ty sobie myÛlisz,\p ¯e gdzie ty siª wybierasz?v\e
 
 [00012b|en] yTakeruzu„Ÿ„ŸLet go!\p What do you care!?v\e
-[00012b|ru] yTakeruzu„Ÿ„ŸPuÛ¨ mnie!\p Aco ciª to obchodzi!?v\e
+[00012b|ru] yTakeruzu„Ÿ„ŸPuÛ¨ mnie!\p\nA co ciª to w og«le obchodzi!?v\e
 
 [00012c|en] yTakahashizuYou won't make it in time by running.v\e
 [00012c|ru] yTakahashizuBiegn§c nigdy nie zd§¯ysz.v\e
@@ -371,7 +371,7 @@ SCR 1 Shift-JIS
 [00012f|ru] yTakahashizuCo za niecierpliwy ch©opak...\pv\e
 
 [000131|en] yTakeruzu„Ÿ„ŸWhat would you know!?\p\nMeiya's...\p...\pMeiya's my woman!!\p\nYou're the one who should be backing down!!v\e
-[000131|ru] yTakeruzu„Ÿ„ŸZajmij siª swoimi sprawami! Meiya...\p\nMeiya jest moj§ kobiet§!\p\nCofnij siª i zejdÜ mi z drogi!!v\e
+[000131|ru] yTakeruzu„Ÿ„ŸZajmij siª swoimi sprawami!\p\nMeiya...\p Meiya jest moj§ kobiet§!\p\nCofnij siª i zejdÜ mi z drogi!!v\e
 
 [000131|en] stent with line <00200187> no one other than\nTakeru-sama has ever referred to Meiya-sama as 'their\nwoman.'  -Shikiller
 [000131|ru] stent with line <00200187> no one other than\nTakeru-sama has ever referred to Meiya-sama as 'their\nwoman.'  -Shikiller
@@ -380,7 +380,7 @@ SCR 1 Shift-JIS
 [000134|ru] yTsukuyomizu...\pTakeru-sama!?v\e
 
 [000135|en] yTakeruzu„Ÿ„ŸI've kept her waiting on her own far too\nlong!\p I'm not doing that any more!!\p Let go of me!!v\e
-[000135|ru] yTakeruzu„Ÿ„ŸZbyt d©ugo kaza©em jej czeka¨ w samotnoÛci!\p\nNie mam ju¯ zamiaru d©u¯ej tego robi¨!\p\nPuÛ¨ mnie!!v\e
+[000135|ru] yTakeruzu„Ÿ„ŸZbyt d©ugo kaza©em jej czeka¨ w samotnoÛci!\p\nNie mam ju¯ zamiaru d©u¯ej tego robi¨!\p PuÛ¨ mnie!!v\e
 
 [000137|en] yTakahashizuI could let you go...\p...\pbut do you even know\nwhere the main house is?v\e
 [000137|ru] yTakahashizuM«g©ym ciª wypuÛci¨...\p ale czy wiesz w og«le,\p\njak dosta¨ siª do posiad©oÛci Mitsurugi?v\e
@@ -392,13 +392,13 @@ SCR 1 Shift-JIS
 [00013a|ru] ...\pNie mam bladego pojªcia.\e
 
 [00013c|en] yKamiyozuAaah`\p\nHe sounded so cool...\p...\p...\p...\pbut he's still an idiot`v\e
-[00013c|ru] yKamiyozuAaah`\p\nBrzmia© tak fajnie przez sekundª...\p...\p\nAle pomimo tego nadal jest totalnym g©upcem.`v\e
+[00013c|ru] yKamiyozuAaah`\p\nBrzmia© tak fajnie przez sekundª...\p...\p\nAle pomimo tego nadal jest totalnym kretynem.`v\e
 
 [00013e|en] yTomoezuThere are guys like that`\p\nThey just start running without knowing anything`v\e
-[00013e|ru] yTomoezuWielu facet«w jest takich`\p\nPo prostu biegn§ g©owª naprz«d bez planu.`v\e
+[00013e|ru] yTomoezuTacy s§ w©aÛnie faceci`\p\nPo prostu biegn§ naprz«d bez planu.`v\e
 
 [000140|en] yEbisuzuHe cannot plan anything out,\p can he```?v\e
-[000140|ru] yEbisuzuZapomnij o myÛleniu nogami.\p\nOn w og«le nie potrafi myÛle¨```?v\e
+[000140|ru] yEbisuzuZamiast g©ow§ pomyÛla© nogami.\p\nMo¯e on po prostu nie potrafi normalnie myÛle¨```?v\e
 
 [000141|en] yTakeruzu...\p...\puu...\p...\pv\e
 [000141|ru] yTakeruzu...\pUuu...\pv\e
@@ -449,7 +449,7 @@ SCR 1 Shift-JIS
 [200b85|ru] Proszª...\p spraw abyÛmy zd§¯yli...\p!\e
 
 [200179|en] Still...\p...\pMeiya-sama is quite excessive.\e
-[200179|ru] Ale nadal...\p Nigdy nie s§dzi©em,\p Meiya-sama mia©a\p\ngo przy sobie...\e
+[200179|ru] Ale nadal...\p Nigdy nie s§dzi©am,\p ¯e Meiya-sama mia©a go\p\nprzy sobie...\e
 
 [200b86|en] „Ÿ„Ÿ? ...\p...\pwhat do you mean?\e
 [200b86|ru] „Ÿ„Ÿ? ...\pCo masz na myÛli?\e
@@ -461,19 +461,19 @@ SCR 1 Shift-JIS
 [200b87|ru] Umm...\p...\pTsukuyomi-san?\e
 
 [20017d|en] Please forgive me...\p...\p...\p...\pI am simply...\p...\poverjoyed.\e
-[20017d|ru] Proszª wybacz mi...\...\p\nJa po prostu...\p jestem uradowany.\e
+[20017d|ru] Proszª wybacz mi...\p...\p\nJa po prostu...\p jestem tak uradowana.\e
 
 [200b88|en] Huh...\p...\p?\e
 [200b88|ru] Huh...\p?\e
 
 [20017f|en] The fact that Takeru-sama holds that ring...\p...\p...\p...\p\p\nany servant employed by Meiya-sama would understand\nwhat that means.\e
-[20017f|ru] Ka¯dy s©u¯§cy w s©u¯bie Meiyi-sama zrozumia©by...\p...\p\nCo oznacza dla ciebie trzymanie tego pierÛcienia...\e
+[20017f|ru] Ka¯dy s©u¯§cy w s©u¯bie Meiyi-sama zrozumia©by to...\p...\p\nCo oznacza fakt, ¯e to ty otrzyma©eÛ pierÛcieÃ...\e
 
 [200b89|en] ...\p...\phaa...\p...\e
 [200b89|ru] ...\pHuh....?\e
 
 [200181|en] Takahashi is no different from me.\p\p\nHe wishes for Meiya-sama to be happy.\e
-[200181|ru] Takahashi nie r«¯ni siª ode mnie.\p\p\nPragnie,\p aby Meiya-sama by©a szczªÛliwa.\e
+[200181|ru] Takahashi te¯ taki jest.\p\p\nPragnie,\p aby Meiya-sama by©a szczªÛliwa.\e
 
 [200b8a|en] Eh?\e
 [200b8a|ru] Eh?\e
@@ -482,37 +482,37 @@ SCR 1 Shift-JIS
 [200183|ru] Zawsze sta© obok was jako ochroniarz Meiyi-sama.\e
 
 [200b8b|en] Takahashi-san too!? ...\p...\pI had no idea.\e
-[200b8b|ru] Takahashi-san tez!? p...\pNie mia©em pojªcia.\e
+[200b8b|ru] Takahashi-san te¯!? ...\pNie mia©em pojªcia.\e
 
 [200185|en] Anyone who sees...\p...\p...\p...\pMeiya-sama's face when she is\nwith you, Takeru-sama,\p would feel the same way.\e
-[200185|ru] Ka¯dy to ujrza©...\p...\p Meiyi-sama,\p gdy jest razem z tob§,\p\n mo¯e powiedzie¨,\p ¯e czuje to samo...\e
+[200185|ru] Ka¯dy to ujrza©...\p...\p Meiye-sama,\p gdy jest razem z tob§,\p\nto mo¯e powiedzie¨,\p ¯e czuje to samo co ja...\e
 
 [200b8c|en] Tsukuyomi-san...\p...\p\e
 [200b8c|ru] Tsukuyomi-san...\p\e
 
 [200187|en] In addition...\p...\p...\p...\pno one other than Takeru-sama has\never referred to Meiya-sama as 'their woman.'\e
-[200187|ru] W dodatku...\p...\p nikt inny dot§d nie licz§c ciebie nie\p\nnazwa© Meiyi-sama "swoj§ kobiet§".'\e
+[200187|ru] W dodatku...\p...\p nikt inny dot§d nie licz§c ciebie nie nazwa©\p\nMeiyi-sama "swoj§ kobiet§".'\e
 
 [200b8d|en] „Ÿ„ŸAh\p...\p...\pthat was...\p...\pwell...\p...\pimpulsive.\e
 [200b8d|ru] „Ÿ„ŸOh,\p...\p je¯eli o to chodzi...\p\nC«¯...\p sama wiesz.\e
 
 [200189|en] No...\p...\pI am happy.\p\n...\p...\p...\p...\pfor Meiya-sama,\p a slightly wild person like\nyourself, Takeru-sama, is ideal.\e
-[200189|ru] Nie...\o Jestem szczeÛliwa...\p...\p\nTaka lekkomyÛlna osoba jak ty,\p idealnie pasuje dla Meiyi-sama.\e
+[200189|ru] Nie...\p Jestem szczeÛliwa...\p...\p\nTaka lekkomyÛlna osoba jak ty,\p idealnie pasuje do Meiyi-sama.\e
 
 [200b8e|en] ...\p...\p...\p...\pis that a compliment?\e
 [200b8e|ru] ...\p...\pCzy to by© komplement?\e
 
 [20018b|en] Meiya-sama...\p...\p...\p...\pstill loves you,\p Takeru-sama,\p\nfrom the bottom of her heart.\e
-[20018b|ru] Meiya-sama...\p...\pOna nadal ciª kocha, Takeru-sama\p\mZ ca©ego sercia..\e
+[20018b|ru] Meiya-sama...\p...\pOna nadal ciª kocha, Takeru-sama.\p\nZ ca©ego swojego sercia...\e
 
 [200b8f|en] ...\p...\py-...\p...\pyes.\e
 [200b8f|ru] ...\pO-...\pokej.\e
 
 [20018d|en] About the reason...\p...\pMeiya-sama had to leave you,\nTakeru-sama...\p...\p\e
-[20018d|ru] JeÛli chodzi o pow«d,\p dla kt«rego Meiy-sama musia©a\p\nciª opuÛci¨...\p\e
+[20018d|ru] JeÛli chodzi o pow«d,\p dla kt«rego Meiy-sama musia©a\p ciª\p\nopuÛci¨...\p\e
 
 [20018e|en] Her mistaken belief that you had overheard the nature\nof the vow...\p...\pwas merely the final straw.\e
-[20018e|ru] By©o jej b©ªdne przekonanie,\p ¯e pods©ucha©eÛ naturª\p\nprzysiªgi...\p i to by© ostatni gw«ÜdÜ do trumny.\e
+[20018e|ru] By©o jej b©ªdne przekonanie,\p ¯e pods©ucha©eÛ i przejrza©eÛ\p\nnaturª przysiªgi...\p i to by© ostatni gw«ÜdÜ do trumny.\e
 
 [200b90|en] „Ÿ„ŸEh!? ...\p...\pwhat do you mean?\e
 [200b90|ru] „Ÿ„ŸEh!? ...\pCo masz przez to namyÛli?\e
@@ -530,10 +530,10 @@ SCR 1 Shift-JIS
 [200b91|ru] Meiya...\p\e
 
 [200194|en] 'Commoners have certain freedoms and joys by virtue\nof being commoners.\p\p\nPlacing them under the influence of Mitsurugi would be\nno more than stealing those freedoms,\p and forcing\nthem down a cruel,\p albeit noble path.'\e
-[200194|ru] Szaraczki maj§ w©asne wolnoÛci i radoÛci.\p\p\nnSprowadzenie ich do Mitsurugi oznacza©oby pozbawienie\p\nich wolnoÛci...\p zmuszenie ich do pod§¯ania za twardych\p\ni sztywnym obowi§zkiem.\e
+[200194|ru] Szaraczki maj§ w©asne wolnoÛci i radoÛci.\p\p\nSprowadzenie ich do Mitsurugich oznacza©oby pozbawienie\p\nich wolnoÛci...\p zmuszenie ich do pod§¯ania za twardymi\p\ni sztywnymi obowi§zkami.\e
 
 [200195|en] ...\p...\pthose were the words of Oyakata-sama,\p when\nMeiya-sama proclaimed Takeru-sama to be her\nhusband.\e
-[200195|ru] ...\pTo by© s©owa G©owy ordziny,\p kiedy Meiya-sama\p\nb©aga©a, abyÛ zosta© jej mª¯em.\e
+[200195|ru] ...\pTo by© s©owa G©owy rodziny,\p kiedy Meiya-sama b©aga©a,\p\nabyÛ zosta© jej mª¯em.\e
 
 [000196|en] ...\p...\p...\p...\p\e
 [000196|ru] ...\p...\p\e
@@ -542,13 +542,13 @@ SCR 1 Shift-JIS
 [200197|ru] A teraz,\p\p te s©owa obci§¯aj§ Meiye-sama.\e
 
 [200198|en] Would her own dreams and feelings merely rob\nTakeru-sama of happiness...\p...\pthat is what she now\nwonders.\e
-[200198|ru] Zaczª©a siª zastanawia¨...\p czy mo¯e jej w©asne\p\nsny i uczucia mog§ pozbawi¨ ciª twojego w©asnego szczªscia...\e
+[200198|ru] Zaczª©a siª zastanawia¨...\p czy mo¯e jej w©asne sny i\p\nuczucia mog§ pozbawi¨ ciª twojego w©asnego szczªscia...\e
 
 [200b92|en] ...\p...\pdumbass.\e
 [200b92|ru] ...\pCo za idiotka.\e
 
 [20019a|en] ...\p...\pfor better or for worse, that is who she is.\e
-[20019a|ru] ...\pNa dobre i na z©e,\p ale aka ju¯ po prostu jest.\e
+[20019a|ru] ...\pNa dobre i na z©e,\p ale taka ju¯ po prostu jest.\e
 
 [00019b|en] ...\p...\p\e
 [00019b|ru] ...\p\e
@@ -560,7 +560,7 @@ SCR 1 Shift-JIS
 [00019d|ru] ...\p\e
 
 [20019e|en] Takeru-sama, you will be the one supporting\nMeiya-sama.\p...\p...\pare you really...\p...\pall right with that?\e
-[20019e|ru] Czy ty poniesiesz ciª¯ar imienia Mitsurugi...\p\nCzy to naprawdª...\p cena,\p kt«r§ jesteÛ got«w zap©acic?\e
+[20019e|ru] Czy poniesiesz swoich barkach ciª¯ar nazwiska Mitsurugi...\p\nCzy to naprawdª...\p cena,\p kt«r§ jesteÛ got«w zap©acic?\e
 
 [200b93|en] „Ÿ„ŸWhat does that matter!?\e
 [200b93|ru] „Ÿ„ŸCo to ma wsp«lnego z czymkolwiek!?\e
@@ -569,16 +569,16 @@ SCR 1 Shift-JIS
 [2001a0|ru] „Ÿ„ŸEh!?\e
 
 [200b94|en] ...\p...\pcome on...\p...\pall you rich guys are the same...\p...\p\ntreating commoners like playthings.\nIt's like you don't know a thing about my feelings.\e
-[200b94|ru] ...\pO jacie jacie...\p Wy i te wasze wielko-bogackie pierdzielenie,\p\nnigdy siª nie zmieniacie...\p\nWy naprawdª nie ©apiecie do jasnej cholery jak ja\p\nsiª teraz czujª?\e
+[200b94|ru] ...\pNo weÜ...\p Wy i te wasze wielko-bogackie pierdzielenie,\p\nnigdy siª nie zmienicie...\p Wy naprawdª nie ©apiecie do\p\njasnej cholery jak ja nsiª teraz czujª?\e
 
 [2001a2|en] ...\p...\pTakeru-sama?\e
 [2001a2|ru] ...\p...\pTakeru-sama?\e
 
 [200b95|en] A cruel,\p albeit noble path?\p Tsukuyomi-san,\p since when\nwas I prepared for anything!!?\e
-[200b95|ru] Okrutny i sztywny obowi§zek?!\p\nKogo obchodz§ takie bzdury, Tsukuyomi.\p\nO tego typu kwestiach bªdª myÛla© w momencie,\p\ngdy ju¯ tam bªdª!!?\e
+[200b95|ru] Okrutny i sztywny obowi§zek?!\p\nKogo obchodz§ takie bzdury, Tsukuyomi.\p\nCzy o takich kwestiach nie bªdª musia© dopiero gdy ju¯ tam bªdª!!?\e
 
 [200b96|en] Stuff like that will work itself out later!\p\n„Ÿ„ŸNo,\p I'll make it work!!\e
-[200b96|ru] Tymi wszystkimi nudnymi szczeg«©ami bªdziemy\p\nmogli zaj§¨ siª p«Üniej! Nie. P«Üniej zajmnª siª\p\ntym obowi§zkiem!!\e
+[200b96|ru] Tymi wszystkimi nudnymi szczeg«©ami bªdziemy mogli zaj§¨\p\nsiª p«Üniej! Nie. P«Üniej zajmnª siª tym obowi§zkiem!!\e
 
 [2001a5|en] „Ÿ„ŸTakeru-sama!\e
 [2001a5|ru] „Ÿ„ŸTakeru-sama!\e
@@ -590,25 +590,25 @@ SCR 1 Shift-JIS
 [200b98|ru] Powiedzia©em ju¯ tobie,\p ¯e Meiya jest moj§ kobiet§!!\e
 
 [2001a8|en] Wonderful, Takeru-sama!!\p\n...\p...\p...\p...\paaah...\p...\pif only Meiya-sama could hear that...\p...\p\e
-[2001a8|ru] Wspaniale, Takeru-sama!!\p\n Ah...\p Je¯eli ty Meiya-sama mog©a us©ysze¨ to co w©§Ûnie\p\nco w©aÛnie powiedzia©aÛ...\p\e
+[2001a8|ru] Wspaniale, Takeru-sama!!\p\n Ah...\p Je¯eli ty Meiya-sama mog©a us©ysze¨ to co w©aÛnie\p\npowiedzia©eÛ...\p\e
 
 [0001a9|en] yTakahashizu„Ÿ„ŸTsukuyomi,\p I am sorry to interrupt at\nsuch a good part of the conversation, but we will arrive\nat the gates shortly.v\e
-[0001a9|ru] yTakahashizu„Ÿ„ŸTsukuyomi.\p Przepraszam za przerywanie\p\nw tak porywaj§cej rozmowy, ale nied©ugo dotrzemy do\p\nbram.v\e
+[0001a9|ru] yTakahashizu„Ÿ„ŸTsukuyomi.\p Przepraszam za przerywanie\p\ntak porywaj§cej rozmowy, ale nied©ugo dotrzemy do bramy.v\e
 
 [0001aa|en] yTsukuyomizu„Ÿ„ŸOh no! We won't make it in time if we\nstop at the gates.v\e
-[0001aa|ru] yTsukuyomizu„Ÿ„ŸTo nie mo¯e siª wydarzy¨!\p\nNie zd§¯ymy na czas,\p jest zatrzymamy siª\p\nprzy bramie.v\e
+[0001aa|ru] yTsukuyomizu„Ÿ„ŸTo nie mo¯e siª wydarzy¨!\p\nNie zd§¯ymy na czas,\p jest zatrzymamy siª przy bramie.v\e
 
 [0001ab|en] yTomoezuIf they exchange rings...\p...\pit's all over!v\e
 [0001ab|ru] yTomoezuJeÛli wymieni§ ze sob§ pierÛcionki...\p\nTo bªdzie ju¯ koniec!v\e
 
 [200b9a|en] yTakeruzuTakahashi-san, please,\p break through them!v\e
-[200b9a|ru] yTakeruzuProszª,\p Takahashi-san!\p\nMusisz je zr«wna¨ z ziemi§!v\e
+[200b9a|ru] yTakeruzuProszª,\p Takahashi-san!\p\nMusisz j§ zr«wna¨ z ziemi§!v\e
 
 [0001ad|en] yTakahashizu...\p...\phmph,\p such an absurd request.\p\nTsukuyomi,\p it seems that I also must prepare myself to\nbe scolded by Meiya-sama.v\e
-[0001ad|ru] yTakahashizu...\pCo za absurdalna proÛba.\p\nNo c«¯,\p Tsukuyomi...\p wygl§da na to,\p ¯e nie tylko\p\ntobie trafi siª reprymenda od Meiyi-sama.v\e
+[0001ad|ru] yTakahashizu...\pCo za absurdalna proÛba.\p\nNo c«¯,\p Tsukuyomi...\p wygl§da na to,\p ¯e nie tylko tobie trafi\p\nsiª reprymenda od Meiyi-sama.v\e
 
 [200b9b|en] yTakeruzuI'm gonna make Meiya my wife,\p\nso please don't worry about it,\p just do it!v\e
-[200b9b|ru] yTakeruzuJestem w trakcie uczynienia z Meyi moj§\p\n¯on§, wiªc takimi perdo©ami nie bªdziesz musia© siª\p\nprzejmowa¨! A teraz,\p ca©a naprz«d!v\e
+[200b9b|ru] yTakeruzuJestem w trakcie uczynienia z Meyi moj§ ¯on§,\p\nwiªc takimi perdo©ami nie bªdziesz musia© siª przejmowa¨!\p\nA teraz,\p ca©a naprz«d!v\e
 
 [0001af|en] yKamiyozuUwaa...\p...\phe really said it...\p...\pv\e
 [0001af|ru] yKamiyozu³a©...\p On naprawdª to powiedzia©...\pv\e
@@ -620,10 +620,10 @@ SCR 1 Shift-JIS
 [0001b1|ru] yTakahashizuHu! ...\p...\pNo dobrze.\p\nPrzygotujcie siª!\p Nied©ugo przebijemy siª przez ochronª!v\e
 
 [0001c1|en] ySecurity AnnouncerzuAn unknown motor vehicle has\nbroken through the front gate! Immediately deploy a\nsquadron of the Imperial Guard!\p I repeat...\p...\pv\e
-[0001c1|ru] ySecurity AnnouncerzuNieautoryzowany pojazd mechaniczny wjechach\p\nprzez bramª frontow§! Natychmiast wyÛlij eskadrª\p\nGwardii Imperialnej! Powtarzam...\pv\e
+[0001c1|ru] ySpiker ds. bezpieczeÃstwazuNieautoryzowany pojazd\p\nmechaniczny wjechach przez bramª frontow§!\p\nNatychmiast wys©a¨ eskadrª Gwardii Imperialnej!\p\nPowtarzam...\pv\e
 
 [0001c8|en] ySecurity AnnouncerzuThe unknown vehicle is not\nresponding!\p You may fire at will!\p Stop the vehicle!\p\nScramble the aerial squadrons!\p I repeat...\p...\pv\e
-[0001c8|ru] ySecurity AnnouncerzuIntruz nie odpowiada!\p\nMo¯na strzela¨ do woli!\p Zatrzyma¨ pojazd!\p\nWmieszaj§¨e w to eskadry powietrzne!\pv\e
+[0001c8|ru] ySpiker ds. bezpieczeÃstwazuIntruz nie odpowiada!\p\nMo¯na strzela¨ do woli!\p Zatrzyma¨ pojazd!\p\nWmieszajcie w to eskadry powietrzne!\pv\e
 
 [0001dd|en] yTakeruzuUwaaaaaaaaaaaaaaa!!v\e
 [0001dd|ru] yTakeruzuUwaaaaaaaaaaaaaaa!!v\e
@@ -632,7 +632,7 @@ SCR 1 Shift-JIS
 [0001e1|ru] „Ÿ„ŸW-\pwy tak na serio!!!?\e
 
 [0001e8|en] yTakahashizuWorry not,\p this car was designed for the\nmost important members of the Mitsurugi family.\nIt can handle anti-tank missiles!v\e
-[0001e8|ru] yTakahashizuNie ma powodu obaw.\p\nTen samoch«d ozsta© zaprojektowany,\p aby zapewni¨ bezpieczn§ podr«¯\p\nnajbardziej wp©ywowym cz©onkom rodziny Mitsurugi. Nawet pociski\p\nprzeciwpancerne prawie nie zostawi§ po sobie wgniecenia.v\e
+[0001e8|ru] yTakahashizuNie ma powodu do obaw.\p\nTen samoch«d zosta© zaprojektowany,\p aby zapewni¨ bezpieczn§\p\npodr«¯ najbardziej wp©ywowym cz©onkom rodziny Mitsurugi.\p\nNawet pociski przeciwpancerne prawie nie zostawi§ po\p\nsobie wgniecenia.v\e
 
 [0001ec|en] yTsukuyomizuMore importantly, Takeru-sama,\p be ready\nto jump!v\e
 [0001ec|ru] yTsukuyomizuCo wa¯niejsze,\p b§dÜ gotowy do skoku,\p\nTakeru-sama!v\e
@@ -647,7 +647,7 @@ SCR 1 Shift-JIS
 [000208|ru] Rozumiem,\p ¯e Meiya nie mo¯e opuÛci¨ rodziny Mitsurugi.\e
 
 [000209|en] I'm gonna have to give things up in order to be with her.\e
-[000209|ru] Wiem, ¯e bªdª musia© zrezygnowa¨ z niekt«rych spraw,\p\naby by¨ z ni§.\e
+[000209|ru] Wiem, ¯e bªdª musia© zrezygnowa¨ z niekt«rych spraw,\p\naby m«c by¨ z ni§.\e
 
 [00020d|en] But I know that! I'm prepared for it!\nI've come all this way in order to tell her that!!\e
 [00020d|ru] Ale nie przeszkadza mi to! Jestem na to przygotowany!\p\nPrzyby©em ca©§ tª drogª tylko po to,\p ¯eby jej to powiedzie¨!!\e
@@ -662,7 +662,7 @@ SCR 1 Shift-JIS
 [000233|ru] yTakeruzu„Ÿ„ŸTakahashi-san!!v\e
 
 [000234|en] yTakahashizuTake care...\p...\pof Meiya...\p...\psama...\p...\pv\e
-[000234|ru] yTakahashizuZaopiekuj siª...\p Meiya...\psama...\pv\e
+[000234|ru] yTakahashizuZaopiekuj siª...\p Meiy§...\psama...\pv\e
 
 [000237|en] yTakeruzu„Ÿ„ŸTakahashi-saaan!!v\e
 [000237|ru] yTakeruzu„Ÿ„ŸTakahashi-saaan!!v\e
@@ -677,7 +677,7 @@ SCR 1 Shift-JIS
 [00023d|ru] ...\pTakahashi-san...\p\n...\pDziekujª tobie...\p Dziªkujª tobie bardzo!\e
 
 [00023e|en] yTsukuyomizu„Ÿ„ŸWe will hold off the guards\nhere\p\p„Ÿ„ŸUnderstood!?v\e
-[00023e|ru] yTsukuyomizu„Ÿ„ŸNaszym zadaniem jest potrzyma¨ stra¯§e...\p\n„Ÿ„ŸZrozumiano?v\e
+[00023e|ru] yTsukuyomizu„Ÿ„ŸNaszym zadaniem jest potrzyma¨ stra¯...\p\n„Ÿ„ŸZrozumiano?v\e
 
 [00023f|en] yKamiyo & Tomoe & Ebisuzu„Ÿ„ŸYes!!v\e
 [00023f|ru] yKamiyo & Tomoe & Ebisuzu„Ÿ„ŸTak jest!!v\e
@@ -707,22 +707,22 @@ SCR 1 Shift-JIS
 [00027e|ru] „Ÿ„ŸTeraz ju¯ pamiªtam!\e
 
 [000288|en] „Ÿ„ŸYou've always been like that!\e
-[000288|ru] „Ÿ„ŸYZawsze taka by©aÛ!\e
+[000288|ru] „Ÿ„ŸZawsze taka by©aÛ!\e
 
 [000292|en] „Ÿ„ŸYou never cared about what was convenient for me.\e
 [000292|ru] „Ÿ„ŸNigdy nie dba©aÛ o to,\p co by©o dla mnie wygodne.\e
 
 [00029c|en] „Ÿ„ŸYou'd decide all the important things on your own.\e
-[00029c|ru] „Ÿ„ŸSam zdecydowa©aÛ o wszystkich wa¯nych rzeczach.\e
+[00029c|ru] „Ÿ„ŸSama zdecydowa©aÛ o wszystkich wa¯nych sprawach.\e
 
 [0002a9|en] „Ÿ„ŸYou'd try to save face all by yourself!\e
-[0002a9|ru] „Ÿ„ŸPo prostu starasz siªpopisa¨, bori§c wszystko na siebie!\e
+[0002a9|ru] „Ÿ„ŸPo prostu starasz siª popisa¨, bori§c wszystko na siebie!\e
 
 [0002b0|en] „Ÿ„ŸI'm gonna make you take responsibility for all of\nthat!\e
-[0002b0|ru] „Ÿ„ŸSprawiª ¯e weÜmiesz za to wszystko odpowiedzialnoÛ¨\e
+[0002b0|ru] „Ÿ„ŸSprawiª ¯e weÜmiesz za to wszystko odpowiedzialnoÛ¨!\e
 
 [0002ba|en] „Ÿ„ŸI don't give a crap how cruel the path is!\e
-[0002ba|ru] „Ÿ„ŸNie obchodzi mnie, jak trudno mo¯e by¨ droga przed nami!\e
+[0002ba|ru] „Ÿ„ŸNie obchodzi mnie, jak trudna mo¯e by¨ droga przed nami!\e
 
 [0002bb|en] yTakeruzu„Ÿ„ŸMeiyaaaaaaa!!!!v\e
 [0002bb|ru] yTakeruzu„Ÿ„ŸMeiyaaaaaaa!!!!v\e
@@ -734,10 +734,10 @@ SCR 1 Shift-JIS
 [0002c5|ru] yTakeruzuPrzyszed©em spe©ni¨ swoj§ obietnicª.v\e
 
 [0002c7|en] yMeiyazu...\p...\pd-...\p...\pdo not be a fool!v\e
-[0002c7|ru] yMeiyazu...\pN-...\p b§dÜ niedorzeczny!v\e
+[0002c7|ru] yMeiyazu...\pN-...\p nie b§dÜ niedorzeczny!v\e
 
 [0002ca|en] yTakeruzuYou're the fool! You can't fulfill a promise by\nyourself. Don't run away from me like that!!v\e
-[0002ca|ru] yTakeruzuSama jesteÛ niedorzeczna! Nadam musisz wype©ni¨\p\nswoj§ obietnicª. Nie mo¯esz go po prostu jej\p\nz©ama¨ i uciec!!v\e
+[0002ca|ru] yTakeruzuSama jesteÛ niedorzeczna! Nadal musisz wype©ni¨\p\nswoj§ obietnicª. Nie mo¯esz go po prostu jej z©ama¨ i uciec!!v\e
 
 [0002cf|en] yMeiyazu„Ÿ„Ÿ„Ÿ„Ÿ!v\e
 [0002cf|ru] yMeiyazu„Ÿ„Ÿ„Ÿ„Ÿ!v\e
@@ -746,10 +746,10 @@ SCR 1 Shift-JIS
 [0002d1|ru] yTakeruzuAh! Hej,\p powiedzia©em,\p ¯e nie uciekniesz!!v\e
 
 [0002d4|en] yPriestzuCapture the intruder!v\e
-[0002d4|ru] yPriestzuChwycie tego ©obuza!v\e
+[0002d4|ru] yKap©anzuChwycie tego ©obuza!v\e
 
 [0002d5|en] yPalace GuardszuOooh`!!v\e
-[0002d5|ru] yPalace GuardszuTak, sirh`!!v\e
+[0002d5|ru] yStra¯ Pa©acowazuTak, sir`!!v\e
 
 [0002df|en] „Ÿ„ŸGeh!!\e
 [0002df|ru] „Ÿ„ŸGeh!!\e
@@ -758,19 +758,19 @@ SCR 1 Shift-JIS
 [0002e0|ru] Nikt nie powiedzia© mi o ¯adnych stra¯nikach``!\e
 
 [0002e1|en] yPriestzu„Ÿ„ŸMm!v\e
-[0002e1|ru] yPriestzu„Ÿ„ŸMm!v\e
+[0002e1|ru] yKap©anzu„Ÿ„ŸMm!v\e
 
 [0002e2|en] yPalace GuardszuUuoooooooooo`!!v\e
-[0002e2|ru] yPalace GuardszuUuoooooooooo`!!v\e
+[0002e2|ru] yStra¯ Pa©acowazuUuoooooooooo`!!v\e
 
 [0002e3|en] „Ÿ„ŸUwaaaaaaa,\p w-\pwait!\e
 [0002e3|ru] „Ÿ„ŸUwaaaaaaa,\p cz-\pczekajcie!\e
 
 [0002e6|en] yPriestzu„Ÿ„ŸHalt!v\e
-[0002e6|ru] yPriestzu„Ÿ„ŸSta¨!v\e
+[0002e6|ru] yKap©anzu„Ÿ„ŸSta¨!v\e
 
 [0002e7|en] yPalace Guardszu„Ÿ„Ÿ!!v\e
-[0002e7|ru] yPalace Guardszu„Ÿ„Ÿ!!v\e
+[0002e7|ru] yStra¯ Pa©acowazu„Ÿ„Ÿ!!v\e
 
 [0002ea|en] „Ÿ„Ÿ!!\e
 [0002ea|ru] „Ÿ„Ÿ!!\e
@@ -782,10 +782,10 @@ SCR 1 Shift-JIS
 [0002ec|ru] ...\pCo tu sie wyprawia?\e
 
 [0002ef|en] yPriestzu„Ÿ„ŸThat ring...\p...\p...\p...\pwhere did you get it?v\e
-[0002ef|ru] yPriestzu„Ÿ„ŸTen perÛcieÃ...\p...\p Sk§d ty go masz?v\e
+[0002ef|ru] yKap©anzu„Ÿ„ŸTen perÛcieÃ...\p...\p Sk§d ty go masz?v\e
 
 [0002f0|en] yTakeruzu...\p...\p...\p...\peh!? ...\p...\pwell...\p...\pumm...\p...\pMeiya...\p...\pgave it to\nme on our birthday...\p...\pv\e
-[0002f0|ru] yTakeruzu...\p...\pHoh?! ...\pOh...\p to...?\p Em...\p c«¯...\p\nMeiya podarowa©o mi to na nasze wsp«lne urodziny...\pv\e
+[0002f0|ru] yTakeruzu...\p...\pHoh?! ...\pOh...\p to...?\p Em...\p no c«¯...\p\nMeiya podarowa©o mi to na nasze wsp«lne urodziny...\pv\e
 
 [2002f1|en] „Ÿ„ŸKuwa!\e
 [2002f1|ru] „Ÿ„ŸKuwa!\e
@@ -794,10 +794,10 @@ SCR 1 Shift-JIS
 [0002f2|ru] yTakeruzu„Ÿ„Ÿ„Ÿ„ŸUwa!v\e
 
 [0002f3|en] yPriestzu„Ÿ„ŸAll of you,\p fall back``!!v\e
-[0002f3|ru] yPriestzu„Ÿ„ŸWszyscy,\p st«jcie``!!v\e
+[0002f3|ru] yKap©anzu„Ÿ„ŸWszyscy,\p st«jcie``!!v\e
 
 [0002f4|en] yPalace GuardszuYes sir!!v\e
-[0002f4|ru] yPalace GuardszuTak jest, sir!!v\e
+[0002f4|ru] yStra¯ Pa©acowazuTak jest, sir!!v\e
 
 [0002f5|en] ...\p...\p...\p...\phuh?\e
 [0002f5|ru] ...\pHª?\e
@@ -806,34 +806,34 @@ SCR 1 Shift-JIS
 [0002f6|ru] yTakeruzu...\pCo to ma by¨...?\p\nAle s§dzi©em...\p ¯e ten pierÛcieÃ nie ma ¯adnego efektu...\pv\e
 
 [0002f7|en] yPriestzuBe lenient with this rude man.v\e
-[0002f7|ru] yPriestzuProszª wybacz nam nasz§ bezczelnoÛ¨.v\e
+[0002f7|ru] yKap©anzuProszª wybacz nam nasz§ bezczelnoÛ¨.v\e
 
 [0002f8|en] yTakeruzuNo, it's just...\p...\pMeiya isn't the leader yet...\p...\p\nso I thought it wouldn't work...\p...\pv\e
-[0002f8|ru] yTakeruzuNie, po prostu...\pMeiya nie jest jeszcze g©ow§\p\nrodziny...\p wiªc mia©am wra¯enie,\p ¯e to nie zadzia©a...\pv\e
+[0002f8|ru] yTakeruzuNie, po prostu...\pMeiya nie jest jeszcze g©ow§\p\nrodziny...\p wiªc mia©em wra¯enie,\p ¯e to nie zadzia©a...\pv\e
 
 [0002f9|en] yPriestzuSir!\p Meiya-sama is the 79th leader of Mitsurugi.v\e
-[0002f9|ru] yPriestzuSir!\p Meiya-sama jest 79 g©ow§ rodziny Mistsurugi.v\e
+[0002f9|ru] yKap©anzuSir!\p Meiya-sama jest 79 g©ow§ rodziny Mistsurugi.v\e
 
 [0002fa|en] yTakeruzu„Ÿ„ŸEeeh!? Since when!?v\e
 [0002fa|ru] yTakeruzu„Ÿ„ŸCo?! Od kiedy!?v\e
 
 [0002fb|en] yPriestzuSir!\p Since only a moment ago.v\e
-[0002fb|ru] yPriestzuSir!\p Dopiero przed chwil§.v\e
+[0002fb|ru] yKap©anzuSir!\p Zosta©a g©ow§ rodziny chwilª temu.v\e
 
 [0002fc|en] yTakeruzu„Ÿ„ŸThen...\p...\pshe's already married!?v\e
-[0002fc|ru] yTakeruzu„Ÿ„ŸCzekaj...\p czy to oznacza....\p\nWysz©a ju¯ na m§¯!?v\e
+[0002fc|ru] yTakeruzu„Ÿ„ŸCzekaj...\p czy to oznacza....\p\p\nÂe wysz©a ju¯ za m§¯!?v\e
 
 [0002fd|en] yPriestzuUnfortunately,\p your intrusion disturbed the\nwedding ceremony...\p...\pv\e
-[0002fd|ru] yPriestzuNiestety,\p twoje wtargniªcie zak©«ci©o ceremoniª\p\nÛlubn§...\pv\e
+[0002fd|ru] yKap©anzuNiestety,\p twoje wtargniªcie zak©«ci©o ceremoniª\p\nÛlubn§...\pv\e
 
 [0002fe|en] yTakeruzuThen...\p...\pthere's still time„Ÿ„ŸNo!v\e
 [0002fe|ru] yTakeruzuNo to...\p to oznacza,\p ¯e nam jeszcze czas-\p\n„Ÿ„ŸCzekaj, nie!v\e
 
 [0002ff|en] yPriestzu...\p...\p?v\e
-[0002ff|ru] yPriestzu...\p?v\e
+[0002ff|ru] yKap©anzu...\p?v\e
 
 [000300|en] yTakeruzu„Ÿ„ŸIt doesn't matter if there's still time or\nnot!v\e
-[000300|ru] yTakeruzu„Ÿ„ŸTo nie ma znaczenia,\p czy jest jeszcze\p\nczas,\p czy nie!v\e
+[000300|ru] yTakeruzu„Ÿ„ŸTo nie ma znaczenia!\p\n Chcª tylko wiedzie¨ czy mam jeszcze czas!v\e
 
 [000306|en] yTakeruzu„Ÿ„ŸMeiyaaa!!v\e
 [000306|ru] yTakeruzu„Ÿ„ŸMeiyaaa!!v\e
@@ -848,13 +848,13 @@ SCR 1 Shift-JIS
 [00030a|ru] „Ÿ„ŸA niech to!\e
 
 [00030b|en] Would you just...\p...\pwait up...\p...\pdamn you...\p...\p...\p...\p\nyou know...\p...\pI'm out of shape...\p...\p\e
-[00030b|ru] Czy mog©abyÛ tylko...\p poczeka¨...\p sekunkª....\p\nNiech ciª diabli...\p Wiesz...\p nie jestem w formie...\p\e
+[00030b|ru] A mog©abyÛ...\p poczeka¨...\p tak tylko sekundkª....\p\nNiech ciª diabli...\p Wiesz...\p nie jestem w formie...\p\e
 
 [000310|en] Finally...\p...\pI made it...\p...\p\e
 [000310|ru] Nareszcie...\p Uda©o mi siª to...\p\e
 
 [000315|en] yTakeruzuHaa...haa...haa...\p...\pMeiya...\p...\p!v\e
-[000315|ru] yTakeruzu*Dyszenie* *Dyszenie*\p\n..\pMeiya...\p!v\e
+[000315|ru] yTakeruzu*Dyszenie* *Dyszenie*\p\n...\pMeiya...\p!v\e
 
 [000316|en] yMeiyazuS-\pstop following me!!v\e
 [000316|ru] yMeiyazuP-\pprzestaÃ za mn§ pod§¯a¨!!v\e
@@ -875,10 +875,10 @@ SCR 1 Shift-JIS
 [00031b|ru] yTakeruzuPrzypomnia©em sobie!\p Pamiªtam ju¯ wszystko!\p\nPrzyby©em dotrzyma¨ nasz§ obietnice!!v\e
 
 [00031c|en] yMeiyazuI said be silent.\p\p\nYou understand nothing about the Mitsurugi family!v\e
-[00031c|ru] yMeiyazuPowiedzia©am ¯ebyÛ siªuciszy©!\p\p\nNic nie rozumiesz z rodziny Mitsurugi!v\e
+[00031c|ru] yMeiyazuPowiedzia©am ¯ebyÛ siª uciszy©!\p\p\nNic nie rozumiesz z rodziny Mitsurugi!v\e
 
 [00031d|en] yTakeruzuI know that.\p\nI know what I'll have to go through to be with you.v\e
-[00031d|ru] yTakeruzuWiem to!\p\nWiem, przez co bªdª musia© przejÛ¨,\p aby by¨ z tob§!v\e
+[00031d|ru] yTakeruzuWiem to! Wiem, przez co bªdª musia© przejÛ¨,\p\naby by¨ z tob§!v\e
 
 [00031e|en] yMeiyazuTh-\pthen why are you here!?v\e
 [00031e|ru] yMeiyazuD-\pdlaczego tu jesteÛ!?v\e
@@ -887,10 +887,10 @@ SCR 1 Shift-JIS
 [00031f|ru] yTakeruzuPoniewa¯ chcª by¨ z tob§,\p Meiya!v\e
 
 [000320|en] yMeiyazuD-\pdo not speak such nonsense!\p\nThat is no reason...\p...\pv\e
-[000320|ru] yMeiyazuN-\p nie gadaj g©upot!\p\nTo nie jest pow«d...\pv\e
+[000320|ru] yMeiyazuN-\p nie gadaj g©upot! To nie jest pow«d...\pv\e
 
 [000321|en] yTakeruzuWhat better reason could I have!?v\e
-[000321|ru] yTakeruzuNo to jaki mia©by by¨ lepszy pow«d\p\nmojego pojawienia siª tutaj!?v\e
+[000321|ru] yTakeruzuNo to jaki mia©by by¨ lepszy pow«d mojego\p\npojawienia siª tutaj!?v\e
 
 [000322|en] yMeiyazuI am telling you this for your own sake!v\e
 [000322|ru] yMeiyazuM«wiª ci to ze wzglªdu na ciebie!v\e
@@ -905,7 +905,7 @@ SCR 1 Shift-JIS
 [000325|ru] yTakeruzuJestem na to przygotowany! PodejdÜ do mnie!v\e
 
 [000326|en] yMeiyazuI cannot trust such resolve!\p\nBesides,\p once I am the head of the family,\p I will not have\nas much freedom as before!!v\e
-[000326|ru] yMeiyazuNie mogª ufa¨ takim imulsywnym s©owom!\p\nJako g©owa rodziny zrezygnowa©bym ze wszystkich\p\nwolnoÛci, kt«ymi siª teraz cieszysz!!v\e
+[000326|ru] yMeiyazuNie mogª ufa¨ takim imulsywnym s©owom!\p\nJako g©owa rodziny zrezygnowa©byÛ ze wszystkich wolnoÛci,\p\nkt«ymi siª teraz cieszysz!!v\e
 
 [000327|en] yTakeruzuYeah, I'm prepared for that.v\e
 [000327|ru] yTakeruzuWiem. Jestem na to przygotowany.v\e
@@ -914,7 +914,7 @@ SCR 1 Shift-JIS
 [000328|ru] yMeiyazuBªdziesz musia© ponosi¨ odpowiedzialnoÛ¨ za ca©§\p\nrodzinª Mitsurugi! Miliony istnieÃ spoczn§ na twoich\p\nbarkach!!v\e
 
 [000329|en] yTakeruzuYou're more important than them.v\e
-[000329|ru] yTakeruzuHej, uda©o mi siª ciª wynieÛ¨ z tej jaskini.\p\nJestem pewien,\p ¯e sobie z tym poradzª.v\e
+[000329|ru] yTakeruzuHej, uda©o mi siª ciª wynieÛ¨ z tej jaskini.\p\nJestem pewien,\p ¯e z tym te¯ sobie poradzª.v\e
 
 [00032a|en] yMeiyazu...\p...\pidiot!\p\p\n„Ÿ„ŸI am being serious...\p...\p...\p...\pv\e
 [00032a|ru] yMeiyazu...\pIdiota!\p\p\nM«wiª ca©kowice powa¯ne...\p...\pv\e
@@ -932,7 +932,7 @@ SCR 1 Shift-JIS
 [00032e|ru] yMeiyazu...\pNie pr«buj mnie oszukiwa¨ takimi s©«wkami.v\e
 
 [000331|en] yTakeruzuWhat!?\p I left all of Sumika's feelings and\nmemories behind to come here,\p and you still won't\nbelieve me!!?v\e
-[000331|ru] yTakeruzuÂe jak?!\p Zostawi©em ca©e ¯ycie ¯eby tu\p\nprzyjecha¨! Zostawi©em sumikª w tyle! I nadal mi nie\p\nwierzysz!!?v\e
+[000331|ru] yTakeruzuÂe jak?!\p Zostawi©em ca©e ¯ycie ¯eby tu\p\nprzyjecha¨! Zostawi©em Sumikª w tyle! I nadal mi nie\p\nwierzysz!!?v\e
 
 [000332|en] yMeiyazu„Ÿ„ŸSumi...\p...\pka...\p...\pv\e
 [000332|ru] yMeiyazu„Ÿ„ŸSumi...\pka...\pv\e
@@ -944,7 +944,7 @@ SCR 1 Shift-JIS
 [000334|ru] yMeiyazu...\pZamknij siª!\p\nNie b§dÜ taki pewny siebie!v\e
 
 [000335|en] yTakeruzuI'm not full of it!\nI'm the man the Mitsurugi princess fell in love with!!v\e
-[000335|ru] yTakeruzuNie jestem wcale taki pewny siebie!\p\nJestem mª¯czyzn§ w kt«rym zakocha©a siª ksiª¯niczka Mitsurugi!!v\e
+[000335|ru] yTakeruzuNie jestem wcale taki pewny siebie!\p\nJestem mª¯czyzn§ w kt«rym zakocha©a siª ksiª¯niczka Mitsurugi!v\e
 
 [000336|en] yMeiyazuShut up...\p...\p...\p...\pbe silent...\p...\pv\e
 [000336|ru] yMeiyazuCicho b§dÜ...\p...\p Ucisz siª...\pv\e
@@ -953,7 +953,7 @@ SCR 1 Shift-JIS
 [000337|ru] yTakeruzuNie pozwolª ci ¯y¨ z takim ¯alem...\p\nNie pozwolª ci wyrze¨ siª w ten spos«b swojego ¯ycia.v\e
 
 [000338|en] yMeiyazu...\p...\pdo not decide...\p...\pwhat it is I feel.\p\p\nA problem for the family is a problem for me...\p...\p...\p...\pv\e
-[000338|ru] yMeiyazu...\pNie myÛl sobie,\p ¯e mo¯esz zdecydowa¨...\p co\ndok©adnie czujª.\p\p Problemy mojeje rodziny s§ moimi w©asnymi...\p...\pv\e
+[000338|ru] yMeiyazu...\pNie myÛl sobie,\p ¯e mo¯esz zdecydowa¨...\p co\ndok©adnie czujª.\p\p Problemy mojeje rodziny s§ moimi w©asnymi\p\nproblemami...\p...\pv\e
 
 [000339|en] yTakeruzuStop using your family as a shield.\p\nCome out of that shell.v\e
 [000339|ru] yTakeruzuPrzestaÃ u¯ywa¨ swojej rodziny jako tarczy.\p\nMusisz zacz§¨ stawia¨ siebie na pierwszym miejscu.v\e
@@ -980,7 +980,7 @@ SCR 1 Shift-JIS
 [000340|ru] yMeiyazu...\p...\pv\e
 
 [000341|en] yTakeruzuNo one should ever be able to decide that you\ncan't have something precious...\p...\pyou know that just as\nwell as I do...\p...\pv\e
-[000341|ru] yTakeruzuNigdy nie powinnaÛ rezygnowa¨ z tego,\p co\p\ndla ciebie cenne! Zw©aszcza ¯eby nie ¯y¨ ¯yciem,\p\n¯yciem,\p kt«ego sama nie wybra©aÛ...\p Wiesz to,\p r«wnie dobrze jak ja...\pv\e
+[000341|ru] yTakeruzuNigdy nie powinnaÛ rezygnowa¨ z tego,\p co dla\p\nciebie cenne! Zw©aszcza ¯eby nie ¯y¨ ¯yciem,\p\n¯yciem,\p kt«ego\p\nsama nie wybra©aÛ...\p Wiesz to,\p r«wnie dobrze jak ja...\pv\e
 
 [000342|en] yMeiyazu...\p...\p...\p...\pv\e
 [000342|ru] yMeiyazu...\p...\pv\e
@@ -1052,7 +1052,7 @@ SCR 1 Shift-JIS
 [000361|ru] yMeiyazu...\pNigdy wiªcej...\p nie pozwolª tobie odejÛ¨...\pv\e
 
 [000362|en] yTakeruzuYeah...\p...\pI'm not letting go of you...\p...\pv\e
-[000362|ru] yTakeruzuTaaa...\p Ja r«wnie¯ nie pozwolª ci tego zrobic...\pv\e
+[000362|ru] yTakeruzuTaaa...\p Ja r«wnie¯ nie pozwolª ci tego zrobi¨...\pv\e
 
 [000364|en] yTakeruzu...\p...\pMeiya.v\e
 [000364|ru] yTakeruzu...\pMeiya.v\e
@@ -1094,7 +1094,7 @@ SCR 1 Shift-JIS
 [000380|ru] Uff...\p Czyli wszystko posz©o zgodnie z planem..\p\e
 
 [000381|en] Still...\p...\phow the hell did she put this together...\p...\p?\e
-[000381|ru] Mimo to...\p Jak, u diab©a, zaaran¯owa©a to wszystko\p\nwtak kr«tkim czasie...\p?\e
+[000381|ru] Mimo to...\p Jak, u diab©a, zaaran¯owa©a to wszystko w tak\p\nkr«tkim czasie...\p?\e
 
 [000382|en] It's kinda small...\p...\pand unceremonious...\p...\p\e
 [000382|ru] Mozna j§ nazwa¨ srkupulatn§,\p a mo¯e nawet nieomyln§...\p\e
@@ -1127,7 +1127,7 @@ SCR 1 Shift-JIS
 [00038c|ru] yMeiyazuNie ma co zaprzecza¨...\p...\p Ale teraz...\p\nWynagrodzisz mi to...\pv\e
 
 [00038d|en] yTakeruzuFrom now on, I'll be with you forever...\p...\p\nno matter what.v\e
-[00038d|ru] yTakeruzuOd teraz,\p zawsze bªdziemy ju¯ razem...\p\nNie wa¯neco by siª dzia©o..v\e
+[00038d|ru] yTakeruzuOd teraz,\p zawsze bªdziemy ju¯ razem...\p\nNie wa¯ne co by siª dzia©o..v\e
 
 [00038e|en] yMeiyazu...\p...\p...\p...\pyes.v\e
 [00038e|ru] yMeiyazu...\p...\pTak.v\e
@@ -2294,40 +2294,40 @@ SCR 1 Shift-JIS
 [000541|ru] yTakeruzu...\p...\p...\p...\pv\e
 
 [000542|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e
-[000542|ru] yTsukuyomizuGood morning,\p Takeru-sama.v\e
+[000542|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e
 
 [000543|en] yTakeruzu...\p...\p...\p...\pv\e
-[000543|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000543|ru] yTakeruzu...\p...\pv\e
 
 [000544|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e
-[000544|ru] yTsukuyomizuGood morning,\p Takeru-sama.v\e
+[000544|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama..v\e
 
 [000545|en] yTakeruzu...\p...\p...\p...\pv\e
-[000545|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000545|ru] yTakeruzu...\p...\pv\e
 
 [000546|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e
-[000546|ru] yTsukuyomizuGood morning,\p Takeru-sama.v\e
+[000546|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e
 
 [000547|en] yTakeruzu...\p...\p...\pmm...\pv\e
-[000547|ru] yTakeruzu...\p...\p...\pmm...\pv\e
+[000547|ru] yTakeruzu...\pMmm...\pv\e
 
 [000548|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e
-[000548|ru] yTsukuyomizuGood morning,\p Takeru-sama.v\e
+[000548|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e
 
 [000554|en] yTakeruzu...\p...\p...\pI'm awake`...\p...\pv\e
-[000554|ru] yTakeruzu...\p...\p...\pI'm awake`...\p...\pv\e
+[000554|ru] yTakeruzu...\p...\pJu¯ nie Ûpiª`...\p...\pv\e
 
 [000561|en] yTsukuyomizu...\p...\p...\p...\pv\e
-[000561|ru] yTsukuyomizu...\p...\p...\p...\pv\e
+[000561|ru] yTsukuyomizu...\p...\pv\e
 
 [000562|en] yTakeruzu...\p...\p...\p...\pv\e
-[000562|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000562|ru] yTakeruzu...\p...\pv\e
 
 [000563|en] yTsukuyomizu...\p...\p...\p...\pv\e
-[000563|ru] yTsukuyomizu...\p...\p...\p...\pv\e
+[000563|ru] yTsukuyomizu...\p...\pv\e
 
 [000564|en] yTakeruzu...\p...\p...\p...\pv\e
-[000564|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000564|ru] yTakeruzu...\p...\pv\e
 
 [000565|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e 
 [000565|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e 
@@ -2351,7 +2351,7 @@ SCR 1 Shift-JIS
 [00056b|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e
 
 [00056c|en] yTakeruzu...\p...\p...\p...\pv\e
-[00056c|ru] yTakeruzuJ...\p...\pv\e
+[00056c|ru] yTakeruzuJa...\p...\pv\e
 
 [00056d|en] yTsukuyomizuGood morning,\p Takeru-sama.v\e
 [00056d|ru] yTsukuyomizuDzieÃ dobry,\p Takeru-sama.v\e
@@ -2366,16 +2366,16 @@ SCR 1 Shift-JIS
 [000588|ru] yTakeruzu...\p...\pProszª przestaÃ...v\e
 
 [000591|en] yMeiyazu...\p...\preally now...\p...\p Takeru,\p Tsukuyomi,\p how can\nyou do this every single morning?v\e
-[000591|ru] yMeiyazu...\pA wy tak na serio...\p\nJakim cudem wasza dw«jka mo¯e powtarza¨ tªszaradª ka¯ego poranka?v\e
+[000591|ru] yMeiyazu...\pA wy tak na serio...\p\nJakim cudem wasza dw«jka mo¯e powtarza¨ tª szaradª ka¯dego\p\nporanka?v\e
 
 [000593|en] yTsukuyomizuMy apologies.v\e
 [000593|ru] yTsukuyomizuProszª o wybaczenie.v\e
 
 [000594|en] yTakeruzu...\p...\p...\p...\pit's not like we enjoy doing this...\p...\pv\e
-[000594|ru] yTakeruzu...\p...\pTo nie tak, ¯e sam to sobie wybra©em...\pv\e
+[000594|ru] yTakeruzu...\p...\pTo nie tak, ¯e mnie to jara..\pv\e
 
 [000598|en] yMeiyazuYou are to blame as well.\p\nHow can you not wake up until 4 AM...\p...\p?v\e
-[000598|ru] yMeiyazuSam sobie jesteÛ winien.\p\nJak mo¯esz nie by¨ na nogach o czwartej godzinie?v\e
+[000598|ru] yMeiyazuSam sobie jesteÛ winien.\p\nJak mo¯esz nie by¨ na nogach o 4 godzinie?v\e
 
 [00059a|en] yTakeruzuI went to sleep at 2 AM, so...\p...\pv\e
 [00059a|ru] yTakeruzuNo c«¯, jakoÛ tak wysz©o,\p ¯e k©ad©em siª o 2 nocy.\pv\e
@@ -2408,31 +2408,31 @@ SCR 1 Shift-JIS
 [0005ac|ru] yTakeruzuNo weÜ...\p\nPrzynajmniej dajcie mi wolne niedziele...\pv\e
 
 [0005ae|en] yMeiyazu...\p...\pyou are a demanding one.\p\nI thought you were prepared for this.v\e
-[0005ae|ru] yMeiyazu...\pNaprawdª jesteÛ wymagaj§cy.\p\nTw«j brak determinacji mnie dmumiewa.v\e
+[0005ae|ru] yMeiyazu...\pNaprawdª jesteÛ wymagaj§cy.\p\nTw«j brak determinacji mnie zdumiewa.v\e
 
 [0005b0|en] yTakeruzuThere's a limit to how prepared one can be.\p\nIsn't this schedule downright lethal?\p\nI'm gonna die from stress!v\e
 [0005b0|ru] yTakeruzuTu nie chodzi o determinacjª.\p\nTo jest tortura.\p Ta codzienna rutyna mnie zabijª!\p\nPadnª ze stresu!v\e
 
 [0005b2|en] yMeiyazuThere you go again.\p\nEven after you said you could not stay calm in a huge\nroom and we went out of our way to recreate this one.v\e
-[0005b2|ru] yMeiyazuZnowu zaczynasz.\p\nPo pierwsze, nie mog©eÛ siª zrelaksowa¨ w g©«wnej sypialni,\p\nwiªc postanowilismy skrupulatnie odtworzy¨twoj§ star§.v\e
+[0005b2|ru] yMeiyazuZnowu zaczynasz.\p\nPo pierwsze, nie mog©eÛ siª zrelaksowa¨ w g©«wnej sypialni,\p\nwiªc postanowilismy skrupulatnie odtworzy¨ to co\p\nmia©eÛ u siebie w rodzinnym domu.v\e
 
 [0005b4|en] yTsukuyomizuMeals have been little different.\p I pity the\nchefs who must recreate the exact taste and texture of\ninstant ramen using such expensive ingredients.v\e
 [0005b4|ru] yTsukuyomizuPodobne skargi dotyczy©y jego planu posi©k«w.\p\nÂal mi szef«w kuchni,\p kt«rzy przy u¯yciu tak drogich\p\nsk©adnik«w musz§ odtworzy¨ dok©adny smak i konsystencjª\p\nb©yskawicznego ramenu.v\e
 
 [0005b8|en] yTakeruzu...\p...\pthen you can take all of that away,\p\nbut Sunday is a day off!\p No one works today!v\e
-[0005b8|ru] yTakeruzu...\pNiech bªdzie, wiªc mo¯esz to wszystko zabra¨.\p\nAle chcª mie¨ wolne niedziele!\p\nKa¯dy potrzebuje dnia odpoczynku!v\e
+[0005b8|ru] yTakeruzu...\pNiech bªdzie, wiªc mo¯esz to wszystko zabra¨.\p\nAle chcª mie¨ wolne niedziele!\p\nKa¯dy potrzebuje chocia¯ 1 dnia odpoczynku!v\e
 
 [0005ba|en] yTsukuyomizuUnacceptable.\p\p Takeru-sama, as part of the\nMitsurugi family...\p...\pv\e
-[0005ba|ru] yTsukuyomizuNie do zaakceptowania,\p Takeru-sama.\p\nJako g©owa rdzoiny Mitsurugi...\pv\e
+[0005ba|ru] yTsukuyomizuNie do zaakceptowania,\p Takeru-sama.\p\nJako g©owa rodziny Mitsurugi...\pv\e
 
 [0005bc|en] yTakeruzuI know all that...\p...\pbut I never get any time to\ntalk to Meiya!v\e
-[0005bc|ru] yTakeruzuTo ja wszystko rozumiem...\p\nAle przez to nigdy nie mam nawet czasu na\p\nporozmawianie sobie z Meiy§!v\e
+[0005bc|ru] yTakeruzuJa wszystko rozumiem...\p\nAle przez to nigdy nie mam nawet czasu na porozmawianie\p\nsobie z Meiy§!v\e
 
 [0005c0|en] yMeiyazu...\p...\p!?v\e
 [0005c0|ru] yMeiyazu...\p!?v\e
 
 [0005c1|en] yTakeruzuYou're just as busy,\p but that's not right.\p\nI was prepared for this because you were here.v\e
-[0005c1|ru] yTakeruzuJestem pewien, ¯e ty r«nie¯ jesteÛ zajªta.\p\nAle to nie zmienia faktu, ¯e tak nie mo¯e by¨.\p\nJedynym powodem, dla kt«rego by©em na to wszystko gootwy,\p\nto, to, ¯e myÛla©em, ¯e bªdziesz u mojego boku.v\e
+[0005c1|ru] yTakeruzuJestem pewien, ¯e ty r«wnie¯ jesteÛ zajªta.\p\nAle to nie zmienia faktu, ¯e tak nie mo¯e by¨.\p\nJedynym powodem, dla kt«rego by©em na to wszystko gotowy,\p\nto, to, ¯e myÛla©em, ¯e bªdziesz u mojego boku.v\e
 
 [0005c5|en] yMeiyazu...\p...\p...\p...\pv\e
 [0005c5|ru] yMeiyazu...\p...\pv\e
@@ -2450,10 +2450,10 @@ SCR 1 Shift-JIS
 [0005ce|ru] yTsukuyomizu...\p...\pv\e
 
 [0005d0|en] yMeiyazu...\p...\pTsukuyomi.\p\n...\p...\pwhen is our next rest period?v\e
-[0005d0|ru] yMeiyazu...\pTsukuyomi.\p\n...\pKidy jest nastªpny okres odpoczynku?v\e
+[0005d0|ru] yMeiyazu...\pTsukuyomi.\p\n...\pKiedy jest nastªpny okres odpoczynku?v\e
 
 [0005d2|en] yTsukuyomizuYes...\p...\ptwo weeks from now there will be a\nperiod of four hours.v\e
-[0005d2|ru] yTsukuyomizuPopatrzmy...\p\nNastªpna przerwa bªdzie za dwa tygodnie i trwa©a 4 godziny.v\e
+[0005d2|ru] yTsukuyomizuPopatrzmy...\p\nNastªpna przerwa bªdzie za dwa tygodnie i bªdzie trwa¨\p\n4 godziny.v\e
 
 [0005d3|en] yTakeruzuAnd when was the last one?v\e
 [0005d3|ru] yTakeruzuA kiedy by©a ostatnia?v\e
@@ -2468,7 +2468,7 @@ SCR 1 Shift-JIS
 [0005db|ru] yTsukuyomizu...\pZrozumia©am.\p\nPrzeprojektujª program nauczania.v\e
 
 [0005df|en] yTakeruzuYes! Okay, Meiya,\p get over here!v\e
-[0005df|ru] yTakeruzuS©odziutko! Okej, Meiyo!\p\nDalej, klapnij soibe!v\e
+[0005df|ru] yTakeruzuS©odziutko! Okej, Meiyo!\p\nDalej, klapnij sobie!v\e
 
 [0005e7|en] yTsukuyomizuAh! Takeru-sama!\p Not right away!!\p\nToday's plans„Ÿ„Ÿv\e
 [0005e7|ru] yTsukuyomizuAh! Takeru-sama!\p Nie od razu!!\p\nDzisiejsze plany nadal s§„Ÿ„Ÿv\e
@@ -2480,7 +2480,7 @@ SCR 1 Shift-JIS
 [0005f5|ru] yTsukuyomizuAh,\p ah,\p Takeru-sama!?\p Meiya-sama!!?v\e
 
 [0005fd|en] yTsukuyomizuAaah, fine!\p I can see I have no choice...\p...\pv\e
-[0005fd|ru] yTsukuyomizuAaah! Niech bªzie!\p Wygl§da na to,\p ¯e nie mam wyboru...\pv\e
+[0005fd|ru] yTsukuyomizuAaah! Niech bªzie!\p Wygl§da na to,\p ¯e nie mam\p\nwyboru...\pv\e
 
 [000600|en] yTakeruzuHeheheh...\p...\pv\e
 [000600|ru] yTakeruzuHeheheh...\pv\e
@@ -2492,13 +2492,13 @@ SCR 1 Shift-JIS
 [000602|ru] yTakeruzuMeiya...\p PodejdÜ tu do mnie`v\e
 
 [000603|en] yMeiyazuW-\pwait...\p...\p...\p...\pare you not tired!?v\e
-[000603|ru] yMeiyazuP-\poczekaj...\p...\p\nA ty przypadkiem nie czu©eÛ siªsenny!?v\e
+[000603|ru] yMeiyazuP-\ppoczekaj...\p...\p\nA ty przypadkiem nie czu©eÛ siª senny!?v\e
 
 [000605|en] yTakeruzu...\p...\pwhy not? It's been so long`v\e
 [000605|ru] yTakeruzu...\pÂe co? Dawno i nie prawda`v\e
 
 [000606|en] yMeiyazuYou have already become this lively...\p...\p...\p...\p\nsuch an energetic...\p...\pmm...\p...\pv\e
-[000606|ru] yMeiyazuB©yskawicznie wracasz do pe©ni si©...\p...\p\nJakiÛ ty przebieg©y...\pmmm...\pv\e
+[000606|ru] yMeiyazuB©yskawicznie wracasz do pe©ni si©...\p...\p\nJakiÛ ty przebieg©y...\pMmm...\pv\e
 
 [100ab7|en] \r
 [100ab7|ru] \r
@@ -2528,7 +2528,7 @@ SCR 1 Shift-JIS
 [100abc|ru] \r
 
 [300612|en] ...\p...\pI refuse!\n...\p...\pyou are strong...\p...\pand a tease...\p...\p\p\p
-[300612|ru] ...\pOdmawiam!\n ...JesteÛ w tym za dobry...\p i do tego jesteÛ w tym za dobry...\p\p\p
+[300612|ru] ...\pOdmawiam!\n ...JesteÛ w tym za dobry...\p i do tego lubisz mnie gnªbi¨...\p\p\p
 
 [100abd|en] \r
 [100abd|ru] \r
@@ -2594,7 +2594,7 @@ SCR 1 Shift-JIS
 [100ac7|ru] \r
 
 [300bc7|en] „Ÿ„ŸPainful times......
-[300bc7|ru] „Ÿ„ŸMomenty, kiedy krzywdziliÛmy innych i sami byliÛmy krzywdzeni......
+[300bc7|ru] „Ÿ„ŸMomenty, kiedy krzywdziliÛmy innych i sami byliÛmy\p\nkrzywdzeni......
 
 [100ac8|en] \r
 [100ac8|ru] \r
@@ -2618,7 +2618,7 @@ SCR 1 Shift-JIS
 [100acb|ru] \r
 
 [300bc3|en] „Ÿ„ŸIf I'm with you,\p I'll be able to walk on toward a\nshining future.\p
-[300bc3|ru] „Ÿ„ŸDop«ki jestem z tob§,\p wiem, ¯e bªdª w stanie iÛ¨ naprz«d ku lÛni§cej przysz©oÛci.\p
+[300bc3|ru] „Ÿ„ŸDop«ki jestem z tob§,\p wiem, ¯e bªdª w stanie iÛ¨ naprz«d ku\p\nlÛni§cej przysz©oÛci.\p
 
 [100acc|en] \r
 [100acc|ru] \r
@@ -2636,7 +2636,7 @@ SCR 1 Shift-JIS
 [100ace|ru] \r
 
 [300bc0|en] And we finally became one...\p...\p
-[300bc0|ru] Aby na koÃciu,\p mogli siª zjednoczy¨...\p
+[300bc0|ru] Aby na koÃcu,\p mogli siª zjednoczy¨...\p
 
 [100acf|en] \r
 [100acf|ru] \r
