@@ -1,605 +1,605 @@
-SCR 1 Shift-JIS
+SCR 1 UTF-8
 201
 
 [00000d|en] ...\p...\p...\p...\p\e
-[00000d|ru] ...\p...\p...\p...\p\e
+[00000d|ru] ...\p...\p\e
 
 [000012|en] ...\p...\pwell,\p I kinda saw this coming.\e
-[000012|ru] ...\p...\pwell,\p I kinda saw this coming.\e
+[000012|ru] ...\pCï½«ï½¯,\p w pewnym sensie przewidywaï½©em,\p\nï½¯e to nadejdzie.\e
 
 [000017|en] ...\p...\p...\p...\p\e
-[000017|ru] ...\p...\p...\p...\p\e
+[000017|ru] ...\p...\p\e
 
-[00001c|en] yMikizu...\p...\phauu!v\e
-[00001c|ru] yMikizu...\p...\phauu!v\e
+[00001c|en] ã€Mikiã€‘ã€Œ...\p...\phauu!ã€\e
+[00001c|ru] ã€Mikiã€‘ã€Œ...\pAugh!ã€\e
 
 [00001d|en] ...\p...\pbecause I'm here,\p she can't hit anything.\e
-[00001d|ru] ...\p...\pbecause I'm here,\p she can't hit anything.\e
+[00001d|ru] ...\pZ powodu mojeje obecnoï¾›ci,\p nie jest ona w\p\nstanie w cokolwiek trafiï½¨.\e
 
 [00002a|en] ...\p...\p...\p...\p\e
-[00002a|ru] ...\p...\p...\p...\p\e
+[00002a|ru] ...\p...\p\e
 
-[00002f|en] yMikizu...\p...\phauuu!v\e
-[00002f|ru] yMikizu...\p...\phauuu!v\e
+[00002f|en] ã€Mikiã€‘ã€Œ...\p...\phauuu!ã€\e
+[00002f|ru] ã€Mikiã€‘ã€Œ...\pAugh!ã€\e
 
 [000030|en] I can't believe her accuracy rate plummeted like that.\e
-[000030|ru] I can't believe her accuracy rate plummeted like that.\e
+[000030|ru] Nie mogï½ª uwierzyï½¨,\p jak wielkï½§ rï½«ï½¯nicï½ª robi to dla\p\njej dokï½©adnoï¾›ci.\e
 
-[000031|en] yTakeruzuOkaaay,\p that's enough.v\e
-[000031|ru] yTakeruzuOkaaay,\p that's enough.v\e
+[000031|en] ã€Takeruã€‘ã€ŒOkaaay,\p that's enough.ã€\e
+[000031|ru] ã€Takeruã€‘ã€ŒOkeeej,\p wystarczy tego.ã€\e
 
-[000036|en] yMikizu...\p...\pI can't do this.v\e
-[000036|ru] yMikizu...\p...\pI can't do this.v\e
+[000036|en] ã€Mikiã€‘ã€Œ...\p...\pI can't do this.ã€\e
+[000036|ru] ã€Mikiã€‘ã€Œ...\pWiedziaï½©am,\p ï½¯e nie bï½ªdï½ª w stanie tego\p\nzrobiï½¨.ã€\e
 
-[000037|en] yTakeruzu...\p...\pcome on,\p Tama.\n We've only just started.v\e
-[000037|ru] yTakeruzu...\p...\pcome on,\p Tama.\n We've only just started.v\e
+[000037|en] ã€Takeruã€‘ã€Œ...\p...\pcome on,\p Tama.\n We've only just started.ã€\e
+[000037|ru] ã€Takeruã€‘ã€Œ...\pNo weï¾œ,\p Tamo.\p Dopiero co zaczï½ªliï¾›my.ã€\e
 
-[000039|en] yMikizuBut...\p...v\e
-[000039|ru] yMikizuBut...\p...v\e
+[000039|en] ã€Mikiã€‘ã€ŒBut...\p...ã€\e
+[000039|ru] ã€Mikiã€‘ã€ŒAle...ã€\e
 
-[00003a|en] yTakeruzuDidn't you get second or third place in the last\ntournament, even though everyone was watching you?\nWhy can't you hit anything now?v\e
-[00003a|ru] yTakeruzuDidn't you get second or third place in the last\ntournament, even though everyone was watching you?\nWhy can't you hit anything now?v\e
+[00003a|en] ã€Takeruã€‘ã€ŒDidn't you get second or third place in the last\ntournament, even though everyone was watching you?\nWhy can't you hit anything now?ã€\e
+[00003a|ru] ã€Takeruã€‘ã€ŒCzy w ostatnim turnieju nie zajï½ªï½©aï¾› drugiego lub\p\btrzeciego miejsca,\p mimo ï½¯e wszyscy ciï½ª obserwowali?\p\nDlaczego teraz nie moï½¯esz w nic trafiï½¨?ã€\e
 
-[00003c|en] yMikizuWhy indeed...\p...?v\e
-[00003c|ru] yMikizuWhy indeed...\p...?v\e
+[00003c|en] ã€Mikiã€‘ã€ŒWhy indeed...\p...?ã€\e
+[00003c|ru] ã€Mikiã€‘ã€ŒW sumie prawda,\p jaki jest tego powï½«d...?ã€\e
 
 [00003d|en] Hey now...\p...\p\e
-[00003d|ru] Hey now...\p...\p\e
+[00003d|ru] Dlaczego to ty mnie o to pytasz...?\p\e
 
-[00003e|en] yTakeruzuYou don't stand a chance if you can't even hit\nthe target.v\e
-[00003e|ru] yTakeruzuYou don't stand a chance if you can't even hit\nthe target.v\e
+[00003e|en] ã€Takeruã€‘ã€ŒYou don't stand a chance if you can't even hit\nthe target.ã€\e
+[00003e|ru] ã€Takeruã€‘ã€ŒNie masz szans,\p jeï¾›li nawet nie trafisz w cel.ã€\e
 
-[000040|en] yMikizuUuuu...\p...\p...\pyou're right.v\e
-[000040|ru] yMikizuUuuu...\p...\p...\pyou're right.v\e
+[000040|en] ã€Mikiã€‘ã€ŒUuuu...\p...\p...\pyou're right.ã€\e
+[000040|ru] ã€Mikiã€‘ã€ŒUrgh...\p Masz racje.ã€\e
 
-[000041|en] yTakeruzuWhat? Is it because I'm the one watching you?v\e
-[000041|ru] yTakeruzuWhat? Is it because I'm the one watching you?v\e
+[000041|en] ã€Takeruã€‘ã€ŒWhat? Is it because I'm the one watching you?ã€\e
+[000041|ru] ã€Takeruã€‘ã€ŒO co ci chodzi?\p\nCzy naprawdï½ª dzieje siï½ª tak tylko dlatego,\p ï½¯e jesteï¾›obserwowana?ã€\e
 
-[000043|en] yMikizuFor some reason,\p whenever I think,\p "Aaah, he's\nwatching me..."\p my mind just goes blank...\p...v\e
-[000043|ru] yMikizuFor some reason,\p whenever I think,\p "Aaah, he's\nwatching me..."\p my mind just goes blank...\p...v\e
+[000043|en] ã€Mikiã€‘ã€ŒFor some reason,\p whenever I think,\p "Aaah, he's\nwatching me..."\p my mind just goes blank...\p...ã€\e
+[000043|ru] ã€Mikiã€‘ã€ŒChodzi o to,\p ï½¯e... gdy tylko pomyï¾›lï½ª:\p\n"O rany,\p ktoï¾› mnie obserwuje".\p\nWtedy mï½«j umysï½© po prostu robi siï½ª pusty...ã€\e
 
-[000044|en] yTakeruzuWell,\p that's exactly what it looks like...\p...\pokay,\p I\nget it.v\e
-[000044|ru] yTakeruzuWell,\p that's exactly what it looks like...\p...\pokay,\p I\nget it.v\e
+[000044|en] ã€Takeruã€‘ã€ŒWell,\p that's exactly what it looks like...\p...\pokay,\p I\nget it.ã€\e
+[000044|ru] ã€Takeruã€‘ã€ŒTak, myï¾›lï½ª,\p ï½¯e to pokrywa siï½ª z tym,\p\nco powiedziaï½©aï¾› mi ostatnim razem...\p\nW porzï½§dku,\p myï¾›lï½ª,\p ï½¯e mam plan.ã€\e
 
-[000046|en] yMikizuEh?v\e
-[000046|ru] yMikizuEh?v\e
+[000046|en] ã€Mikiã€‘ã€ŒEh?ã€\e
+[000046|ru] ã€Mikiã€‘ã€ŒHuh?ã€\e
 
-[000047|en] yTakeruzuAnyway,\p we need to do something about that!\nGotta stop you from blanking out whenever I watch.v\e
-[000047|ru] yTakeruzuAnyway,\p we need to do something about that!\nGotta stop you from blanking out whenever I watch.v\e
+[000047|en] ã€Takeruã€‘ã€ŒAnyway,\p we need to do something about that!\nGotta stop you from blanking out whenever I watch.ã€\e
+[000047|ru] ã€Takeruã€‘ã€ŒPrzede wszystkim musimy znaleï¾œï½¨ na to lekarstwo!\p\nMuszï½ª ciï½ªpowtrzymaï½¨ przed wariowaniem,\p gdy ludzie patrzï½§.ã€\e
 
-[000049|en] yMikizuWhat're you gonna do?v\e
-[000049|ru] yMikizuWhat're you gonna do?v\e
+[000049|en] ã€Mikiã€‘ã€ŒWhat're you gonna do?ã€\e
+[000049|ru] ã€Mikiã€‘ã€ŒCo zamierzasz zrobiï½¨?ã€\e
 
-[00004c|en] „Ÿ„ŸHuhuhuhuhuhu.\e
-[00004c|ru] „Ÿ„ŸHuhuhuhuhuhu.\e
+[00004c|en] â”€â”€Huhuhuhuhuhu.\e
+[00004c|ru] â”€â”€Huhuhuhuhuhu.\e
 
 [00004f|en] Looks like I finally have a chance to use this thing.\e
-[00004f|ru] Looks like I finally have a chance to use this thing.\e
+[00004f|ru] Wyglï½§da na to,\p ï½¯e w koï¾ƒcu mam szansï½ª,\p\naby wykorzystaï½¨ trzecz.\e
 
-[000051|en] yMikizu„Ÿ„ŸEh?\p\p Takeru-san,\p what's wrong?v\e
-[000051|ru] yMikizu„Ÿ„ŸEh?\p\p Takeru-san,\p what's wrong?v\e
+[000051|en] ã€Mikiã€‘ã€Œâ”€â”€Eh?\p\p Takeru-san,\p what's wrong?ã€\e
+[000051|ru] ã€Mikiã€‘ã€Œâ”€â”€Eh?\p\p Takeru-san,\p co siï½ª dzieje?ã€\e
 
-[000053|en] yTakeruzu„Ÿ„ŸTamaaa!!v\e
-[000053|ru] yTakeruzu„Ÿ„ŸTamaaa!!v\e
+[000053|en] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
+[000053|ru] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
 
-[000056|en] yMikizu„Ÿ„ŸY-\pyes!?v\e
-[000056|ru] yMikizu„Ÿ„ŸY-\pyes!?v\e
+[000056|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes!?ã€\e
+[000056|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\ptak!?ã€\e
 
-[000057|en] yTakeruzuI am not Takeru-san!\n„Ÿ„ŸI am Sensei!v\e
-[000057|ru] yTakeruzuI am not Takeru-san!\n„Ÿ„ŸI am Sensei!v\e
+[000057|en] ã€Takeruã€‘ã€ŒI am not Takeru-san!\nâ”€â”€I am Sensei!ã€\e
+[000057|ru] ã€Takeruã€‘ã€ŒNie jestem Takeru-san!\nâ”€â”€Jestem twoim Sensei!ã€\e
 
-[000059|en] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e
-[000059|ru] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e
+[000059|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes, Sensei!\p Forgive my ignorance!ã€\e
+[000059|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\ptak, Sensei!\p Wybacz mi mojï½§ ignoracje!ã€\e
 
-[00005a|en] yTakeruzu„Ÿ„ŸMm,\p fine, as long as you understand.\nBy the way...\p...\poh Tama,\p doth thou know what this is?v\e
-[00005a|ru] yTakeruzu„Ÿ„ŸMm,\p fine, as long as you understand.\nBy the way...\p...\poh Tama,\p doth thou know what this is?v\e
+[00005a|en] ã€Takeruã€‘ã€Œâ”€â”€Mm,\p fine, as long as you understand.\nBy the way...\p...\poh Tama,\p doth thou know what this is?ã€\e
+[00005a|ru] ã€Takeruã€‘ã€Œâ”€â”€Tak,\p bardzo dobrze. Pod warunkiem, ï½¯e rozumiesz.\p\nSwojï½§drogï½§...\p Tama, moje dziecko - czy wiesz, co to jest?ã€\e
 
 [00005b|en] I slowly pull 'it' out from my pocket.\e
-[00005b|ru] I slowly pull 'it' out from my pocket.\e
+[00005b|ru] Powoli wyciï½§gam "to" z kieszeni.\e
 
-[00005f|en] „Ÿ„ŸA Kinnikuman eraser!\e 
-[00005f|ru] „Ÿ„ŸA Kinnikuman eraser!\e 
+[00005f|en] â”€â”€A Kinnikuman eraser!\e 
+[00005f|ru] â”€â”€Najlepsza gumka brukselka!\e 
 
 [000060|en] A small flesh tone eraser that will never actually erase\nanything deformed into a human shape!\nThe character for 'meat' shines solemnly from its\nforehead.\e 
-[000060|ru] A small flesh tone eraser that will never actually erase\nanything deformed into a human shape!\nThe character for 'meat' shines solemnly from its\nforehead.\e 
+[000060|ru] Ta maï½©a zielona gumka w ksztaï½©cie postaci kreskï½«wki,\p\nwypeï½©niona zabï½«jczï½§ wartoï¾›ciï½§ odï½¯ywczï½§. Nawiasem mï½«wiï½§c,\p\nnie da siï½ª z tego za cholerï½ª wymazaï½¨.\e 
 
-[000064|en] yMikizuAh,\p I know that guy! That's a fun manga!v\e
-[000064|ru] yMikizuAh,\p I know that guy! That's a fun manga!v\e
+[000064|en] ã€Mikiã€‘ã€ŒAh,\p I know that guy! That's a fun manga!ã€\e
+[000064|ru] ã€Mikiã€‘ã€ŒOch,\p znam tego koleï½¯kï½ª!\p\nTa manga jest taka zabawna!ã€\e
 
-[000065|en] yTakeruzuEh...\p...\pyou've read it?v\e
-[000065|ru] yTakeruzuEh...\p...\pyou've read it?v\e
+[000065|en] ã€Takeruã€‘ã€ŒEh...\p...\pyou've read it?ã€\e
+[000065|ru] ã€Takeruã€‘ã€ŒCo...?\p\nCzytaï½©aï¾› to?ã€\e
 
-[000067|en] yMikizuYeah!\p That's from the sequel,\p right?v\e 
-[000067|ru] yMikizuYeah!\p That's from the sequel,\p right?v\e 
+[000067|en] ã€Mikiã€‘ã€ŒYeah!\p That's from the sequel,\p right?ã€\e 
+[000067|ru] ã€Mikiã€‘ã€ŒTak!\p Pochodzi ona z kontynuacji,\p prawda?ã€\e 
 
-[000069|en] yTakeruzuUnfortunately, this is Pachimon, he's not from\nthe sequel of anything.v\e
-[000069|ru] yTakeruzuUnfortunately, this is Pachimon, he's not from\nthe sequel of anything.v\e
+[000069|en] ã€Takeruã€‘ã€ŒUnfortunately, this is Pachimon, he's not from\nthe sequel of anything.ã€\e
+[000069|ru] ã€Takeruã€‘ã€ŒNie, ten koleï½¯ka nie jest od niczego.\p\nTo jedna z tych tanich, zbieranych gumek,\p ktï½«re po prostu\p\nszturcha siï½ª na koncu oï½©ï½«wka.ã€\e
 
-[00006b|en] yMikizuPachimon?\p\p I've seen that on TV too...\p...\pv\e
-[00006b|ru] yMikizuPachimon?\p\p I've seen that on TV too...\p...\pv\e
+[00006b|en] ã€Mikiã€‘ã€ŒPachimon?\p\p I've seen that on TV too...\p...\pã€\e
+[00006b|ru] ã€Mikiã€‘ã€ŒSzturcha?\p\p Hmm, wydaje mi siï½ª,\p ï½¯e to\p\nteï½¯ juï½¯ widziaï½©am...\pã€\e
 
-[00006d|en] yTakeruzuOkaaay,\p but for now, do not speak such\ndangerous words!v\e
-[00006d|ru] yTakeruzuOkaaay,\p but for now, do not speak such\ndangerous words!v\e
+[00006d|en] ã€Takeruã€‘ã€ŒOkaaay,\p but for now, do not speak such\ndangerous words!ã€\e
+[00006d|ru] ã€Takeruã€‘ã€ŒOkej,\p nie kuï¾›my naszego szczï½ªï¾›cia z\p\nprawami autorskimi! Zachowaj to dla siebie!ã€\e
 
-[00006f|en] yMikizuYes,\p Sensei.v\e
-[00006f|ru] yMikizuYes,\p Sensei.v\e
+[00006f|en] ã€Mikiã€‘ã€ŒYes,\p Sensei.ã€\e
+[00006f|ru] ã€Mikiã€‘ã€ŒTak jest,\p Sensei.ã€\e
 
-[000070|en] yTakeruzuIt appears that you cannot show your true\nstrength before mine eyes.\p\nSo first, I shall have you conquer this.v\e
-[000070|ru] yTakeruzuIt appears that you cannot show your true\nstrength before mine eyes.\p\nSo first, I shall have you conquer this.v\e
+[000070|en] ã€Takeruã€‘ã€ŒIt appears that you cannot show your true\nstrength before mine eyes.\p\nSo first, I shall have you conquer this.ã€\e
+[000070|ru] ã€Takeruã€‘ã€ŒWyglï½§da na to,\p ï½¯e jesteï¾› zbyt zdenerwowana\p\ni nie moï½¯esz pokazaï½¨ przede mnï½§ swojej prawdziwej siï½©y.\p\nNajpierw pomogï½ª ci podjï½§ï½¨ to wyzwanie.ã€\e
 
-[000072|en] yMikizuTakeru-san,\p you're talking weird.v\e
-[000072|ru] yMikizuTakeru-san,\p you're talking weird.v\e
+[000072|en] ã€Mikiã€‘ã€ŒTakeru-san,\p you're talking weird.ã€\e
+[000072|ru] ã€Mikiã€‘ã€ŒTakeru-san,\p zaczï½§ï½©eï¾› dziwnie mï½«wiï½¨.ã€\e
 
-[000074|en] yTakeruzu„Ÿ„ŸTamaaa!!v\e
-[000074|ru] yTakeruzu„Ÿ„ŸTamaaa!!v\e
+[000074|en] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
+[000074|ru] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
 
-[000077|en] yMikizu„Ÿ„ŸY-\pyes!v\e
-[000077|ru] yMikizu„Ÿ„ŸY-\pyes!v\e
+[000077|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes!ã€\e
+[000077|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\ptak!ã€\e
 
-[000078|en] yTakeruzuI am not Takeru-san!\n„Ÿ„ŸI am Sensei!v\e 
-[000078|ru] yTakeruzuI am not Takeru-san!\n„Ÿ„ŸI am Sensei!v\e 
+[000078|en] ã€Takeruã€‘ã€ŒI am not Takeru-san!\nâ”€â”€I am Sensei!ã€\e 
+[000078|ru] ã€Takeruã€‘ã€ŒNie jestem Takeru-san!\nâ”€â”€Jestem twoim Sensei!ã€\e 
 
-[00007a|en] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e
-[00007a|ru] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e
+[00007a|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes, Sensei!\p Forgive my ignorance!ã€\e
+[00007a|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\pTak, Sensei!\p Wybacz mi mojï½§ ignorancje!ã€\e
 
-[00007b|en] yTakeruzu„Ÿ„ŸMm,\p as long as you understand.v\e
-[00007b|ru] yTakeruzu„Ÿ„ŸMm,\p as long as you understand.v\e
+[00007b|en] ã€Takeruã€‘ã€Œâ”€â”€Mm,\p as long as you understand.ã€\e
+[00007b|ru] ã€Takeruã€‘ã€Œâ”€â”€Bardzo dobrze.\p\nPod warnkiem,\p ï½¯e odrobiï½©aï¾› lekcjï½ª.ã€\e
 
-[00007d|en] yMikizuUuuuu...\p...\p...\p...\pbut Sensei,\p you're talking weird...\p...v\e
-[00007d|ru] yMikizuUuuuu...\p...\p...\p...\pbut Sensei,\p you're talking weird...\p...v\e
+[00007d|en] ã€Mikiã€‘ã€ŒUuuuu...\p...\p...\p...\pbut Sensei,\p you're talking weird...\p...ã€\e
+[00007d|ru] ã€Mikiã€‘ã€ŒUuuuu...\p...\pAle Sensei,\p trochï½ª dziwnie mï½«wisz...ã€\e
 
-[00007f|en] yTakeruzu„Ÿ„ŸYou foooool!!v\e
-[00007f|ru] yTakeruzu„Ÿ„ŸYou foooool!!v\e
+[00007f|en] ã€Takeruã€‘ã€Œâ”€â”€You foooool!!ã€\e
+[00007f|ru] ã€Takeruã€‘ã€Œâ”€â”€Gï½©upolu!!ã€\e
 
-[000082|en] yMikizu„Ÿ„ŸY-\pyes!v\e
-[000082|ru] yMikizu„Ÿ„ŸY-\pyes!v\e
+[000082|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes!ã€\e
+[000082|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\ptak!ã€\e
 
-[000083|en] yTakeruzuIt is important for people to maintain the\nproper character for their role!\n„Ÿ„ŸTechnique and mentality come later!v\e
-[000083|ru] yTakeruzuIt is important for people to maintain the\nproper character for their role!\n„Ÿ„ŸTechnique and mentality come later!v\e
+[000083|en] ã€Takeruã€‘ã€ŒIt is important for people to maintain the\nproper character for their role!\nâ”€â”€Technique and mentality come later!ã€\e
+[000083|ru] ã€Takeruã€‘ã€ŒNiezwykle waï½¯ne jest, aby okreï¾›liï½¨ osobowoï¾›ï½¨\p\ndanej roli! Technika i mentalnoï¾›ï½¨ przyjdï½§ pï½«ï¾œniej!ã€\e
 
-[000085|en] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e 
-[000085|ru] yMikizu„Ÿ„ŸY-\pyes, Sensei!\p Forgive my ignorance!v\e 
+[000085|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes, Sensei!\p Forgive my ignorance!ã€\e 
+[000085|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\pTak, Sensei!\p Wybacz mi mojï½§ ignorancje!ã€\e 
 
-[000086|en] yTakeruzuMm,\p so, start practicing with this thing\nwatching you.\p As you improve, I will gradually increase\nthe difficulty of the peanut gallery.v\e 
-[000086|ru] yTakeruzuMm,\p so, start practicing with this thing\nwatching you.\p As you improve, I will gradually increase\nthe difficulty of the peanut gallery.v\e 
+[000086|en] ã€Takeruã€‘ã€ŒMm,\p so, start practicing with this thing\nwatching you.\p As you improve, I will gradually increase\nthe difficulty of the peanut gallery.ã€\e 
+[000086|ru] ã€Takeruã€‘ã€ŒBardzo dobrze.\p Na razie zacznij ï½¨wiczyï½¨ z tï½§\p\n gumï½§, ktï½«ra bï½ªdzie ciï½ª obserwowaï½¨. W miarï½ª postï½ªpï½«w\p\nbï½ªdï½ª stopniowo zwiï½ªkszaï½¨ poziom trudnoï¾›ci i nastï½ªpnie\p\nuï½¯yjemy galerii orzeszkï½«w ziemnych.ã€\e 
 
-[000088|en] yMikizuYes,\p Sensei.v\e
-[000088|ru] yMikizuYes,\p Sensei.v\e
+[000088|en] ã€Mikiã€‘ã€ŒYes,\p Sensei.ã€\e
+[000088|ru] ã€Mikiã€‘ã€ŒTak jest,\p Sensei.ã€\e
 
-[000089|en] yTakeruzuThen I shall be off.\nI'll pop in every so often to see how you're doing.v\e
-[000089|ru] yTakeruzuThen I shall be off.\nI'll pop in every so often to see how you're doing.v\e
+[000089|en] ã€Takeruã€‘ã€ŒThen I shall be off.\nI'll pop in every so often to see how you're doing.ã€\e
+[000089|ru] ã€Takeruã€‘ã€ŒNo to ja pï½«jdï½ª sobie.\p\nBï½ªdï½ª jednak wpadaï½¨ tu co jakiï¾› czas, ï½¯eby sprawdziï½¨,\p\nco u ciebie.ã€\e
 
-[00008b|en] yMikizuI'll do my best`!v\e
-[00008b|ru] yMikizuI'll do my best`!v\e
+[00008b|en] ã€Mikiã€‘ã€ŒI'll do my bestï½!ã€\e
+[00008b|ru] ã€Mikiã€‘ã€ŒDam z siebie wszystkoï½!ã€\e
 
 [00008e|en] ...\p...\pof course...\p...\pI'll be peeking on her the entire time.\e
-[00008e|ru] ...\p...\pof course...\p...\pI'll be peeking on her the entire time.\e
+[00008e|ru] ...\pOczywiï¾›cie...\p Wï½©aï¾›ciwie to bï½ªdï½ªja podglï½§daï½¨\p\nprzez caï½©y czas.\e
 
 [000094|en] ...\p...\p\e
-[000094|ru] ...\p...\p\e
+[000094|ru] ...\p\e
 
 [000095|en] ...\p...\p...\p...\p\e
-[000095|ru] ...\p...\p...\p...\p\e
+[000095|ru] ...\p...\p\e
 
 [0000a2|en] ...\p...\p...\p...\p\e
-[0000a2|ru] ...\p...\p...\p...\p\e
+[0000a2|ru] ...\p...\p\e
 
 [0000a7|en] ...\p...\poooh,\p she's doing it, she's doing it.\e
-[0000a7|ru] ...\p...\poooh,\p she's doing it, she's doing it.\e
+[0000a7|ru] ...\W porzï½§dku. Trafia w sam ï¾›rodeczek.\p\nJest dokï½©adnie tak, jak myï¾›laï½©em.\e
 
 [0000b2|en] ...\p...\p...\p...\p\e
-[0000b2|ru] ...\p...\p...\p...\p\e
+[0000b2|ru] ...\p...\p\e
 
 [0000b7|en] ...\p...\poooh,\p she's doing it, she's doing it.\e
-[0000b7|ru] ...\p...\poooh,\p she's doing it, she's doing it.\e
+[0000b7|ru] ...\pTak,\p ona to robi,\p ona to robi.\e
 
 [0000b8|en] What the heck,\p this is no problem at all.\e
-[0000b8|ru] What the heck,\p this is no problem at all.\e
+[0000b8|ru] Co to ma byï½¨?\p\nW tym momencie nie ma u niej ï½¯adnych problemï½«w.\e
 
 [0000b9|en] ...\p...\pwell, it is only an eraser.\e
-[0000b9|ru] ...\p...\pwell, it is only an eraser.\e
+[0000b9|ru] ...\pCï½«ï½¯,\p jakby nie patrzeï½¨,\p to tylko gumka.\e
 
-[0000bc|en] yMikizu...\p...\p...\p...\pv\e
-[0000bc|ru] yMikizu...\p...\p...\p...\pv\e
+[0000bc|en] ã€Mikiã€‘ã€Œ...\p...\p...\p...\pã€\e
+[0000bc|ru] ã€Mikiã€‘ã€Œ...\p...\pã€\e
 
 [0000bd|en] ...\p...\phm?\e
-[0000bd|ru] ...\p...\phm?\e
+[0000bd|ru] ...\p...\pHm?\e
 
 [0000be|en] ...\p...\p...\p...\pshe's glancing at it for some reason.\e
-[0000be|ru] ...\p...\p...\p...\pshe's glancing at it for some reason.\e
+[0000be|ru] ...\p...\pZ jakiegoï¾› powodu zaczï½ªï½©a siï½ª na niï½§ gapiï½¨.\e
 
 [0000bf|en] And her legs are wobbling...\p...\p...\p...\p\e
-[0000bf|ru] And her legs are wobbling...\p...\p...\p...\p\e
+[0000bf|ru] Wyglï½§da rï½«wnieï½¯,\p jakby zaczï½ªï½©a siï½ª denerwowaï½¨...\p...\p\e
 
-[0000c0|en] yMikizuH-\phey...\p...\p...\p...\pwhy are you staring at me like that?v\e
-[0000c0|ru] yMikizuH-\phey...\p...\p...\p...\pwhy are you staring at me like that?v\e
+[0000c0|en] ã€Mikiã€‘ã€ŒH-\phey...\p...\p...\p...\pwhy are you staring at me like that?ã€\e
+[0000c0|ru] ã€Mikiã€‘ã€ŒH-\phej...\p...\p\nDlaczego siï½ªtak na mnie gapisz?ã€\e
 
 [0000c2|en] Don't let the eraser psyche you out!!!\e
-[0000c2|ru] Don't let the eraser psyche you out!!!\e
+[0000c2|ru] Nie pozwï½«l, aby gumka ciï½ª wytrï½§ciï½©a z rï½«wnowagi!!!\e
 
 [0000cd|en] ...\p...\p...\p...\p\e
-[0000cd|ru] ...\p...\p...\p...\p\e
+[0000cd|ru] ...\p...\p\e
 
 [0000d2|en] ...\p...\pbullseye. G-\pguess there was no need to\nworry...\p...\pyeah,\p I need to believe in her more.\e
-[0000d2|ru] ...\p...\pbullseye. G-\pguess there was no need to\nworry...\p...\pyeah,\p I need to believe in her more.\e
+[0000d2|ru] ...\pW ï¾›rodek tarczy.\p\nChyba nie byï½©o powodu do zmartwieï¾ƒ...\p\nTak,\p muszï½ª w niï½§bardziej wierzyï½¨.\e
 
 [0000d3|en] Keep it up, Tama.\e
-[0000d3|ru] Keep it up, Tama.\e
+[0000d3|ru] Tak trzymaj, Tama.\e
 
-[0000d7|en] yMikizuHey, hey,\p what's taking Takeru-san so long?v\e
-[0000d7|ru] yMikizuHey, hey,\p what's taking Takeru-san so long?v\e
+[0000d7|en] ã€Mikiã€‘ã€ŒHey, hey,\p what's taking Takeru-san so long?ã€\e
+[0000d7|ru] ã€Mikiã€‘ã€ŒHej,\p co tak duï½¯o czasu zajmuje Takeru-san??ã€\e
 
 [0000d8|en] Oh? You two really are getting along...\p...\p\e
-[0000d8|ru] Oh? You two really are getting along...\p...\p\e
+[0000d8|ru] Oh? Jaka miï½©a, harmonijna atmosfera siï½ª zrobiï½©a...\p\e
 
-[0000d9|en] yMikizuHey,\p when he said you were Pachimon, but not\nfrom the sequel,\p what did he mean?v\e
-[0000d9|ru] yMikizuHey,\p when he said you were Pachimon, but not\nfrom the sequel,\p what did he mean?v\e
+[0000d9|en] ã€Mikiã€‘ã€ŒHey,\p when he said you were Pachimon, but not\nfrom the sequel,\p what did he mean?ã€\e
+[0000d9|ru] ã€Mikiã€‘ã€ŒHej,\p wiï½ªc...\p\nTy naprawdï½ª mnie zaczepiasz?\p\nNaprawdï½ª tego nie rozuiem.ã€\e
 
 [0000da|en] Talk to him too much and people will think you're\npsycho.\e
-[0000da|ru] Talk to him too much and people will think you're\npsycho.\e
+[0000da|ru] Nie rozmawiaj za duï½¯o z tï½§ gumkï½§.\p\nLudzie mogï½ª pomyï¾›leï½¨,\p ï½¯e masz jakieï¾› problemy.\e
 
 [0000de|en] ...\p...\p...\p...\p\e
-[0000de|ru] ...\p...\p...\p...\p\e
+[0000de|ru] ...\p...\p\e
 
 [0000e5|en] Okay!\e
-[0000e5|ru] Okay!\e
+[0000e5|ru] Okej!\e
 
 [0000ea|en] ...\p...\p...\p...\p\e
-[0000ea|ru] ...\p...\p...\p...\p\e
+[0000ea|ru] ...\p...\p\e
 
 [0000ef|en] Yeah,\p she's completely mastered Kinnikuman.\e
-[0000ef|ru] Yeah,\p she's completely mastered Kinnikuman.\e
+[0000ef|ru] Tak,\p wyglï½§da na to,\p ï½¯e caï½©kowicie opanowaï½©a\p\nostatecznï½§ gumkï½ª Brukselke.\e
 
-[0000f5|en] yTakeruzuHeeey,\p Tamaaa! I am soooooo sorry for being\nlate!v\e
-[0000f5|ru] yTakeruzuHeeey,\p Tamaaa! I am soooooo sorry for being\nlate!v\e
+[0000f5|en] ã€Takeruã€‘ã€ŒHeeey,\p Tamaaa! I am soooooo sorry for being\nlate!ã€\e
+[0000f5|ru] ã€Takeruã€‘ã€ŒWitaj,\p Tamo! Bardzo przepraszam za spï½«ï¾œnienie!ã€\e
 
-[000102|en] yMikizuAh,\p Takeru-san!\p\p\p Ah!\p Just now,\p Just now I„Ÿ!v\e
-[000102|ru] yMikizuAh,\p Takeru-san!\p\p\p Ah!\p Just now,\p Just now I„Ÿ!v\e
+[000102|en] ã€Mikiã€‘ã€ŒAh,\p Takeru-san!\p\p\p Ah!\p Just now,\p Just now Iâ”€!ã€\e
+[000102|ru] ã€Mikiã€‘ã€ŒOch,\p Takeru-san!\p\p\p\nAch!\p powinieneï¾› to zobaczyï½¨,\p mi po prostuâ”€!ã€\e
 
-[000105|en] yTakeruzuYeah,\p I saw it.\nYou really can do this if you try hard enough!v\e
-[000105|ru] yTakeruzuYeah,\p I saw it.\nYou really can do this if you try hard enough!v\e
+[000105|en] ã€Takeruã€‘ã€ŒYeah,\p I saw it.\nYou really can do this if you try hard enough!ã€\e
+[000105|ru] ã€Takeruã€‘ã€ŒWiem o tym. Widziaï½©em to. Widziaï½©em!\p\nNaprawdï½ª jak tylko chcesz, to potrafisz!ã€\e
 
-[000107|en] yMikizuAhahaha...\p...\p...\pbut that's just a tiny little eraser.v\e
-[000107|ru] yMikizuAhahaha...\p...\p...\pbut that's just a tiny little eraser.v\e
+[000107|en] ã€Mikiã€‘ã€ŒAhahaha...\p...\p...\pbut that's just a tiny little eraser.ã€\e
+[000107|ru] ã€Mikiã€‘ã€ŒAhahaha...\p\nAle to tylko gumka,\p wiï½ªc oczywiï¾›cie,\p ï½¯e byï½©o w porzï½§dku.ã€\e
 
-[000108|en] yTakeruzuNow you've said it.v\e
-[000108|ru] yTakeruzuNow you've said it.v\e
+[000108|en] ã€Takeruã€‘ã€ŒNow you've said it.ã€\e
+[000108|ru] ã€Takeruã€‘ã€ŒOch? Dobrze wiï½ªc. W takim razie...ã€\e
 
-[00010a|en] yMikizuEh?\p Eh?v\e
-[00010a|ru] yMikizuEh?\p Eh?v\e
+[00010a|en] ã€Mikiã€‘ã€ŒEh?\p Eh?ã€\e
+[00010a|ru] ã€Mikiã€‘ã€ŒHuh?\p Huh?ã€\e
 
-[00010b|en] yTakeruzuThen I shall make your peanut gallery evolve!v\e 
-[00010b|ru] yTakeruzuThen I shall make your peanut gallery evolve!v\e 
+[00010b|en] ã€Takeruã€‘ã€ŒThen I shall make your peanut gallery evolve!ã€\e 
+[00010b|ru] ã€Takeruã€‘ã€ŒPodbijmy stawkï½ª dziï½ªki pomocy wiï½ªkszej iloï¾›ci\p\norzeszkï½«w ziemnych!ã€\e 
 
-[00010d|en] yMikizuEeeeeeeeeh!?v\e
-[00010d|ru] yMikizuEeeeeeeeeh!?v\e
+[00010d|en] ã€Mikiã€‘ã€ŒEeeeeeeeeh!?ã€\e
+[00010d|ru] ã€Mikiã€‘ã€Œï¾‚e jak!?ã€\e
 
-[00010e|en] yTakeruzuStarting tomorrow,\p I'll be bringing friends with\nmore impact than this wimpy eraser.\p Prepare yourself!v\e
-[00010e|ru] yTakeruzuStarting tomorrow,\p I'll be bringing friends with\nmore impact than this wimpy eraser.\p Prepare yourself!v\e
+[00010e|en] ã€Takeruã€‘ã€ŒStarting tomorrow,\p I'll be bringing friends with\nmore impact than this wimpy eraser.\p Prepare yourself!ã€\e
+[00010e|ru] ã€Takeruã€‘ã€ŒOd jutra bï½ªdï½ª przyprowadzaï½¨znajomych, ktï½«rzy majï½§\p\no wiele wiï½ªkszï½§ wartoï¾› niï½¯ ta malutka gumeczka.\p\nPrzygotuj siï½ª na to!ã€\e
 
-[000110|en] yMikizuI-\pI wonder if I can handle that...\p...v\e
-[000110|ru] yMikizuI-\pI wonder if I can handle that...\p...v\e
+[000110|en] ã€Mikiã€‘ã€ŒI-\pI wonder if I can handle that...\p...ã€\e
+[000110|ru] ã€Mikiã€‘ã€ŒZ-\pzastanawiam siï½ª czy dam sobie radï½ª...ã€\e
 
-[000111|en] yTakeruzuThe point of this training is to get you used to\nhandling what you can't handle now.v\e
-[000111|ru] yTakeruzuThe point of this training is to get you used to\nhandling what you can't handle now.v\e
+[000111|en] ã€Takeruã€‘ã€ŒThe point of this training is to get you used to\nhandling what you can't handle now.ã€\e
+[000111|ru] ã€Takeruã€‘ã€ŒCelem tego szkolenia jest przyzwyczajenie ciï½ª do\p\nradzenia soibe z tym,\p z czym nie moï½¯esz sobie teraz\p\nporadziï½¨.ã€\e
 
-[000113|en] yMikizuI guess that's true...\p...\pv\e
-[000113|ru] yMikizuI guess that's true...\p...\pv\e
+[000113|en] ã€Mikiã€‘ã€ŒI guess that's true...\p...\pã€\e
+[000113|ru] ã€Mikiã€‘ã€ŒChyba to prawda...\pã€\e
 
-[000114|en] yTakeruzuI have been entrusted with making you handle\nit! I shall harden my heart if need be!!v\e
-[000114|ru] yTakeruzuI have been entrusted with making you handle\nit! I shall harden my heart if need be!!v\e
+[000114|en] ã€Takeruã€‘ã€ŒI have been entrusted with making you handle\nit! I shall harden my heart if need be!!ã€\e
+[000114|ru] ã€Takeruã€‘ã€ŒPowierzono mi zadanie, abyï¾› sobie z tym poradziï½©a!\p\nJeï¾›li zajdzie taka potrzeba,\p bï½ªdï½ª bez listoï¾›ci!!ã€\e
 
-[000116|en] yMikizuTh-\pthat's scary...\p...v\e
-[000116|ru] yMikizuTh-\pthat's scary...\p...v\e
+[000116|en] ã€Mikiã€‘ã€ŒTh-\pthat's scary...\p...ã€\e
+[000116|ru] ã€Mikiã€‘ã€ŒP-\pprzeraï½¯asz mnie...ã€\e
 
-[000118|en] yTakeruzu„Ÿ„ŸTamaaa!!v\e
-[000118|ru] yTakeruzu„Ÿ„ŸTamaaa!!v\e
+[000118|en] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
+[000118|ru] ã€Takeruã€‘ã€Œâ”€â”€Tamaaa!!ã€\e
 
-[00011b|en] yMikizu„Ÿ„ŸY-\pyes!v\e
-[00011b|ru] yMikizu„Ÿ„ŸY-\pyes!v\e
+[00011b|en] ã€Mikiã€‘ã€Œâ”€â”€Y-\pyes!ã€\e
+[00011b|ru] ã€Mikiã€‘ã€Œâ”€â”€T-\ptak!ã€\e
 
-[00011c|en] yTakeruzuBe not afraid! Put some spirit into it!!v\e
-[00011c|ru] yTakeruzuBe not afraid! Put some spirit into it!!v\e
+[00011c|en] ã€Takeruã€‘ã€ŒBe not afraid! Put some spirit into it!!ã€\e
+[00011c|ru] ã€Takeruã€‘ã€ŒNie bï½«j siï½ª! Wï½©ï½«ï½¯ w to trochï½ª ducha!!ã€\e
 
-[00011e|en] yMikizuY-\pyes!\p\p Miki will do her best!v\e
-[00011e|ru] yMikizuY-\pyes!\p\p Miki will do her best!v\e
+[00011e|en] ã€Mikiã€‘ã€ŒY-\pyes!\p\p Miki will do her best!ã€\e
+[00011e|ru] ã€Mikiã€‘ã€ŒT-\ptak! Zrobiï½ª co w mojej mocy, sir!ã€\e
 
-[00011f|en] yTakeruzuOkaaay!v\e
-[00011f|ru] yTakeruzuOkaaay!v\e
+[00011f|en] ã€Takeruã€‘ã€ŒOkaaay!ã€\e
+[00011f|ru] ã€Takeruã€‘ã€ŒOkeeej!ã€\e
 
-[000121|en] ySumikazuTakeru-chaaan!\p Let's go hooome!!v\e
-[000121|ru] ySumikazuTakeru-chaaan!\p Let's go hooome!!v\e
+[000121|en] ã€Sumikaã€‘ã€ŒTakeru-chaaan!\p Let's go hooome!!ã€\e
+[000121|ru] ã€Sumikaã€‘ã€ŒTakeru-chaaan!\p Chodï¾œmy do domu!!ã€\e
 
-[000126|en] yTakeruzuOh,\p Sumika.\nOkay then,\p that is enough for today!v\e
-[000126|ru] yTakeruzuOh,\p Sumika.\nOkay then,\p that is enough for today!v\e
+[000126|en] ã€Takeruã€‘ã€ŒOh,\p Sumika.\nOkay then,\p that is enough for today!ã€\e
+[000126|ru] ã€Takeruã€‘ã€ŒOh tak, Sumika.\p\nBardzo dobrze.\p To bï½ªdzie wszystko na dziï¾›!ã€\e
 
-[000129|en] yMikizuYes!!v\e
-[000129|ru] yMikizuYes!!v\e
+[000129|en] ã€Mikiã€‘ã€ŒYes!!ã€\e
+[000129|ru] ã€Mikiã€‘ã€ŒTak jest, sir!!ã€\e
 
-[00012b|en] yMeiyazuYou seem quite enthusiastic.v\e
-[00012b|ru] yMeiyazuYou seem quite enthusiastic.v\e
+[00012b|en] ã€Meiyaã€‘ã€ŒYou seem quite enthusiastic.ã€\e
+[00012b|ru] ã€Meiyaã€‘ã€ŒWyglï½§dasz na caï½©kiem zachwyconego.ã€\e
 
-[00012e|en] yTakeruzuWell said, Meiya...\p...\phuhuhu.\p But of course!\p We\nare preparing for the biggest battle of Tama's life!v\e
-[00012e|ru] yTakeruzuWell said, Meiya...\p...\phuhuhu.\p But of course!\p We\nare preparing for the biggest battle of Tama's life!v\e
+[00012e|en] ã€Takeruã€‘ã€ŒWell said, Meiya...\p...\phuhuhu.\p But of course!\p We\nare preparing for the biggest battle of Tama's life!ã€\e
+[00012e|ru] ã€Takeruã€‘ã€ŒJakaï¾› ty spostrzegawcza, Meiyo...\p Mwahahaha.\p\nAleï½¯ Oczywiï¾›cie! Przygotowujemy siï½ª do najwiï½ªkszej bitwy Tamy w historii!\p\nSamo jej istnienie wisi na wï½©osku!ã€\e
 
-[000132|en] yMikizuY-\pyou're exaggerating...v\e
-[000132|ru] yMikizuY-\pyou're exaggerating...v\e
+[000132|en] ã€Mikiã€‘ã€ŒY-\pyou're exaggerating...ã€\e
+[000132|ru] ã€Mikiã€‘ã€ŒR-\prozdmuchujesz to niepropocjonalnie...ã€\e
 
-[000134|en] yTakeruzuNo I'm not.\p Come on,\p let's do this thing!!v\e
-[000134|ru] yTakeruzuNo I'm not.\p Come on,\p let's do this thing!!v\e
+[000134|en] ã€Takeruã€‘ã€ŒNo I'm not.\p Come on,\p let's do this thing!!ã€\e
+[000134|ru] ã€Takeruã€‘ã€ŒWczale ï½¯e nie.\p No dalej, zrï½«bmy to!!ã€\e
 
-[000136|en] yMikizuO-\poooh!v\e
-[000136|ru] yMikizuO-\poooh!v\e
+[000136|en] ã€Mikiã€‘ã€ŒO-\poooh!ã€\e
+[000136|ru] ã€Mikiã€‘ã€ŒT-\ptak jest.ã€\e
 
-[000138|en] yTakeruzuI can't hear youuu! Let's do this! Oooh!!v\e
-[000138|ru] yTakeruzuI can't hear youuu! Let's do this! Oooh!!v\e
+[000138|en] ã€Takeruã€‘ã€ŒI can't hear youuu! Let's do this! Oooh!!ã€\e
+[000138|ru] ã€Takeruã€‘ã€ŒNie sï½©yszï½ª ciï½ª! Jeszcze raz! DALEJ!!ã€\e
 
-[00013a|en] yMikizuOooh!v\e
-[00013a|ru] yMikizuOooh!v\e
+[00013a|en] ã€Mikiã€‘ã€ŒOooh!ã€\e
+[00013a|ru] ã€Mikiã€‘ã€ŒTAK JEST, TAKERU-SAN!ã€\e
 
-[00013b|en] yTakeruzuLouder! Louder than anything those three\nidiots can do! And idiotically!!v\e
-[00013b|ru] yTakeruzuLouder! Louder than anything those three\nidiots can do! And idiotically!!v\e
+[00013b|en] ã€Takeruã€‘ã€ŒLouder! Louder than anything those three\nidiots can do! And idiotically!!ã€\e
+[00013b|ru] ã€Takeruã€‘ã€ŒGï½©oï¾›niej! Gï½©oï¾›niej niï½¯ cokolwiek, co te trzy\p\nidiotki potrafiï½§ zrobiï½¨! I musisz byï½¨ jeszcze gï½©upsza!!ã€\e
 
-[000154|en] yTakeruzuNngyaaaaaaaaaaaaa!!v\e
-[000154|ru] yTakeruzuNngyaaaaaaaaaaaaa!!v\e
+[000154|en] ã€Takeruã€‘ã€ŒNngyaaaaaaaaaaaaa!!ã€\e
+[000154|ru] ã€Takeruã€‘ã€ŒMiaaauuuï½©ï½©ï½©!!ã€\e
 
-[000158|en] yMikizuTa-\pTakeru-san!!v\e
-[000158|ru] yMikizuTa-\pTakeru-san!!v\e
+[000158|en] ã€Mikiã€‘ã€ŒTa-\pTakeru-san!!ã€\e
+[000158|ru] ã€Mikiã€‘ã€ŒTa-\pTakeru-san!!ã€\e
 
-[000162|en] yTakeruzuOw-ow-ow-ow...\p...\pdamn those three...\p...v\e
-[000162|ru] yTakeruzuOw-ow-ow-ow...\p...\pdamn those three...\p...v\e
+[000162|en] ã€Takeruã€‘ã€ŒOw-ow-ow-ow...\p...\pdamn those three...\p...ã€\e
+[000162|ru] ã€Takeruã€‘ã€ŒAï½©a-aï½©a-aï½©a-aï½©a...\p\nA niech tï½ª trï½«jkï½ª...ã€\e
 
-[000164|en] yMeiyazuTakeru,\p forgive them...\p...\pv\e
-[000164|ru] yMeiyazuTakeru,\p forgive them...\p...\pv\e
+[000164|en] ã€Meiyaã€‘ã€ŒTakeru,\p forgive them...\p...\pã€\e
+[000164|ru] ã€Meiyaã€‘ã€ŒTakeru,\p wybacz im...\pã€\e
 
 [000168|en] I'll remember this when I get home!!\e
-[000168|ru] I'll remember this when I get home!!\e
+[000168|ru] Oberwiecie gdy tylko dotrï½ª do domu!!\e
 
-[00016b|en] ySumikazuHey, hey,\p Takeru-chan,\p listen to this.\p\nOur lacrosse team is getting pretty good.\p\p\nWe might actually win.v\e
-[00016b|ru] ySumikazuHey, hey,\p Takeru-chan,\p listen to this.\p\nOur lacrosse team is getting pretty good.\p\p\nWe might actually win.v\e
+[00016b|en] ã€Sumikaã€‘ã€ŒHey, hey,\p Takeru-chan,\p listen to this.\p\nOur lacrosse team is getting pretty good.\p\p\nWe might actually win.ã€\e
+[00016b|ru] ã€Sumikaã€‘ã€ŒZgadnij co,\p Takeru-chan?\p\nNasza druï½¯yna lacrosse radzi sobie caï½©kiem nieï¾œle.\p\p\nMoï½¯e rzeczywiï¾›cie uda nam siï½ª wygraï½¨.ã€\e
 
-[00016d|en] yMikizuUuu...\p...\p...\pI'm sorry...\p...\pMiki can't help you...\p...\pv\e
-[00016d|ru] yMikizuUuu...\p...\p...\pI'm sorry...\p...\pMiki can't help you...\p...\pv\e
+[00016d|en] ã€Mikiã€‘ã€ŒUuu...\p...\p...\pI'm sorry...\p...\pMiki can't help you...\p...\pã€\e
+[00016d|ru] ã€Mikiã€‘ã€ŒOch...\p Ja naprawdï½ª przepraszam...\p ï½¯e opuï¾›ciï½©am zespï½«ï½©...\pã€\e
 
-[000173|en] yMeiyazuDo not apologize, Tamase.\p\p You had best fulfill\nyour own task before worrying about ours.v\e
-[000173|ru] yMeiyazuDo not apologize, Tamase.\p\p You had best fulfill\nyour own task before worrying about ours.v\e
+[000173|en] ã€Meiyaã€‘ã€ŒDo not apologize, Tamase.\p\p You had best fulfill\nyour own task before worrying about ours.ã€\e
+[000173|ru] ã€Meiyaã€‘ã€ŒNie przepraszaj, Tamase.\p\p\nDobrze ï½¯e,\p realizujesz swoje wï½©ï½§sne cele i nie zwracaj\p\nuwagi na nasze.ã€\e
 
-[000175|en] yMikizuYes...\p...\p...\p...\p...\p...\pI think I can do just that.v\e
-[000175|ru] yMikizuYes...\p...\p...\p...\p...\p...\pI think I can do just that.v\e
+[000175|en] ã€Mikiã€‘ã€ŒYes...\p...\p...\p...\p...\p...\pI think I can do just that.ã€\e
+[000175|ru] ã€Mikiã€‘ã€ŒTak...\p...\p...\p\p\nZaczyma, czuï½¨, ï½¯e naprawdï½ª mogï½ª to zrobiï½¨.ã€\e
 
-[000178|en] yTakeruzuOkaaay, now that that's decided,\p early morning\npractice tomorrow!v\e
-[000178|ru] yTakeruzuOkaaay, now that that's decided,\p early morning\npractice tomorrow!v\e
+[000178|en] ã€Takeruã€‘ã€ŒOkaaay, now that that's decided,\p early morning\npractice tomorrow!ã€\e
+[000178|ru] ã€Takeruã€‘ã€ŒSï½©odziutko! W takim razie,\p od jutra dodajemy\p\nporanne treningi!ã€\e
 
-[000374|en] ySumikazuAaah,\p\p he's going overboard again.v\e
-[000374|ru] ySumikazuAaah,\p\p he's going overboard again.v\e
+[000374|en] ã€Sumikaã€‘ã€ŒAaah,\p\p he's going overboard again.ã€\e
+[000374|ru] ã€Sumikaã€‘ã€ŒOjejciu.\p\p Znowu zaczyna przesadzaï½¨.ã€\e
 
-[00017c|en] yTakeruzuShut up!v\e
-[00017c|ru] yTakeruzuShut up!v\e
+[00017c|en] ã€Takeruã€‘ã€ŒShut up!ã€\e
+[00017c|ru] ã€Takeruã€‘ã€ŒCicho tam!ã€\e
 
-[00017e|en] yMikizuTakeru-san,\p can you handle that?v\e
-[00017e|ru] yMikizuTakeru-san,\p can you handle that?v\e
+[00017e|en] ã€Mikiã€‘ã€ŒTakeru-san,\p can you handle that?ã€\e
+[00017e|ru] ã€Mikiã€‘ã€ŒPoradzisz sobie z tym,\p Takeru-chan?ã€\e
 
-[000180|en] ySumikazuHe'll never wake up that early.v\e
-[000180|ru] ySumikazuHe'll never wake up that early.v\e
+[000180|en] ã€Sumikaã€‘ã€ŒHe'll never wake up that early.ã€\e
+[000180|ru] ã€Sumikaã€‘ã€ŒNiemoï½¯liwe, ï½¯by obudziï½© siï½ª tak wczeï¾›nie.ã€\e
 
-[000182|en] yTakeruzuYou two...\p...\pv\e
-[000182|ru] yTakeruzuYou two...\p...\pv\e
+[000182|en] ã€Takeruã€‘ã€ŒYou two...\p...\pã€\e
+[000182|ru] ã€Takeruã€‘ã€ŒDziewczyny, no weï¾œcie...\pã€\e
 
-[000184|en] ySumikazuTakeru-chan,\p you shouldn't promise what you\ncan't deliver.v\e
-[000184|ru] ySumikazuTakeru-chan,\p you shouldn't promise what you\ncan't deliver.v\e
+[000184|en] ã€Sumikaã€‘ã€ŒTakeru-chan,\p you shouldn't promise what you\ncan't deliver.ã€\e
+[000184|ru] ã€Sumikaã€‘ã€ŒNie powinieneï¾› obiecywaï½¨ tego, czego nie\p\nmoï½¯esz speï½©niï½¨,\p Takeru-chan.ã€\e
 
-[000186|en] yMikizuShould we cancel it then?v\e
-[000186|ru] yMikizuShould we cancel it then?v\e
+[000186|en] ã€Mikiã€‘ã€ŒShould we cancel it then?ã€\e
+[000186|ru] ã€Mikiã€‘ã€ŒCzy w takim razie powinniï¾›my to odwoï½©aï½¨?ã€\e
 
-[000187|en] yTakeruzuI can get up that early.\nWe'll practice in the morning.v\e
-[000187|ru] yTakeruzuI can get up that early.\nWe'll practice in the morning.v\e
+[000187|en] ã€Takeruã€‘ã€ŒI can get up that early.\nWe'll practice in the morning.ã€\e
+[000187|ru] ã€Takeruã€‘ã€ŒJestem wstanie rano wstawaï½¨.\p\nPoranne treningi odbï½ªdï½§ siï½ª zgodnie z planem.ã€\e
 
-[000189|en] ySumikazuMitsurugi-san,\p we'll have to start getting up\nearlier too.v\e
-[000189|ru] ySumikazuMitsurugi-san,\p we'll have to start getting up\nearlier too.v\e
+[000189|en] ã€Sumikaã€‘ã€ŒMitsurugi-san,\p we'll have to start getting up\nearlier too.ã€\e
+[000189|ru] ã€Sumikaã€‘ã€ŒCï½«ï½¯,\p Mitsurugi-san,\p wyglï½§da na to,\p ï½¯e jutro\p\nteï½¯ bï½ªdziemy musiaï½©y wstaï½¨ wczeï¾›nie.ã€\e
 
-[00018b|en] yMeiyazuIt would appear so.v\e
-[00018b|ru] yMeiyazuIt would appear so.v\e
+[00018b|en] ã€Meiyaã€‘ã€ŒIt would appear so.ã€\e
+[00018b|ru] ã€Meiyaã€‘ã€ŒWyglï½§daï½©oby na to,\p ï½¯e tak.ã€\e
 
-[00018c|en] yTakeruzuYou guys are so rude.v\e
-[00018c|ru] yTakeruzuYou guys are so rude.v\e
+[00018c|en] ã€Takeruã€‘ã€ŒYou guys are so rude.ã€\e
+[00018c|ru] ã€Takeruã€‘ã€ŒJesteï¾›cie strasznie wredne.ã€\e
 
-[000190|en] ySumikazuYou'd never make it to class on time if I didn't\nwake you up.\p Takeru-chan,\p be aware of your own\nlimitations.v\e
-[000190|ru] ySumikazuYou'd never make it to class on time if I didn't\nwake you up.\p Takeru-chan,\p be aware of your own\nlimitations.v\e
+[000190|en] ã€Sumikaã€‘ã€ŒYou'd never make it to class on time if I didn't\nwake you up.\p Takeru-chan,\p be aware of your own\nlimitations.ã€\e
+[000190|ru] ã€Sumikaã€‘ã€ŒNawet nie dotarï½©byï¾› na zajï½ªcia na czas,\p gdybym\p\nciï½ª nie obudziï½©a. Nie przeceniaj siï½ª, Takeru-san.ã€\e
 
-[000194|en] yMeiyazuYes.\p\p Although what you just said is unfeasible,\p\p\nI cannot deny the confidence it inspires.v\e
-[000194|ru] yMeiyazuYes.\p\p Although what you just said is unfeasible,\p\p\nI cannot deny the confidence it inspires.v\e
+[000194|en] ã€Meiyaã€‘ã€ŒYes.\p\p Although what you just said is unfeasible,\p\p\nI cannot deny the confidence it inspires.ã€\e
+[000194|ru] ã€Meiyaã€‘ã€ŒTak.\p\p Choï½¨ sï½§dzï½ª,\p ï½¯e nieco przesadziï½©aï¾›,\p\p\nTo nadal,\p nie mogï½ª zaprzeczyï½¨,\p ï½¯e siï½ª z tym zgadzam.ã€\e
 
-[000195|en] yTakeruzuI'm telling you...\p...v\e
-[000195|ru] yTakeruzuI'm telling you...\p...v\e
+[000195|en] ã€Takeruã€‘ã€ŒI'm telling you...\p...ã€\e
+[000195|ru] ã€Takeruã€‘ã€ŒDziewczyny,\p juï½¯ wam powiedziaï½©em...ã€\e
 
-[000198|en] ySumikazuHmph...\p...\p...\pwell,\p good luck.v\e
-[000198|ru] ySumikazuHmph...\p...\p...\pwell,\p good luck.v\e
+[000198|en] ã€Sumikaã€‘ã€ŒHmph...\p...\p...\pwell,\p good luck.ã€\e
+[000198|ru] ã€Sumikaã€‘ã€Œ*Chichot* Cï½«ï½¯, powodzenia.ã€\e
 
-[00019a|en] yTakeruzuThat laugh annoys me.v\e 
-[00019a|ru] yTakeruzuThat laugh annoys me.v\e 
+[00019a|en] ã€Takeruã€‘ã€ŒThat laugh annoys me.ã€\e 
+[00019a|ru] ã€Takeruã€‘ã€ŒWkurzasz mnie tym ï¾›miechem.ã€\e 
 
-[00019c|en] yMeiyazuGo to bed early tonight,\p and you will be ready\ntomorrow.v\e
-[00019c|ru] yMeiyazuGo to bed early tonight,\p and you will be ready\ntomorrow.v\e
+[00019c|en] ã€Meiyaã€‘ã€ŒGo to bed early tonight,\p and you will be ready\ntomorrow.ã€\e
+[00019c|ru] ã€Meiyaã€‘ã€ŒRozsï½§dnie byï½©oby poï½©oï½¯yï½¨ siï½ª dzisiaj wczeï¾›nie\p\ni przygotowaï½¨ siï½ª na jutro.ã€\e
 
-[00019d|en] yTakeruzuMmm...\p...\pI'll show you!!v\e
-[00019d|ru] yTakeruzuMmm...\p...\pI'll show you!!v\e
+[00019d|en] ã€Takeruã€‘ã€ŒMmm...\p...\pI'll show you!!ã€\e
+[00019d|ru] ã€Takeruã€‘ã€ŒGrr...\p Jeszcze wam pokaï½¯ï½ª!!ã€\e
 
-[00019f|en] yMikizuAhahahaha...\p...\p...\p...\pv\e
-[00019f|ru] yMikizuAhahahaha...\p...\p...\p...\pv\e
+[00019f|en] ã€Mikiã€‘ã€ŒAhahahaha...\p...\p...\p...\pã€\e
+[00019f|ru] ã€Mikiã€‘ã€ŒAhahahaha..\p...\pã€\e
 
 [0001a5|en] ...\p...\phu!\p The time has come to show them my manliness.\e
-[0001a5|ru] ...\p...\phu!\p The time has come to show them my manliness.\e
+[0001a5|ru] ...\pHeh!\p Wyglï½§da na to,\p ï½¯e nadszedï½© czas,\p aby\p\npokazaï½¨ im,\p jakim jestem mï½ªï½¯czyznï½§!\e
 
 [0001a7|en] I'll set my alarm clock for 6 AM.\e
-[0001a7|ru] I'll set my alarm clock for 6 AM.\e
+[0001a7|ru] Nastawiï½ª budzik na 6 rano.\e
 
 [0001a8|en] I haven't woken up that early since my last field trip.\e
-[0001a8|ru] I haven't woken up that early since my last field trip.\e
+[0001a8|ru] Nie musiaï½©em tak wczeï¾›niej wstawaï½¨ od ostaniej szkolnej\p\nwycieczki.\e
 
 [0001a9|en] But I said I would,\p so it's too late to take it back.\nI have to do it.\e
-[0001a9|ru] But I said I would,\p so it's too late to take it back.\nI have to do it.\e
+[0001a9|ru] Ale powiedziaï½©em,\p ï½¯e tak zrobiï½ª i nie mogï½ª teraz\p\ncofnï½§ï½¨ mojego sï½©owa. Muszï½ª to zrobiï½¨.\e
 
 [0001aa|en] Okay,\p let's sleep!\e
-[0001aa|ru] Okay,\p let's sleep!\e
+[0001aa|ru] Dobra! Czas na spanko!\e
 
 [0001b2|en] ...\p...\pwhat?\e
-[0001b2|ru] ...\p...\pwhat?\e
+[0001b2|ru] ...\pCo jest?\e
 
-[0001b3|en] yKamiyozuHuh`?\p\p The lights are out.v\e
-[0001b3|ru] yKamiyozuHuh`?\p\p The lights are out.v\e
+[0001b3|en] ã€Kamiyoã€‘ã€ŒHuhï½?\p\p The lights are out.ã€\e
+[0001b3|ru] ã€Kamiyoã€‘ã€ŒHuhï½?\p\p ï¾šwiatï½©a sï½§ zgaszone.ã€\e
 
-[0001b4|en] yTomoezuHe must be watching TV downstairs.v\e
-[0001b4|ru] yTomoezuHe must be watching TV downstairs.v\e
+[0001b4|en] ã€Tomoeã€‘ã€ŒHe must be watching TV downstairs.ã€\e
+[0001b4|ru] ã€Tomoeã€‘ã€ŒPewnie oglï½§da telewizje na dole.ã€\e
 
-[0001b5|en] yEbisuzuReally now,\p that is so cruel of him`\p\p\p\nWe came all this way just to clean his room`v\e
-[0001b5|ru] yEbisuzuReally now,\p that is so cruel of him`\p\p\p\nWe came all this way just to clean his room`v\e
+[0001b5|en] ã€Ebisuã€‘ã€ŒReally now,\p that is so cruel of himï½\p\p\p\nWe came all this way just to clean his roomï½ã€\e
+[0001b5|ru] ã€Ebisuã€‘ã€ŒAle naprawdï½ª.\p Jakie to niegrzeczne z jego strony!\p\p\p\nZwï½©aszcza, ï½¯e przeszï½©yï¾›my caï½©ï½§tï½ªdrogï½ª, tylko po to, ï½¯eby\p\nposprzï½§taï½¨ jego pokï½«jï½ã€\e
 
-[0001b9|en] yTakeruzu...\p...\p...\p...\pv\e
-[0001b9|ru] yTakeruzu...\p...\p...\p...\pv\e
+[0001b9|en] ã€Takeruã€‘ã€Œ...\p...\p...\p...\pã€\e
+[0001b9|ru] ã€Takeruã€‘ã€Œ...\p...\pã€\e
 
 [0001ba|en] These three...\p...\p...\p...\pno,\p I'd better not.\p\nTalking to them will just waste time.\e
-[0001ba|ru] These three...\p...\p...\p...\pno,\p I'd better not.\p\nTalking to them will just waste time.\e
+[0001ba|ru] Ta trï½«jka...\p...\p Nie,\p lepiej nie. Jeï¾›li teraz im\p\nodpowiem,\p to zrobi siï½ª z tego duï½¯a awantura.\e
 
 [0001bb|en] I must sleep.\e
-[0001bb|ru] I must sleep.\e
+[0001bb|ru] Muszï½ª spaï½¨.\e
 
 [0001bc|en] Sleep for tomorrow!\p\nSleep for the future!!\e
-[0001bc|ru] Sleep for tomorrow!\p\nSleep for the future!!\e
+[0001bc|ru] ï¾špij dla jutra!\p\nï¾špij dla przyszï½©oï¾›ci!!\e
 
 [0001c1|en] ...\p...\pugeh!\e
-[0001c1|ru] ...\p...\pugeh!\e
+[0001c1|ru] ...\pUgh!\e
 
-[0001c2|en] yKamiyozuWhat's this?\p I think I just stepped on\nsomething disgusting.v\e
-[0001c2|ru] yKamiyozuWhat's this?\p I think I just stepped on\nsomething disgusting.v\e
+[0001c2|en] ã€Kamiyoã€‘ã€ŒWhat's this?\p I think I just stepped on\nsomething disgusting.ã€\e
+[0001c2|ru] ã€Kamiyoã€‘ã€ŒCo to jest? Chyba wï½©aï¾›nie nadepnï½ªï½©am na coï¾›\p\nobrzydliwego.ã€\e
 
 [0001c3|en] ...\p...\pstay calm,\p stay calm...\p...\phuu...\p...\phuu...\p...\p\e
-[0001c3|ru] ...\p...\pstay calm,\p stay calm...\p...\phuu...\p...\phuu...\p...\p\e
+[0001c3|ru] ...\pZachowaj spokï½«j,\p zachowaj spokï½«j...\p\nUf...\p Gï½©ï½ªboki oddech...\p\e
 
-[0001c8|en] yTomoezuAh,\p you're right.\p What could it be`?v\e
-[0001c8|ru] yTomoezuAh,\p you're right.\p What could it be`?v\e
+[0001c8|en] ã€Tomoeã€‘ã€ŒAh,\p you're right.\p What could it beï½?ã€\e
+[0001c8|ru] ã€Tomoeã€‘ã€ŒHej,\p masz racje.\p Co to mogï½©o byï½¨ï½?ã€\e
 
-[0001cd|en] yEbisuzuOh my,\p\p there is something here`\p\p\nPerhaps it is a doll he plays with at night```?v\e
-[0001cd|ru] yEbisuzuOh my,\p\p there is something here`\p\p\nPerhaps it is a doll he plays with at night```?v\e
+[0001cd|en] ã€Ebisuã€‘ã€ŒOh my,\p\p there is something hereï½\p\p\nPerhaps it is a doll he plays with at nightï½ï½ï½?ã€\e
+[0001cd|ru] ã€Ebisuã€‘ã€ŒO jeju.\p\p Naprawdï½ª coï¾› tu jestï½\p\p\nByï½¨ moï½¯e jest to jedna z tych "lalek" przeznaczonowa do nocnych\p\nzastosowaï¾ƒ "towarzyskich"ï½ï½ï½?ã€\e
 
-[0001cf|en] yTakeruzuWhy would I have that kind of doll!!?v\e
-[0001cf|ru] yTakeruzuWhy would I have that kind of doll!!?v\e
+[0001cf|en] ã€Takeruã€‘ã€ŒWhy would I have that kind of doll!!?ã€\e
+[0001cf|ru] ã€Takeruã€‘ã€ŒCo wy myï¾›licie,\p ï½¯e jakie ja mam chore hobby!!?ã€\e
 
-[0001d7|en] yKamiyozuAh,\p he's here.v\e
-[0001d7|ru] yKamiyozuAh,\p he's here.v\e
+[0001d7|en] ã€Kamiyoã€‘ã€ŒAh,\p he's here.ã€\e
+[0001d7|ru] ã€Kamiyoã€‘ã€ŒAh,\p tutaj on jest.ã€\e
 
-[0001da|en] yTomoezuHe's here.v\e
-[0001da|ru] yTomoezuHe's here.v\e
+[0001da|en] ã€Tomoeã€‘ã€ŒHe's here.ã€\e
+[0001da|ru] ã€Tomoeã€‘ã€ŒTu jest.ã€\e
 
-[0001db|en] yEbisuzuAt least answer us`v\e
-[0001db|ru] yEbisuzuAt least answer us`v\e
+[0001db|en] ã€Ebisuã€‘ã€ŒAt least answer usï½ã€\e
+[0001db|ru] ã€Ebisuã€‘ã€ŒPrzynajmniej nam odpowiedï¾œï½ã€\e
 
-[0001dc|en] yTakeruzu...\p...\pyou did that on purpose.\p\nYou three still mad about last night?v\e
-[0001dc|ru] yTakeruzu...\p...\pyou did that on purpose.\p\nYou three still mad about last night?v\e
+[0001dc|en] ã€Takeruã€‘ã€Œ...\p...\pyou did that on purpose.\p\nYou three still mad about last night?ã€\e
+[0001dc|ru] ã€Takeruã€‘ã€Œ...\pRobicie to celowo.\p\nNadaj jesteï¾›cie zï½©e za to, co wydarzyï½©o siï½ª wczeï¾›niej, prawda?ã€\e
 
-[0001de|en] yKamiyozuNot in the slightest!v\e
-[0001de|ru] yKamiyozuNot in the slightest!v\e
+[0001de|en] ã€Kamiyoã€‘ã€ŒNot in the slightest!ã€\e
+[0001de|ru] ã€Kamiyoã€‘ã€ŒNawet w najmniejszym stopniu!ã€\e
 
-[0001e0|en] yTomoezuNot at all!\p Not at all!!v\e
-[0001e0|ru] yTomoezuNot at all!\p Not at all!!v\e
+[0001e0|en] ã€Tomoeã€‘ã€ŒNot at all!\p Not at all!!ã€\e
+[0001e0|ru] ã€Tomoeã€‘ã€ŒAni trochï½ª! Ani trochï½ª!!ã€\e
 
-[0001e2|en] yEbisuzuTakeru-sama is the one still mad about it.v\e
-[0001e2|ru] yEbisuzuTakeru-sama is the one still mad about it.v\e
+[0001e2|en] ã€Ebisuã€‘ã€ŒTakeru-sama is the one still mad about it.ã€\e
+[0001e2|ru] ã€Ebisuã€‘ã€ŒTo ty jesteï¾› tym,\p ktï½«ry jest wkurzony.ã€\e
 
-[0001e8|en] yKamiyo & Tomoe & EbisuzuRight```?v\e
-[0001e8|ru] yKamiyo & Tomoe & EbisuzuRight```?v\e
+[0001e8|en] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒRightï½ï½ï½?ã€\e
+[0001e8|ru] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒPrawdaï½ï½ï½?ã€\e
 
-[0001ed|en] yKamiyozuWe got such a huge scolding from Mana-sama\nthanks to you.v\e
-[0001ed|ru] yKamiyozuWe got such a huge scolding from Mana-sama\nthanks to you.v\e
+[0001ed|en] ã€Kamiyoã€‘ã€ŒWe got such a huge scolding from Mana-sama\nthanks to you.ã€\e
+[0001ed|ru] ã€Kamiyoã€‘ã€ŒDziï½ªki tobie otrzymaï½©yï¾›my ogromnï½§ reprymendï½ª\p\nod Many-sama.ã€\e
 
-[0001f3|en] yKamiyo & Tomoe & EbisuzuRight```?v\e
-[0001f3|ru] yKamiyo & Tomoe & EbisuzuRight```?v\e
+[0001f3|en] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒRightï½ï½ï½?ã€\e
+[0001f3|ru] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒPrawdaï½ï½ï½?ã€\e
 
-[0001f8|en] yTomoezuAnd this is the thanks we get for coming here\nto clean your room as an apology.v\e
-[0001f8|ru] yTomoezuAnd this is the thanks we get for coming here\nto clean your room as an apology.v\e
+[0001f8|en] ã€Tomoeã€‘ã€ŒAnd this is the thanks we get for coming here\nto clean your room as an apology.ã€\e
+[0001f8|ru] ã€Tomoeã€‘ã€ŒI to jest podziï½ªkowanie,\p jakie dostajemy\p\pnza przyjï¾›cie tutaj i posprzï½§tï½§nie twojego pokoju w ramach przeprosin?ã€\e
 
-[0001fe|en] yKamiyo & Tomoe & EbisuzuRight```?v\e
-[0001fe|ru] yKamiyo & Tomoe & EbisuzuRight```?v\e
+[0001fe|en] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒRightï½ï½ï½?ã€\e
+[0001fe|ru] ã€Kamiyo & Tomoe & Ebisuã€‘ã€ŒPrawdaã€\e
 
-[000202|en] yTakeruzu...\p...\pfine,\p I get it.\nAnyway,\p I'm in the middle of a battle right now.\p\nMy manhood is at stake.v\e
-[000202|ru] yTakeruzu...\p...\pfine,\p I get it.\nAnyway,\p I'm in the middle of a battle right now.\p\nMy manhood is at stake.v\e
+[000202|en] ã€Takeruã€‘ã€Œ...\p...\pfine,\p I get it.\nAnyway,\p I'm in the middle of a battle right now.\p\nMy manhood is at stake.ã€\e
+[000202|ru] ã€Takeruã€‘ã€ŒDobra, niewaï½¯ne. Sï½©uchajcie, jestem teraz w\p\nï¾›rodku bardzo waï½¯nej bitwy. Tutaj w grï½ª wchodzi\p\nmoja mï½ªï¾›koï¾›.ã€\e
 
-[000204|en] yKamiyozuWaaa,\p so cooool`v\e
-[000204|ru] yKamiyozuWaaa,\p so cooool`v\e
+[000204|en] ã€Kamiyoã€‘ã€ŒWaaa,\p so coooolï½ã€\e
+[000204|ru] ã€Kamiyoã€‘ã€Œï½³aï½©,\p jakie to fajneï½ã€\e
 
-[000206|en] yTomoezuI'm going numb`v\e
-[000206|ru] yTomoezuI'm going numb`v\e
+[000206|en] ã€Tomoeã€‘ã€ŒI'm going numbï½ã€\e
+[000206|ru] ã€Tomoeã€‘ã€ŒJakie to podniecajï½§ceï½ã€\e
 
-[000208|en] yEbisuzuI could fall in love`v\e
-[000208|ru] yEbisuzuI could fall in love`v\e
+[000208|en] ã€Ebisuã€‘ã€ŒI could fall in loveï½ã€\e
+[000208|ru] ã€Ebisuã€‘ã€ŒMyï¾›lï½ª,\p ï½¯e mogï½©abym siï½ª w nim zakochaï½¨ï½ã€\e
 
 [000209|en] Ignore them, ignore them.\e
-[000209|ru] Ignore them, ignore them.\e
+[000209|ru] Nie. Po prostu je zignoruj. Nie pozwï½«l, ï½¯eby to ciebie\p\nw jakikolwiek sposï½«b dotknï½ªï½©o.\e
 
-[00020a|en] yTakeruzuPlease let me go to sleep now.v\e
-[00020a|ru] yTakeruzuPlease let me go to sleep now.v\e
+[00020a|en] ã€Takeruã€‘ã€ŒPlease let me go to sleep now.ã€\e
+[00020a|ru] ã€Takeruã€‘ã€ŒPo prostu idï¾œcie sobie stï½§, ï½¯ebym mï½«gï½© juï½¯\p\nsobie iï¾›ï½¨ spaï½¨.ã€\e
 
-[00020d|en] yKamiyozuWe won't let you sleep tonight.v\e
-[00020d|ru] yKamiyozuWe won't let you sleep tonight.v\e
+[00020d|en] ã€Kamiyoã€‘ã€ŒWe won't let you sleep tonight.ã€\e
+[00020d|ru] ã€Kamiyoã€‘ã€ŒNie damy ci dzisiaj pospaï½¨.ã€\e
 
-[000211|en] yTomoezuWe won't let you sleep tonight.v\e
-[000211|ru] yTomoezuWe won't let you sleep tonight.v\e
+[000211|en] ã€Tomoeã€‘ã€ŒWe won't let you sleep tonight.ã€\e
+[000211|ru] ã€Tomoeã€‘ã€ŒNie damy ci dzisiaj pospaï½¨.ã€\e
 
-[000215|en] yEbisuzuWe simply will not let you sleep tonight.v\e
-[000215|ru] yEbisuzuWe simply will not let you sleep tonight.v\e
+[000215|en] ã€Ebisuã€‘ã€ŒWe simply will not let you sleep tonight.ã€\e
+[000215|ru] ã€Ebisuã€‘ã€ŒNie damy ci dzisiaj pospaï½¨.ã€\e
 
-[000216|en] yTakeruzuYou three really are idiots.v\e
-[000216|ru] yTakeruzuYou three really are idiots.v\e
+[000216|en] ã€Takeruã€‘ã€ŒYou three really are idiots.ã€\e
+[000216|ru] ã€Takeruã€‘ã€ŒWasza trï½«jka to prawdziwe kretynki.ã€\e
 
 [000217|en] And thus, I shall sleep.\e
-[000217|ru] And thus, I shall sleep.\e
+[000217|ru] AI tak uda mi siï½ª zasnï½§ï½¨.\e
 
-[000218|en] yTakeruzuGood night.\p The door's over there.v\e
-[000218|ru] yTakeruzuGood night.\p The door's over there.v\e
+[000218|en] ã€Takeruã€‘ã€ŒGood night.\p The door's over there.ã€\e
+[000218|ru] ã€Takeruã€‘ã€ŒDobranoc. Drzwi sï½§ tam.ã€\e
 
-[00021f|en] yKamiyozuWhat's with that attitude?v\e
-[00021f|ru] yKamiyozuWhat's with that attitude?v\e
+[00021f|en] ã€Kamiyoã€‘ã€ŒWhat's with that attitude?ã€\e
+[00021f|ru] ã€Kamiyoã€‘ã€ŒO co chodzi z takï½§ postawï½§ã€\e
 
-[000221|en] yTomoezuCould you be more insolent?v\e
-[000221|ru] yTomoezuCould you be more insolent?v\e
+[000221|en] ã€Tomoeã€‘ã€ŒCould you be more insolent?ã€\e
+[000221|ru] ã€Tomoeã€‘ã€ŒCzy mï½«gï½©yï¾› byï½¨ bardziej bezczelny?ã€\e
 
-[000223|en] yEbisuzuYou need to be educated`v\e
-[000223|ru] yEbisuzuYou need to be educated`v\e
+[000223|en] ã€Ebisuã€‘ã€ŒYou need to be educatedï½ã€\e
+[000223|ru] ã€Ebisuã€‘ã€ŒWyglï½§da na to,\p ï½¯e musimy go wyedukowaï½¨ï½ã€\e
 
-[000224|en] yTakeruzuYou're the ones who need education.v\e
-[000224|ru] yTakeruzuYou're the ones who need education.v\e
+[000224|en] ã€Takeruã€‘ã€ŒYou're the ones who need education.ã€\e
+[000224|ru] ã€Takeruã€‘ã€ŒTo wy jesteï¾›cie tymi,\p ktï½«re wymagajï½§ edukacjiã€\e
 
-[000226|en] yKamiyozuWell,\p it doesn't matter.\p\nThe night's still young,\p riiight?v\e
-[000226|ru] yKamiyozuWell,\p it doesn't matter.\p\nThe night's still young,\p riiight?v\e
+[000226|en] ã€Kamiyoã€‘ã€ŒWell,\p it doesn't matter.\p\nThe night's still young,\p riiight?ã€\e
+[000226|ru] ã€Kamiyoã€‘ã€ŒCï½«ï½¯, w sumie nie widzï½ª przeciwwskazaï¾ƒ.\p\nNoc jest jeszcze mï½©oda, prawda, dziewczyny?ã€\e
 
-[000228|en] yTomoezuThat's riiight.\p Well,\p let's have lots of fun with\nthis.v\e
-[000228|ru] yTomoezuThat's riiight.\p Well,\p let's have lots of fun with\nthis.v\e
+[000228|en] ã€Tomoeã€‘ã€ŒThat's riiight.\p Well,\p let's have lots of fun with\nthis.ã€\e
+[000228|ru] ã€Tomoeã€‘ã€ŒNo pewnie! No wiï½ªc! Bï½ªdziemy siï½ª z nim po prostu\p\nmusiaï½©y dobrze bawiï½¨, prawda?ã€\e
 
-[00022a|en] yEbisuzuYou will regret taking on all three of us`v\e
-[00022a|ru] yEbisuzuYou will regret taking on all three of us`v\e
+[00022a|en] ã€Ebisuã€‘ã€ŒYou will regret taking on all three of usï½ã€\e
+[00022a|ru] ã€Ebisuã€‘ã€ŒMam nadziejï½ª,\p ï½¯e jesteï¾› doï¾›ï½¨ wytrzymaï½©y,\p ï½¯eby\p\nmï½«c sobie poradziï½¨ z nami trzema jednoczeï¾›nieï½ã€\e
 
 [00022b|en] ...\p...\p...\p...\plet me sleep already.\e
-[00022b|ru] ...\p...\p...\p...\plet me sleep already.\e
+[00022b|ru] ...\p...\pDajcie mi po prostu pospaï½¨.\e
 
-[00022d|en] yKamiyozuYou just expected something strange,\p didn't\nyou?v\e
-[00022d|ru] yKamiyozuYou just expected something strange,\p didn't\nyou?v\e
+[00022d|en] ã€Kamiyoã€‘ã€ŒYou just expected something strange,\p didn't\nyou?ã€\e
+[00022d|ru] ã€Kamiyoã€‘ã€ŒWï½©aï¾›nie wyobraziï½© sobie coï¾› pewersyjnego,\p\nprawda?ã€\e
 
-[00022f|en] yTomoezuYou're horrible.v\e
-[00022f|ru] yTomoezuYou're horrible.v\e
+[00022f|en] ã€Tomoeã€‘ã€ŒYou're horrible.ã€\e
+[00022f|ru] ã€Tomoeã€‘ã€ŒJesteï¾› obrzydliwy.ã€\e
 
-[000231|en] yEbisuzuYes he is`v\e
-[000231|ru] yEbisuzuYes he is`v\e
+[000231|en] ã€Ebisuã€‘ã€ŒYes he isï½ã€\e
+[000231|ru] ã€Ebisuã€‘ã€ŒZ pewnoï¾›ciï½§taki jestï½ã€\e
 
 [000237|en] ...\p...\p...\p...\p\e
-[000237|ru] ...\p...\p...\p...\p\e
+[000237|ru] ...\p...\p\e
 
 [000239|en] Did they leave?\e
-[000239|ru] Did they leave?\e
+[000239|ru] Poszï½©y sobie?\e
 
 [00023c|en] They are such nuisances...\p...\p\e
-[00023c|ru] They are such nuisances...\p...\p\e
+[00023c|ru] Stary,\ co za banda szkodnikï½«w...\p\e
 
 [00023d|en] Do something useful for once!\e
-[00023d|ru] Do something useful for once!\e
+[00023d|ru] Zrï½«bcie nareszcie coï¾› uï½¯ytecnzego!\e
 
 [00023e|en] ...\p...\p...\p...\p\e
-[00023e|ru] ...\p...\p...\p...\p\e
+[00023e|ru] ...\p...\p\e

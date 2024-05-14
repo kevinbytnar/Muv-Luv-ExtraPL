@@ -2,358 +2,358 @@ SCR 1 Shift-JIS
 237
 
 [00000c|en] yMikizuThen let's get started.v\e
-[00000c|ru] yMikizuThen let's get started.v\e
+[00000c|ru] yMikizuOkej, zaczynajmy.v\e
 
 [00000d|en] yTakeruzuOkay! Let's do this,\p Sensei!v\e
-[00000d|ru] yTakeruzuOkay! Let's do this,\p Sensei!v\e
+[00000d|ru] yTakeruzuOh tak! Zr«bmy to, Sensei!v\e
 
 [00000f|en] yMikizuAhaha...\p...\pummm...\p...\pthen...\p...\plet's go.v\e
-[00000f|ru] yMikizuAhaha...\p...\pummm...\p...\pthen...\p...\plet's go.v\e
+[00000f|ru] yMikizuAhaha...\pUmmm...\p No dobrze...\p Zaczynajmy.v\e
 
 [000010|en] yTakeruzuYeah.v\e
-[000010|ru] yTakeruzuYeah.v\e
+[000010|ru] yTakeruzuZaczynamy gdy tylko bªdzie gotowa.v\e
 
 [000012|en] yMikizuI'll leave out the difficult techniques for now.\p\p\nFirst, let's get you to the point where you can shoot an\narrow.v\e
-[000012|ru] yMikizuI'll leave out the difficult techniques for now.\p\p\nFirst, let's get you to the point where you can shoot an\narrow.v\e
+[000012|ru] yMikizuNa razie pominª trudne techniki.\p\p\nNajpierw przejdÜmy do punktu,\p w kt«rym mo¯esz wystrzeli¨ strza©ª.v\e
 
 [000013|en] yTakeruzuUnderstood!v\e
-[000013|ru] yTakeruzuUnderstood!v\e
+[000013|ru] yTakeruzuRozumiem!v\e
 
 [000015|en] yMikizuHold up the bow, notch an arrow and pull back\nthe string...\p...\pthe set of movements needed to do all that\nis called "Shaho-Hassetsu," or "The Eight Stages of\nShooting!"v\e 
-[000015|ru] yMikizuHold up the bow, notch an arrow and pull back\nthe string...\p...\pthe set of movements needed to do all that\nis called "Shaho-Hassetsu," or "The Eight Stages of\nShooting!"v\e 
+[000015|ru] yMikizuPodnieÛ ©uk, napnij strza©ª i pozw«l jej leciec...\p\nAby zrobi¨ to w©aÛciwie, wykonujemy sekwencjª ruch«w zwan§\p\n"Shaho-Hassetsu" lub "Osiem etap«w strzelania"!v\e 
 
 [000016|en] yTakeruzuI see.v\e
-[000016|ru] yTakeruzuI see.v\e
+[000016|ru] yTakeruzuRozumiem.v\e
 
 [000017|en] yMikizuIf you don't learn this,\p then you can't shoot the\nbow properly.v\e
-[000017|ru] yMikizuIf you don't learn this,\p then you can't shoot the\nbow properly.v\e
+[000017|ru] yMikizuJeÛli siª tego nie nauczysz,\p nigdy nie bªdziesz\p\nstrzela© prawid©owo z ©uku.v\e
 
 [000018|en] yTakeruzuI see...\p...\pv\e
-[000018|ru] yTakeruzuI see...\p...\pv\e
+[000018|ru] yTakeruzuRozumiem...\pv\e
 
 [000019|en] yMikizuFirst, hold this.v\e
-[000019|ru] yMikizuFirst, hold this.v\e
+[000019|ru] yMikizuNajpierw, spr«buj to przytrzyma¨.v\e
 
 [00001b|en] yTakeruzuOh,\p a bow already!?v\e
-[00001b|ru] yTakeruzuOh,\p a bow already!?v\e
+[00001b|ru] yTakeruzuOh!\p Ju¯ dosta©em do rªki ©uk!?v\e
 
 [00001e|en] yMikizuIt's just a drilling bow.\p\p\nWe can't have you shooting arrows yet.v\e
-[00001e|ru] yMikizuIt's just a drilling bow.\p\p\nWe can't have you shooting arrows yet.v\e
+[00001e|ru] yMikizuW©aÛciwie to tylko ©uk treningowy.\p\p\nNie mo¯esz trzyma¨ strza©y od samego pocz§tku, wiªc...v\e
 
 [00001f|en] yTakeruzuA drilling bow?v\e
-[00001f|ru] yTakeruzuA drilling bow?v\e
+[00001f|ru] yTakeruzu³uk treningowy?v\e
 
 [000021|en] yMikizuIt's just a bow designed to practice your\ntechnique with.v\e
-[000021|ru] yMikizuIt's just a bow designed to practice your\ntechnique with.v\e
+[000021|ru] yMikizuZasadniczo chodzi o to, abyÛ m«g© po¨wiczy¨\p\ntrzymanie go i ci§gniªcie za ciªciwª. Pomo¯e ci to\p\nnauczy¨ siª prawid©owej postawy..v\e
 
 [000022|en] yTakeruzuI see...\p...\poh well,\p let's try it already.v\e
-[000022|ru] yTakeruzuI see...\p...\poh well,\p let's try it already.v\e
+[000022|ru] yTakeruzuRozumiem...\p Brzmi nieÜle, spr«bujmy.v\e
 
 [000024|en] yMikizuThen watch what Miki does and try to copy it!v\e
-[000024|ru] yMikizuThen watch what Miki does and try to copy it!v\e
+[000024|ru] yMikizuNastªpnie zobacz, co ja robiª i spr«buj to skopiowa¨!v\e
 
 [000026|en] Ummm...\p...\p?\e
-[000026|ru] Ummm...\p...\p?\e
+[000026|ru] No to zobaczmy...\p\e
 
 [000028|en] Hold the bow in my left hand...\p...\pplace my hands on my\nhips and spread out my legs...\p...\p\e
-[000028|ru] Hold the bow in my left hand...\p...\pplace my hands on my\nhips and spread out my legs...\p...\p\e
+[000028|ru] Trzymaj ©uk w lewej rªcª...\p\nPo©«¯ d©onie na biodrach i roz©«¯ nogi...\p\e
 
 [000029|en] Oooh,\p I feel like a real archer!\e
-[000029|ru] Oooh,\p I feel like a real archer!\e
+[000029|ru] Sp«jrz cie na mnie! Jestem ©ucznikiem!\e
 
 [00002a|en] Now what?\p I raise the bow and take my stance...\p...\poh!\p\nIt's time to pull the bowstring...\p...\p\e
-[00002a|ru] Now what?\p I raise the bow and take my stance...\p...\poh!\p\nIt's time to pull the bowstring...\p...\p\e
+[00002a|ru] Co teraz?\p Och, okej...\p PodnieÛ ©uk i przyjmij postawª...\p\nOch! Oznacza to,\p ¯e ju¯ prawie czas poci§gn§¨ za ciªciwª!\e
 
 [00002c|en] yMikizuSlowly pull the bowstring back while looking at\nthe target.v\e
-[00002c|ru] yMikizuSlowly pull the bowstring back while looking at\nthe target.v\e
+[00002c|ru] yMikizuPowoli poci§gnij ciªciwª do ty©u, nie spuszczaj§c\p\nwzroku z celu.v\e
 
 [00002d|en] yTakeruzuGot it...\p...\pv\e
-[00002d|ru] yTakeruzuGot it...\p...\pv\e
+[00002d|ru] yTakeruzu³apiª...\pv\e
 
 [000031|en] I-\pit's like...\p...\pI'm a shogun on an ancient\nbattlefield...\p...\pth-\pthis is so cool!!\e
-[000031|ru] I-\pit's like...\p...\pI'm a shogun on an ancient\nbattlefield...\p...\pth-\pthis is so cool!!\e
+[000031|ru] To tak jakbym...\p by© szogunem na staro¯ytnym polu\p\nbitwy... To jest epickie!!\e
 
 [000032|en] yMikizuThere...\p...\pstooop!v\e
-[000032|ru] yMikizuThere...\p...\pstooop!v\e
+[000032|ru] yMikizuNo dobrze...\p Zatrzymaj siª w tym miejscu!v\e
 
 [000033|en] yTakeruz@„Ÿ„Ÿ*freeze*\e
-[000033|ru] yTakeruz@„Ÿ„Ÿ*freeze*\e
+[000033|ru] yTakeruz@„Ÿ„Ÿ*Zmro¯enie*\e
 
 [000037|en] yTakeruzuIf I had an arrow on this thing,\p this would be\nwhen I let go?v\e
-[000037|ru] yTakeruzuIf I had an arrow on this thing,\p this would be\nwhen I let go?v\e
+[000037|ru] yTakeruzuGdybym mia© wtedy naciªt§ strza©ª,\p to w©aÛnie wtedy\p\nbym j§ puÛci© - prawda?v\e
 
 [000039|en] yMikizuYeah.\p\p This stance is called "Kai," or "the full\ndraw."\p\p You've reached the sixth of eight stages.v\e
-[000039|ru] yMikizuYeah.\p\p This stance is called "Kai," or "the full\ndraw."\p\p You've reached the sixth of eight stages.v\e
+[000039|ru] yMikizuTak.\p\p Ta postawa nazywa siª "Kai", czyli"pe©ym\\p\nnaci§giem". Dotar©eÛ do sz«stego z oÛmu etap«w.v\e
 
 [00003a|en] yTakeruzuAh,\p I have?\p I thought eight stages would take\nlonger than this.v\e
-[00003a|ru] yTakeruzuAh,\p I have?\p I thought eight stages would take\nlonger than this.v\e
+[00003a|ru] yTakeruzuOh,\p tak zrobi©em? MyÛla©em,\p ¯e osiem etap«w\p\nzajmiª wiªcej czasu.v\e
 
 [00003c|en] yMikizuNo,\p no,\p\p we're just doing the basics.\p\p\nNow,\p slowly return your hand to where it was.v\e
-[00003c|ru] yMikizuNo,\p no,\p\p we're just doing the basics.\p\p\nNow,\p slowly return your hand to where it was.v\e
+[00003c|ru] yMikizuNie,\p nie,\p\p po prostu robimy podstawy.\p\p\nTeraz powoli powr«¨ rªk§ tam,\p gdzie by©a.v\e
 
 [00003e|en] yTakeruzu...\p...\phuuuuu...v\e
-[00003e|ru] yTakeruzu...\p...\phuuuuu...v\e
+[00003e|ru] yTakeruzu...\pPhi...v\e
 
 [000040|en] yMikizuTakeru-san,\p you've got nice form.v\e
-[000040|ru] yMikizuTakeru-san,\p you've got nice form.v\e
+[000040|ru] yMikizuTakeru-san,\p niez©§ masz formª.v\e
 
 [000043|en] yTakeruzuI do?v\e
-[000043|ru] yTakeruzuI do?v\e
+[000043|ru] yTakeruzuNaprawdª?v\e
 
 [000045|en] yMikizuYeah.\p Takeru-san, you usually have good posture,\p\nso this seems to come naturally.v\e
-[000045|ru] yMikizuYeah.\p Takeru-san, you usually have good posture,\p\nso this seems to come naturally.v\e
+[000045|ru] yMikizuTak.\p Zwykle masz dobr§ postawª,\p wiªc myÛlª,\p\n¯e przychodzi ci to naturalnie.v\e
 
 [000046|en] yTakeruzuHuhuhu...\p...\pmy latent talents have awakened.v\e
-[000046|ru] yTakeruzuHuhuhu...\p...\pmy latent talents have awakened.v\e
+[000046|ru] yTakeruzuMwauhahaha...\p Moje ukryte talenty w©aÛnie siª obudzi©y.v\e
 
 [000048|en] yMikizuThen Miki will have to work hard too.v\e
-[000048|ru] yMikizuThen Miki will have to work hard too.v\e
+[000048|ru] yMikizuChyba te¯ bªdª musia©a naprawdª ciª¯ko pracowa¨!v\e
 
 [000049|en] yTakeruzuThere you go,\p that's the spirit!v\e
-[000049|ru] yTakeruzuThere you go,\p that's the spirit!v\e
+[000049|ru] yTakeruzuI o to chodzi! To siª nazywa duch walki!v\e
 
 [00004b|en] yMikizuYes!\p\p It's kinda mysterious...\p...\pbut when I do what\nyou say, Takeru-san,\p it feels like everything will go well.v\e
-[00004b|ru] yMikizuYes!\p\p It's kinda mysterious...\p...\pbut when I do what\nyou say, Takeru-san,\p it feels like everything will go well.v\e
+[00004b|ru] yMikizuTak!\p\p To trochª tajemnicze...\p\nAle kiedy robiª to, co m«wisz, Takeru-chan,\p to czujª,\p ¯e\p\nwszystko bªdzie dobrze.v\e
 
 [00004c|en] yTakeruzuIt doesn't just feel like it,\p it will!v\e
-[00004c|ru] yTakeruzuIt doesn't just feel like it,\p it will!v\e
+[00004c|ru] yTakeruzuTo nie tylko masz takie wra¯enie!\p Bªdzie dobrze!v\e
 
 [00004e|en] yMikizuAhaha...\p...\pyes!v\e
-[00004e|ru] yMikizuAhaha...\p...\pyes!v\e
+[00004e|ru] yMikizuAhaha...\p Tak!v\e
 
 [00004f|en] yTakeruzuSo what're the seventh and eighth stages?v\e
-[00004f|ru] yTakeruzuSo what're the seventh and eighth stages?v\e
+[00004f|ru] yTakeruzuA zatem,\p jaki jest si«dmy i «smy etap?v\e
 
 [000051|en] yMikizuUmmm...\p...\pshooting the arrow, and then the\nfollow-through...\p...\pthey're called "Hanare," "the release,"\nand "Zanshin," "the remaining spirit."v\e
-[000051|ru] yMikizuUmmm...\p...\pshooting the arrow, and then the\nfollow-through...\p...\pthey're called "Hanare," "the release,"\nand "Zanshin," "the remaining spirit."v\e
+[000051|ru] yMikizuUmmm...\p PuÛci¨ strza©ª i pozwoli¨ jej pod§¯y¨ ku celu...\p\nNazywaj§ siª odpowiednio "Hanare" i :Zanshin".v\e
 
 [000052|en] yTakeruzu...\p...\pis it too soon for me to try that?v\e
-[000052|ru] yTakeruzu...\p...\pis it too soon for me to try that?v\e
+[000052|ru] yTakeruzu...\pCzy jest za wczeÛnie,\p abym tego spr«bowa©?v\e
 
 [000054|en] yMikizuHmmm...\p...\p...\p...\p...\p...\pyeaaah...\p...\p...\p...\pit would be\ndangerous to try it this early.v\e
-[000054|ru] yMikizuHmmm...\p...\p...\p...\p...\p...\pyeaaah...\p...\p...\p...\pit would be\ndangerous to try it this early.v\e
+[000054|ru] yMikizuHmmm...\p...\pTak...\p...\p Tak, zbyt wczesna pr«ba wykonania\p\ntego mo¯e by¨ niebezpieczna.v\e
 
 [000055|en] yTakeruzuI see...\p...\pv\e
-[000055|ru] yTakeruzuI see...\p...\pv\e
+[000055|ru] yTakeruzuRozumiem...\pv\e
 
 [000057|en] yMikizuAh,\p th-\pthen Miki will show you how it's done.\p\p\nRemember this so you can compare it to the book!v\e
-[000057|ru] yMikizuAh,\p th-\pthen Miki will show you how it's done.\p\p\nRemember this so you can compare it to the book!v\e
+[000057|ru] yMikizuOh,\p wiem!\p Poka¯e ci, jak to siª robi! Ogl§daj\p\nuwa¯nie, ¯ebyÛ m«g© por«wna¨ to z ksi§¯k§ w poczekalni!v\e
 
 [000058|en] yTakeruzuThat'll help me learn to shoot?v\e
-[000058|ru] yTakeruzuThat'll help me learn to shoot?v\e
+[000058|ru] yTakeruzuTo pomo¯e mi nauczy¨ siª stzela¨?v\e
 
 [00005a|en] yMikizuI'm not sure...\p...\p...\pbut it can't hurt...\p...\pv\e 
-[00005a|ru] yMikizuI'm not sure...\p...\p...\pbut it can't hurt...\p...\pv\e 
+[00005a|ru] yMikizu...\Nie jestem pewna...\p\nAle przynajmniej nie zaszkodzi...\pv\e 
 
 [00005b|en] yTakeruzuThen go for it!v\e 
-[00005b|ru] yTakeruzuThen go for it!v\e 
+[00005b|ru] yTakeruzuNo to jedziemy z tym!v\e 
 
 [00005d|en] yMikizuOkay!v\e
-[00005d|ru] yMikizuOkay!v\e
+[00005d|ru] yMikizuOkej!v\e
 
 [00005e|en] yTakeruzuMaybe I should bring the book here...\p...\pv\e
-[00005e|ru] yTakeruzuMaybe I should bring the book here...\p...\pv\e
+[00005e|ru] yTakeruzuMo¯e powinienem przynieÛ¨ tªksi§¯kª tutaj...\pv\e
 
 [000061|en] yTakeruzuOooh...\p...\pyou went from Yugamae to Kai in one\nmotion...\p...\pv\e 
-[000061|ru] yTakeruzuOooh...\p...\pyou went from Yugamae to Kai in one\nmotion...\p...\pv\e 
+[000061|ru] yTakeruzu³a©...\p Przesz©aÛ z Yugamae do Kai jednym p©ynnym\p\nruchem...\pv\e 
 
 [000062|en] yMikizuIt doesn't mean much if you can't flow through it\nquickly.v\e
-[000062|ru] yMikizuIt doesn't mean much if you can't flow through it\nquickly.v\e
+[000062|ru] yMikizuNie ma to wiªkszego znaczenia,\p jeÛli nie mo¯na\p\ntego zrobi¨ p©ynnie.v\e
 
 [000063|en] yTakeruzuDidn't you use a technique called "oblique\nshooting"?v\e
-[000063|ru] yTakeruzuDidn't you use a technique called "oblique\nshooting"?v\e
+[000063|ru] yTakeruzuCzy nie m«wi©aÛ,\p ¯e twoja technika nazywa\p\nsiª "ukoÛnym strzelaniem"?v\e
 
 [000064|en] yMikizuYes,\p I do.v\e
-[000064|ru] yMikizuYes,\p I do.v\e
+[000064|ru] yMikizuTak,\p zgadza siª.v\e
 
 [000065|en] yTakeruzuAnd that's...\p...\pI see...\p...\pso that's how your style\ndiffers from the others'...\p...\pv\e
-[000065|ru] yTakeruzuAnd that's...\p...\pI see...\p...\pso that's how your style\ndiffers from the others'...\p...\pv\e
+[000065|ru] yTakeruzuRozumiem...\p Wiªc tym siª r«¯ni tw«j styl od styl«w innych...\pv\e
 
 [000066|en] yMikizuYes.\p It says the norm is "frontal shooting", right?v\e
-[000066|ru] yMikizuYes.\p It says the norm is "frontal shooting", right?v\e
+[000066|ru] yMikizuTak.\p M«wi siª, ¯e norm§ jest "strzelanie frontalne", prawda?v\e
 
 [000067|en] yTakeruzuIt does, it does.v\e
-[000067|ru] yTakeruzuIt does, it does.v\e
+[000067|ru] yTakeruzuTak,\p z pewnoÛci§ tak.v\e
 
 [000068|en] From what I can see in these pictures,\p frontal does\nseem to be more typical.\e
-[000068|ru] From what I can see in these pictures,\p frontal does\nseem to be more typical.\e
+[000068|ru] Z tego co widzª na tych zdjªciach,\p prz«d wydaje siª by¨\p\nbardziej typowy.\e
 
 [000069|en] From an amateur's point of view,\p Tama's stance kinda\nfeels more like an archer's.\e
-[000069|ru] From an amateur's point of view,\p Tama's stance kinda\nfeels more like an archer's.\e
+[000069|ru] Z amatorskiego punktu widzenia,\p postawa Tamy bardziej\p\nprzypomina postawª ©ucznika.\e
 
 [00006a|en] Although that's just because we're used to seeing it in\nvideo games and movies about warfare.\e
-[00006a|ru] Although that's just because we're used to seeing it in\nvideo games and movies about warfare.\e
+[00006a|ru] Chocia¯ dzieje siª tak tylko dlatego,\p ¯e jesteÛmy\p\nprzyzwyczajeni do ogl§dania tego w grach wideo i Ûredniowiecznych\p\nfilmach wojennych.\e
 
 [00006b|en] yMikizuHere I go.v\e
-[00006b|ru] yMikizuHere I go.v\e
+[00006b|ru] yMikizuOkej,\p nadchodzª.v\e
 
 [00006c|en] yTakeruzuOkay!v\e
-[00006c|ru] yTakeruzuOkay!v\e
+[00006c|ru] yTakeruzuNo to poka¯ na co ciª sta¨!v\e
 
 [00006d|en] yMikizu!!v\e
 [00006d|ru] yMikizu!!v\e
 
 [000075|en] ...\p...\p...\p...\p\e
-[000075|ru] ...\p...\p...\p...\p\e
+[000075|ru] ...\p...\p\e
 
 [00007a|en] yTakeruzuOooh``v\e
-[00007a|ru] yTakeruzuOooh``v\e
+[00007a|ru] yTakeruzu³a©``v\e
 
 [00007f|en] yTakeruzuA perfect bullseye!v\e
-[00007f|ru] yTakeruzuA perfect bullseye!v\e
+[00007f|ru] yTakeruzuStrza© w dziesi§tkª!v\e
 
 [000084|en] yMikizuEhehe...\p...\pv\e
-[000084|ru] yMikizuEhehe...\p...\pv\e
+[000084|ru] yMikizuEhehe...\pv\e
 
 [000085|en] yTakeruzuSo that's the power of the eight stages and\nthe five crosses?v\e 
-[000085|ru] yTakeruzuSo that's the power of the eight stages and\nthe five crosses?v\e 
+[000085|ru] yTakeruzuTo w©aÛnie o to chodzi©o, prawda? Wszystkie piª¨\p\ntwoich krzy¯y by©o idealnie prostopad©ych, czy jakoÛ tak!?v\e 
 
 [000087|en] yMikizuAhaha...\p...\pthat doesn't even mean anything.v\e
-[000087|ru] yMikizuAhaha...\p...\pthat doesn't even mean anything.v\e
+[000087|ru] yMikizuAhaha...\p Czy masz pojªcie, co to w og«le oznaczav\e
 
 [000088|en] yTakeruzuMmm...\p...\pv\e
-[000088|ru] yTakeruzuMmm...\p...\pv\e
+[000088|ru] yTakeruzuMmm...\pv\e
 
 [00008a|en] yMikizuIt's best not to focus on the difficult stuff.v\e
-[00008a|ru] yMikizuIt's best not to focus on the difficult stuff.v\e
+[00008a|ru] yMikizuNa raize lepiej nie zaprz§ta¨ sobie g©owy zaanwasowanymi\p\npojªciami.v\e
 
 [00008b|en] yTakeruzuReally?v\e
-[00008b|ru] yTakeruzuReally?v\e
+[00008b|ru] yTakeruzuNaprawdª?v\e
 
 [00008c|en] yMikizuOnce you've achieved a Kai with all five\noverlapping crosses, it becomes natural.\p\p You need\nsomething close to that to do Hanare anyway.v\e
-[00008c|ru] yMikizuOnce you've achieved a Kai with all five\noverlapping crosses, it becomes natural.\p\p You need\nsomething close to that to do Hanare anyway.v\e
+[00008c|ru] yMikizuGdy bªdziesz na tyle dobry,\p ¯e bªdziesz w stanie\p\nwykona¨ pe©ny naci§ i utrzyma¨ wszystkie k§ty pod k§tem 90 stopni,\p\nto wtedy przyjdzie tu naturalnie. SkoÃczysz na dostosowaniu trajektorii,\p\naby uwzglªdni¨ krzywiznª ©uku,\p zanim wypuÛcisz strza©ª.v\e
 
 [00008d|en] yTakeruzuI see...\p...\pso it's better to learn by doing...\p...\pv\e
-[00008d|ru] yTakeruzuI see...\p...\pso it's better to learn by doing...\p...\pv\e
+[00008d|ru] yTakeruzuNo dobrze...\p Wiªc lepiej uczy¨ siª poprzez praktykª?\pv\e
 
 [00008f|en] yMikizuYes.v\e
-[00008f|ru] yMikizuYes.v\e
+[00008f|ru] yMikizuJep.v\e
 
 [000090|en] yTakeruzuMore importantly,\p why not shoot that other\narrow you have?v\e
-[000090|ru] yTakeruzuMore importantly,\p why not shoot that other\narrow you have?v\e
+[000090|ru] yTakeruzuWiªc hej,\p dlaczego nie wystrzeli©aÛ tej drugiej\p\nstrza©y, kt«r§ tam przy sobie masz?v\e
 
 [000092|en] yMikizuAh,\p yeah.v\e
-[000092|ru] yMikizuAh,\p yeah.v\e
+[000092|ru] yMikizuOh,\p faktycznie.v\e
 
 [000094|en] yTakeruzuWhy do they come in pairs?v\e
-[000094|ru] yTakeruzuWhy do they come in pairs?v\e
+[000094|ru] yTakeruzuDlaczego one s§ par§?v\e
 
 [000096|en] yMikizuIn Japanese archery, they always come in pairs of\n"Haya" and "Otoya".v\e
-[000096|ru] yMikizuIn Japanese archery, they always come in pairs of\n"Haya" and "Otoya".v\e
+[000096|ru] yMikizuW ©ucznictwie japoÃskim wystªpuj§ zawsze w parach\p\n"Haya" i "Otoya".v\e
 
 [000097|en] yTakeruzuOkay.v\e
-[000097|ru] yTakeruzuOkay.v\e
+[000097|ru] yTakeruzuOkej.v\e
 
 [000098|en] yMikizuThe simplest way to explain it is that each arrow\nhas feathers which spin different ways.v\e
-[000098|ru] yMikizuThe simplest way to explain it is that each arrow\nhas feathers which spin different ways.v\e
+[000098|ru] yMikizuNajproÛciej to wyjaÛni¨,\p ¯e ka¯da strza©a ma pi«ra,\p\nkt«re wiruj§ w inny spos«b.v\e
 
 [00009a|en] yTakeruzuEh? ...\p...\pah,\p these tail feathers...\p...\pthey make the\narrows spin...\p...\p?v\e
-[00009a|ru] yTakeruzuEh? ...\p...\pah,\p these tail feathers...\p...\pthey make the\narrows spin...\p...\p?v\e
+[00009a|ru] yTakeruzuEh? ...\pAch,\p te pi«ra z ogona...\p Wiªc to one wyprawiaj§\p\nstrza©y w ruch...\p?v\e
 
 [00009b|en] yMikizuThat's right.v\e
-[00009b|ru] yMikizuThat's right.v\e
+[00009b|ru] yMikizuZgadza siª.v\e
 
 [00009c|en] yTakeruzuSo it's like how typhoons in the Northern and\nSouthern hemispheres spin opposite ways?v\e
-[00009c|ru] yTakeruzuSo it's like how typhoons in the Northern and\nSouthern hemispheres spin opposite ways?v\e
+[00009c|ru] yTakeruzuWiªc to tak,\p jak tajfuny na p«©kuli p«©nocnej\p\ni po©udniowej wiruj§ w przeciwnych kierunkach?v\e
 
 [00009d|en] yMikizuEeeh?\p What's that!?v\e
-[00009d|ru] yMikizuEeeh?\p What's that!?v\e
+[00009d|ru] yMikizuCo?\p Sk§d to por«wnanie wzi§©eÛ!?v\e
 
 [00009e|en] yTakeruzuYou didn't know?\p Different hemispheres\nhave...\p...\pv\e
-[00009e|ru] yTakeruzuYou didn't know?\p Different hemispheres\nhave...\p...\pv\e
+[00009e|ru] yTakeruzuNie wiedzia©aÛ?\p R«¯ne p«©kule maj§...\pv\e
 
 [00009f|en] yMikizuI do know that.\p\nBut I've never heard anyone make that comparison.v\e
-[00009f|ru] yMikizuI do know that.\p\nBut I've never heard anyone make that comparison.v\e
+[00009f|ru] yMikizuNie, nie, wiedzia©am o tym.\p\nAle nigdy nie s©ysza©am,\p ¯eby ktoÛ dokonywa© takiego pr«wnania.v\e
 
 [0000a0|en] yTakeruzuOh...\p...\psorry...\p...\pv\e
-[0000a0|ru] yTakeruzuOh...\p...\psorry...\p...\pv\e
+[0000a0|ru] yTakeruzuOh...\p Wybacz...\pv\e
 
 [0000a1|en] yMikizu...\p...\p...\p...\pv\e
-[0000a1|ru] yMikizu...\p...\p...\p...\pv\e
+[0000a1|ru] yMikizu...\p...\pv\e
 
 [0000a2|en] yTakeruzuOkaaay,\p go for another bullseye!v\e
-[0000a2|ru] yTakeruzuOkaaay,\p go for another bullseye!v\e
+[0000a2|ru] yTakeruzuOkej!\p Pora na kolejny strza© w dziªsi§tkª!v\e
 
 [0000a3|en] yMikizuYes!v\e
-[0000a3|ru] yMikizuYes!v\e
+[0000a3|ru] yMikizuMasz to jak w banku!v\e
 
 [0000a4|en] yMikizu!!v\e
 [0000a4|ru] yMikizu!!v\e
 
 [0000ac|en] ...\p...\p...\p...\p\e
-[0000ac|ru] ...\p...\p...\p...\p\e
+[0000ac|ru] ...\p...\p\e
 
 [0000b1|en] yTakeruzuOooh``v\e
-[0000b1|ru] yTakeruzuOooh``v\e
+[0000b1|ru] yTakeruzu³a©h``v\e
 
 [0000b6|en] yTakeruzuAnother bullseye!v\e
-[0000b6|ru] yTakeruzuAnother bullseye!v\e
+[0000b6|ru] yTakeruzuKolejne trafienie w sam Ûrodek!v\e
 
 [0000bb|en] yMikizuI did it!v\e
-[0000bb|ru] yMikizuI did it!v\e
+[0000bb|ru] yMikizuZrobi©am to!v\e
 
 [0000bc|en] yTakeruzuYou're amazing, Tama.\nYou really can do this!v\e
-[0000bc|ru] yTakeruzuYou're amazing, Tama.\nYou really can do this!v\e
+[0000bc|ru] yTakeruzuWidzisz, a nie m«wi©em?\p\nJesteÛ niesamowita, Tamo!\p\nCa©kowicie mo¯esz to zrobi¨!v\e
 
 [0000be|en] yMikizuEh?\p ...\p...\pah!v\e
-[0000be|ru] yMikizuEh?\p ...\p...\pah!v\e
+[0000be|ru] yMikizuHuh? ...\p Ah!v\e
 
 [0000bf|en] yTakeruzuDidn't you just make two bullseyes in a row!?v\e
-[0000bf|ru] yTakeruzuDidn't you just make two bullseyes in a row!?v\e
+[0000bf|ru] yTakeruzuW©aÛnie zrobi©aÛ dwa razy pod rz§ strza© w dziªsi§tkª!!?v\e
 
 [0000c1|en] yMikizuCome to think of it...\p...\pv\e
-[0000c1|ru] yMikizuCome to think of it...\p...\pv\e
+[0000c1|ru] yMikizu³a©, skoro ju¯ o tym wspomnia©eÛ...\pv\e
 
 [0000c2|en] yTakeruzuSo making you practice while training me was\na good idea.v\e
-[0000c2|ru] yTakeruzuSo making you practice while training me was\na good idea.v\e
+[0000c2|ru] yTakeruzuCo oznacza - ¯e twoje jednoczeÛnie ¨wiczenia i\p\nszkolenie mnie okaza©o siª wielkim sukcesem!v\e
 
 [0000c4|en] yMikizuTh-\pthat's right...\p...\pi-\pit's kinda weird...\p...\pv\e
-[0000c4|ru] yMikizuTh-\pthat's right...\p...\pi-\pit's kinda weird...\p...\pv\e
+[0000c4|ru] yMikizuCh-\pchyba tak... tak w©aÛnie tak...\p\n³a©,\p jakie szalone...!\pv\e
 
 [0000c5|en] yTakeruzuOkay,\p now let's both keep training!v\e
-[0000c5|ru] yTakeruzuOkay,\p now let's both keep training!v\e
+[0000c5|ru] yTakeruzuOkej!\p Teraz,\p oby tak dalej!v\e
 
 [0000c7|en] yMikizuEh...\p...\pah,\p y-\pyes!!v\e
-[0000c7|ru] yMikizuEh...\p...\pah,\p y-\pyes!!v\e
+[0000c7|ru] yMikizuHuh...?\p Oh!\p O-\pokej!!!v\e
 
 [0000d3|en] yMikizuTakeru-saaan...\p...\pyou okay`?v\e
-[0000d3|ru] yMikizuTakeru-saaan...\p...\pyou okay`?v\e
+[0000d3|ru] yMikizuTakeru-saaan...\p Wszystko okej`?v\e
 
 [0000d4|en] yTakeruzuAh,\p yeah...\p...\pv\e
-[0000d4|ru] yTakeruzuAh,\p yeah...\p...\pv\e
+[0000d4|ru] yTakeruzuTak,\p wszystko gra...\pv\e
 
 [0000d5|en] I thought I was gonna lose my ear...\p...\p\e
-[0000d5|ru] I thought I was gonna lose my ear...\p...\p\e
+[0000d5|ru] MyÛla©em, ¯e straci©em moje ucho...\p\e
 
 [0000d6|en] When I released the bowstring...\p...\pit caught the back of\nmy ear.\e
-[0000d6|ru] When I released the bowstring...\p...\pit caught the back of\nmy ear.\e
+[0000d6|ru] Kiedy puÛci©em ciªciwª...\p to z©apa©§ mnie za ucho.\e
 
 [0000d7|en] If that'd been piano wire, \pI would've lost it for sure...\p...\p\e
-[0000d7|ru] If that'd been piano wire, \pI would've lost it for sure...\p...\p\e
+[0000d7|ru] JeÛli to by©by drut fortepianowy,\p odci§©by mi ucho od razu...\p\e
 
 [0000d8|en] ...\p...\p...\p...\puhiii!\e
-[0000d8|ru] ...\p...\p...\p...\puhiii!\e
+[0000d8|ru] ...\p...\pJejciu!\e
 
 [0000d9|en] yTakeruzuI've never rolled around on the floor that much,\p\neven as a joke.v\e
-[0000d9|ru] yTakeruzuI've never rolled around on the floor that much,\p\neven as a joke.v\e
+[0000d9|ru] yTakeruzuNie myÛl,\p ¯e kiedykolwiek tarza©em siª po pod©odze\p\ntak d©ugo... nawet dla uzyskania dramatycznego efektu.v\e
 
 [0000db|en] yMikizuI'm sorry...\p...\pMiki didn't teach you well...\p...\pv\e
-[0000db|ru] yMikizuI'm sorry...\p...\pMiki didn't teach you well...\p...\pv\e
+[0000db|ru] yMikizuPrzepraszam...\p Powinnam by©a ciª lepiej nauczy¨...\pv\e
 
 [0000dd|en] yTakeruzuEh? That's not true at all! You're doing a great\njob, Tama!v\e
-[0000dd|ru] yTakeruzuEh? That's not true at all! You're doing a great\njob, Tama!v\e
+[0000dd|ru] yTakeruzuHuh? Nie, wcale to nie tak! Wykona©aÛ kawa© dobrej\p\nroboty, Tamo!v\e
 
 [0000df|en] yMikizuBut your ear's all red.v\e
-[0000df|ru] yMikizuBut your ear's all red.v\e
+[0000df|ru] yMikizuAle twoje ucho jest ca©e czerwone.v\e
 
 [0000e1|en] yTakeruzuI'll be fine,\p it didn't come off...\p...\p...\p...\pah!\nIt came oooff!!v\e
-[0000e1|ru] yTakeruzuI'll be fine,\p it didn't come off...\p...\p...\p...\pah!\nIt came oooff!!v\e
+[0000e1|ru] yTakeruzuNic mi nie bªdzie, tak naprawdª nic siª nie sta©o...\p\n Ack! Odlecia©o!!v\e
 
 [0000e5|en] yMikizuEeeh!!!?v\e
-[0000e5|ru] yMikizuEeeh!!!?v\e
+[0000e5|ru] yMikizuÂe co!!!?v\e
 
 [0000e9|en] yTakeruzuGuwooooooooooooooooh!!!v\e
-[0000e9|ru] yTakeruzuGuwooooooooooooooooh!!!v\e
+[0000e9|ru] yTakeruzuAghhhhhhhhhhhhhhhhhh!!!!v\e
 
 [0000ec|en] yMikizuTa-Ta-Ta-Ta-Ta-Ta-Takeru-saaaaaaaaaan!!v\e
 [0000ec|ru] yMikizuTa-Ta-Ta-Ta-Ta-Ta-Takeru-saaaaaaaaaan!!v\e
@@ -365,349 +365,349 @@ SCR 1 Shift-JIS
 [0000f4|ru] yMikizuUwaaaaaaaaaaan!!v\e
 
 [0000fa|en] yTakeruzuJust kidding.v\e
-[0000fa|ru] yTakeruzuJust kidding.v\e
+[0000fa|ru] yTakeruzuTaki ¯arcik.v\e
 
 [0000ff|en] yMikizuEh?v\e
 [0000ff|ru] yMikizuEh?v\e
 
 [000101|en] yTakeruzuNo really,\p look,\p it's still here.v\e
-[000101|ru] yTakeruzuNo really,\p look,\p it's still here.v\e
+[000101|ru] yTakeruzuNie, naprawdª, sama zobacz.\p\nOno nadal jest na swoim miejscu.v\e
 
 [00010b|en] yMikizu...\p...\py-\pyou meanieee!!v\e 
-[00010b|ru] yMikizu...\p...\py-\pyou meanieee!!v\e 
+[00010b|ru] yMikizu...\pNie masz sercja!v\e 
 
 [00010e|en] yTakeruzuWahahahaha!\p Who'd even fall for that!?v\e
-[00010e|ru] yTakeruzuWahahahaha!\p Who'd even fall for that!?v\e
+[00010e|ru] yTakeruzuBuahahaha!\p Jak mog©aÛ w og«le da¨ siª na to nabra¨!?v\e
 
 [00010f|en] Gags don't get any lamer than that!\e
-[00010f|ru] Gags don't get any lamer than that!\e
+[00010f|ru] Daj spok«j, przecie¯ to taki banalny ¯art!\e
 
 [000114|en] yMikizuBut\p but\p buuuuut!!v\e
-[000114|ru] yMikizuBut\p but\p buuuuut!!v\e
+[000114|ru] yMikizuAle,\p ale,\p aleeeeee!!v\e
 
 [000115|en] yTakeruzuThat's so like you, Tama`v\e
-[000115|ru] yTakeruzuThat's so like you, Tama`v\e
+[000115|ru] yTakeruzuJesteÛ taka naiwna, Tama`v\e
 
 [000117|en] yMikizuI don't understand.v\e
-[000117|ru] yMikizuI don't understand.v\e
+[000117|ru] yMikizuNie rozumiem....v\e
 
 [00011c|en] yMikizuAh,\p my home's this way.v\e
-[00011c|ru] yMikizuAh,\p my home's this way.v\e
+[00011c|ru] yMikizuAh,\p m«j dom jest w tª stronª.v\e
 
 [00011d|en] yTakeruzuHm?v\e
 [00011d|ru] yTakeruzuHm?v\e
 
 [000121|en] yMikizuI'll train hard again tomorrow!v\e
-[000121|ru] yMikizuI'll train hard again tomorrow!v\e
+[000121|ru] yMikizuJutro te¯ dajmy z siebie wszystko!v\e
 
 [000122|en] yTakeruzuIt's okay,\p I'll walk you to the station.v\e
-[000122|ru] yTakeruzuIt's okay,\p I'll walk you to the station.v\e
+[000122|ru] yTakeruzuSpoko, mogª ciª odprowadzi¨ na stacje.\p\nNie widzª problemu.v\e
 
 [000124|en] yMikizuEh?v\e
 [000124|ru] yMikizuEh?v\e
 
 [000125|en] yTakeruzuI wanna ask you a few more things, that's all.\p\nThat a problem?v\e
-[000125|ru] yTakeruzuI wanna ask you a few more things, that's all.\p\nThat a problem?v\e
+[000125|ru] yTakeruzuChcia©bym ci zapyta¨ jeszcze o parª kwestii.\p\nPrzeszkadza ci to?v\e
 
 [000127|en] yMikizuEh!? Ah,\p n-\pno!\p Of course not!v\e
-[000127|ru] yMikizuEh!? Ah,\p n-\pno!\p Of course not!v\e
+[000127|ru] yMikizuEh!? Yh,\p n-\pnie! OczywiÛcie, ¯e nie!v\e
 
 [000128|en] yTakeruzuOkay,\p here we go!v\e
-[000128|ru] yTakeruzuOkay,\p here we go!v\e
+[000128|ru] yTakeruzuS©odziutko,\p wiªc chodÜmy!v\e
 
 [00012a|en] yMikizuYes!v\e
-[00012a|ru] yMikizuYes!v\e
+[00012a|ru] yMikizuOkej!v\e
 
 [000130|en] yTakeruzuSo anyway,\p archery started out as a way of\ndefeating enemies on the battlefield, right?v\e
-[000130|ru] yTakeruzuSo anyway,\p archery started out as a way of\ndefeating enemies on the battlefield, right?v\e
+[000130|ru] yTakeruzuWiªc, hejm mia©em tak§ rozkmine.\p\n³ucznictwo zaczª©o siª od bycia sposobem na pokonywanie wrog«w\p\nna polu bitwy, prawda?v\e
 
 [000131|en] yMikizuYes,\p that's right.v\e
-[000131|ru] yMikizuYes,\p that's right.v\e
+[000131|ru] yMikizuTak,\p to prawda.v\e
 
 [000132|en] yTakeruzuSo why's it so concerned about form and\npoliteness and such? How do those help defeat the\nenemy?v\e
-[000132|ru] yTakeruzuSo why's it so concerned about form and\npoliteness and such? How do those help defeat the\nenemy?v\e
+[000132|ru] yTakeruzuDlaczego wiªc tak bardzo przejmujecie siª\p\nform§, etykiet§ i tym podobnymi sprawami. Jak one mog§\p\npom«c w pokonaniu wroga?v\e
 
 [000135|en] yMikizuUmmm...\p...\pthe samurai in those days were\nextremely formal.v\e
-[000135|ru] yMikizuUmmm...\p...\pthe samurai in those days were\nextremely formal.v\e
+[000135|ru] yMikizuUmmm...\p C«¯, samuraje w tamtych czasach byli\p\nnaprawdª formalni.v\e
 
 [000136|en] yTakeruzuYeah.v\e
-[000136|ru] yTakeruzuYeah.v\e
+[000136|ru] yTakeruzuPrawda.v\e
 
 [000138|en] yMikizuSwords and bows were tools for warfare,\p\p but you\nneed a reason to fight...\p...\pv\e
-[000138|ru] yMikizuSwords and bows were tools for warfare,\p\p but you\nneed a reason to fight...\p...\pv\e
+[000138|ru] yMikizuSMiecze i ©uki by©y narzªdziami wojny,\p\nale do walki potrzebny jest pow«d...\pv\e
 
 [000139|en] yTakeruzuYeah, yeah.v\e
-[000139|ru] yTakeruzuYeah, yeah.v\e
+[000139|ru] yTakeruzuPrawda, prawda.v\e
 
 [00013b|en] yMikizuThat's why you need a certain mentality to use a\nweapon properly.v\e
-[00013b|ru] yMikizuThat's why you need a certain mentality to use a\nweapon properly.v\e
+[00013b|ru] yMikizuDlatego do prawid©owego pos©ugiwania siª broni§\p\npotrzebny jest pow«d .v\e
 
 [00013c|en] yTakeruzuThat makes sense...\p...\pthey certainly were proud\nof those things.v\e
-[00013c|ru] yTakeruzuThat makes sense...\p...\pthey certainly were proud\nof those things.v\e
+[00013c|ru] yTakeruzuTo ma sens...\p Samuraje byli doÛ¨ dumn§ grup§.v\e
 
 [00013d|en] ...\p...\pMeiya's kinda like a samurai living in the modern era.\e
-[00013d|ru] ...\p...\pMeiya's kinda like a samurai living in the modern era.\e
+[00013d|ru] ...\pMeiya jest trochª jak samuraj ¯yj§cy w epoce nowo¯ytnej.\e
 
 [00013f|en] yMikizuThere's a lot of Confucianism in Bushido.v\e
-[00013f|ru] yMikizuThere's a lot of Confucianism in Bushido.v\e
+[00013f|ru] yMikizuW Bushido jest wiele nauk Konga Fuziego.v\e
 
 [000140|en] yTakeruzuAh?v\e
-[000140|ru] yTakeruzuAh?v\e
+[000140|ru] yTakeruzuKogo?v\e
 
 [000142|en] yMikizuThat's what papa said.v\e
-[000142|ru] yMikizuThat's what papa said.v\e
+[000142|ru] yMikizuTatuÛ tak powiedzia©.v\e
 
 [000143|en] yTakeruzuHaa...\p...\pv\e
-[000143|ru] yTakeruzuHaa...\p...\pv\e
+[000143|ru] yTakeruzuOkej...?\pv\e
 
 [000145|en] yMikizuThat's why you have to be hard on yourself and\nconsiderate of others.v\e
-[000145|ru] yMikizuThat's why you have to be hard on yourself and\nconsiderate of others.v\e
+[000145|ru] yMikizuDlatego musisz by¨ dla siebie surowy i\p\ntroszczy¨ siª o innych.v\e
 
 [000146|en] yTakeruzuOooh,\p that comes from Confucianism?v\e
-[000146|ru] yTakeruzuOooh,\p that comes from Confucianism?v\e
+[000146|ru] yTakeruzuOh,\p racja.\p Teraz m«wisz o konfucjanizmie?v\e
 
 [000148|en] yMikizuYes,\p it is.v\e
-[000148|ru] yMikizuYes,\p it is.v\e
+[000148|ru] yMikizuTak,\p w©aÛnie tak.v\e
 
 [000149|en] yTakeruzuSo that's why they care about your state of\nmind.v\e
-[000149|ru] yTakeruzuSo that's why they care about your state of\nmind.v\e
+[000149|ru] yTakeruzuWiªc to ten spos«b myÛlenia wszystko dyktuje,\p\nprawda?v\e
 
 [00014b|en] yMikizuYeah.\p Especially for bows and arrows, since\nthey're projectile weapons.\p Those are really unfair, after\nall.v\e
-[00014b|ru] yMikizuYeah.\p Especially for bows and arrows, since\nthey're projectile weapons.\p Those are really unfair, after\nall.v\e
+[00014b|ru] yMikizuTak.\p Szczeg«lnie w przypadku ©uk«w i strza©,\p\nponiewa¯ s§ to bronie miotaj§ce.\p S§ naprawdª niesprawiedliwe,\p\nwiesz o tym?v\e
 
 [00014c|en] yTakeruzuOooh,\p you know a lot.v\e
-[00014c|ru] yTakeruzuOooh,\p you know a lot.v\e
+[00014c|ru] yTakeruzuTak,\p nie musisz mi nawet tego m«wi¨.v\e
 
 [00014e|en] yMikizuPeople who don't understand that turn to evil.v\e
-[00014e|ru] yMikizuPeople who don't understand that turn to evil.v\e
+[00014e|ru] yMikizuLudzie, kt«rzy tego nie rozumiej§, zwracaj§\p\nsiª ku z©u.v\e
 
 [00014f|en] yTakeruzuYep, yep.v\e
-[00014f|ru] yTakeruzuYep, yep.v\e
+[00014f|ru] yTakeruzuTak,\p tak.v\e
 
 [000151|en] yMikizuBut then firearms were imported to Japan,\p\p and\nbows became less valuable as weapons.v\e
-[000151|ru] yMikizuBut then firearms were imported to Japan,\p\p and\nbows became less valuable as weapons.v\e
+[000151|ru] yMikizuAle potem do Japonii zaczªto importowa¨ broÃ\p\npaln§,\p\p a ©uki sta©y siª mniej wartoÛciowe jako broÃ.v\e
 
 [000152|en] yTakeruzuYeah.v\e
-[000152|ru] yTakeruzuYeah.v\e
+[000152|ru] yTakeruzuZgadza siª.v\e
 
 [000154|en] yMikizuSo then it got tied into Zen Buddhism...\p...\pumm...\p...\p\nand it became something more noble.v\e
-[000154|ru] yMikizuSo then it got tied into Zen Buddhism...\p...\pumm...\p...\p\nand it became something more noble.v\e
+[000154|ru] yMikizuA potem powi§zano to z buddyzmem zen...\p\nHnn...\p i przerodzi©o siª to w coÛ jeszcze wiªkszego.v\e
 
 [000156|en] yTakeruzuMore noble?v\e
-[000156|ru] yTakeruzuMore noble?v\e
+[000156|ru] yTakeruzuCoÛ wiªkszego?v\e
 
 [000158|en] yMikizuYes,\p more noble.v\e
-[000158|ru] yMikizuYes,\p more noble.v\e
+[000158|ru] yMikizuTak,\p coÛ wiªkszego.v\e
 
 [000159|en] ...\p...\p...\p...\pit's hard to tell whether Tama really gets this stuff\nherself.\e
-[000159|ru] ...\p...\p...\p...\pit's hard to tell whether Tama really gets this stuff\nherself.\e
+[000159|ru] ...\p...\pTrudno powiedzie¨,\p czy Tama naprawdª sama wierzy w to.\e
 
 [00015b|en] yMikizuAnd then, in the Edo period...\p...\pv\e
-[00015b|ru] yMikizuAnd then, in the Edo period...\p...\pv\e
+[00015b|ru] yMikizuA potem w okresie Edo...\pv\e
 
 [00015c|en] yTakeruzuThere's more to it?v\e
-[00015c|ru] yTakeruzuThere's more to it?v\e
+[00015c|ru] yTakeruzuJest tego wiªcej?v\e
 
 [00015e|en] yMikizuYeah.v\e
-[00015e|ru] yMikizuYeah.v\e
+[00015e|ru] yMikizuTak.v\e
 
 [00015f|en] yTakeruzuThis is getting pretty interesting.v\e
-[00015f|ru] yTakeruzuThis is getting pretty interesting.v\e
+[00015f|ru] yTakeruzuTo robi siª ca©kiem interesuj§ce.v\e
 
 [000161|en] yMikizuReally?\p And then in the Edo period,\p things were\nfinally peaceful,\p so wars were rare.v\e
-[000161|ru] yMikizuReally?\p And then in the Edo period,\p things were\nfinally peaceful,\p so wars were rare.v\e
+[000161|ru] yMikizuNaprawdª?\p C«¯, w okresie Edo by©o wreszcie spokojnie,\p\nwiªc wojny by©y rzadkoÛci§.v\e
 
 [000162|en] yTakeruzuPeace on Earth?v\e
-[000162|ru] yTakeruzuPeace on Earth?v\e
+[000162|ru] yTakeruzuI pok«j zapanowa© nad tymi ziemiami.v\e
 
 [000164|en] yMikizuYes.v\e
-[000164|ru] yMikizuYes.v\e
+[000164|ru] yMikizuTak.v\e
 
 [000165|en] yTakeruzuSo then what?v\e
-[000165|ru] yTakeruzuSo then what?v\e
+[000165|ru] yTakeruzuI co wtedy?v\e
 
 [000167|en] yMikizuSwords and bows simply weren't used much any\nmore.v\e
-[000167|ru] yMikizuSwords and bows simply weren't used much any\nmore.v\e
+[000167|ru] yMikizuMiecze i ©uki nie by©u ju¯ tak czªsto u¯ywane.v\e
 
 [000168|en] yTakeruzuOkay.v\e
-[000168|ru] yTakeruzuOkay.v\e
+[000168|ru] yTakeruzuRobi sens.v\e
 
 [00016a|en] yMikizuBut the samurai never stopped training.v\e
-[00016a|ru] yMikizuBut the samurai never stopped training.v\e
+[00016a|ru] yMikizuAle samuraj nigdy nie przesta© trenowa¨.v\e
 
 [00016b|en] yTakeruzuYeah.v\e
-[00016b|ru] yTakeruzuYeah.v\e
+[00016b|ru] yTakeruzuZgadza siª.v\e
 
 [00016d|en] yMikizuThat's when things like iaido were invented.v\e
-[00016d|ru] yMikizuThat's when things like iaido were invented.v\e
+[00016d|ru] yMikizuTo wtedy wynaleziona takie rzeczy jak iaido.v\e
 
 [00016e|en] yTakeruzuSo that's when it happened!v\e
-[00016e|ru] yTakeruzuSo that's when it happened!v\e
+[00016e|ru] yTakeruzuA wiªc wtedy to siª sta©o!v\e
 
 [000170|en] This is a nice little documentary here.\nNot bad at all!!\e
-[000170|ru] This is a nice little documentary here.\nNot bad at all!!\e
+[000170|ru] To jest mi©y, ma©y, ustny dokument.\p\nTak og«lnie, to posz©o jej ca©kiem nieÜle!!\e
 
 [000171|en] yTakeruzuI get it,\p so the ideas from Confucianism and\nZen made archery focus more and more on the mind and\nspirit!v\e
-[000171|ru] yTakeruzuI get it,\p so the ideas from Confucianism and\nZen made archery focus more and more on the mind and\nspirit!v\e
+[000171|ru] yTakeruzuTeraz rozumiem. WI´C idee konfucjanizmu i zen\p\nsprawi©y, ¯e ©ucznictwo coraz bardziej skupia©o siª\p\nna umyÛlª i duchu!v\e
 
 [000173|en] yMikizuYes, yes!\p They even started using rituals from\nfestivals.v\e
-[000173|ru] yMikizuYes, yes!\p They even started using rituals from\nfestivals.v\e
+[000173|ru] yMikizuTak, dok©adnie tak!\p\nZaczªto go nawet u¯ywa¨ w rytua©ach podczas festiwali.v\e
 
 [000174|en] yTakeruzuAnd festivals used to be about gods and all,\p so\ntheir rituals make sense.v\e
-[000174|ru] yTakeruzuAnd festivals used to be about gods and all,\p so\ntheir rituals make sense.v\e
+[000174|ru] yTakeruzuA festiwale by©y kiedyÛ poÛwiªcone bogom i\p\nw og«le, wiªc to ma sens.v\e
 
 [000176|en] yMikizuAnd that's how archery became what it is now.v\e
-[000176|ru] yMikizuAnd that's how archery became what it is now.v\e
+[000176|ru] yMikizuI w ten spos«b ©ucznictwo sta©o siª tym,\p\nczym jest dzisiaj.v\e
 
 [000177|en] yTakeruzuI see...\p...\pso that's how it happened.\nThat explains a lot...\p...\pv\e
-[000177|ru] yTakeruzuI see...\p...\pso that's how it happened.\nThat explains a lot...\p...\pv\e
+[000177|ru] yTakeruzuRozumiem... A wiªc takie buty.\p\nTo wiele wyjaÛnia...\pv\e
 
 [000179|en] yMikizuYeah.v\e
-[000179|ru] yMikizuYeah.v\e
+[000179|ru] yMikizuTak.v\e
 
 [00017c|en] Hmmm...\p...\pstories like these make history more fun.\e
-[00017c|ru] Hmmm...\p...\pstories like these make history more fun.\e
+[00017c|ru] Stary...\p Kiedy m«wili, ¯e historia mo¯e by¨ zabaw§,\p\nmusieli mie¨ na myÛli takie historie.\e
 
 [00017d|en] Our classes should teach us stuff like this instead of\njust dates and names.\e 
-[00017d|ru] Our classes should teach us stuff like this instead of\njust dates and names.\e 
+[00017d|ru] Nasze zajªcia powinny uczy¨ nas takich rzeczy,a nie tylko\p\ndat i imion.\e 
 
 [00017e|en] ...\p...\pstill,\p Tama really loves archery.\e
-[00017e|ru] ...\p...\pstill,\p Tama really loves archery.\e
+[00017e|ru] ...\pAle stary,\p Tama z pewnoÛci§ kocha©a ©ucznictwo.\e
 
 [000237|en] Parts of it were kinda hard to explain,\p but she seemed\nreally lively...\p...\pwhen discussing it.\e
-[000237|ru] Parts of it were kinda hard to explain,\p but she seemed\nreally lively...\p...\pwhen discussing it.\e
+[000237|ru] Niekt«re momenty by©y dla niej trudne do wyjaÛnienia,\p\nale zawsze by©a bardzo podekscytowana, gdy to m«wi©a.\e
 
 [000180|en] And she's so familiar with the history...\p...\peven proud of it.\e
-[000180|ru] And she's so familiar with the history...\p...\peven proud of it.\e
+[000180|ru] A ona tak dobrze zna t§ historiª...\p Nawet jest z tego dumna.\e
 
 [000181|en] yMikizuThink you get it now?v\e
-[000181|ru] yMikizuThink you get it now?v\e
+[000181|ru] yMikizuMyÛlisz, ¯e teraz to rozumiesz?v\e
 
 [000187|en] yTakeruzuYeah,\p I get it now!v\e
-[000187|ru] yTakeruzuYeah,\p I get it now!v\e
+[000187|ru] yTakeruzuTak,\p za©apa©em!v\e
 
 [000188|en] yMikizuGlad to hear it.v\e
-[000188|ru] yMikizuGlad to hear it.v\e
+[000188|ru] yMikizuCieszª siª,\p ¯e to s©yszª.v\e
 
 [00018a|en] yTakeruzuOne more question then.\p\nWhy does your style lean toward battle techniques?v\e
-[00018a|ru] yTakeruzuOne more question then.\p\nWhy does your style lean toward battle techniques?v\e
+[00018a|ru] yTakeruzuJeszcze jedno pytanie.\p\nDlaczego tw«j styl jest uwa¯any za bardziej zorientowany\p\nna walkª.v\e
 
 [00018c|en] yMikizuAaah,\p that...\p...\pto oversimplify it,\p we face the target\nwhen we ready the bow.v\e
-[00018c|ru] yMikizuAaah,\p that...\p...\pto oversimplify it,\p we face the target\nwhen we ready the bow.v\e
+[00018c|ru] yMikizuNo c«¯,\p to dlatego ¯e...\p\nM«wi§c najproÛciej, kiedy przygotowujemy ©uk, stawiamy czo©a celowi.v\e
 
 [00018d|en] yTakeruzu...\p...\phuh?v\e
-[00018d|ru] yTakeruzu...\p...\phuh?v\e
+[00018d|ru] yTakeruzu...\Huh?v\e
 
 [00018f|en] yMikizuMiki's stance is called oblique shooting.\p\p You know\nthe ordinary stance is called frontal shooting,\p right?v\e 
-[00018f|ru] yMikizuMiki's stance is called oblique shooting.\p\p You know\nthe ordinary stance is called frontal shooting,\p right?v\e 
+[00018f|ru] yMikizuMoja postawa nazywa siª strzelaniem ukoÛnym.\p\p\nWiesz, ¯e zwyk©a postawa nazywa siª strzelaniem czo©owym.\p\nPrawda?v\e 
 
 [000190|en] yTakeruzuYeah,\p I remember that.v\e
-[000190|ru] yTakeruzuYeah,\p I remember that.v\e
+[000190|ru] yTakeruzuTak,\p nie zapomnia©em o tym.v\e
 
 [000192|en] yMikizuThis school of archery is intended to be healthy\nand character-building.\p\p It's not about mentality or\ndiscipline.v\e
-[000192|ru] yMikizuThis school of archery is intended to be healthy\nand character-building.\p\p It's not about mentality or\ndiscipline.v\e
+[000192|ru] yMikizuTa szko©a ©ucznictwa stawia na edukacje i zdrowie,\p\na mniej na technikª strzeleck§\p\p.v\e
 
 [000193|en] yTakeruzuOkay.v\e
-[000193|ru] yTakeruzuOkay.v\e
+[000193|ru] yTakeruzuOkej.v\e
 
 [000195|en] yMikizuAnd the people who started it were really really\ngood,\p so it spread like wildfire.v\e
-[000195|ru] yMikizuAnd the people who started it were really really\ngood,\p so it spread like wildfire.v\e
+[000195|ru] yMikizuA ludzie,\p kt«rzy to rozpoczªli,\p byli naprawdª\p\ndobrzy, wiªc rozprzestrzeni©o siª to by©skawicznie.v\e
 
 [000196|en] yTakeruzuThey must've been influential.v\e
-[000196|ru] yTakeruzuThey must've been influential.v\e
+[000196|ru] yTakeruzuMusieli mie¨ wp©ywy.v\e
 
 [000198|en] yMikizuYeah,\p but since archery is technically a method of\nwarfare,\p it'd be strange if such a school didn't exist...\p...\pv\e
-[000198|ru] yMikizuYeah,\p but since archery is technically a method of\nwarfare,\p it'd be strange if such a school didn't exist...\p...\pv\e
+[000198|ru] yMikizuTak,\p ale poniewa¯ ©ucznictwo jest technicznie metod§\p\nprowadzenia wojny, nie mia©oby to sensu, gdyby ludzie\p\nto to robili tylko w ten spos«b...\pv\e
 
 [000199|en] yTakeruzuYeah.v\e
-[000199|ru] yTakeruzuYeah.v\e
+[000199|ru] yTakeruzuNo tak.v\e
 
 [00019b|en] yMikizuSome say facing the target while readying the\nbow is actually a lot more practical.v\e
-[00019b|ru] yMikizuSome say facing the target while readying the\nbow is actually a lot more practical.v\e
+[00019b|ru] yMikizuNiekt«rzy twierdz§,\p ¯e zwr«cenie siª w stronª celu\p\npodczas przygotowywaniu ©uku jest w rzeczywistoÛci o\p\nwiele bardziej naukowe i logiczne.v\e
 
 [00019c|en] yTakeruzuHmmm...\p...\p\nSo they went back to archery's roots now that the\nmental side of things has been thoroughly explored?v\e
-[00019c|ru] yTakeruzuHmmm...\p...\p\nSo they went back to archery's roots now that the\nmental side of things has been thoroughly explored?v\e
+[00019c|ru] yTakeruzuHmmm...\p\nWiªc w koÃcu wr«cili do korzeni ©ucznictwa,\p skoro\p\nmentalna strona wszystkiego zosta©o dok©adnie zbadana?v\e
 
 [00019e|en] yMikizuThat might be true,\p\p but it's not a matter of which\none's right.v\e
-[00019e|ru] yMikizuThat might be true,\p\p but it's not a matter of which\none's right.v\e
+[00019e|ru] yMikizuEch, mo¯e?\p\pW sumie nie wiem.\p\p\nTak czy innaczej,\p nie jest kwesti§ tego,\p kt«ry z nich ma racje.v\e
 
 [00019f|en] yTakeruzuYeah,\p just different ways of thinking.\p\nAren't different schools always like that?v\e
-[00019f|ru] yTakeruzuYeah,\p just different ways of thinking.\p\nAren't different schools always like that?v\e
+[00019f|ru] yTakeruzuTak,\p to po prostu inny spos«b myÛlenia.\p\nAle czy r«¯nica w szko©ach na tym w©aÛnie nie polega?v\e
 
 [0001a0|en] Pro wrestling's the same way.\e
-[0001a0|ru] Pro wrestling's the same way.\e
+[0001a0|ru] W zawodowym wrestlingu jak tak samo.\e
 
 [0001a2|en] yMikizuPreserving one's school is important,\p\p so papa and\nMiki won't change,\p\p but I don't think it matters which one\nyou study.v\e
-[0001a2|ru] yMikizuPreserving one's school is important,\p\p so papa and\nMiki won't change,\p\p but I don't think it matters which one\nyou study.v\e
+[0001a2|ru] yMikizuOchrona szko©y jest wa¯na,\p\p wiªc tata i ja nie\p\nzamierzamy siª zmienia¨.\p\p Ale myÛlª,\p ¯e a¯  tak to nie ma\p\nznaczenia,\p na pewno nie tyle co ty siª o tym uczysz.v\e
 
 [0001a3|en] yTakeruzuOkay,\p I get it now! Come to think of it,\p Tama,\p\nyou're surprisingly smart.v\e
-[0001a3|ru] yTakeruzuOkay,\p I get it now! Come to think of it,\p Tama,\p\nyou're surprisingly smart.v\e
+[0001a3|ru] yTakeruzuOkej,\p teraz rozumiem! Stary, Tama - jesteÛ\p\nzaskakuj§co m§dra.v\e
 
 [0001a5|en] yMikizuEeeh!?\p\p Surprisingly? How rude.v\e
-[0001a5|ru] yMikizuEeeh!?\p\p Surprisingly? How rude.v\e
+[0001a5|ru] yMikizuEeeh!?\p\p "Zaskakuj§co"?! Jakie to by©o wredne!v\e
 
 [0001a7|en] yTakeruzuWahahaha,\p sorry about that.\p\nStill, it makes sense that you'd know this much about the\nhistory of what you do.v\e
-[0001a7|ru] yTakeruzuWahahaha,\p sorry about that.\p\nStill, it makes sense that you'd know this much about the\nhistory of what you do.v\e
+[0001a7|ru] yTakeruzuBuah...\p Przepraszam za to.\p\nAle myÛlª,\p ¯e ma sens, ¯ebyÛ zna©a ca©§ historiª tego,\p\nco robisz.v\e
 
 [0001a9|en] yMikizuPapa's been teaching me since I was little.v\e
-[0001a9|ru] yMikizuPapa's been teaching me since I was little.v\e
+[0001a9|ru] yMikizuTatus mnie tego uczy©, odk§d by©am ma©a.v\e
 
 [0001aa|en] yTakeruzuI see...\p...\pv\e
-[0001aa|ru] yTakeruzuI see...\p...\pv\e
+[0001aa|ru] yTakeruzuRozumiem...\pv\e
 
 [0001ab|en] So even that kind of father can do something right.\e
-[0001ab|ru] So even that kind of father can do something right.\e
+[0001ab|ru] Wiªc nawet taki ojciec jak jej mo¯e zrobi¨ coÛ dobrze.\e
 
 [0001ad|en] yMikizuHuuuuu...\p...v\e
-[0001ad|ru] yMikizuHuuuuu...\p...v\e
+[0001ad|ru] yMikizuPhi.v\e
 
 [0001ae|en] yTakeruzuWhat's wrong?v\e
-[0001ae|ru] yTakeruzuWhat's wrong?v\e
+[0001ae|ru] yTakeruzuCoÛ nie tak?v\e
 
 [0001b0|en] yMikizuNothing,\p we've just been talking a lot.\p\nI don't usually talk to you about this sort of thing,\nTakeru-san.v\e
-[0001b0|ru] yMikizuNothing,\p we've just been talking a lot.\p\nI don't usually talk to you about this sort of thing,\nTakeru-san.v\e
+[0001b0|ru] yMikizuNic,\p po prostu du¯o rozmawialiÛmy.\p\nZwykle nie rozmawiam z tob§ o takich sprawach. Takeru-san.v\e
 
 [0001b1|en] yTakeruzuYou don't?\p ...\p...\p...\p...\pguess not.v\e
-[0001b1|ru] yTakeruzuYou don't?\p ...\p...\p...\p...\pguess not.v\e
+[0001b1|ru] yTakeruzuNie robi©aÛ tego? ...\p...\p Tak, chyba to prawda.v\e
 
 [0001b2|en] Normally someone else would be here and we'd all be\nscreaming for some reason.\e
-[0001b2|ru] Normally someone else would be here and we'd all be\nscreaming for some reason.\e
+[0001b2|ru] Zwykle ca©a grupa wok«© nas robi zamieszanie.\e
 
 [0001b4|en] yMikizuThis is the first time I've talked to anyone outside\nthe team about archery so much.v\e
-[0001b4|ru] yMikizuThis is the first time I've talked to anyone outside\nthe team about archery so much.v\e
+[0001b4|ru] yMikizuPo raz pierwszy tak du¯o rozmawia©am z kimÛ spoza\p\nzespo©u o ©ucznictwie.v\e
 
 [0001b5|en] yTakeruzuWell,\p I am your pupil, Tama.\p\nGotta give me the know-how.v\e
-[0001b5|ru] yTakeruzuWell,\p I am your pupil, Tama.\p\nGotta give me the know-how.v\e
+[0001b5|ru] yTakeruzuC«¯, JESTEM twoim uczniem, Tamo.\p\nMusisz mi da¨ jakieÛ know-howv\e
 
 [0001b7|en] yMikizuAhahaha...\p...\pv\e
-[0001b7|ru] yMikizuAhahaha...\p...\pv\e
+[0001b7|ru] yMikizuAhahaha...\pv\e
 
 [0001c0|en] yMikizuAh,\p\p bye-bye for real now.v\e
-[0001c0|ru] yMikizuAh,\p\p bye-bye for real now.v\e
+[0001c0|ru] yMikizuOh,\p\p teraz to naprawdª ju¯ pa-pa.v\e
 
 [0001c2|en] yTakeruzuOkay,\p take care on your way home.v\e
-[0001c2|ru] yTakeruzuOkay,\p take care on your way home.v\e
+[0001c2|ru] yTakeruzuOkej.\p Uwa¯aj w drodzª do domu.v\e
 
 [0001c4|en] yMikizuYeah,\p thank you!\p\p It was really fun!v\e
-[0001c4|ru] yMikizuYeah,\p thank you!\p\p It was really fun!v\e
+[0001c4|ru] yMikizuTak zrobiª! Dziªki!\p\p\nÚwietnie siª dzisiaj bawi©am!v\e
 
 [0001c5|en] yTakeruzuTomorrow we'll be working around the sports\nfestival,\p so it might not be as fun.v\e
-[0001c5|ru] yTakeruzuTomorrow we'll be working around the sports\nfestival,\p so it might not be as fun.v\e
+[0001c5|ru] yTakeruzuJutro ostatni trening przed festiwalem sportowym.\p\nWiªc mo¯e nie by¨ tak fajnie.v\e
 
 [0001c7|en] yMikizuUuuuu...\p...\p...\p...\pb-\pbut I'll try hard!v\e
-[0001c7|ru] yMikizuUuuuu...\p...\p...\p...\pb-\pbut I'll try hard!v\e
+[0001c7|ru] yMikizuOch, c«¯, nadal bªdª siª stara©a, jak tylko mogª!v\e
 
 [0001c8|en] yTakeruzuThat's the spirit! Keep this up and I'm sure\nyou'll do it!v\e
-[0001c8|ru] yTakeruzuThat's the spirit! Keep this up and I'm sure\nyou'll do it!v\e
+[0001c8|ru] yTakeruzuTo jest duch walki! Tak trzymaj, a jestem\p\npewien, ¯e ci siª uda!v\e
 
 [0001ca|en] yMikizuY-\pyes!v\e
-[0001ca|ru] yMikizuY-\pyes!v\e
+[0001ca|ru] yMikizuT-\ptak!v\e
 
 [0001cb|en] yTakeruzuBye now.v\e
-[0001cb|ru] yTakeruzuBye now.v\e
+[0001cb|ru] yTakeruzuDobrze, no to narka.v\e
 
 [0001cd|en] yMikizuOkay,\p goooodbyeee.v\e
-[0001cd|ru] yMikizuOkay,\p goooodbyeee.v\e
+[0001cd|ru] yMikizuOkej,\p do widzienia.v\e
 
 [0001d4|en] ...\p...\pnow then,\p gotta talk to Sumika and Meiya when I get\nhome.\e
-[0001d4|ru] ...\p...\pnow then,\p gotta talk to Sumika and Meiya when I get\nhome.\e
+[0001d4|ru] ...\pW porz§dku.\p Chyba bªdª musia© porozmawia¨ z Sumik§ i Meiy§,\p\nkiedy wr«cª do domu.\e
