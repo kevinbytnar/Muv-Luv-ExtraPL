@@ -2,616 +2,616 @@ SCR 1 Shift-JIS
 460
 
 [000009|en] ...\p...\p...\p...\p\e
-[000009|ru] ...\p...\p...\p...\p\e
+[000009|ru] ...\p...\p\e
 
 [00000a|en] ...\p...\p...\p...\p...\p...\p\e
-[00000a|ru] ...\p...\p...\p...\p...\p...\p\e
+[00000a|ru] ...\p...\p...\p\e
 
 [00000b|en] This place really is...\p...\pquiet.\e
-[00000b|ru] This place really is...\p...\pquiet.\e
+[00000b|ru] Ale¯ w tym miejscu...\p zrobi©o siª cicho.\e
 
 [00000c|en] Come to think of it,\p where's the rest of the archery\nteam?\e
-[00000c|ru] Come to think of it,\p where's the rest of the archery\nteam?\e
+[00000c|ru] Jakby teraz o tym pomyÛle¨,\p to gdzie podzia©a siª reszta\p\nklubu ©uczniczego?\e
 
 [00000d|en] I haven't seen any of them...\p...\psince we started training.\e
-[00000d|ru] I haven't seen any of them...\p...\psince we started training.\e
+[00000d|ru] Nie widzia©em ¯adnego z nich...\p\nPrzez ca©y okres jak trenowaliÛmy, nie widzia©em ¯adnego z nich\e
 
 [000012|en] yTakeruzu...\p...\pTama...\p...\pah!v\e
-[000012|ru] yTakeruzu...\p...\pTama...\p...\pah!v\e
+[000012|ru] yTakeruzu...\pTama...\?p...\pOh!v\e
 
 [000014|en] yCaptainzuOya?v\e
-[000014|ru] yCaptainzuOya?v\e
+[000014|ru] yCaptainzuHm?v\e
 
 [000015|en] yTakeruzuHey...\p...\pv\e
-[000015|ru] yTakeruzuHey...\p...\pv\e
+[000015|ru] yTakeruzuHej...\pv\e
 
 [000016|en] yCaptainzuAre you waiting for someone?v\e
-[000016|ru] yCaptainzuAre you waiting for someone?v\e
+[000016|ru] yCaptainzuCzekasz na kogoÛ?v\e
 
 [000017|en] yTakeruzuWaiting...\p...\p...\p...\pwell,\p I guess so.v\e
-[000017|ru] yTakeruzuWaiting...\p...\p...\p...\pwell,\p I guess so.v\e
+[000017|ru] yTakeruzuCzekam?\p Tak,\p chyba tak.v\e
 
 [000019|en] yCaptainzuThe others will start coming again tomorrow.\p\p\nThis is the last day...\p...\pyou will have the place to yourself.v\e
-[000019|ru] yCaptainzuThe others will start coming again tomorrow.\p\p\nThis is the last day...\p...\pyou will have the place to yourself.v\e
+[000019|ru] yCaptainzuPozostali zaczn§ przychodzi¨ jutro.\p\p\nTo ostatni dzieÃ, w kt«rym bªdziesz m«g© skorzysta¨ z strzelnicy.v\e
 
 [00001a|en] yTakeruzu...\p...\pwhere've they all been?v\e
-[00001a|ru] yTakeruzu...\p...\pwhere've they all been?v\e
+[00001a|ru] yTakeruzu...\pW czasie naszych trening«w, gdzie siª wszyscy podziali?v\e
 
 [00001c|en] yCaptainzuAptitude and off-campus testing.\p They'll start\npracticing again tomorrow,\p but it'll be finals week in no\ntime.v\e
-[00001c|ru] yCaptainzuAptitude and off-campus testing.\p They'll start\npracticing again tomorrow,\p but it'll be finals week in no\ntime.v\e
+[00001c|ru] yCaptainzuR«¯norakie testy umiejªtnoÛci i inne sprawy poza kampusem.\p\nJutro zaczn§ znowu ¨wiczy¨,\p ale za tydzieÃ bªd§ fina©y.v\e
 
 [00001d|en] yTakeruzuEh...\p...\palready?v\e
-[00001d|ru] yTakeruzuEh...\p...\palready?v\e
+[00001d|ru] yTakeruzuHuh...\p nie zdawa©em sobie sprawy?v\e
 
 [00001f|en] yCaptainzuI heard...\p...\pabout Tamase.v\e
-[00001f|ru] yCaptainzuI heard...\p...\pabout Tamase.v\e
+[00001f|ru] yCaptainzuS©ysza©em...\p o Tamase.v\e
 
 [000020|en] yTakeruzuYeah...\p...\pv\e
-[000020|ru] yTakeruzuYeah...\p...\pv\e
+[000020|ru] yTakeruzuTak...\pv\e
 
 [000021|en] yCaptainzuIt is a shame...\p...\p...\p...\pthough that sounds like a\ngross understatement.v\e
-[000021|ru] yCaptainzuIt is a shame...\p...\p...\p...\pthough that sounds like a\ngross understatement.v\e
+[000021|ru] yCaptainzuWielka szkoda....\p...\p\nChocia¯ szczerze,\p patrz§c na to wychodzi lekkie niedopowiedzenie.v\e
 
 [000022|en] yTakeruzu...\p...\pTama really did do her best.v\e
-[000022|ru] yTakeruzu...\p...\pTama really did do her best.v\e
+[000022|ru] yTakeruzu...\pTama naprawdªda©a z siebie wszystko.v\e
 
 [000023|en] yCaptainzuYes,\p so I heard.v\e
-[000023|ru] yCaptainzuYes,\p so I heard.v\e
+[000023|ru] yCaptainzuTak,\p s©ysza©em o tym.v\e
 
 [000024|en] yTakeruzuI don't think...\p...\pshe'll ever get freaked out\nagain.v\e
-[000024|ru] yTakeruzuI don't think...\p...\pshe'll ever get freaked out\nagain.v\e
+[000024|ru] yTakeruzuNie s§dzª...\p ¯e kiedykolwiek jeszcze przestraszy\p\nsiª widowni.v\e
 
 [000025|en] yCaptainzuI heard that too.\p\p Simply amazing...\p...v\e
-[000025|ru] yCaptainzuI heard that too.\p\p Simply amazing...\p...v\e
+[000025|ru] yCaptainzuDosz©y mnie s©uchy.\p\p Ca©kiem niesamowite...v\e
 
 [000026|en] yTakeruzuYeah.v\e
-[000026|ru] yTakeruzuYeah.v\e
+[000026|ru] yTakeruzuTak.\[.v\e
 
 [000028|en] yCaptainzu...\p...\pyou, I mean.v\e
-[000028|ru] yCaptainzu...\p...\pyou, I mean.v\e
+[000028|ru] yCaptainzu...\pM«wi©em o tobie.v\e
 
 [000029|en] yTakeruzuEh?v\e
 [000029|ru] yTakeruzuEh?v\e
 
 [00002a|en] yCaptainzuI'll be going now.v\e
-[00002a|ru] yCaptainzuI'll be going now.v\e
+[00002a|ru] yCaptainzuP«jdª ju¯.v\e
 
 [00002b|en] yTakeruzu...\p...\pso why did you come here in the first\nplace?v\e
-[00002b|ru] yTakeruzu...\p...\pso why did you come here in the first\nplace?v\e
+[00002b|ru] yTakeruzu...\pA nie mia©eÛ w tym miejscu jakieÛ sprawy do\p\nza©atwienia?v\e
 
 [00002c|en] yCaptainzuAaah,\p I just visit every so often, that's all.v\e
-[00002c|ru] yCaptainzuAaah,\p I just visit every so often, that's all.v\e
+[00002c|ru] yCaptainzuOch,\p po prostu, lubiª tu czªsto zagl§da¨.\p\nW©aÛnie skoÃczy©em to robi¨v\e
 
 [00002d|en] yTakeruzuHmmm...\p...\pv\e
-[00002d|ru] yTakeruzuHmmm...\p...\pv\e
+[00002d|ru] yTakeruzuRozumiem...\pv\e
 
 [00002e|en] yCaptainzuTamase's coming,\p right?v\e
-[00002e|ru] yCaptainzuTamase's coming,\p right?v\e
+[00002e|ru] yCaptainzuTamase nadchodzi,\p prawda?v\e
 
 [00002f|en] yTakeruzuEh...\p...\p?v\e
-[00002f|ru] yTakeruzuEh...\p...\p?v\e
+[00002f|ru] yTakeruzuEh...\p?v\e
 
 [000030|en] yCaptainzuTell her to lock the door behind her.\p\p Bye now.v\e
-[000030|ru] yCaptainzuTell her to lock the door behind her.\p\p Bye now.v\e
+[000030|ru] yCaptainzuPrzeka¯ jej, ¯eby zamknª©a za sob§ drzwi.\p\nNarka.v\e
 
 [000033|en] ...\p...\p...\p...\p\e
-[000033|ru] ...\p...\p...\p...\p\e
+[000033|ru] ...\p...\p\e
 
 [000034|en] I thought...\p...\pthat our training would keep going,\p even\nafter the match.\e
-[000034|ru] I thought...\p...\pthat our training would keep going,\p even\nafter the match.\e
+[000034|ru] MyÛla©em...\p ¯e nasze treningi bªd§ kontynuowane nawet po\p\nzakoÃczeniu pojedynku\e
 
 [000037|en] But...\p...\pstarting tomorrow,\p there'll be others here\nagain...\p...\pand Tama won't be on the team much\nlonger...\p...\p\e
-[000037|ru] But...\p...\pstarting tomorrow,\p there'll be others here\nagain...\p...\pand Tama won't be on the team much\nlonger...\p...\p\e
+[000037|ru] Ale...\p od jutra bªdª tu tylko kolejnym goÛciem...\p\nA Tama bªdzie emerytowan§ seniork§...\p\e
 
 [000038|en] Which means...\p...\pthere'll be no place for us here.\e
-[000038|ru] Which means...\p...\pthere'll be no place for us here.\e
+[000038|ru] A to oznacza, ¯e...\p nie bªdzie tu dla nas miejsca.\e
 
 [000039|en] ...\p...\p\e
-[000039|ru] ...\p...\p\e
+[000039|ru] ...\p\e
 
 [00003a|en] ...\p...\p...\p...\p\e
-[00003a|ru] ...\p...\p...\p...\p\e
+[00003a|ru] ...\p...\p\e
 
 [00003b|en] Is she really going to come...\p...\p...\p...\p?\e
-[00003b|ru] Is she really going to come...\p...\p...\p...\p?\e
+[00003b|ru] Czy ona anaprawdª tu idzie...\p...\p?\e
 
 [00003e|en] Tama...\p...\pshe still isn't here.\e
-[00003e|ru] Tama...\p...\pshe still isn't here.\e
+[00003e|ru] Tama...\p Co ci zajmujª a¯ tyle czasu?\e
 
 [00003f|en] She said she had something to say after the match.\e
-[00003f|ru] She said she had something to say after the match.\e
+[00003f|ru] Powiedzia©a, ¯e po meczu chcia©aby mi coÛ powiedzie¨.\e
 
 [000040|en] I saw her in class, of course,\p but she looked\npreoccupied so I didn't raise the issue.\e
-[000040|ru] I saw her in class, of course,\p but she looked\npreoccupied so I didn't raise the issue.\e
+[000040|ru] M«g©bym j§ o to zapyta¨ w czasie lekcji,\p ale wygl§da©a\p\nwtedy na zajªt§, wiªc nie porusza©em tej kwestii.\e
 
 [000041|en] I thought...\p...\pwe'd just talk after class.\e
-[000041|ru] I thought...\p...\pwe'd just talk after class.\e
+[000041|ru] UÛwiadomi©em sobie....\p ¯e jak zwykle spotkamy siª\p\npo zajªciach.\e
 
 [000042|en] I thought...\p...\pwe'd be able to talk here all we wanted.\e
-[000042|ru] I thought...\p...\pwe'd be able to talk here all we wanted.\e
+[000042|ru] PomyÛla©em sobie....\p ¯e bªdziemy mogli tu rozmawia¨\p\ndo woli.\e
 
 [000043|en] Is she...\p...\pcoming?\e
-[000043|ru] Is she...\p...\pcoming?\e
+[000043|ru] A mo¯e ona...\p tutaj nie przyjdzie?\e
 
 [000048|en] yVoicezuTakeru...\p...\psan?v\e
-[000048|ru] yVoicezuTakeru...\p...\psan?v\e
+[000048|ru] yG©oszuTakeru...\psan?v\e
 
 [000049|en] Hm...\p...\p? It's Tama...\p...\p\e
-[000049|ru] Hm...\p...\p? It's Tama...\p...\p\e
+[000049|ru] Hm...\p? To Tama...\p\e
 
 [00004a|en] yTakeruzuYou're late...\p...\pv\e
-[00004a|ru] yTakeruzuYou're late...\p...\pv\e
+[00004a|ru] yTakeruzuSpoÜni©aÛ siª...\pv\e
 
 [00004c|en] yMikizuYou...\p...\pwaited?v\e
-[00004c|ru] yMikizuYou...\p...\pwaited?v\e
+[00004c|ru] yMikizuCzeka©eÛ...\p przez ten czas?v\e
 
 [00004d|en] yTakeruzuOf course I did.v\e
-[00004d|ru] yTakeruzuOf course I did.v\e
+[00004d|ru] yTakeruzuAle¯ oczywiÛcie.v\e
 
 [00004f|en] yMikizu...\p...\p...\p...\pv\e
-[00004f|ru] yMikizu...\p...\p...\p...\pv\e
+[00004f|ru] yMikizu...\p...\pv\e
 
 [000050|en] yTakeruzuThe ex-captain was here.\p He said the first-\nand second-years will be here again tomorrow.v\e
-[000050|ru] yTakeruzuThe ex-captain was here.\p He said the first-\nand second-years will be here again tomorrow.v\e
+[000050|ru] yTakeruzuEx-kapitan tu by©.\p Powiedzia©, ¯e jutro zn«w tu\p\nprzybªd§ pierwszo- i drugoklasiÛci.v\e
 
 [000052|en] yMikizuI see...\p...\pv\e
-[000052|ru] yMikizuI see...\p...\pv\e
+[000052|ru] yMikizuRozumiem...\pv\e
 
 [000053|en] yTakeruzu...\p...\phurry up and change.\nThis is our last practice.v\e
-[000053|ru] yTakeruzu...\p...\phurry up and change.\nThis is our last practice.v\e
+[000053|ru] yTakeruzu...\pNo to Ûmigaj i ju¯ siª przebieraj.\p\nKoÃczy siª nam czas na nasz ostatni wsp«lny trening.v\e
 
 [000055|en] yMikizuTakeru-san...\p...\pv\e
-[000055|ru] yMikizuTakeru-san...\p...\pv\e
+[000055|ru] yMikizuTakeru-san...\pv\e
 
 [000056|en] yTakeruzuI still...\p...\phaven't hit the bullseye...\p...\pv\e
-[000056|ru] yTakeruzuI still...\p...\phaven't hit the bullseye...\p...\pv\e
+[000056|ru] yTakeruzuPrzecie¯...\p jeszcze nie trafi©em w Ûrodeczek..\pv\e
 
 [000058|en] yMikizuYes...\p...\pv\e
-[000058|ru] yMikizuYes...\p...\pv\e
+[000058|ru] yMikizuTak...\pv\e
 
 [00005b|en] yTakeruzuCome to think of it...\p...v\e
-[00005b|ru] yTakeruzuCome to think of it...\p...v\e
+[00005b|ru] yTakeruzuOh, no tak.\p Jakby teraz o tym pomyÛle¨...v\e
 
 [00005c|en] yMikizu...\p...\pyes?v\e
-[00005c|ru] yMikizu...\p...\pyes?v\e
+[00005c|ru] yMikizu...\pTak?v\e
 
 [00005f|en] yTakeruzuHe said to lock the door.v\e
-[00005f|ru] yTakeruzuHe said to lock the door.v\e
+[00005f|ru] yTakeruzuEx-kapitan kaza© siª upewni¨, ¯e zamkniesz po\p\nsobie drzwi.v\e
 
 [000060|en] yMikizu...\p...\pyes.v\e
-[000060|ru] yMikizu...\p...\pyes.v\e
+[000060|ru] yMikizu...\pTak.v\e
 
 [000061|en] yTakeruzuTamaaa.v\e
-[000061|ru] yTakeruzuTamaaa.v\e
+[000061|ru] yTakeruzuTamooo.v\e
 
 [000062|en] yMikizu...\p...\pyes.v\e
-[000062|ru] yMikizu...\p...\pyes.v\e
+[000062|ru] yMikizu...\pTak.v\e
 
 [000063|en] yTakeruzuHeeey.v\e
-[000063|ru] yTakeruzuHeeey.v\e
+[000063|ru] yTakeruzuZiemia do Tamy.v\e
 
 [000064|en] yMikizu...\p...\pyes.v\e
-[000064|ru] yMikizu...\p...\pyes.v\e
+[000064|ru] yMikizu...\pTak.v\e
 
 [000065|en] She's not listening.\e
-[000065|ru] She's not listening.\e
+[000065|ru] Ona w og«le nie s©ucha co do niej m«wiª.\e
 
 [000066|en] yMikizuTakeru-san...\p...\pv\e
-[000066|ru] yMikizuTakeru-san...\p...\pv\e
+[000066|ru] yMikizuTakeru-san...\pv\e
 
 [000067|en] yTakeruzuAh?v\e
-[000067|ru] yTakeruzuAh?v\e
+[000067|ru] yTakeruzuHm?v\e
 
 [000068|en] yMikizuWhy...\p...\p...\pdid you wait?v\e
-[000068|ru] yMikizuWhy...\p...\p...\pdid you wait?v\e
+[000068|ru] yMikizuWhy...\pDlaczego...\p czeka©eÛ na mnie?v\e
 
 [000069|en] yTakeruzuWell...\p...\pI thought you'd come.v\e
-[000069|ru] yTakeruzuWell...\p...\pI thought you'd come.v\e
+[000069|ru] yTakeruzuC«¯...\p PomyÛla©em sobie, ¯e przyjdziesz.v\e
 
 [00006a|en] yMikizu...\p...\pwhy?v\e
-[00006a|ru] yMikizu...\p...\pwhy?v\e
+[00006a|ru] yMikizu...\pDlaczego?v\e
 
 [00006b|en] yTakeruzuYou said you wanted to tell me\nsomething...\p...\pand...\p...\pv\e
-[00006b|ru] yTakeruzuYou said you wanted to tell me\nsomething...\p...\pand...\p...\pv\e
+[00006b|ru] yTakeruzuPowiedzia©aÛ, ¯e chcesz mi coÛ powiedzie¨...\pv\e
 
 [00006c|en] yMikizuAnd?v\e
-[00006c|ru] yMikizuAnd?v\e
+[00006c|ru] yMikizuI?v\e
 
 [00006d|en] yTakeruzuI don't know why, but...\p...\pI just knew you'd be\nhere.v\e
-[00006d|ru] yTakeruzuI don't know why, but...\p...\pI just knew you'd be\nhere.v\e
+[00006d|ru] yTakeruzuI nie wiem dlaczego,\p ale...\p\nPo prostu,\p przeczuwa©em, ¯e tu przyjdziesz.v\e
 
 [00006e|en] yMikizu...\p...\pI'm sorry.v\e
-[00006e|ru] yMikizu...\p...\pI'm sorry.v\e
+[00006e|ru] yMikizu...\pPrzepraszam.v\e
 
 [00006f|en] yTakeruzuEnough of that,\p hurry up and get changed.v\e
-[00006f|ru] yTakeruzuEnough of that,\p hurry up and get changed.v\e
+[00006f|ru] yTakeruzuDosy¨ tego.\p PoÛpiesz siª i przebierz siª.v\e
 
 [000075|en] yMikizuMiki...\p...\p...\pthought about going home first.v\e
-[000075|ru] yMikizuMiki...\p...\p...\pthought about going home first.v\e
+[000075|ru] yMikizuTak w©aÛciwie...\p Chcia©abym ju¯ iÛ¨ do domu.v\e
 
 [000077|en] yTakeruzu...\p...\pwhat about that thing you wanted to tell\nme?v\e
-[000077|ru] yTakeruzu...\p...\pwhat about that thing you wanted to tell\nme?v\e
+[000077|ru] yTakeruzu...\pA co z t§ kwesti§,\p o kt«rej chcia©aÛ ze mn§,\p\nporozmawia¨?v\e
 
 [000079|en] yMikizuI decided to say it if I won...\p...\pv\e
-[000079|ru] yMikizuI decided to say it if I won...\p...\pv\e
+[000079|ru] yMikizuObieca©am sobie, ¯e powiem to, jeÛli uda mi siª wygra¨...\pv\e
 
 [00007a|en] yTakeruzu...\p...\pI see.v\e
-[00007a|ru] yTakeruzu...\p...\pI see.v\e
+[00007a|ru] yTakeruzu...\pRozumiem.v\e
 
 [00007c|en] yMikizuBut...\p...\p...\p...\pI lost...\p...\pv\e
-[00007c|ru] yMikizuBut...\p...\p...\p...\pI lost...\p...\pv\e
+[00007c|ru] yMikizuAle...\p...\p Przegra©am...\p wiªc...\pv\e
 
 [00007d|en] yTakeruzuAnd my practice?v\e
-[00007d|ru] yTakeruzuAnd my practice?v\e
+[00007d|ru] yTakeruzuA co z moim treningiem?v\e
 
 [00007e|en] yMikizuI thought...\p...\pyou wouldn't be here...\p...\pI was sure\nyou wouldn't...\p...\pv\e
-[00007e|ru] yMikizuI thought...\p...\pyou wouldn't be here...\p...\pI was sure\nyou wouldn't...\p...\pv\e
+[00007e|ru] yMikizuNie s§dzi©am, ¯e tu bªdziesz...\p\nBy©am pewna, ¯e ciª tu nie spotkam...\pv\e
 
 [00007f|en] yTakeruzuWhy?v\e
-[00007f|ru] yTakeruzuWhy?v\e
+[00007f|ru] yTakeruzuAle dlaczego?v\e
 
 [000080|en] yMikizu...\p...\p...\p...\pI don't know.v\e
-[000080|ru] yMikizu...\p...\p...\p...\pI don't know.v\e
+[000080|ru] yMikizu...\p...\pNie wiem.v\e
 
 [000081|en] yTakeruzuHey now...\p...\pv\e
-[000081|ru] yTakeruzuHey now...\p...\pv\e
+[000081|ru] yTakeruzuNo weÜ...\pv\e
 
 [000082|en] yMikizuI don't know why...\p...\p...\p...\pbut that's what I felt.v\e
-[000082|ru] yMikizuI don't know why...\p...\p...\p...\pbut that's what I felt.v\e
+[000082|ru] yMikizuNie wiem dlaczego...\p...\p\nAle tak w©aÛnie siª poczu©am.v\e
 
 [000083|en] yTakeruzuThen why are you here?v\e
-[000083|ru] yTakeruzuThen why are you here?v\e
+[000083|ru] yTakeruzuNo to dlaczego, tutaj jesteÛ?v\e
 
 [000084|en] yMikizuI had a feeling you might be here after all...\p...\pv\e
-[000084|ru] yMikizuI had a feeling you might be here after all...\p...\pv\e
+[000084|ru] yMikizuPo prostu odnios©am wra¯enie, ¯e mimo wszystko mo¯esz\p\ntu by¨...\pv\e
 
 [000085|en] yTakeruzu...\p...\pv\e
-[000085|ru] yTakeruzu...\p...\pv\e
+[000085|ru] yTakeruzu...\pv\e
 
 [000087|en] yMikizuThe more I thought about it...\p...\pthe more it felt like\nyou were...\p...\pand my heart kept speeding up...\p...\pv\e
-[000087|ru] yMikizuThe more I thought about it...\p...\pthe more it felt like\nyou were...\p...\pand my heart kept speeding up...\p...\pv\e
+[000087|ru] yMikizuIm wiªcej o tym myÛla©am...\p tym bardziej wydawa©o mi siª\p\nprawdopodobne...\p i serce prez to zaczª©o mi by¨...\pv\e
 
 [000088|en] yTakeruzu...\p...\p...\p...\pv\e
-[000088|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000088|ru] yTakeruzu...\p...\pv\e
 
 [000089|en] yMikizuI wanted you to be here...\p...\p...\p...\pI wanted to see\nyou...\p...\pv\e
-[000089|ru] yMikizuI wanted you to be here...\p...\p...\p...\pI wanted to see\nyou...\p...\pv\e
+[000089|ru] yMikizuChcia©am, ¯ebyÛ tu by©...\p...\p Chcia©am ciª zobaczy¨...\pv\e
 
 [00008a|en] yTakeruzuAaah...\p...\pyou wanted to see me.v\e
-[00008a|ru] yTakeruzuAaah...\p...\pyou wanted to see me.v\e
+[00008a|ru] yTakeruzuRozumiem...\p Po prostu chcia©aÛ mnie zobaczy¨.v\e
 
 [00008c|en] yMikizu...\p...\pyes.v\e
-[00008c|ru] yMikizu...\p...\pyes.v\e
+[00008c|ru] yMikizu...\pTak.v\e
 
 [00008e|en] yTakeruzuNo wonder you're contradicting yourself.\p\nThere's never a proper reason to feel things like that.v\e
-[00008e|ru] yTakeruzuNo wonder you're contradicting yourself.\p\nThere's never a proper reason to feel things like that.v\e
+[00008e|ru] yTakeruzuC«¯, to nie twoja wina, ¯e nie potrafisz tego wyjaÛni¨.\p\nCzasami po prostu masz ochotª siªz kimÛ spotka¨, nawet jeÛli nie\p\nmasz ku temu jakiegoÛ konkrªtnego powodu.v\e
 
 [000090|en] yMikizu...\p...\p...\p...\pv\e
-[000090|ru] yMikizu...\p...\p...\p...\pv\e
+[000090|ru] yMikizu...\p...\pv\e
 
 [000091|en] yTakeruzuThen why not tell me what it was?\p\nIt doesn't matter whether you won or lost, right?v\e
-[000091|ru] yTakeruzuThen why not tell me what it was?\p\nIt doesn't matter whether you won or lost, right?v\e
+[000091|ru] yTakeruzuDlaczego wiªc nie powiesz mi, o czym chcia©aÛ\p\nze porozmawia¨? Miªdzy nami i tak nie ma znaczenia, czy wygra©aÛ\palbo czy przegra©aÛ, prawda?v\e
 
 [000093|en] yMikizuI...\p...\p...\p...\pcan't do that.v\e
-[000093|ru] yMikizuI...\p...\p...\p...\pcan't do that.v\e
+[000093|ru] yMikizuNie...\p...\p mogª tego zrobi¨.v\e
 
 [000094|en] yTakeruzuWhy not?\p Say it as your punishment for making\nme wait...\p...\pokay?v\e
-[000094|ru] yTakeruzuWhy not?\p Say it as your punishment for making\nme wait...\p...\pokay?v\e
+[000094|ru] yTakeruzuDlaczego nie?\p Potraktuj to jako kare za to,\p\n¯e kaza©aÛ mi czeka¨?v\e
 
 [000096|en] yMikizu...\p...\pwhen Suiko-san missed,\p\p I thought I could win.v\e
-[000096|ru] yMikizu...\p...\pwhen Suiko-san missed,\p\p I thought I could win.v\e
+[000096|ru] yMikizu...\pKiedy Suiko-san spud©owa©a, myÛla©am, ¯e wygram.v\e
 
 [000097|en] yTakeruzu...\p...\phm?v\e
-[000097|ru] yTakeruzu...\p...\phm?v\e
+[000097|ru] yTakeruzu...\pHm?v\e
 
 [000098|en] yMikizuBut...\p...\p...\p...\pwhen I thought about saying it after I\nwon...\pI got worried...\p...\pv\e
-[000098|ru] yMikizuBut...\p...\p...\p...\pwhen I thought about saying it after I\nwon...\pI got worried...\p...\pv\e
+[000098|ru] yMikizuAle...\p...\p poniewa¯ obieca©am, ¯e powiem ci, jak wygram...\p\nZaniepokoi©am siª\pv\e
 
 [000099|en] yTakeruzu...\p...\pTama.v\e
-[000099|ru] yTakeruzu...\p...\pTama.v\e
+[000099|ru] yTakeruzu...\pTama.v\e
 
 [00009b|en] yMikizu...\p...\pand missed.v\e
-[00009b|ru] yMikizu...\p...\pand missed.v\e
+[00009b|ru] yMikizu...\pI chybi©am.v\e
 
 [00009c|en] yTakeruzu...\p...\p...\p...\pv\e
-[00009c|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00009c|ru] yTakeruzu...\p...\pv\e
 
 [00009d|en] yMikizuI felt sad...\p...\p...\p...\pright after I thought I could do\nit...\p...\p...\p...\pmy head just went white again...\p...\pv\e
-[00009d|ru] yMikizuI felt sad...\p...\p...\p...\pright after I thought I could do\nit...\p...\p...\p...\pmy head just went white again...\p...\pv\e
+[00009d|ru] yMikizuBardzo mnie to zasmuci©o...\p Zaraz po tym, jak pomyÛla©am, ¯e dam\p\nradª...\p...\p znowu w mojej g©owie zapanowa©a pustka...\pv\e
 
 [00009e|en] yTakeruzu...\p...\p...\p...\pv\e
-[00009e|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00009e|ru] yTakeruzu...\p...\pv\e
 
 [00009f|en] yMikizu...\p...\pso I won't say it.\n...\p...\p...\p...\p...\p...\pI can't.v\e
-[00009f|ru] yMikizu...\p...\pso I won't say it.\n...\p...\p...\p...\p...\p...\pI can't.v\e
+[00009f|ru] yMikizu...\pWiªc nie powiem tego.\p\n...\p...\p...\pNie mogª tego zrobi¨.v\e
 
 [0000a0|en] yTakeruzu...\p...\pif you want to say it after winning...\p...\p...\p...\pisn't\nit too late now?v\e
-[0000a0|ru] yTakeruzu...\p...\pif you want to say it after winning...\p...\p...\p...\pisn't\nit too late now?v\e
+[0000a0|ru] yTakeruzu...\pRozmiem,\p ¯e mia©aÛ zamair to powiedzie¨ tylko w przypadku\p\nwygranej...\p...\p ale czy jest ju¯ za p«Üno na zmiane zdania?v\e
 
 [0000a1|en] yMikizu...\p...\p...\p...\pv\e
-[0000a1|ru] yMikizu...\p...\p...\p...\pv\e
+[0000a1|ru] yMikizu...\p...\pv\e
 
 [0000a2|en] yTakeruzu...\p...\por could I...\p...\pv\e
-[0000a2|ru] yTakeruzu...\p...\por could I...\p...\pv\e
+[0000a2|ru] yTakeruzu...\pNie mogª...\pv\e
 
 [0000a3|en] yMikizu...\p...\p?v\e
-[0000a3|ru] yMikizu...\p...\p?v\e
+[0000a3|ru] yMikizu...\p?v\e
 
 [0000a4|en] yTakeruzuGrant that wish for you?v\e
-[0000a4|ru] yTakeruzuGrant that wish for you?v\e
+[0000a4|ru] yTakeruzuSpr«bujesz spe©ni¨ swoje ¯yczenie?v\e
 
 [0000a6|en] yMikizu...\p...\peh?v\e
-[0000a6|ru] yMikizu...\p...\peh?v\e
+[0000a6|ru] yMikizu...\pHuh?v\e
 
 [0000a7|en] yTakeruzuCould I grant that wish for you?v\e
-[0000a7|ru] yTakeruzuCould I grant that wish for you?v\e
+[0000a7|ru] yTakeruzuMyÛlisz, ¯e m«g©bym chocia¯ da¨ ci szanse?v\e
 
 [0000a8|en] yMikizu...\p...\p...\p...\pv\e
-[0000a8|ru] yMikizu...\p...\p...\p...\pv\e
+[0000a8|ru] yMikizu...\p...\pv\e
 
 [0000a9|en] yTakeruzuDon't hold back.v\e
-[0000a9|ru] yTakeruzuDon't hold back.v\e
+[0000a9|ru] yTakeruzuNie wstrzymuj siª.v\e
 
 [0000aa|en] yMikizu...\p...\p...\p...\pv\e
-[0000aa|ru] yMikizu...\p...\p...\p...\pv\e
+[0000aa|ru] yMikizu...\p...\pv\e
 
 [0000ab|en] yTakeruzuIf there's something I can do...\p...\pTama...\p...\pI\nwant...\p...\pto grant that wish for you.v\e
-[0000ab|ru] yTakeruzuIf there's something I can do...\p...\pTama...\p...\pI\nwant...\p...\pto grant that wish for you.v\e
+[0000ab|ru] yTakeruzuJeÛli to w og«le mo¯liwe, Tamo...\p Chcia©ym...\p\nChcia©bym m«c spe©nia¨ twoje ¯yczeia. Jakiekolwiek one by nie by©y.v\e
 
 [0000ac|en] yMikizu...\p...\p...\p...\pv\e
-[0000ac|ru] yMikizu...\p...\p...\p...\pv\e
+[0000ac|ru] yMikizu...\p...\pv\e
 
 [0000ad|en] yTakeruzu...\p...\phow about it?v\e
-[0000ad|ru] yTakeruzu...\p...\phow about it?v\e
+[0000ad|ru] yTakeruzu...\pCo ty na to?v\e
 
 [0000af|en] yMikizu...\p...\pthen...\p...\pv\e
-[0000af|ru] yMikizu...\p...\pthen...\p...\pv\e
+[0000af|ru] yMikizu...\pNo to...?\pv\e
 
 [0000b0|en] yTakeruzuYes?v\e
-[0000b0|ru] yTakeruzuYes?v\e
+[0000b0|ru] yTakeruzuTak?v\e
 
 [0000b1|en] yMikizu...\p...\pif I can hit the target with all four of these\narrows,\p Takeru-san, I'll tell you.v\e
-[0000b1|ru] yMikizu...\p...\pif I can hit the target with all four of these\narrows,\p Takeru-san, I'll tell you.v\e
+[0000b1|ru] yMikizu...\pJeÛli uda mi siª trafi¨ w cel wszystkimi czterema\p\nstrza©ami,\p powiem ci.v\e
 
 [0000b2|en] yTakeruzu...\p...\pdo you...\p...\pneed to do that?v\e
-[0000b2|ru] yTakeruzu...\p...\pdo you...\p...\pneed to do that?v\e
+[0000b2|ru] yTakeruzu...\pCzy...\p naprawdª musisz to zrobi¨?v\e
 
 [0000b3|en] yMikizu...\p...\pyes.v\e
-[0000b3|ru] yMikizu...\p...\pyes.v\e
+[0000b3|ru] yMikizu...\pTak.v\e
 
 [0000b4|en] yTakeruzuOkay then...\p...\pI'll watch.v\e
-[0000b4|ru] yTakeruzuOkay then...\p...\pI'll watch.v\e
+[0000b4|ru] yTakeruzuOkej no to...\p Bªdª patrzy©.v\e
 
 [0000bc|en] ...\p...\p...\p...\p\e
-[0000bc|ru] ...\p...\p...\p...\p\e
+[0000bc|ru] ...\p...\p\e
 
 [0000bd|en] I'm not sure what it is she wants to do...\p...\p\e
-[0000bd|ru] I'm not sure what it is she wants to do...\p...\p\e
+[0000bd|ru] Nie jestem pewien, co ona che zrobi¨...\p\e
 
 [0000c2|en] But I understand how she feels...\p...\p\e
-[0000c2|ru] But I understand how she feels...\p...\p\e
+[0000c2|ru] Ale rozumiem, co ona czuje...\p\e
 
 [0000ca|en] And I want to answer those feelings...\p...\p\e
-[0000ca|ru] And I want to answer those feelings...\p...\p\e
+[0000ca|ru] I chcª odpowiedzie¨ na te uczucia...\p\e
 
 [0000cf|en] But...\p...\pthat would...\p...\p\e
-[0000cf|ru] But...\p...\pthat would...\p...\p\e
+[0000cf|ru] Poniewa¯...\p\e
 
 [0000d7|en] Grant my wish as well...\p...\p\e
-[0000d7|ru] Grant my wish as well...\p...\p\e
+[0000d7|ru] To spe©ni©oby r«wnie¯ moje w©asne ¯yczenie...\p\e
 
 [0000dc|en] One arrow left.\e
-[0000dc|ru] One arrow left.\e
+[0000dc|ru] Zosta©a jedna strza©a.\e
 
 [0000e0|en] yMikizu...\p...\pthis is the last one.v\e
-[0000e0|ru] yMikizu...\p...\pthis is the last one.v\e
+[0000e0|ru] yMikizu...\pTo jest ostatnia.v\e
 
 [0000e1|en] yTakeruzuYeah.v\e
-[0000e1|ru] yTakeruzuYeah.v\e
+[0000e1|ru] yTakeruzuTak.v\e
 
 [0000e3|en] yMikizu...\p...\pif this arrow hits...\p...\pv\e
-[0000e3|ru] yMikizu...\p...\pif this arrow hits...\p...\pv\e
+[0000e3|ru] yMikizu...\pJeÛli ta trza©a trafi...\pv\e
 
 [0000e5|en] yTakeruzu...\p...\peh?v\e
-[0000e5|ru] yTakeruzu...\p...\peh?v\e
+[0000e5|ru] yTakeruzu...\pHuh?v\e
 
 [0000e7|en] yMikizu...\p...\pplease go out with Miki!v\e
-[0000e7|ru] yMikizu...\p...\pplease go out with Miki!v\e
+[0000e7|ru] yMikizu...\pProszª ¯ebyÛ zosta© moim ch©opakiem!v\e
 
 [0000ea|en] ...\p...\pwhen did I start feeling this way?\e
-[0000ea|ru] ...\p...\pwhen did I start feeling this way?\e
+[0000ea|ru] ...\pNie jestem pewien,\p kiedy zacz§©em siª tak czu¨,\p\nale...\e
 
 [0000eb|en] I was planning on doing that even if you didn't ask.\e
-[0000eb|ru] I was planning on doing that even if you didn't ask.\e
+[0000eb|ru] Planowa©em to zrobi¨. Nawet jeÛli nigdy byÛ nie wypowiedzia©a\p\ntych s©«w.\e
 
 [0000ec|en] I've been wishing for more of this.\e
-[0000ec|ru] I've been wishing for more of this.\e
+[0000ec|ru] Chcª ¯ebyÛ by©a czªÛci§mojego ¯ycia.\e
 
 [0000ed|en] I thought it'd just keep happening if I pretended not to\nrealize...\p...\e
-[0000ed|ru] I thought it'd just keep happening if I pretended not to\nrealize...\p...\e
+[0000ed|ru] PomyÛla©em, ¯e stanie siªto naturalne, jeÛli bªdª udwa©\p\ng©upiego...\e
 
 [0000ee|en] I don't know when it started, but...\p...\p\e
-[0000ee|ru] I don't know when it started, but...\p...\p\e
+[0000ee|ru] Nie jestem pewien, kiedy to siª zacz©o, ale...\p\e
 
 [0000ef|en] To me, Tama...\p...\p\e
-[0000ef|ru] To me, Tama...\p...\p\e
+[0000ef|ru] Tama, ja...\p\e
 
 [0000f0|en] yTakeruzu...\p...\paaah.v\e
-[0000f0|ru] yTakeruzu...\p...\paaah.v\e
+[0000f0|ru] yTakeruzu...\pNo tak.v\e
 
 [0000fa|en] No!\e
-[0000fa|ru] No!\e
+[0000fa|ru] To nie mo¯e tak by¨!\e
 
 [0000ff|en] What am I looking at?\e
-[0000ff|ru] What am I looking at?\e
+[0000ff|ru] Po co ja w©aÛnie to ogl§dam?\e
 
 [000104|en] Just waiting for her is...\p...\p\e
-[000104|ru] Just waiting for her is...\p...\p\e
+[000104|ru] Nie mogª po prostu...\p\e
 
 [000107|en] yMikizu...\p...\p...\p...\p!v\e
-[000107|ru] yMikizu...\p...\p...\p...\p!v\e
+[000107|ru] yMikizu...\p...\p!v\e
 
 [00010b|en] „Ÿ„ŸThat's no good!!\e
-[00010b|ru] „Ÿ„ŸThat's no good!!\e
+[00010b|ru] „Ÿ„ŸNie mogª po prostu siedzie¨ i czeka¨!!\e
 
 [000113|en] yMikizu...\p...\pah!v\e
-[000113|ru] yMikizu...\p...\pah!v\e
+[000113|ru] yMikizu...\pAh!v\e
 
 [000114|en] ...\p...\p...\p...\p\e
-[000114|ru] ...\p...\p...\p...\p\e
+[000114|ru] ...\p...\p\e
 
 [00011c|en] yMikizu...\p...\p...\p...\pah.v\e
-[00011c|ru] yMikizu...\p...\p...\p...\pah.v\e
+[00011c|ru] yMikizu...\p...\pAh.v\e
 
 [00011d|en] ...\p...\p...\p...\p\e
-[00011d|ru] ...\p...\p...\p...\p\e
+[00011d|ru] ...\p...\p\e
 
 [00011e|en] yMikizu...\p...\pI missed...\p...\pv\e
-[00011e|ru] yMikizu...\p...\pI missed...\p...\pv\e
+[00011e|ru] yMikizu...\pCHybi©am...\p...\pv\e
 
 [000120|en] yTakeruzuTamaaaaaaaaa!!!v\e
 [000120|ru] yTakeruzuTamaaaaaaaaa!!!v\e
 
 [000122|en] yMikizuEh!?v\e
-[000122|ru] yMikizuEh!?v\e
+[000122|ru] yMikizuHUH!?v\e
 
 [000127|en] I can't just wait for her!\e
-[000127|ru] I can't just wait for her!\e
+[000127|ru] Nie mogª siª jej doczeka¨!\e
 
 [000128|en] Tama...\p...\pshe's told me how she feels!\e
-[000128|ru] Tama...\p...\pshe's told me how she feels!\e
+[000128|ru] Tama powiedzia©a mi,\p co czuje!\e
 
 [000129|en] I've gotta answer her!!\e
-[000129|ru] I've gotta answer her!!\e
+[000129|ru] Muszª jej odpowiedzie¨, do cholery!!\e
 
 [00012a|en] Not go out with her because she missed?\e
-[00012a|ru] Not go out with her because she missed?\e
+[00012a|ru] Mam siª z ni§ nie umawia¨ tylko dlatego, ¯e chybi©a?\e
 
 [00012b|en] Go out with her because she hits!?\e
-[00012b|ru] Go out with her because she hits!?\e
+[00012b|ru] I chodzi¨ z ni§ tylko dlatego, ¯e trafi©a w cel!?\e
 
 [00012c|en] That's not right!!\e
-[00012c|ru] That's not right!!\e
+[00012c|ru] To jest por§bane!!\e
 
 [00012d|en] From now on,\p we're going to...\p...\pI'm going to...\p...\pI„Ÿ!\e
-[00012d|ru] From now on,\p we're going to...\p...\pI'm going to...\p...\pI„Ÿ!\e
+[00012d|ru] Od teraz bªdziemy....\p Mam zamiar...\p Bªdª„Ÿ!\e
 
 [00012f|en] yTakeruzuWatch this!v\e
-[00012f|ru] yTakeruzuWatch this!v\e
+[00012f|ru] yTakeruzuPatrz na t!v\e
 
 [000132|en] ...\p...\p...\p...\p\e
-[000132|ru] ...\p...\p...\p...\p\e
+[000132|ru] ...\p...\p\e
 
 [000134|en] Here I gooooo!\e
-[000134|ru] Here I gooooo!\e
+[000134|ru] Tutaj niczego nie ma!\e
 
 [000137|en] yMikizu„Ÿ„ŸAh!v\e
 [000137|ru] yMikizu„Ÿ„ŸAh!v\e
 
 [000138|en] ...\p...\p...\p...\p\e
-[000138|ru] ...\p...\p...\p...\p\e
+[000138|ru] ...\p...\p\e
 
 [000140|en] ...\p...\p...\p...\p\e
-[000140|ru] ...\p...\p...\p...\p\e
+[000140|ru] ...\p...\p\e
 
 [000145|en] yTakeruzu...\p...\p...\p...\pv\e
-[000145|ru] yTakeruzu...\p...\p...\p...\pv\e
+[000145|ru] yTakeruzu...\p...\pv\e
 
 [000146|en] yMikizu...\p...\pah...\phauaauuu...v\e
-[000146|ru] yMikizu...\p...\pah...\phauaauuu...v\e
+[000146|ru] yMikizuAh...\phauhauhau...v\e
 
 [000147|en] ...\p...\p...\p...\pI hit.\e
-[000147|ru] ...\p...\p...\p...\pI hit.\e
+[000147|ru] ...\p...\pTrafi©em.\e
 
 [000148|en] yMikizuTa-\pTakeru-saaan.v\e
 [000148|ru] yMikizuTa-\pTakeru-saaan.v\e
 
 [000149|en] Four arrows are sticking out of the target.\e
-[000149|ru] Four arrows are sticking out of the target.\e
+[000149|ru] Z tarczy wystaj§ cztery strza©y.\e
 
 [00014a|en] And one of them...\p...\p...\p...\pout of the bullseye.\e
-[00014a|ru] And one of them...\p...\p...\p...\pout of the bullseye.\e
+[00014a|ru] A t§, kt«r§ wystrzeli©em...\p...\p wystaje ze Ûrodka.\e
 
 [00014b|en] yTakeruzuOkay,\p all four hit.v\e
-[00014b|ru] yTakeruzuOkay,\p all four hit.v\e
+[00014b|ru] yTakeruzuOkej,\p ca©a czw«rka jest gdzie powinna.v\e
 
 [00014d|en] yMikizu...\p...\pbut...v\e
-[00014d|ru] yMikizu...\p...\pbut...v\e
+[00014d|ru] yMikizu...\pAle...v\e
 
 [00014e|en] yTakeruzuTama.v\e
 [00014e|ru] yTakeruzuTama.v\e
 
 [00014f|en] yMikizu...\p...\pbut Miki didn't...\p...\pv\e
-[00014f|ru] yMikizu...\p...\pbut Miki didn't...\p...\pv\e
+[00014f|ru] yMikizu...\pNie by©am wstanie...\pv\e
 
 [000150|en] yTakeruzuThat arrow isn't just mine,\p it's yours too, Tama.\nThat's our arrow...\p...\pand...\p...\pit hit.v\e
-[000150|ru] yTakeruzuThat arrow isn't just mine,\p it's yours too, Tama.\nThat's our arrow...\p...\pand...\p...\pit hit.v\e
+[000150|ru] yTakeruzuTa strza©a nie jest tylko moja.\p Ona r«wnie¯ jest twoja.\p\nTo jest...\p nasza strza©a...\p i...\p trafi©a.v\e
 
 [000151|en] yMikizuBut...\p...\pv\e
-[000151|ru] yMikizuBut...\p...\pv\e
+[000151|ru] yMikizuAle...\pv\e
 
 [000152|en] yTakeruzuWe'll be together from now on.v\e
-[000152|ru] yTakeruzuWe'll be together from now on.v\e
+[000152|ru] yTakeruzuOd teraz b§dÜmy razem.v\e
 
 [000154|en] yMikizuEh!?v\e
-[000154|ru] yMikizuEh!?v\e
+[000154|ru] yMikizuCO!?v\e
 
 [000155|en] yTakeruzuTogether.v\e
-[000155|ru] yTakeruzuTogether.v\e
+[000155|ru] yTakeruzuRazem.v\e
 
 [000156|en] yMikizuAh...\p...\p...\p...\pah...\p...\pv\e
-[000156|ru] yMikizuAh...\p...\p...\p...\pah...\p...\pv\e
+[000156|ru] yMikizuAh...\p...\pAh...\p ha...\pv\e
 
 [000157|en] yTakeruzuLet's be together.v\e
-[000157|ru] yTakeruzuLet's be together.v\e
+[000157|ru] yTakeruzuB§dÜmy razem.v\e
 
 [000159|en] yMikizu...\p...\pTa...\p...\pv\e
-[000159|ru] yMikizu...\p...\pTa...\p...\pv\e
+[000159|ru] yMikizup...\pTa...\pv\e
 
 [00015a|en] yTakeruzu...\p...\pokay?v\e
-[00015a|ru] yTakeruzu...\p...\pokay?v\e
+[00015a|ru] yTakeruzu...\pOkej?v\e
 
 [00015b|en] yMikizuTakeru...\p...\psan...\p...\pI love youuuu!v\e
-[00015b|ru] yMikizuTakeru...\p...\psan...\p...\pI love youuuu!v\e
+[00015b|ru] yMikizuTakeru...\psan...\p Kocham ciª!v\e
 
 [000166|en] yTakeruzuH-\phey,\p Tama.v\e
-[000166|ru] yTakeruzuH-\phey,\p Tama.v\e
+[000166|ru] yTakeruzu³oa, hej. No weÜ, Tamo.v\e
 
 [00016e|en] yMikizuTakeru-san!\p Takeru-saaaan!!v\e
 [00016e|ru] yMikizuTakeru-san!\p Takeru-saaaan!!v\e
 
 [000172|en] yTakeruzuYou're the one who taught me how much fun\narchery can be...\p...\pv\e
-[000172|ru] yTakeruzuYou're the one who taught me how much fun\narchery can be...\p...\pv\e
+[000172|ru] yTakeruzuTo dziªki tobie dowiedzia©em siª, jak fajne\p\nmo¯e by¨ ©ucznictwo...\pv\e
 
 [000173|en] yMikizuMiki too!\p\p Takeru-san,\p you reminded Miki how fun\nit was!!v\e
-[000173|ru] yMikizuMiki too!\p\p Takeru-san,\p you reminded Miki how fun\nit was!!v\e
+[000173|ru] yMikizuJa te¯!\p\p Przypomnia©eÛ mi,\p ¯e ©ucznictwo potrafi\p\nby¨ r«wnie¯ Ûwietn§ zabaw§!!v\e
 
 [000174|en] yTakeruzuTama...\p...\p...\p...\pv\e
-[000174|ru] yTakeruzuTama...\p...\p...\p...\pv\e
+[000174|ru] yTakeruzuTama...\p...\pv\e
 
 [000175|en] yMikizu...\p...\pTakeru-san,\p will you stay with Miki forever...\p...\p?v\e
-[000175|ru] yMikizu...\p...\pTakeru-san,\p will you stay with Miki forever...\p...\p?v\e
+[000175|ru] yMikizu...\pTakeru-san,\p czy zostaniesz ze mn§ na zawsze...\p?v\e
 
 [000176|en] yTakeruzu...\p...\pyeah.v\e
-[000176|ru] yTakeruzu...\p...\pyeah.v\e
+[000176|ru] yTakeruzu...\pTak.v\e
 
 [000177|en] yTakeruz@*pet* *pet*...\p...\p\e
-[000177|ru] yTakeruz@*pet* *pet*...\p...\p\e
+[000177|ru] yTakeruz@*G©askanie* *G©askanie*\e
 
 [000178|en] yMikizuAh...\p...\pv\e
-[000178|ru] yMikizuAh...\p...\pv\e
+[000178|ru] yMikizuAh...\pv\e
 
 [000179|en] yTakeruzuI've been beside you this whole time...\p...\pand yet\nI never did this...\p...\pv\e
-[000179|ru] yTakeruzuI've been beside you this whole time...\p...\pand yet\nI never did this...\p...\pv\e
+[000179|ru] yTakeruzuBy©em przy tobie przez ca©y ten czas...\p\nA jednak nigdy tego nie zrobi©em...\pv\e
 
 [00017a|en] yMikizuI'm happy...\p...\pI'm so happy...\p...\pv\e
-[00017a|ru] yMikizuI'm happy...\p...\pI'm so happy...\p...\pv\e
+[00017a|ru] yMikizuJestem taka szczeÛliwa...\p Jestem taka szczªÛliwa...\pv\e
 
 [00017b|en] yTakeruzuTama...\p...\pv\e
-[00017b|ru] yTakeruzuTama...\p...\pv\e
+[00017b|ru] yTakeruzuTama....\pv\e
 
 [00017d|en] yMikizu...\p...\p...\p...\pmm...\p...\pv\e
-[00017d|ru] yMikizu...\p...\p...\p...\pmm...\p...\pv\e
+[00017d|ru] yMikizu...\p...\pMmm...\pv\e
 
 [000181|en] yMikizuAh...\p...\pv\e
 [000181|ru] yMikizuAh...\p...\pv\e
@@ -1274,109 +1274,109 @@ SCR 1 Shift-JIS
 [000271|ru] ...\p...\p...\p...\p\e
 
 [000272|en] ...\p...\plooking directly at each other's faces like this...\p...\pit's\nnot embarrassing at all.\e
-[000272|ru] ...\p...\plooking directly at each other's faces like this...\p...\pit's\nnot embarrassing at all.\e
+[000272|ru] ...\pPatrzenie sobie w oczy w ten spos«b jest, uh...\p wiªcej ni¯ ¯enuj§ce.\e
 
 [000273|en] Do we just have nothing to say to each other,\p or can we\njust not find them...\p...\p?\e
-[000273|ru] Do we just have nothing to say to each other,\p or can we\njust not find them...\p...\p?\e
+[000273|ru] Czy ¯adne z nas nie wie co powiedziec,\p czy raczej po prostu\p\nnie mo¯emy znaleÜ¨ odpowiednich s©«w...\p?\e
 
 [000274|en] ...\p...\pwe did it in a place like this...\p...\pwe desecrated this\nsacred place.\e
-[000274|ru] ...\p...\pwe did it in a place like this...\p...\pwe desecrated this\nsacred place.\e
+[000274|ru] ...\pNie mogª uwierzy¨,\p ¯e zrobiliÛmy to tutaj...\p ZbezczeÛciliÛmy\p\nto Ûwiªte miejsce.\e
 
 [000275|en] ...\p...\pno,\p there's no point worrying about it now.\e
-[000275|ru] ...\p...\pno,\p there's no point worrying about it now.\e
+[000275|ru] ...\pC«¯,\p nie ma sensu siª tym teraz przejmowa¨.\e
 
 [000276|en] yMikizu...\p...\p...\p...\pTakeru...\p...\psan.v\e
-[000276|ru] yMikizu...\p...\p...\p...\pTakeru...\p...\psan.v\e
+[000276|ru] yMikizu...\p...\pTakeru...\psan.v\e
 
 [000277|en] yTakeruzuAh?v\e
 [000277|ru] yTakeruzuAh?v\e
 
 [000278|en] yMikizu...\p...\pha...\p...\pthis is embarrassing`v\e
-[000278|ru] yMikizu...\p...\pha...\p...\pthis is embarrassing`v\e
+[000278|ru] yMikizu...\pTo trochª ¯enuj§ce.`v\e
 
 [000279|en] yTakeruzuCome to think of it...\p...\pyou called me just\nTakeru at the end.v\e
-[000279|ru] yTakeruzuCome to think of it...\p...\pyou called me just\nTakeru at the end.v\e
+[000279|ru] yTakeruzuJakby o tym pomyÛle¨...\p Na koniec nazwa©aÛ mnie\p\npo prostu "Takeru".v\e
 
 [00027a|en] yMikizuI-\pI can't call you that normally``v\e
-[00027a|ru] yMikizuI-\pI can't call you that normally``v\e
+[00027a|ru] yMikizuN-\pnie jestem w stanie po prostu ot tak normalnie\p\nsiª do ciebie zwraca¨``v\e
 
 [00027b|en] yTakeruzuThat's so like you.v\e
-[00027b|ru] yTakeruzuThat's so like you.v\e
+[00027b|ru] yTakeruzuCa©a ty.v\e
 
 [00027d|en] yMikizuYou too Takeru-san...\p...\pyou always address Miki as\nTama.v\e
-[00027d|ru] yMikizuYou too Takeru-san...\p...\pyou always address Miki as\nTama.v\e
+[00027d|ru] yMikizuTy te¯ nadal m«wisz do mnie Tama, Takeru-san.v\e
 
 [00027e|en] yTakeruzu...\p...\p...\p...\pv\e
-[00027e|ru] yTakeruzu...\p...\p...\p...\pv\e
+[00027e|ru] yTakeruzu...\p...\pv\e
 
 [00027f|en] Clearly, we can't break through that yet.\e
-[00027f|ru] Clearly, we can't break through that yet.\e
+[00027f|ru] NajwyraÜniej nie jesteÛmy jeszcze na tym poziomie.\e
 
 [000280|en] ...\p...\pnot that it matters.\e
-[000280|ru] ...\p...\pnot that it matters.\e
+[000280|ru] ...\pNie ¯eby to mia©o znaczenie.\e
 
 [000281|en] There are limitations best surpassed slowly.\e
-[000281|ru] There are limitations best surpassed slowly.\e
+[000281|ru] TCzasem trzeba po prostu podejÛ¨ do sprawy powoli i pozwoli¨,\p\n¯eby wszystko przysz©o naturalnie.\e
 
 [000283|en] yMikizu...\p...\pehehe.v\e
-[000283|ru] yMikizu...\p...\pehehe.v\e
+[000283|ru] yMikizu...\pHehehe.v\e
 
 [000284|en] yTakeruzu...\p...\pwhat now,\p Tama?\p\nShould we go home?v\e
-[000284|ru] yTakeruzu...\p...\pwhat now,\p Tama?\p\nShould we go home?v\e
+[000284|ru] yTakeruzu...\pCo teraz, Tamo?\p\nPowinniÛmy iÛ¨ do domu?v\e
 
 [000286|en] yMikizu...\p...\pno,\p\p let's practice...\p...\pv\e
-[000286|ru] yMikizu...\p...\pno,\p\p let's practice...\p...\pv\e
+[000286|ru] yMikizu...\pNie,\p chodÜmy trochª po¨wiczy¨...\pv\e
 
 [000287|en] Tama still hadn't completely recovered,\p but she started\nstretching.\e
-[000287|ru] Tama still hadn't completely recovered,\p but she started\nstretching.\e
+[000287|ru] Tama jeszcze nie do koÃda wydobrzy©a,\p ale zaczªsiª siª\p\nrozci§ga¨.\e
 
 [000288|en] yTakeruzuHey now,\p are you okay...\p...\p?v\e
-[000288|ru] yTakeruzuHey now,\p are you okay...\p...\p?v\e
+[000288|ru] yTakeruzuNo hej.\p Czy wszystko gra...\p?v\e
 
 [00028a|en] yMikizuOne of Miki's precious wishes was granted,\p so...\p...\pv\e
-[00028a|ru] yMikizuOne of Miki's precious wishes was granted,\p so...\p...\pv\e
+[00028a|ru] yMikizuJedno z moich najwiªkszych ¯yczeÃ zosta©o spe©nione...\pv\e
 
 [00028b|en] Tama picks up her bow.\e
-[00028b|ru] Tama picks up her bow.\e
+[00028b|ru] Tama podnosi ©uk\e
 
 [000290|en] ...\p...\pwhen I listen to it like this,\p it's like an instrument.\e
-[000290|ru] ...\p...\pwhen I listen to it like this,\p it's like an instrument.\e
+[000290|ru] ...\pKiedy tego s©ucham, brzmi jak instrument.\e
 
 [000292|en] yMikizuSo I have to pursue a precious dream of mine.v\e
-[000292|ru] yMikizuSo I have to pursue a precious dream of mine.v\e
+[000292|ru] yMikizuTeraz muszª spe©ni¨ jedno ze swoich najwiªkszych\p\nmarzeÃ.v\e
 
 [000294|en] ...\p...\pthat's true.\e
-[000294|ru] ...\p...\pthat's true.\e
+[000294|ru] ...\pZgadza siª.\e
 
 [000295|en] Tama's dream...\p...\p\e
-[000295|ru] Tama's dream...\p...\p\e
+[000295|ru] Marzenie Tamy, huh...\p\e
 
 [000296|en] yTakeruzuYour dream...\p...\pv\e
-[000296|ru] yTakeruzuYour dream...\p...\pv\e
+[000296|ru] yTakeruzuJeÛli to jest jedno z towich marzeÃ...\pv\e
 
 [000298|en] yMikizu...\p...\peh?v\e
-[000298|ru] yMikizu...\p...\peh?v\e
+[000298|ru] yMikizu...\pHuh?v\e
 
 [000299|en] yTakeruzuNo...\p...\pit's nothing.v\e
-[000299|ru] yTakeruzuNo...\p...\pit's nothing.v\e
+[000299|ru] yTakeruzuOh, nie...\p Nic takiego.v\e
 
 [00029a|en] I'd like to see that dream myself...\p...\palthough I can't really\nsay that.\e
-[00029a|ru] I'd like to see that dream myself...\p...\palthough I can't really\nsay that.\e
+[00029a|ru] Chcia©bym podzieli¨ siª z tob§ tym marzeniem...\p chocia¯ nie mam\p\njeszcze prawa ci tego powiedzie¨.\e
 
 [00029b|en] That's not something I can say yet.\nThere are a lot of things I need to overcome before I\ncan.\e
-[00029b|ru] That's not something I can say yet.\nThere are a lot of things I need to overcome before I\ncan.\e
+[00029b|ru] Muszª jeszcze pokona¨ wiele rzeczy,\p zanim bªdªm«g© ci to powiedzie¨.\e
 
 [00029d|en] yMikizuHey...\p...\p...\p...\pwatch me.v\e
-[00029d|ru] yMikizuHey...\p...\p...\p...\pwatch me.v\e
+[00029d|ru] yMikizuHej...\p...\p Popatrz na mnie.v\e
 
 [00029f|en] yTakeruzuHm?v\e
 [00029f|ru] yTakeruzuHm?v\e
 
 [0002a1|en] Tama nocks another arrow.\e
-[0002a1|ru] Tama nocks another arrow.\e
+[0002a1|ru] Tama zak©ada kolejn§ strza©ª.\e
 
 [0002a2|en] Now...\p...\pTama's arrows have been reborn...\p...\pand I'm sure\nthey'll fly straighter and truer than ever.\e
-[0002a2|ru] Now...\p...\pTama's arrows have been reborn...\p...\pand I'm sure\nthey'll fly straighter and truer than ever.\e
+[0002a2|ru] MyÛlª,\p ¯e podzisiejszym dniu...\p jej strza©y bªd§ lata¨ z nowo\p\nodkryt§ determinacj§. Prostsze i prawdziwsze ni¯ kiedykolwiek...\e
 
 [0002a3|en] Without the slightest wavering...\p...\p\e
-[0002a3|ru] Without the slightest wavering...\p...\p\e
+[0002a3|ru] Nie bªdzie ju¯ siª waha¨...\p\e
