@@ -374,13 +374,13 @@ SCR 1 Shift-JIS
 [0002a4|ru] yMikizuAh,\p Takeru-san`v\e
 
 [0002a6|en] yTakeruzuYou doing well?v\e
-[0002a6|ru] yTakeruzuDobrze siª spisujesz?v\e
+[0002a6|ru] yTakeruzuDajesz radª?v\e
 
 [0002a8|en] yMikizuHmmm...\p...\p...\pslightly...\p...\pv\e
-[0002a8|ru] yMikizuC«¯...\p...\p\nJakoÛ tak, nie za bardzo...\pv\e
+[0002a8|ru] yMikizuC«¯...\p...\p JakoÛ tak, nie za bardzo...\pv\e
 
 [0002aa|en] yTakeruzuWhat is it? You don't seem very lively.\nAnd you're moving kinda slow.v\e
-[0002aa|ru] yTakeruzuCoÛ nie tak>\p\nWygl§dasz jakby buja©a w ob©okach.\p\nI nawet ruchy masz wolniejsze ni¯ zazwyczaj.v\e
+[0002aa|ru] yTakeruzuCoÛ nie tak?\p Wygl§dasz jakbyÛ buja©a w ob©okach.\p\nI nawet ruchy masz wolniejsze ni¯ zazwyczaj.v\e
 
 [0002ac|en] yMikizuHauuu...\p...\p...\p...\p...\p...\pI'll work really hard.v\e
 [0002ac|ru] yMikizuHauuu...\p...\p...\p\nBªdª naprawdª ciª¯ko pracowa©a, obiecujª.v\e
@@ -398,10 +398,10 @@ SCR 1 Shift-JIS
 [0002b2|ru] yTakeruzuChcesz mo¯e czekoladª?v\e
 
 [0002b4|en] yMikizuI do!\p I do want chocolate!v\e
-[0002b4|ru] yMikizuChcª!\p Chcª dosta¨ czekolady!v\e
+[0002b4|ru] yMikizuTak!\p Chcª dosta¨ czekolady!v\e
 
 [0002b5|en] ...\p...\pseriously? You're easy to understand.\e
-[0002b5|ru] ...\pSerio?\p\nJesteÛ ©atwa do przejrzenia.\e
+[0002b5|ru] ...\pSerio?\p JesteÛ ©atwa do przejrzenia.\e
 
 [0002b6|en] yTakeruzuHere.v\e
 [0002b6|ru] yTakeruzuTrzymaj.v\e
@@ -458,13 +458,13 @@ SCR 1 Shift-JIS
 [0002e2|ru] A teraz le¯y na ziemii, ca©a w piasku...\p!\e
 
 [0002e9|en] yTakeruzu...\p...\pha!v\e
-[0002e9|ru] yTakeruzu...\p...\pha!v\e
+[0002e9|ru] yTakeruzu...\pHa!v\e
 
 [0002ea|en] That's right! The three second rule!!\e
 [0002ea|ru] No w©aÛnie! Zasada trzech sekund!!\e
 
 [0002eb|en] Though it's been well over three seconds by\nnow...\p...\pthat's just an illusion!\nThe world is wrong, not me!!\e
-[0002eb|ru] C«¯, minª©y ju¯ grubo ponad trzy sekudny...\p\nAle to tylko miejska legenda!\p\nTo ca©y Ûwiat siª myli, nie ja!!\e
+[0002eb|ru] C«¯, minª©y ju¯ grubo ponad trzy sekudny...\p\nAle to tylko miejska legenda!\p To ca©y Ûwiat siª myli, nie ja!!\e
 
 [0002ee|en] *crunch*\e
 [0002ee|ru] *Chrupanie*\e
@@ -482,16 +482,16 @@ SCR 1 Shift-JIS
 [0002f6|ru] ...\p...\pCzy nie mia©aÛ ¨wiczy¨ na w©asn§ rªkª...\p?\nZamiast tego...\p Stoisz...\pna...\pmoim...\e
 
 [0002f9|en] ySumikazuUwa! Why're you sobbing...\p...\p...\p...\pare you in pain?v\e
-[0002f9|ru] ySumikazuUwa! Dlaczego szlochasz...\p...\p\nCzy coÛ ciª boli?v\e
+[0002f9|ru] ySumikazuUwa! Dlaczego szlochasz...\p...\p\nRozbola©o ciª coÛ?v\e
 
 [0002fa|en] Please...\p...\pplease move your foot...\p...\p\e
-[0002fa|ru] Proszª...\p\nB©agam...\p\nRusz po prostu nog§...\p\e
+[0002fa|ru] Proszª...\p B©agam...\p Rusz po prostu nog§...\p\e
 
 [0002fb|en] Otherwise...\p...\pI...\p...\pI'll...\p...!\e
 [0002fb|ru] Inaczej...\pja...\pja...!\e
 
 [0002fc|en] yMikizuSumika-chan,\p you're standing on Takeru-san's\nchocolate.v\e
-[0002fc|ru] yMikizuSumika-chan,\p nadepnª©aÛ na czekoladª.\p\nCzekoladª nale¯§c§ do Takeru-chan.v\e
+[0002fc|ru] yMikizuSumika-chan,\p nadepnª©aÛ na czekoladª.\p\nSpecjaln§ czekoladª nale¯§c§ do Takeru-chan.v\e
 
 [0002fe|en] ySumikazuEh?\p Ah...\p...\pI am.v\e
 [0002fe|ru] ySumikazuEh?\p Oh...\pczy ja...\pja.v\e
@@ -530,7 +530,7 @@ SCR 1 Shift-JIS
 [00032e|ru] yTakeruzu...\pCo?v\e
 
 [000330|en] yMikizuPapa bought a lot of different ones whenever he\nwent on a trip somewhere...\p...\p...\pso I have some from\nHokkaido...\p...\pand Okinawa...\p...\pv\e
-[000330|ru] yMikizuPapa kupuje wiele r«¯nych czekolad za ka¯dym razem,\p\nkiedy wybiera siª gdzieÛ w podr«¯...\p...\p\nWiªm mam trochª z Hokkaido...\pi z Okinawy...\pv\e
+[000330|ru] yMikizuPapa kupuje wiele r«¯nych czekolad za ka¯dym razem,\p\nkiedy wybiera siª gdzieÛ w podr«¯...\p...\p\nWiªc mam trochª z Hokkaido...\p i z Okinawy...\pv\e
 
 [000331|en] yTakeruzu...\p...\pwhat?v\e
 [000331|ru] yTakeruzu...\pCo?v\e
@@ -803,10 +803,10 @@ SCR 1 Shift-JIS
 [000427|ru] yMikizuAhaha...\p Takeru-san, ale tw«j dom jest o wiele\p\nwiªkszy.v\e
 
 [000428|en] yTakeruzuThat's not my house.v\e
-[000428|ru] yTakeruzuTamo to nie jest m«j dom.v\e
+[000428|ru] yTakeruzuTamo, to nie jest m«j dom.v\e
 
 [000429|en] Meiya truly is extraordinary.\nShe's not a commoner in any way, shape or form.\e
-[000429|ru] Meiya jest odstaj§cym wyj§tkiem.\p\nOd samego pocz§tku, nigdy nie wydawa©a siª zwyk©§ person§.\p\nTo w ka¯dym znaczeniu tego s©owa.\e
+[000429|ru] Meiya jest odstaj§cym wyj§tkiem.\p\nOd samego pocz§tku, nigdy nie wydawa©a siª zwyk©§ person§.\p\nI to w ka¯dym znaczeniu tego s©owa.\e
 
 [00042a|en] While Tama...\p...\pI thought she was the same as us...\p...\pso of\ncourse this is a shock!\e
 [00042a|ru] Ale je¯eli chodzi o Tamª...\p\nS§dzi©em, ¯e ona jest taka sama jak my...\p\nAle ©a©, teraz to ja jestem nieÜle szkokowany!\e
@@ -815,7 +815,7 @@ SCR 1 Shift-JIS
 [00042e|ru] Nic dziwnego, ¯e byli wstanie pomieÛcic tutaj strzelnicª...\p\e
 
 [00042f|en] And these white walls...\p...\pis this plaster?\p\nYou'd only see this in a historical drama nowadays.\e
-[00042f|ru] A te bia©e Ûciany...\p Czy¯by to tynk?\p\nW dzisiejszych czasach takie cuda mo¯na zobaczy¨, tylko w\p\ndramatach historycznych.\e
+[00042f|ru] A te bia©e Ûciany...\p Czy¯by to tynk?\p\nW dzisiejszych czasach takie cuda mo¯na zobaczy¨, tylko w\p\ndramach historycznych.\e
 
 [000430|en] yMikizuI'll open the gates.v\e
 [000430|ru] yMikizuP«jdª otworzy¨ bramª.v\e
@@ -836,7 +836,7 @@ SCR 1 Shift-JIS
 [000438|ru] ...\pNiesamowite!!\e
 
 [000439|en] I see, so this is the name of Tama's dad...\p...\p\e
-[000439|ru] O, rozumiem. Tak musi nazywa¨ siª ojciec Tamase...\p\e
+[000439|ru] OH, rozumiem. Tak musi nazywa¨ siª ojciec Tamase...\p\e
 
 [00043a|en] I feel like I already know his personality.\e
 [00043a|ru] Czujª jakbym umia© ju¯ powiedzie¨ jak§ osob§ mo¯e on by¨.\e
@@ -845,7 +845,7 @@ SCR 1 Shift-JIS
 [00043b|ru] Stary, te napisy s§ naprawdª dobre i wida¨ dobre poci§gniªcia pªdzla...\p Zw©aszcza te d©ugie i zamaszyste...\e
 
 [000442|en] yVoicezuYou there!v\e
-[000442|ru] yVoicezuTy tam!v\e
+[000442|ru] yG©oszuTy tam!v\e
 
 [000454|en] „Ÿ„Ÿ!?\e
 [000454|ru] „Ÿ„Ÿ!?\e
@@ -854,37 +854,37 @@ SCR 1 Shift-JIS
 [000455|ru] yTakeruzuCo to kurwa by©o!?v\e
 
 [000457|en] Aaah...\p...\pthere are arrows in the sign...\p...\p\e
-[000457|ru] Ohhh...\p ja pierdolª...\p\nCh©opie... na znaku pojawi©y siª strza©y\e
+[000457|ru] Ohhh...\p ja pierdolª...\p\nCh©opie... na znaku pojawi©y siª strza©y.\e
 
 [000459|en] yMikizuTh-\pthere's someone there!!v\e
 [000459|ru] yMikizuSp-\psp«jrz, sp«jrz tam!!v\e
 
 [00045d|en] There's someone on top of the roof shingles...\p...\phmm?\nShe's wearing an archery uniform...\p...\pand pointing her\nbow and arrow at us!!\e
-[00045d|ru] Na gontach dachowych ktoÛ jest...\p\nHmmm? Ten ktoÛ, ma na sobie str«j ©ucznicy..\p\nI celuje do nas swoim ©ukiem! I ma zamiar strzeli¨!!\e
+[00045d|ru] Na gontach dachowych ktoÛ jest...\p\nHmmm? Ten ktoÛ, ma na sobie str«j ©ucznicy...\p\nI celuje do nas swoim ©ukiem! I ma zamiar strzeli¨!!\e
 
 [000464|en] yTakeruzuThis is bad!v\e
 [000464|ru] yTakeruzuJest Üle!v\e
 
 [00046f|en] yVoicezuIntruders,\p state your names!v\e
-[00046f|ru] yVoicezuPodajcie swoje imiona, intruzi!v\e
+[00046f|ru] yG©oszuPodajcie swoje imiona, intruzi!v\e
 
 [00047e|en] yTakeruzuOwa! Wh-\pwho are you!?v\e
 [00047e|ru] yTakeruzu³oaa! Ki-\pkim jesteÛ!?v\e
 
 [00047f|en] yVoicezuEtiquette demands that you state your own\nname before asking for those of others!v\e
-[00047f|ru] yVoicezuEtykieta wymaga podania w©asnego imienia,\p\nzanim poprosisz o imiª innych!v\e
+[00047f|ru] yG©oszuEtykieta wymaga podania w©asnego imienia,\p\nzanim poprosisz o imiª innych!v\e
 
 [000480|en] yTakeruzuYou still haven't told us yours!!v\e
 [000480|ru] yTakeruzuAle to ty nadal jeszcze nie podda©aÛ nam swojego!v\e
 
 [000481|en] yVoicezuYou dare find fault in what I say?\p\nI underestimated your nerve! ...\p...\pvery well.v\e
-[000481|ru] yVoicezuOÛmielasz siª wytyka¨ mi b©d¨ w tym co\p\npowiedzia©am. Nie doceni©am twojego tupetu! Bardzo dobrze.v\e
+[000481|ru] yG©oszuOÛmielasz siª wytyka¨ mi b©§d¨ w tym co\p\npowiedzia©am. Nie doceni©am twojego tupetu! Niech bªdzie.v\e
 
 [000482|en] Hey now...\p...\p\e
 [000482|ru] Co tu siª odpiernicza do jasnej cholery...?\p\e
 
 [000484|en] yVoicezuMy name is Amanohara Suiko!\p\p\nDaughter of Amanohara Jingorou!v\e
-[000484|ru] yVoicezuNazywam siª Amonahara Suiko!\p\p\nC«rka Amonahara Jingorou!v\e
+[000484|ru] yG©oszuNazywam siª Amonahara Suiko!\p\p\nC«rka Amonahara Jingorou!v\e
 
 [00048b|en] yMikizuAmanoharaaa?v\e
 [00048b|ru] yMikizuAmanoharaaa?v\e
@@ -911,7 +911,7 @@ SCR 1 Shift-JIS
 [000499|ru] Musisz znaleÜ¨ coÛ, czym m«g©bym w ni§ rzuci¨...\p\nPomyÛlmy...\p Aha, to powinno zadzia©a¨!\e
 
 [00049b|en] yTakeruzuCut. It. Out. Already...\p...\p!v\e
-[00049b|ru] yTakeruzuMo¯esz! Da¨! Ju¯! Spok«j!...\p!v\e
+[00049b|ru] yTakeruzuDaj! Sobie! Siana...\p!v\e
 
 [0004a4|en] ySuikozuOwie!!v\e
 [0004a4|ru] ySuikozuA©a!!v\e
@@ -920,7 +920,7 @@ SCR 1 Shift-JIS
 [0004b5|ru] ySuikozuA©aaaa...\p...\pv\e
 
 [0004b7|en] yMikizuAh,\p she fell!\p Is she okay?v\e
-[0004b7|ru] yMikizuOh kurcze,\p ona spad©a!\p\nS§dzisz, ¯e nadal ¯yjª?v\e
+[0004b7|ru] yMikizuOh kurcze,\p ona spad©a!\p S§dzisz, ¯e nadal ¯yje?v\e
 
 [0004b9|en] ySuikozuWh-\pwho are you!?v\e
 [0004b9|ru] ySuikozuK-\pkim wy jesteÛcie!?v\e
@@ -935,7 +935,7 @@ SCR 1 Shift-JIS
 [0004c1|ru] yTakeruzuNie...\p Ja nie - ona tak...\pv\e
 
 [0004c3|en] ySuikozuYou can't fool me by changing your voice!v\e
-[0004c3|ru] ySuikozuNie oszukasz mnie t§ tani§stuczk§ na zmianª g©osu!v\e
+[0004c3|ru] ySuikozuNie oszukasz mnie t§ tani§ stuczk§ na zmianª\p\ng©osu!v\e
 
 [0004c5|en] yTakeruzuStop aiming your bow at me!v\e
 [0004c5|ru] yTakeruzuPrzestaÃ celowa¨ do mnie z tego ©uku!v\e
@@ -947,7 +947,7 @@ SCR 1 Shift-JIS
 [0004c8|ru] ySuikozuAh!v\e
 
 [0004c9|en] yTakeruzu*sigh*...\p...\pnow we should be able to talk calmly.v\e
-[0004c9|ru] yTakeruzu*Westchnienie*...\p Proszª.\p\nA teraz mo¯emy ju¯ na spokojnie pogada¨?\p\nJak typowi przedstawicieli homo sapies.v\e
+[0004c9|ru] yTakeruzu*Westchnienie*\p\n...Proszª.\p A teraz mo¯emy ju¯ na spokojnie pogada¨?\p\nJak typowi przedstawiciele homo sapies.v\e
 
 [0004cb|en] ySuikozu...\p...\p...\p...\pv\e
 [0004cb|ru] ySuikozu...\p...\pv\e
@@ -962,7 +962,7 @@ SCR 1 Shift-JIS
 [0004d0|ru] yTakeruzuHalo?v\e
 
 [0004d2|en] ySuikozu...\p...\pha...\p...\pv\e
-[0004d2|ru] ySuikozu...\p...\pha...\p...\pv\e
+[0004d2|ru] ySuikozu...\p...\pHa...\p...\pv\e
 
 [0004d3|en] yTakeruzuHuh?v\e
 [0004d3|ru] yTakeruzuHuh?v\e
@@ -1010,7 +1010,7 @@ SCR 1 Shift-JIS
 [0004f2|ru] yTakeruzuHalo?v\e
 
 [0004f4|en] ySuikozu...\p...\pha...\p...\pv\e
-[0004f4|ru] ySuikozu...\p...\pha...\p...\pv\e
+[0004f4|ru] ySuikozu...\p...\pHa...\p...\pv\e
 
 [0004f5|en] yTakeruzuHuh?v\e
 [0004f5|ru] yTakeruzuHuh?v\e
@@ -1019,7 +1019,7 @@ SCR 1 Shift-JIS
 [0004fa|ru] ySuikozuHawawawawawa...\p...\pv\e
 
 [0004ff|en] yTakeruzuHuuuh? Hey now,\p we gave you the glasses!v\e
-[0004ff|ru] yTakeruzuCo? No daj ju¯ spok«j,\p\ndziªki nam odzyska©aÛ okulary!v\e
+[0004ff|ru] yTakeruzuCo? No daj ju¯ spok«j,\p dziªki nam odzyska©aÛ\p\nokulary!v\e
 
 [000500|en] ySuikozuWh-wh-wh-wh-who are...\p...\py-y-y-y-you!?v\e
 [000500|ru] ySuikozK-k-k-kim ty do cholry...\p jesteÛ?!?v\e
@@ -1046,7 +1046,7 @@ SCR 1 Shift-JIS
 [00050c|ru] ySuikozuM-m-m-mi©o mi ciª pozna¨...\p Aaaa!!v\e
 
 [00050d|en] yTakeruzuThat's a weird greeting.\p I am also pleased to\neat you.v\e
-[00050d|ru] yTakeruzuMasz unikatowy styl witania ludzi.\p\nI mi r«wnie¯, mi©o ciª pozna¨.v\e
+[00050d|ru] yTakeruzuMasz unikatowy styl witania ludzi.\p\nMi r«wnie¯, mi©o ciª pozna¨.v\e
 
 [00050f|en] yMikizuNo,\p she just bit her tongue.v\e
 [00050f|ru] yMikizuNie - po prostu ugryz©a siª w jªzyk..v\e
@@ -1064,7 +1064,7 @@ SCR 1 Shift-JIS
 [000515|ru] ySuikozuAaaaaaaaamanohara!!v\e
 
 [000516|en] yTakeruzuEnough with the unprovoked attacks.\nHere,\p you can have these back.v\e
-[000516|ru] yTakeruzuHej - nie ma potrzeby aby wykonywa¨\nkolejnych niesprowokowanych atak«w, dobrze?\p\nTrzymaj, to chyba jest twoje.v\e
+[000516|ru] yTakeruzuHej - nie ma potrzeby aby wykonywa¨ kolejnych\p\nniesprowokowanych atak«w, dobrze?\p Trzymaj, to chyba nale¯y\p\ndo ciebie.v\e
 
 [00051e|en] ySuikozuTamase Miki!\p I challenge you to a duel!v\e
 [00051e|ru] ySuikozuTamase Miki!\p Wyzywam ciª na pojedynek!v\e
@@ -1079,10 +1079,10 @@ SCR 1 Shift-JIS
 [000523|ru] ySuikozuNie wa¯ siª udawa¨, ze mnie nie znasz!v\e
 
 [000526|en] yMikizuEh?\p ...\p...\phave we met somewhere before?v\e
-[000526|ru] yMikizuEh?\p\nA spotka©yÛmy siª wczeÛniej?v\e
+[000526|ru] yMikizuEh?\p A spotka©yÛmy siª wczeÛniej?v\e
 
 [000528|en] ySuikozuNo we have not!!v\e
-[000528|ru] ySuikozuNie, nie spotkaliÛmy siª!!v\e
+[000528|ru] ySuikozuNie, nie spotka©yÛmy siª!!v\e
 
 [00052a|en] yTakeruzu...\p...\phey...\p...\pyou okay?v\e
 [00052a|ru] yTakeruzuUh...\p JesteÛ penwa, ze wszystko jest w porz§dku?v\e
@@ -1097,7 +1097,7 @@ SCR 1 Shift-JIS
 [000531|ru] ySuikozuJak niegrzecznie!\p\p\nPowiedzia©am tylko, ¯e na pewno zna imiª Amanohara!v\e
 
 [00053d|en] yVoicezuWhat is all this commotion...\p...\pv\e
-[00053d|ru] yVoicezuCo to za zamieszanie...\pv\e
+[00053d|ru] yG©oszuCo to za zamieszanie...\pv\e
 
 [000546|en] yMikizuAh,\p Papa!v\e
 [000546|ru] yMikizuAh,\p Papa!v\e
@@ -1112,10 +1112,10 @@ SCR 1 Shift-JIS
 [00054c|ru] ...\pTama...\p Ale...\p ty te¯ przecie¯ nazywasz siª Tama...\e
 
 [00054d|en] Also,\p this guy's mustache is as bad as his daughter's\nhair. What's wrong with these two?\e
-[00054d|ru] Poza tym,\p w§sy tego faceta s§ tak samo paskudne, tak samo,\p\njak w©osy jego c«rki. Co jest nie tak z t§ dw«jk§?\e
+[00054d|ru] Poza tym,\p w§sy tego faceta s§ tak samo paskudne,\p\njak w©osy jego c«rki. Co jest nie tak z t§ dw«jk§?\e
 
 [00054e|en] yVoicezuHmph,\p what do you mean\p 'Oooh,\p Tama``'?\p\nYou're both Tama.v\e
-[00054e|ru] yVoicezuHmph,\p co mia©eÛ namyÛl§ m«wi§¨\p 'Oooh,\p Tama``'?\p\nPrzecie¯ oboje, nazywacie siª Tama.v\e
+[00054e|ru] yG©oszuHmph,\p co mia©eÛ namyÛli m«wi§¨\p 'Oooh,\p Tama``'?\p\nPrzecie¯ oboje, nazywacie siª Tama.v\e
 
 [00054f|en] Ah...\p...\pthe same comment.\e
 [00054f|ru] Ah...\pDoszed©em do tego samego wniosku.\e
@@ -1124,7 +1124,7 @@ SCR 1 Shift-JIS
 [000554|ru] ySuikozuAh,\p ojciec!v\e
 
 [000556|en] Hm? So this is Amanohara...\p...\pJingorou was it?\e
-[000556|ru] Hm? A ten tutaj to Amanohara...\p\nAmanohara Jingorou, co nie?\e
+[000556|ru] Hm? A ten tutaj to Amanohara...\p Amanohara Jingorou, co nie?\e
 
 [00055c|en] yGenjousaizuWhat in the world has happened?v\e
 [00055c|ru] yGenjousaizuCo tutaj siª wyprawia?v\e
@@ -1136,7 +1136,7 @@ SCR 1 Shift-JIS
 [000564|ru] yGenjousaizuÂe jak„Ÿ!?\p M«j znak!\p\nPrzepisa©em go na nowo jakiÛ czas temu!\p\p\nCa©§ noc zajª©o mi jego namalowanie!!\p\p\nA tak mocno siª przy nim napracowa©em...\pv\e
 
 [000566|en] yMikizuSorry Papa...\p...v\e
-[000566|ru] yMikizuWypacz Papo...v\e
+[000566|ru] yMikizuBiedny tatuÛ Papo...v\e
 
 [000568|en] yGenjousaizuUuuu...\p...\p...\p...\puuuuuu...\p...\pv\e
 [000568|ru] yGenjousaizuUuuu...\p...\puuuuuu...\pv\e
@@ -1148,7 +1148,7 @@ SCR 1 Shift-JIS
 [000574|ru] yGenjousaizu*Szloch* ...Tama, jaka ty s©odka...\pv\e
 
 [000583|en] yJingorouzuHmph,\p Genjousai,\p enjoy having your\nmustache straightened while you still can.\p\nThat will end come Sunday.v\e
-[000583|ru] yJingorouzuHmph.\p Ciesz siª swoim poprawianiem w§s«w,\p\np«ki jeszcze mo¯esz, Genjousai.\p\nBo w niedzielª nadejdzie dzieÃ s§du.v\e
+[000583|ru] yJingorouzuHmph.\p Ciesz siª swoim poprawianiem w§s«w,\p\np«ki jeszcze mo¯esz, Genjousai.\p Bo w niedzielª nadejdzie\p\ndzieÃ s§du.v\e
 
 [000585|en] yTakeruzuUmm...\p...\pI'm not Genjousai...\p...\pv\e
 [000585|ru] yTakeruzuUmm...\pAle ja nie jestem Genjousai...\pv\e
@@ -1175,7 +1175,7 @@ SCR 1 Shift-JIS
 [000595|ru] yTakeruzuNah, taki ¯arcik.v\e
 
 [000597|en] ySuikozuThat way,\p father.v\e
-[000597|ru] ySuikozuTam jest on, Ojcze.v\e
+[000597|ru] ySuikozuTam stoi, Ojcze.v\e
 
 [000598|en] ...\p...\pthese two are just as weird.\e
 [000598|ru] ...\pTa dw«jka to niez©a para dziwak«w.\e
@@ -1184,7 +1184,7 @@ SCR 1 Shift-JIS
 [00059a|ru] yJingorouzuTwoja c«rka wr«ci©a do domu w najbardziej\nmo¯liwie dogodnym czasie.v\e
 
 [0005a9|en] yGenjousaizuMmm...\p...\p...\pTama,\p perhaps you should stop\nstraightening papa's mustache and listen to what I have\nto say.v\e
-[0005a9|ru] yGenjousaizuHmmmm....\p...\p\nTama m«j skarbie. Mo¯e powinnaÛ przesta¨ poprawia¨ w§sy taty i pos©uchaj tego.\p Co mam tobie do powiedzienia.v\e
+[0005a9|ru] yGenjousaizuHmmmm....\p...\p\nTama m«j skarbie. Mo¯e powinnaÛ przesta¨ poprawia¨ w§sy taty i pos©uchaj tego,\p co mam tobie do powiedzienia.v\e
 
 [0005ab|en] yMikizuEh? What is it?v\e
 [0005ab|ru] yMikizuEh? O co chodzi?v\e
@@ -1205,10 +1205,10 @@ SCR 1 Shift-JIS
 [0005b6|ru] yGenjousaizuTurnieje ©ucznicze, turnieje baseballowe,\p\ngotowanie na yakiniku,\p\p a nawet wojny o dziewczyny w klubach\p\nhostess...\p Bitwy by©y d©ugie i bardzo liczne...\pv\e
 
 [0005b8|en] yMikizuAaah,\p I've heard about that before.v\e
-[0005b8|ru] yMikizuAaah!\p\nCzujª jakbyÛ mi ju¯ o tym wczeÛniej powiedzia©.v\e
+[0005b8|ru] yMikizuAaah!\p Czujª jakbyÛ mi ju¯ o tym wczeÛniej powiedzia©.v\e
 
 [0005b9|en] Don't tell your kids about things like that.\e
-[0005b9|ru] Nie m«w swoim dzieciom o takich rzeczach.\e
+[0005b9|ru] Nie opowiadaj swoim dzieciom takich spraw.\e
 
 [0005bc|en] yGenjousaizuThe tally as it stands now is:\p\p 99 battles, 0\nwins, 99 ties!!v\e
 [0005bc|ru] yGenjousaizuAktualny wynik to:\p\p 99 bitew, 0 zwyciªstw,\p\n99 remis«w!!v\e
@@ -1217,7 +1217,7 @@ SCR 1 Shift-JIS
 [0005c0|ru] yTakeruzuCzekaj. Co?v\e
 
 [0005c2|en] yGenjousaizuDuring our 60th battle,\p I thought I'd\nmanaged to trick him about when Tama would be\nborn...\p...\pv\e
-[0005c2|ru] yGenjousaizuPodczas naszej 60 bitwy,\p by©em przekonany\no moim zwyciªstwie, zw©aszcza, ¯e to by©\ndzieÃ w kt«rym siª urodzi©aÛ, Tama...\pv\e
+[0005c2|ru] yGenjousaizuPodczas naszej 60 bitwy,\p by©em przekonany\no moim zwyciªstwie, zw©aszcza, ¯e to by© dzieÃ w kt«rym\p\nsiª urodzi©aÛ, Tamo...\pv\e
 
 [0005c4|en] yJingorouzuWhaaat!?\p\p Suiko was born on the same day at\nthe same time in the same hospital in the adjacent\nbirthing room!!v\e
 [0005c4|ru] yJingorouzuBzdury, totalne bzdury!!\p\nSuiko urodzi©a siª w tym samym czasie co twoja c«rka!\p\nSta©o siª to w tym samm szpitalu, w s§siedniej sali porodowej!v\e
@@ -1235,7 +1235,7 @@ SCR 1 Shift-JIS
 [0005ce|ru] yMikizu....\peh?v\e
 
 [0005d0|en] yJingorouzuWe'll never settle the score at this rate.\p\p\nSo we decided to have our daughters do it for us.v\e
-[0005d0|ru] yJingorouzuNigdy nie ustaliliÛmy zwieciªscy.\p\nNo to postanowiliÛmy wiªc, ¯e zrobi§ to za nas nasze c«rki.v\e
+[0005d0|ru] yJingorouzuNigdy nie ustaliliÛmy zwyciªzcy\p\nNo to postanowiliÛmy wiªc, ¯e zrobi§ to za nas nasze c«rki.v\e
 
 [0005d2|en] yMikizuEeeh!?v\e
 [0005d2|ru] yMikizuCo!?v\e
@@ -1247,7 +1247,7 @@ SCR 1 Shift-JIS
 [0005d6|ru] yMikizuS©uchaaam!!!?v\e
 
 [0005d8|en] yJingorouzuHu! Hu! Hu!\p ...\p...\pwell, the result is obvious\neven without the match...\p...\pv\e
-[0005d8|ru] yJingorouzuHe-he-he...!\p\nDobrze. Powiedzia©bym, ¯e nie ma takiej potrzeby, gdy¯ wynik jest ju¯\p oczywisty, ale...\pv\e
+[0005d8|ru] yJingorouzuHe-he-he...!\p Dobrze, bardzo dobrze.\p\n Powiedzia©bym, ¯e nie ma takiej potrzeby, gdy¯ wynik jest ju¯\p\noczywisty, ale...\pv\e
 
 [0005da|en] yGenjousaizuWhat did you say?v\e
 [0005da|ru] yGenjousaizuCoÛ ty powiedzia©?v\e
@@ -1256,7 +1256,7 @@ SCR 1 Shift-JIS
 [0005e0|ru] yJingorouzuTwoja c«rka zwraca siª do ciebie "Papa",\nna litoÛ¨ bosk§...\p Naprawdª jesteÛ g©upcem!\p\nNie zgodzisz siª ze mn§, Suiko?v\e
 
 [0005e3|en] ySuikozuYes, Papa!v\e
-[0005e3|ru] ySuikozuTak, Papa!v\e
+[0005e3|ru] ySuikozuTak, Papo!v\e
 
 [0005e5|en] yGenjousaizu...\p...\p...\p...\pv\e
 [0005e5|ru] yGenjousaizu....\p...\pv\e
@@ -1268,7 +1268,7 @@ SCR 1 Shift-JIS
 [0005ea|ru] yGenjousaizuCo to mia©o by¨?v\e
 
 [0005ec|en] yJingorouzuY-\pyou're just hearing things!\p Suiko!v\e
-[0005ec|ru] yJingorouzuCoÛ ci siª wydawa©o!\p\nPrawda, Suko!?v\e
+[0005ec|ru] yJingorouzuCoÛ ci siª wydawa©o!\p Prawda, Suko!?v\e
 
 [0005ee|en] ySuikozuYes,\p father!!v\e
 [0005ee|ru] ySuikozuTak,\p ojcze!!v\e
@@ -1283,7 +1283,7 @@ SCR 1 Shift-JIS
 [0005f3|ru] yGenjousaizuCoÛ ty powiedzia©!?v\e
 
 [0005f6|en] yJingorouzuHo-ho! She even has an actual tail for just\nthat purpose...\p...\p...\p...\pmmmm!? What is this thing?v\e
-[0005f6|ru] yJingorouzuHo-ho! Twoja c«rka nawet ju¯ sobie ogon\nprzygotowa©a na tª okazjª...\p...\p\nNnngh! To o ma by¨?v\e
+[0005f6|ru] yJingorouzuHo-ho! Twoja c«rka nawet ju¯ sobie ogon\nprzygotowa©a na tª okazjª...\p...\p Nnngh! Co to ma by¨?v\e
 
 [0005f9|en] yMikizuEhehe...\p...\pisn't it cute?v\e
 [0005f9|ru] yMikizuEhehe...\p Czy on nie jest s©odki?v\e
@@ -1298,7 +1298,7 @@ SCR 1 Shift-JIS
 [000604|ru] yJingorouzu...\p...\pv\e
 
 [000605|en] yTakeruzuAh,\p don't worry about that,\p it's just an\naccessory.v\e
-[000605|ru] yTakeruzuOh, nie ma potrzeby do obaw.\p\nTo tylko akcesoria.v\e
+[000605|ru] yTakeruzuOh, nie ma potrzeby do obaw.\p To tylko akcesoria.v\e
 
 [000607|en] yMikizuDid that surprise you?v\e
 [000607|ru] yMikizuByliÛcie zaskoczeni?v\e
@@ -1313,10 +1313,10 @@ SCR 1 Shift-JIS
 [00060f|ru] yJingorouzuKto utraci sw«j znak, bªdzie musia© natychmiast\nprzejÛ¨ na emeryturª, bez zadawania pytaÃ. Zrozumiano?v\e
 
 [000611|en] yGenjousaizuYou have said enough!v\e
-[000611|ru] yGenjousaizuPowiedzia©eÛ ju¯ wystarczaj§co!v\e
+[000611|ru] yGenjousaizuWszystko jasne!v\e
 
 [000613|en] yJingorouzuHu-hu-hu...\p...\p...\p...\pthen let us meet again on\nSunday...\p...\pcome,\p Suiko.v\e
-[000613|ru] yJingorouzuHeh-heh-heh...\p...\p\nW takim raziedo zobaczenia w niedzielª...\p\nChodÜ, Suiko.v\e
+[000613|ru] yJingorouzuHeh-heh-heh...\p...\p\nW takim raziedo zobaczenia w niedzielª...\p ChodÜ, Suiko.v\e
 
 [000616|en] ySuikozuYes,\p father!v\e
 [000616|ru] ySuikozuTak, ojcze!v\e
@@ -1331,19 +1331,19 @@ SCR 1 Shift-JIS
 [00061b|ru] *Szarpu*\e
 
 [00061f|en] ySuikozuAh...\p...\paaaaaaaawawawawawa...\p...\p...\p...\pe-e-excuse\nm-m-meeeee.v\e
-[00061f|ru] ySuikozuAh...\paaaaaaaawawawawawa...\p...\p\nPrzepraszam.v\e
+[00061f|ru] ySuikozuAh...\paaaaaaaawawawawawa...\p...\p Proszª mi wybaczy¨.v\e
 
 [000620|en] yTakeruzuWahahahaha...\p...\phere,\p have them back.v\e
-[000620|ru] yTakeruzuWahahahaha...\p Proszª, twoja w©asnoÛ¨.v\e
+[000620|ru] yTakeruzuBuahahahaha...\p Proszª, twoja w©asnoÛ¨.v\e
 
 [000625|en] ySuikozuI'll remember this!!v\e
 [000625|ru] ySuikozuZapamiªtam to sobie!!v\e
 
 [00062c|en] yGenjousaizu...\p...\pthere you have it,\p Tama. You heard them.\p\p\nStarting today, you will train like mad.v\e
-[00062c|ru] yGenjousaizu...\pTama. S©ysza©aÛ o czym rozmawialiÛmy.\p\p\nOd dziÛ  bªdziesz trenowa©a jak szalona.v\e
+[00062c|ru] yGenjousaizu...\pTamo. S©ysza©aÛ co zosta©o powiedziane.\p\p\nOd dziÛ  bªdziesz trenowa©a jak szalona.v\e
 
 [00062e|en] yMikizuEeeh!?\p Papa, you were serious?v\e
-[00062e|ru] yMikizuÂe jak?\p Papa, ty z tym nie ¯artowa©eÛ?v\e
+[00062e|ru] yMikizuÂe jak?\p Papo, ty z tym nie ¯artowa©eÛ?v\e
 
 [000630|en] yGenjousaizuBut of course!\p All is resting upon your\nshoulders now.v\e
 [000630|ru] yGenjousaizuAle¯ oczywiÛ¨ie!\p\nNasz los le¯y teraz na towich barkach.v\e
@@ -1364,7 +1364,7 @@ SCR 1 Shift-JIS
 [00063b|ru] yTakeruzuEh!?v\e
 
 [00063d|en] yGenjousaizuYour accuracy rate certainly is high.\p\nHowever,\p that's only when no one is watching.v\e
-[00063d|ru] yGenjousaizuOczywiÛcie twoja dok©adnoÛ¨ jest wysoka.\p\nJednak dzieje siª tak tylko wtedy, gdy nikt nie patrzy..v\e
+[00063d|ru] yGenjousaizuOczywiÛcie twoja dok©adnoÛ¨ jest wysoka.\p\nJednak jest tak tylko wtedy, gdy nikt nie patrzy..v\e
 
 [00063f|en] yMikizu...\p...\p...\p...\pv\e
 [00063f|ru] yMikizu...\p...\pv\e
@@ -1379,7 +1379,7 @@ SCR 1 Shift-JIS
 [000645|ru] yGenjousaizuCzy jesteÛ gotowa aby przyzna¨ siª do pora¯ki?\p\nNawet gdyby to oznacza©o...\p...\pnic innego ni¯.\p\nNi¯ moj§ wczeÛniejsz§ emeryturª ze Ûwiata ©ucznictwa...\pv\e
 
 [000648|en] yMikizuPapa...\p...\pv\e
-[000648|ru] yMikizuPapa...\pv\e
+[000648|ru] yMikizuPapo...\pv\e
 
 [000649|en] ...\p...\p...\p...\pit feels like he's actually being serious.\nThis is...\p...\ppretty bad actually...\p...\p\e
 [000649|ru] ...\p...\pWygl§da na to, ¯e naprawdª jest powa¯ny w tej kwestii.\p\nTo by oznacza©o ¯e...\p syutacja jest z©a...\p\e
@@ -1397,7 +1397,7 @@ SCR 1 Shift-JIS
 [00064f|ru] Tama spojrza©a na mnie.\e
 
 [000650|en] I know,\p you're worried about the sports festival.\e
-[000650|ru] Znam pow«d tego spojrzenia.\p\nPewnie pomyÛla©a i zacze©asiª martwi¨ festiwalem sporotwym.\e
+[000650|ru] Znam pow«d tego spojrzenia.\p\nPewnie pomyÛla©a i zacze©a siª martwi¨ festiwalem sporotwym.\e
 
 [000651|en] yTakeruzu...\p...\p...\p...\p...\p...\pv\e
 [000651|ru] yTakeruzu...\p...\p...\pv\e
@@ -1412,7 +1412,7 @@ SCR 1 Shift-JIS
 [000656|ru] yMikizuAle...\p wszyscy tak bardzo siª starali...\pv\e
 
 [000657|en] yTakeruzuThere's no way you can handle both matches\nat once.\p They're your friends, they'll understand.v\e
-[000657|ru] yTakeruzuKa¯dy, kto nie wesprze ciª w tej sprawie.\p\nNie bªdzie m«c by¨ tym, kim bªdziesz chcia©a siª otacza¨.\p\nTo twoi przyjaciele, zapewne zrozumiej§.v\e
+[000657|ru] yTakeruzuKa¯dy, kto nie wesprze ciª w tej sprawie.\p\nNie bªdzie m«c by¨ tym, kim bªdziesz chcia©a siª otacza¨.\p\nTo twoje przyjaci«©ki, zapewne zrozumiej§.v\e
 
 [000659|en] yMikizu...\p...\pyeah.v\e
 [000659|ru] yMikizu...\pTaaa.v\e
@@ -1433,10 +1433,10 @@ SCR 1 Shift-JIS
 [000665|ru] „Ÿ„ŸEh!?\e
 
 [00066a|en] yGenjousaizuYou...\p...\pwhat have you...\p...\pwhat are you going\nto do with my Tama!?v\e
-[00066a|ru] yGenjousaizuTy gnojku...\p\nCo zamierzasz zrobi¨ z moj§ Tam§....\p\nTo znaczy - z moj§ Miki!?v\e
+[00066a|ru] yGenjousaizuTy gnojku...\p Co zamierzasz zrobi¨ z moj§\p\nTam§.... To znaczy - z moj§ Miki!?v\e
 
 [00066c|en] yMikizuPa-\pPapa`\p Takeru-san said he'd help me out!!v\e
-[00066c|ru] yMikizuPa-\pPapa`\p Takeru-san powiedzia©, ¯e mi pomo¯e!!v\e
+[00066c|ru] yMikizuPa-\pPapo`\p Takeru-san powiedzia©, ¯e mi pomo¯e!!v\e
 
 [00066f|en] yGenjousaizu„Ÿ„ŸOh?\p\p You think she has a chance?v\e
 [00066f|ru] yGenjousaizu„Ÿ„ŸOh?\p\p S§dzisz, ¯e ma ona szanse?v\e
@@ -1481,7 +1481,7 @@ SCR 1 Shift-JIS
 [000689|ru] yMikizuTakeru-saaan.v\e
 
 [00068a|en] yTakeruzuOkay,\p let's work on this together!!v\e
-[00068a|ru] yTakeruzuW porz§dku!\p\nOsi§gnijmy to razem!v\e
+[00068a|ru] yTakeruzuW porz§dku!\p Osi§gnijmy to razem!v\e
 
 [00068c|en] yMikizuYes!v\e
 [00068c|ru] yMikizuTaaa!v\e
@@ -1517,7 +1517,7 @@ SCR 1 Shift-JIS
 [0006a4|ru] yMikizu...\pOkej!v\e
 
 [0006b2|en] yTakeruzuAnd that's why we gathered all of you\nhere...\p...\p...\p...\p...\p...\pso yeah.v\e
-[0006b2|ru] yTakeruzuI to w©aÛnie dlatego zebraliÛmy was\nw tym miejscu...\p...\p...\p Tak w©aÛnie maj§ siª sprawy.v\e
+[0006b2|ru] yTakeruzuI to w©aÛnie dlatego zebraliÛmy was w tym\p\nmiejscu...\p...\p...\p Tak w©aÛnie maj§ siª sprawy.v\e
 
 [0006b3|en] yChizuruzu...\p...\p...\p...\pv\e
 [0006b3|ru] yChizuruzu...\pv\e
@@ -1571,7 +1571,7 @@ SCR 1 Shift-JIS
 [0006e8|ru] yKeizu...\p...\pv\e
 
 [0006eb|en] yChizuruzuWait...\p...\pa-...\p...\pare you seriously...\p...!?v\e
-[0006eb|ru] yChizuruzuCzekaj...\p...\p\nChyba nie jesteÛ teraz powa¯ny...!?v\e
+[0006eb|ru] yChizuruzuCzekaj...\p...\p Chyba nie jesteÛ teraz powa¯ny...!?v\e
 
 [0006ef|en] yTakeruzuIf we get him to change, no one will ever know.v\e
 [0006ef|ru] yTakeruzuJeÛli go odpowiednio przygotujemy, to nikt siª\p\nnie zorientuje.v\e
@@ -1580,16 +1580,16 @@ SCR 1 Shift-JIS
 [0006f1|ru] ySumikazuTo szaleÃstwo!v\e
 
 [0006f2|en] yTakeruzuAnd even if someone does find out,\p I think a\nlot of people would be happy about it.v\e
-[0006f2|ru] yTakeruzuA nawet je¯eli siª ktoÛ zorientuje,\p\ns§dzª, ¯e tak na prawdª wielu by siª ucieszy©o.v\e
+[0006f2|ru] yTakeruzuA nawet je¯eli siª ktoÛ zorientuje, to s§dzª,\p\n¯e tak na prawdª wielu bªdzie z tego powodu zadowolonych.v\e
 
 [0006f4|en] yMeiyazuAs society wills it...\p...\pif that is all right with\nyou...\p...\pv\e
 [0006f4|ru] yMeiyazuCzy spo©eczeÃstwo...\p pozwoli na coÛ takiego...?\pv\e
 
 [0006fa|en] yKeizu...\p...\phe does have a point.v\e
-[0006fa|ru] yKeizu...\pOna ma racje.v\e
+[0006fa|ru] yKeizu...\pOn ma racje.v\e
 
 [0006ff|en] yChizuruzuW-\pwe can't! There's no way a boy can\nparticipate in women's lacrosse!!v\e
-[0006ff|ru] yChizuruzuNi-\pnie mo¯emy tego zrobi¨!\p\nNie ma mowy, aby pozwolili ch©opakowi uczestniczy¨ w damskim lacrosse!!v\e
+[0006ff|ru] yChizuruzuN-\pnie mo¯emy tego zrobi¨!\p\nNie ma mowy, aby pozwolili ch©opakowi uczestniczy¨ w damskim\p\nlacrosse!!v\e
 
 [000701|en] yTakeruzuCan't we just change the rules again!?v\e
 [000701|ru] yTakeruzuAle czy nie mo¯emy zawsze po prostu,\p ponownie\nnamiesza¨ w regulaminie?v\e
@@ -1607,13 +1607,13 @@ SCR 1 Shift-JIS
 [000708|ru] yTakeruzuJedyne co siª dla niej liczy, to tylko,\p\nspuszczenie ©omotu Klasie B.\p\nA samo zwyciªstwo to tylko relfeksja.v\e
 
 [000709|en] yTakeruzuClass B being disqualified is simply unthinkable.\nShe even went out of her way to revise the festival rules\nso that she could drag Class Rep into it.v\e
-[000709|ru] yTakeruzuDlatego dyskwalifikacja Klasy B nie wchodzi\p\nw rachubª.\ A ona jest zdolna dos©ownie zrobi¨ wszystko,\p\nco w jej mocy, aby zrewidowa¨ zasady festiwalu.\p\n I nie zawacha siª wci§gn§¨ w to Przedstawicieli klas.v\e
+[000709|ru] yTakeruzuDlatego dyskwalifikacja Klasy B nie wchodzi\p\nw rachubª. A ona jest zdolna dos©ownie zrobi¨ wszystko,\p\nco w jej mocy, aby zrewidowa¨ zasady festiwalu.\p\n I nie zawacha siª wci§gn§¨ w to Przedstawicieli klas.v\e
 
 [00070b|en] yMeiyazu...\p...\pI see.\p If we ask Instructor Kouzuki,\p we can\nchange the rules once again.v\e
 [00070b|ru] yMeiyazuRozumiem...\p\nJeÛli zapytamy Instruktorkª Kouzuki, bedziemy mieli szanse\p\nponownie przekona¨ j§ do zmiany zasad.v\e
 
 [00070d|en] yTakeruzuCorrect! Besides,\p Yuuko-sensei can\nmanipulate practically every teacher in this school.\n...\p...\pso how about it?v\e
-[00070d|ru] yTakeruzuZgadza siª! Po za tym,\p Yuukp-sensei\p\nma brudy na prawie ka¯dego nauczyciela w tej szkole...\p\nWchodzicie w to?v\e
+[00070d|ru] yTakeruzuZgadza siª! Po za tym,\p Yuukp-sensei ma brudy\p\nna prawie ka¯dego nauczyciela w tej szkole...\p\nWchodzicie w to?v\e
 
 [00070f|en] yChizuruzu...\p...\pv\e
 [00070f|ru] yChizuruzu...\pv\e
@@ -1622,7 +1622,7 @@ SCR 1 Shift-JIS
 [000710|ru] yTakeruzuMusimy tylko zmieni¨ zasady,\p aby dru¯yna\nmog©a mie¨ jednego faceta, o ile przebierze siª w damski\p\nstr«j.\p Âadna z pozosta©ych klas nie powinna na to narzeka¨.v\e
 
 [000715|en] yChizuruzu...\p...\pmaybe...\p...\pif his back and stomach were\nmore...\p...\pv\e
-[000715|ru] yChizuruzu...W takim razie...\p\nMo¯e koniec koÃc«w...\pv\e
+[000715|ru] yChizuruzu...W takim razie...\p Mo¯e koniec koÃc«w...\pv\e
 
 [00071a|en] ySumikazuCan we do it!?v\n
 [00071a|ru] ySumikazuNale¯y siª zbuntowa¨?v\n
@@ -1685,10 +1685,10 @@ SCR 1 Shift-JIS
 [00075b|ru] yTakeruzuJestem wykoÃczony.v\e
 
 [00075d|en] ySumikazuBut why?\p Takeru-chan,\p all you did was watch.v\e
-[00075d|ru] ySumikazuNiby dlaczego>\p\nTakeru,\p przecie¯ ty tylko siª przygl§da©eÛ.v\e
+[00075d|ru] ySumikazuNiby dlaczego?\p\nTakeru,\p przecie¯ ty tylko siª przygl§da©eÛ.v\e
 
 [00075e|en] yTakeruzuI know.\p That was all it took...\p...\pv\e
-[00075e|ru] yTakeruzuWiem o tym.\p\nAle to co zd§¯y©em zobaczy¨...\pv\e
+[00075e|ru] yTakeruzuWiem o tym.\p\nAle to, co zd§¯y©em ju¯ zobaczy¨...\pv\e
 
 [000760|en] yMeiyazuTakeru,\p do not worry so.\p\p\nWe aim to win!v\e
 [000760|ru] yMeiyazuTakeru,\p nie obawiaj siª.\p\p\nOsi§gniemy zwyciªstwo!v\e
