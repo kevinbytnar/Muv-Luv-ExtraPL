@@ -1475,7 +1475,7 @@
 [00059b|ru] ...\p...\pBeznadzieja.\e
 
 [0005aa|en] 【Takeru】「I know which room.」\e
-[0005aa|ru] 【Takeru】「Dowiedziaｩem siｪ,\p w ktｫrym pokoju ona siｪ znajduje.」\e
+[0005aa|ru] 【Takeru】「Dowiedziaｩem siｪ,\p w ktｫrym pokoju faktycznie ona\p\nsiｪ znajduje.」\e
 
 [0005ac|en] 【Kei】「...\p...\pgood.」\e
 [0005ac|ru] 【Kei】「...\pBrawo ty.」\e
@@ -1511,13 +1511,13 @@
 [0005ba|ru] Draﾜni siｪ teraz ze mnｧ.\e
 
 [0005bb|en] 【Takeru】「Well,\p I don't care.\p So you're still okay?」\e
-[0005bb|ru] 【Takeru】「No cｫｯ, niewaｯne.\p Wiｪc nadal dobrze sobie radzisz」\e
+[0005bb|ru] 【Takeru】「No cｫｯ, niewaｯne.\p\nWiｪc nadal dobrze sobie radzisz/」\e
 
 [0005bd|en] 【Kei】「...\p...\p...\p...\p」\e
 [0005bd|ru] 【Kei】「...\p...\p」\e
 
 [0005be|en] 【Takeru】「Didn't I tell you at school?\p\nAbout what happened to Class Rep?」\e
-[0005be|ru] 【Takeru】「Czy nie mｫwiｩem ci w szkole?\p\nO tym, co siｪ staｩo z Przedstawicielkｧ??」\e
+[0005be|ru] 【Takeru】「Czy nie mｫwiｩem ci w szkole?\p\nO tym, co siｪ staｩo z Przedstawicielkｧ?」\e
 
 [0005c0|en] 【Kei】「...\p...\pI'm fine.」\e
 [0005c0|ru] 【Kei】「...\pWszystko gra.」\e
@@ -1541,7 +1541,7 @@
 [0005cb|ru] 【Kei】「...\pOkej.」\e
 
 [0005cc|en] Well,\p she certainly doesn't seem bothered by it.\e
-[0005cc|ru] Cｫｯ,\p nie wydaje siｪ byｨ wstrzｧﾛniｪta ani nic,\p\nwiｪc zakｩｧdam,\p ｯe nic siｪ nie staｩo.\e
+[0005cc|ru] Cｫｯ,\p nie wydaje siｪ byｨ wstrzｧﾛniｪta ani nic,\p\nwiec zakｩｧdam,\p ｯe nic siｪ nie staｩo.\e
 
 [0005cd|en] I'm sure she could feel people staring at her...\p...\p\e
 [0005cd|ru] Chociaｯ jestem pewny,\p ｯe czuｩa jak ludzie siｪ na niｧ gapiｧ...\p\e
@@ -1571,7 +1571,7 @@
 [00060d|ru] C-\pCo TO za moc～～～～!?\e
 
 [00060f|en] 【Takeru】「Uuwoaaaaaaaaaa～～～～～\p Full torque!!!」\e
-[00060f|ru] 【Takeru】「Uuwoaaaaaaaaaa～～～～～\p Full torque!!!」\e
+[00060f|ru] 【Takeru】「Uuwoaaaaaaaaaa～～～～～\p Peｩna moc!!!」\e
 
 [000612|en] AAAAAAAAAH!!!\e
 [000612|ru] AAAAAAAAAH!!!\e
@@ -1583,7 +1583,7 @@
 [00061c|ru] 【Takeru】「Guuuaaah!!」\e
 
 [00061d|en] ...\p...\pis this...\p...\p...\pwhat a triple axel...\p...\pfeels like?\e
-[00061d|ru] ...\pCzy to wｩaﾛnie...\p tak siｪczujｧ ci co skosztowali\p\npotrｫjnego axel-a?\e
+[00061d|ru] ...\pCzy to wｩaﾛnie...\p tak siｪ czujｧ ci co skosztowali\p\npotrｫjnego axel-a?\e
 
 [00061e|en] ...\p...\p*plop!*\e
 [00061e|ru] ...\p*Jeb!*\e
@@ -1595,7 +1595,7 @@
 [000625|ru] Ten gｩos...\p!\e
 
 [000626|en] 【Doctor】「You're...\p...\p!\p\p Are you okay?」\e
-[000626|ru] 【Doctor】「Jesteﾛ...\p!\p\p Czy wszystko w porzｧdku?」\e
+[000626|ru] 【Doktor】「Jesteﾛ...\p!\p\p Czy wszystko w porzｧdku?」\e
 
 [000627|en] ...\p...\pof course I'm not okay...\p...\e
 [000627|ru] ...\pNie,\p ani trochｪ...\e
@@ -1607,19 +1607,19 @@
 [00062d|ru] 【Takeru】「Gdzie ja jestem...\p?」\e
 
 [000632|en] 【Doctor】「...\p...\pif you're conscious, you should be fine.\nBut you should go see a doctor just in case.」\e
-[000632|ru] 【Doctor】「...\pWidzｪ,\p ｯe jesteﾛ przytomny. To dobry znak.\p\nAle powinieneﾛ siｪ zbadaｨ, na wszelki wypadek.」\e
+[000632|ru] 【Doktor】「...\pWidzｪ,\p ｯe jesteﾛ przytomny. To dobry znak.\p\nAle powinieneﾛ siｪ zbadaｨ, tak na wszelki wypadek.」\e
 
 [000633|en] ...\p...\pwhy not you?\e
 [000633|ru] ...\pDlaczego ty tego nie zrobisz?\e
 
 [000636|en] That'd be the fastest...\p...\p...\phey!\e
-[000636|ru] To bｪdzie najlepsza opcja...\pHey!\e
+[000636|ru] To bｪdzie najlepsza opcja...\pHej!\e
 
 [000637|en] ...\p...\p...\p...\p\e
 [000637|ru] ...\p...\p\e
 
 [000638|en] D-...\p...\pdon't leave a patient lying on the floor～～～!!\e
-[000638|ru] N-...\pnie zostawiaj pacjenta leｯｧcego na podｩodze～～～!!\e
+[000638|ru] N-...\pNnie zostawiaj pacjenta leｯｧcego na podｩodze～～～!!\e
 
 [00063d|en] 【Akane】「...\p...\pwhat're you doing?」\e
 [00063d|ru] 【Akane】「...\pA ty, co tu robisz?」\e
@@ -1628,7 +1628,7 @@
 [00063f|ru] Ah...\pSuzumiya...\p...\p\e
 
 [000640|en] ...\p...\pyou seem really taken aback...\p...\pfor some reason...\p...\e
-[000640|ru] ...\pWyglｧdasz na bardzo, uh...\p powiedzmy,\p ｯe\p\nniebｪdｧcｧ pod wraｯeniem. Heh...\e
+[000640|ru] ...\pWyglｧdasz na bardzo, uh...\p powiedzmy,\p ｯe niebｪdｧcｧ\p\npod wraｯeniem. Heh...\e
 
 [000641|en] 【Takeru】「...\p...\p...\p...\phey,\p you doing well?」\e
 [000641|ru] 【Takeru】「...\p...\pHej..\p Wszystko w porzｧdku?」\e
@@ -1637,7 +1637,7 @@
 [000643|ru] 【Akane】「...\pNa pewno mam siｪ lepiej niｯ ty.」\e
 
 [000644|en] 【Takeru】「You couldn't be more right.\p\nClass Rep's vanished, and Ayamine ran away from me.」\e
-[000644|ru] 【Takeru】「Nie mogｩaﾛ mieｨ teraz wiｪkszej racji.\p\nPrzedstawicielka zniknｪｩa,\p a Ayamine uciekｩa ode mnie.」\e
+[000644|ru] 【Takeru】「Nie mogｩaﾛ mieｨ teraz wiｪkszej racji.\p\nPrzedstawicielka zniknｪｩa,\p a Ayamine wｩaﾛnie\p\nuciekｩa ode mnie.」\e
 
 [000646|en] 【Akane】「Sounds tough.」\e 
 [000646|ru] 【Akane】「Zabrzmiaｩo brutalnie.」\e 
@@ -1664,16 +1664,16 @@
 [000650|ru] 【Takeru】「...\pNo,\p a o co chodzi z twojｧ twarzｧ,\p ktｫra wyglｧda\p\nna strasznie wynudzonｧ?」\e
 
 [000652|en] 【Akane】「I am so bored!\p\p So I'd love a visit,\p even from\nyou,\p Shirogane-kun.」\e
-[000652|ru] 【Akane】「Poniewaｯ STRASZNIE mi siｪ nudzi!\p\nCjｪtnie powitam kaｯdego goﾛcia, nawet takiego jak ty, Shirogane-kun.」\e
+[000652|ru] 【Akane】「Poniewaｯ STRASZNIE mi siｪ nudzi!\p\nChｪtnie powitam kaｯdego goﾛcia, nawet kogﾛ takiego jak ty,\p\nShirogane-kun.」\e
 
 [000654|en] Even from me\p...\p...\pouch.\e
-[000654|ru] "Nawet takiego ja...? Stary,\p zabolaｩo to.\e
+[000654|ru] "Nawet kogoﾛ takiego ja...? Stary,\p zabolaｩo to.\e
 
 [000655|en] 【Takeru】「Aren't they testing you to make sure there's\nnothing wrong with your head? Go get looked at already.」\e
-[000655|ru] 【Takeru】「Bｧdﾜ cierpliwa.\p Te badania przecieｯ sｧ waｯne.\p\nZwｩaszcza,\p ｯe majｧ sprawdziｨ, czy jakaﾛ ﾛrubka w gｩowie ci siｪ nie\p\npoluzowaｩa, prawda?」\e
+[000655|ru] 【Takeru】「Bｧdﾜ cierpliwa.\p Te badania przecieｯ sｧ waｯne.\p\nZwｩaszcza,\p ｯe majｧ sprawdziｨ, czy jakaﾛ ﾛrubka w gｩowie ci\p\nsiｪ nie poluzowaｩa, prawda?」\e
 
 [000657|en] 【Akane】「Hmmm,\p\p so that's how you put it...\p...\p\nI see～～～」\e
-[000657|ru] 【Akane】「Oh..?,\p\p Heh. Potrafisz trochｪ przygadaｨ～～～」\e
+[000657|ru] 【Akane】「Oh...?\p\p Heh. Potrafisz trochｪ przygadaｨ～～～」\e
 
 [000659|en] Uu!\p I'd better be more careful when I tease her.\e
 [000659|ru] Ep!\p Chyba lepiej bｪdzie jak bｪdｪ ostroｯny z tymi moimi\p\ndocinkami.\e
@@ -1694,7 +1694,7 @@
 [000661|ru] Dlaczego ty...\p...\p\e
 
 [000663|en] 【Akane】「So why're you empty-handed? Didn't you bring\nme something?\p Come on,\p take it out.」\e
-[000663|ru] 【Akane】「Wiｪc zjawiｩeﾛ siｪ tutaj z postymi rｪkoma?\p\nA gdzie moja kartka z ｯyczeniami powrotu do zdoriwa?\p\nNo i gdzie sｧ moje kwiaty? No dlaej, przynieﾛ mi je.」\e
+[000663|ru] 【Akane】「Wiｪc zjawiｩeﾛ siｪ tutaj z postymi rｪkoma?\p\nA gdzie moja kartka z ｯyczeniami powrotu do zdrowia?\p\nNo i gdzie sｧ moje kwiaty? No dalej, przynieﾛ mi je.」\e
 
 [000664|en] 【Takeru】「H-\phey now～」\e
 [000664|ru] 【Takeru】「H-\phej～」\e
@@ -1709,13 +1709,13 @@
 [000669|ru] 【Takeru】「...\pA co siｪ staｩo w twoim ｩagodnym,\p ale\p\npowaｯnym wyrazem twarzy?」\e
 
 [00066b|en] 【Akane】「Huuh?\p What're you talking about?」\e
-[00066b|ru] 【Akane】「HCo?\p O czym ty mｫwisz??」\e
+[00066b|ru] 【Akane】「Co?\p O czym ty mｫwisz??」\e
 
 [00066d|en] Suzumiya...\p...\pyou're actually really easy to talk to.\e
-[00066d|ru] No bo Suzumiya nie powinna byｨ, uh... radosna?\p\nI do tego niesamowicie przystｪpna w rozmowie?\e
+[00066d|ru] No bo Suzumiya nie powinna byｨ, uh... bardziej radosna?\p\nI do tego niesamowicie przystｪpna w rozmowie?\e
 
 [00066e|en] 【Takeru】「Never mind.\p So what about your tests?」\e
-[00066e|ru] 【Takeru】「W sumie niewaｯne.\p\pA co z twoimi badaniami?」\e
+[00066e|ru] 【Takeru】「W sumie niewaｯne.\p\p A co z twoimi badaniami?」\e
 
 [000670|en] 【Akane】「They'll probably know for sure by tomorrow,\p\p\nthough I keep telling them I feel perfectly fine～」\e
 [000670|ru] 【Akane】「Myﾛlｪ, ｯe jutro bｪdｧ juｯ wiedzieｨ na pewno.\p\p\nCiｧgle im powtarzam,\p ｯe czujｪ siｪ swietnie!」\e
@@ -1733,7 +1733,7 @@
 [000675|ru] 【Takeru】「Och...\p Rozumiem...\p」\e
 
 [000677|en] 【Akane】「Something bad happened before.\p\p I didn't object\nbecause I don't want my family to worry about me.」\e
-[000677|ru] 【Akane】「Krｧｯy tutaj pewna kistoryjka.\p\p Nie robiｩam zamieszania,\p\nbo nie chcｪ, ｯeby moja rodzina siｪ o mnie martwiｩa.」\e
+[000677|ru] 【Akane】「Krｧｯy tutaj pewna kistoryjka.\p\p\nNie robiｩam zamieszania, bo nie chcｪ,\p\nｯeby moja rodzina siｪ o mnie martwiｩa.」\e
 
 [000678|en] 【Takeru】「Something as in...\p...?」\e
 [000678|ru] 【Takeru】「Historyjka, a o czym...?」\e
@@ -1748,7 +1748,7 @@
 [00067d|ru] 【Akane】「Nie powiem.」\e 
 
 [00067f|en] 【Takeru】「...\p...\pc-\pcome on...\p...\p\nOkay,\p never mind.\p\nSo,\p if they haven't finished testing yet,\p are you sure\nthey're okay with you wandering around like this?」\e
-[00067f|ru] 【Takeru】「...\pOh, no weﾜ!\p ...Dobra, zapomnij.\p\nWiｪc jeﾛli jeszcze nie skoﾃczyli badaｨ, to jesteﾛ pewna,\p ｯe nie majｧ nic przeciwko temu,\p\nｯebyﾛ tak siｪ wｩｫczyｩa bez celu?」\e
+[00067f|ru] 【Takeru】「...\pOh, no weﾜ!\p ...Dobra, zapomnij.\p\nWiｪc jeﾛli jeszcze nie skoﾃczyli badaｨ, to jesteﾛ pewna,\p\nｯe nie majｧ nic przeciwko temu, ｯebyﾛ tak siｪ\p\nwｩｫczyｩa bez celu?」\e
 
 [000681|en] 【Akane】「Aaah,\p that's right!\p\p The doctor wanted to see\nme!\p\p If I'm late, it's your fault, Shirogane-kun.」\e
 [000681|ru] 【Akane】「Och nie,\p no tak!\p\p Lekarz chciaｩ mnie zobaczyｨ!\p\nJeﾛli siｪ spｫﾜniｪ, to bｪdzie twoja wina,\p Shirogane-kun!」\e
@@ -1757,7 +1757,7 @@
 [000683|ru] 【Takeru】「Taa,\p to hasｩo idealnie podsumowuje moje ｯyce.」\e
 
 [000685|en] 【Akane】「Bye now,\p make sure you tell them what I said.」\e
-[000685|ru] 【Akane】「Dobra,\p muszｪ iﾛｨ!\p Przekaｯ mojｧ wiadomoﾛｨ dziewczynｧ.」\e
+[000685|ru] 【Akane】「Dobra,\p muszｪ iﾛｨ!\p\nPrzekaｯ mojｧ wiadomoﾛｨ dziewczynｧ.」\e
 
 [000686|en] 【Takeru】「Ah,\p yeah.」\e
 [000686|ru] 【Takeru】「Taa,\p nie ma problemu.」\e
@@ -1766,22 +1766,22 @@
 [00068d|ru] ...\pPoczekaj.\e
 
 [00068e|en] Why would a hospital make the patient go to the doctor?\p\nEspecially one whose tests aren't done.\e
-[00068e|ru] Po co szpital miaｩby kazaｨ pacjentowi iﾛｨ do lekarza?\p\nZwｩaszcza tkaiego,\p ktｫry wciｧｯ jest badany.\e
+[00068e|ru] Po co szpital miaｩby kazaｨ pacjentowi iﾛｨ do lekarza?\p\nZwｩaszcza takiemu,\p ktｫry wciｧｯ jest badany.\e
 
 [00068f|en] That's downright negligent.\e
 [00068f|ru] Totalne zaniedbanie.\e
 
 [000691|en] ...\p...\pstill...\pI can tell the two of them that she's doing fine,\p\nbut they really do need to come and hear it themselves.\e
-[000691|ru] ...\pAle bez wzglｪdu na wszystko.\p\nNie mam nic przeciwko temu,\p ｯeby powiedzieｨ im,\p jak siｪ ona czuje,\p\nale naprawdｪ powinny same jｧ odiwedziｨ.\e
+[000691|ru] ...\pAle bez wzglｪdu na wszystko.\p\nNie mam nic przeciwko temu,\p ｯeby powiedzieｨ im,\p jak siｪ ona\p\nczuje, ale naprawdｪ powinny same jｧ odwiedziｨ.\e
 
 [000693|en] Suzumiya isn't bothered by it at all.\e
-[000693|ru] Nawet sama Suzumiya powiedziaｩa,\p ｯe nia ma powodu do zmartwieﾃ.\e
+[000693|ru] Nawet sama Suzumiya to otwardzie przyznaｩa,\p ｯe nia ma\p\npowodu do zmartwieﾃ.\e
 
 [000695|en] She even said she'd love visitors.\e
-[000695|ru] I dodaｩa,\p ｯe uwielbia gdy ktoﾛ jｧ odwiedz,\p\nwiｪc idealnie by pasowaｩa.\e
+[000695|ru] I dodaｩa,\p ｯe uwielbia gdy ktoﾛ jｧ odwiedza, wiｪc idealnie\p\nby pasowaｩo.\e
 
 [000697|en] Though it seems like she only wants someone to kill\ntime with...\p...\pI won't worry about that.\e
-[000697|ru] Sprawiaｩa wraｯenie,\p ｯe po prostu z kimﾛ zabiｨ czas...\p\nAle jestem prawie pewny,\p ｯe jest po prostu nieﾛmiaｩa.\e
+[000697|ru] Sprawiaｩa wraｯenie,\p ｯe po prostu chce z kimﾛ zabiｨ trochｪ czas...\p\nAle jestem prawie pewny,\p ｯe jest po prostu nieﾛmiaｩa.\e
 
 [00069a|en] 【Doctor】「...\p...\pah!」\e
 [00069a|ru] 【Doktor】「...\pAh!」\e
@@ -1790,7 +1790,7 @@
 [0006a0|ru] Och!\p To znowu ten lekarz.\e
 
 [0006a1|en] He behaved quite recklessly earlier.\p I wonder if\nSuzumiya's okay...\p...\pin this hospital.\e
-[0006a1|ru] Wczeﾛniej zachowywaｩ siｪ doﾛｨ pieszczotwliie.\p\nZ takim lekarzami nam nadziejｪ,\p ｯe z Suzumiyｧ wszystko bedzie dobrze\e
+[0006a1|ru] Wczeﾛniej zachowywaｩ siｪ doﾛｨ pieszczotwliie.\p\nMajｧ takiego lekarza to nam nadziejｪ,\p ｯe z Suzumiyｧ wszystko bedzie dobrze.\e
 
 [0006a3|en] 【Doctor】「Does your head feel alright?」\e
 [0006a3|ru] 【Doktor】「Czy z twojｧ gｩowｧ wszystko gra?」\e
@@ -1808,7 +1808,7 @@
 [0006a8|ru] To musi czytaｨ siｪ...\pSagiri?\e
 
 [0006a9|en] That's a weird name...\p...\p\e
-[0006a9|ru] Dosyｨ diwaczne imiｪ...\p\e
+[0006a9|ru] Dosyｨ dziwaczne imiｪ...\p\e
 
 [0006ac|en] 【Sagiri】「I see...\p...\p...\pthat's good to hear.」\e
 [0006ac|ru] 【Sagiri】「Rozumiem...\p Dobrze to sｩyszeｨ.」\e
@@ -1850,10 +1850,10 @@
 [0006bb|ru] To po prostu ﾛmierdzi cudownymi ploteczkami～\e 
 
 [0006bc|en] This man,\p this old man,\p this doctor...\p...\p...\p...\pis calling\nAyamine by her first name!!\e
-[0006bc|ru] On zwraca siｪ do Ayamine po imieniu...\p...\p\nOn! Facet! Starszy od niej! I lewkarz, na dodatek!!\e
+[0006bc|ru] On zwraca siｪ do Ayamine po imieniu...\p...\p\nOn! Facet! Starszy od niej! I to lekarz, na dodatek!!\e
 
 [0006bd|en] And she runs away from him...\p...\p...\p...\pthis is too perfect!\e
-[0006bd|ru] A jednak ta panienka go unika...\p...\p\nTak,\p zdecydowanie tak wｩaﾛnie pachnie skandal wiszｧcy w powietrzu!\e
+[0006bd|ru] A jednak ta panienka go unika...\p...\p\nTak,\p zdecydowanie tak wｩaﾛnie pachnie skandal wiszｧcy w\p\npowietrzu!\e
 
 [0006bf|en] 【Sagiri】「...\p...\p...\p...\p」\e
 [0006bf|ru] 【Sagiri】「...\p...\p」\e
@@ -1874,10 +1874,10 @@
 [0006c9|ru] ...\p...\p\e
 
 [0006ca|en] Seriously...\p...\pwho are you...\p...\p?\e
-[0006ca|ru] Serio...\p Co jest z tym facetem...\p?\e
+[0006ca|ru] Serio...\p Co jest nie tak z tym facetem...\p?\e
 
 [0006cb|en] I do feel like I've gotten closer to one of Ayamine's\nsecrets, but...\p...\p...\p...\pit also feels like I got more questions\nthan answers.\e
-[0006cb|ru] Czujｪ,\p ｯe jestem bliｯej odkrycia jednego z sekretｫw\p\nAyamine, ale...\p...\p czujｪ teｯ,\p ｯe znalazｩem wiecej pytaﾃ niｯ odpowiedzi.\e
+[0006cb|ru] Czujｪ,\p ｯe jestem bliｯej odkrycia jednego z sekretｫw\p\nAyamine, ale...\p...\p czujｪ teｯ,\p ｯe znalazｩem wiecej pytaﾃ niｯ\p\nodpowiedzi.\e
 
 [0006cd|en] ...\p...\panyway,\p where'd she go?\e
 [0006cd|ru] ...\pAle co waｯniejsze,\p dokｧd ona uciekｩa?\e
@@ -1892,22 +1892,22 @@
 [0006dd|ru] 【Meiya】「Yoroi i Tamase zabrali jej torbe z ksiｧｯkami do\p\njej domu...\p ale nie udaｩo im siｪ jej tam zastaｨ.」\e
 
 [0006de|en] 【Takeru】「Aaah, come on,\p I understand how hard it is for\nher, but...\p...\pthis isn't like her at all.」\e
-[0006de|ru] 【Takeru】「Stary,\p co tu siｪ wyprawaia?!\p\nRozumiem jak ciｪｯko jej moｯe byｨ,\p ale...\p\tTo w ogｫle do niej nie pasuje.」\e
+[0006de|ru] 【Takeru】「Stary,\p co tu siｪ wyprawaia?!\p\nRozumiem jak ciｪｯko jej moｯe byｨ,\p ale...\p\nTo w ogｫle do niej nie pasuje.」\e
 
 [0006e0|en] 【Meiya】「It cannot be helped.\p\p\nSakaki has never been treated this way before...\p...\pand this\nis what she got for all her effort these past three years.」\e
-[0006e0|ru] 【Meiya】「Nic nie moge na to poradziｨ.\p\p\nSakaki nigdy wczeﾛniej nie byｩa w ten sposｫb traktowana...\p\nI kto by pomyﾛlaｩ,\p ｯe tak bedzie wyglｧdaｨ podziｪkowanie za caｩy jej wysiｩek,\pktｫry wｩoｯyｩa przez te ostatnie trzy lata.」\e
+[0006e0|ru] 【Meiya】「Nic nie moge na to poradziｨ.\p\p\nSakaki nigdy wczeﾛniej nie byｩa w ten sposｫb traktowana...\p\nI kto by pomyﾛlaｩ,\p ｯe tak bedzie wyglｧdaｨ podziｪkowanie za\p\ncaｩy jej wysiｩek,\p ktｫry wｩoｯyｩa przez te ostatnie trzy lata.」\e
 
 [0006e1|en] 【Takeru】「...\p...\p...\p...\pwell...\p...\pyeah.」\e
 [0006e1|ru] 【Takeru】「...\p...\pTaaa...\p zaｩapaｩem.」\e
 
 [0006e2|en] But seriously...\p...\pthis isn't like you at all, Class Rep.\e
-[0006e2|ru] Ale na litoﾛｨ poskｧ...\p\p\nTo w ogｫle do ciebie nie pasuje, Przedsatwicielko.\e
+[0006e2|ru] Ale na litoﾛｨ boskｧ...\p\p\nTo w ogｫle do ciebie nie pasuje, Przedsatwicielko.\e
 
 [0006e3|en] You've always been the type to bounce back in these\nsituations...\p...\p\e
-[0006e3|ru] Zawsze byｩaﾛ typem,\p ktｫra potrafi siｪpodnieﾛｨ w\p\ntakich sytuacjach...\p\e
+[0006e3|ru] Zawsze to ty byｩaﾛ typem,\p ktｫra potrafi siｪp odnieﾛｨ w\p\ntego typu sytuacjach...\p\e
 
 [0006e4|en] 【Takeru】「And Suzumiya was so perky today...\p...」\e
-[0006e4|ru] 【Takeru】「Przypuszczam,\p ｯe caｩa ta sytuacja musi nieﾜle ssaｨ,\p\nzwｩaszcza,\p ｯe z perspektywy Suzumiy,\p to w sumie nic siｪ nie staｩo...」\e
+[0006e4|ru] 【Takeru】「Zakｩadam,\p ｯe caｩa ta sytuacja musi nieﾜle ssaｨ,\p\nzwｩaszcza,\p ｯe z perspektywy Suzumiy,\p to w sumie nic siｪ\p\ntak naprawdｪ nie staｩo...」\e
 
 [0006e6|en] ...\p...\pwhy's Class Rep the only one like this?\e
 [0006e6|ru] ...\pNo to dlaczego Przedstawicielka jest tｧ jedynｧ,\p\nktｫra tak mocno obrywa?\e
@@ -1934,16 +1934,16 @@
 [0006f3|ru] 【Meiya】「Niczego siｪ nie domyﾛlasz...\p?」\e
 
 [0006f4|en] 【Takeru】「Guess? ...\p...\p...\p...\p???」\e
-[0006f4|ru] 【Takeru】「Domyﾛlasz? Niby czego mam siｪ domyﾛli...\p...\p???」\e
+[0006f4|ru] 【Takeru】「Domyﾛlasz? Niby czego mam siｪ domyﾛliｨ...\p...\p?」\e
 
 [0006f6|en] 【Meiya】「...\p...\p...\p...\pdo not think too hard about it.\p\p I\nunderstand what you want to say,\p but this is the safest\nplan.」\e
-[0006f6|ru] 【Meiya】「...\p...\pNie myﾛl o tym za duｯo.\p\nRozumiem, co chcesz powiedzieｨ,\p lae to jest najbezpieczniejszy plan.」\e
+[0006f6|ru] 【Meiya】「...\p...\pNie myﾛl o tym za duｯo.\p\nRozumiem, co chcesz powiedzieｨ,\p ale to jest\p\nnajbezpieczniejszy plan jaki moｯemy zastosowaｨ.」\e
 
 [0006f7|en] 【Takeru】「Safest plan?」\e
 [0006f7|ru] 【Takeru】「Najbezpieczniejszy plan?」\e
 
 [0006f9|en] 【Meiya】「I mean to say that some things happen better\nbetween people of the same sex.」\e
-[0006f9|ru] 【Meiya】「Chodzi mi o to, ｯe niektｫre rzeczy moｯna zaｩatwiｨ\p\npｩynniej miｪczy osobami tej samej pｩci.」\e
+[0006f9|ru] 【Meiya】「Chodzi mi o to, ｯe niektｫre rzeczy moｯna zaｩatwiｨ\p\npｩynniej miｪdzy osobami tej samej pｩci.」\e
 
 [0006fa|en] ...\p...\p...\p...\p\e
 [0006fa|ru] ...\p...\p\e
@@ -1952,10 +1952,10 @@
 [0006fd|ru] ...\pMeh!\e
 
 [0006fe|en] I kinda understand it,\p and I kinda don't.\e
-[0006fe|ru] Trochｪ to rozumie,\p a trochｪ nie.\e
+[0006fe|ru] Trochｪ to rozumiem,\p a rｫwnoczeﾛnie trochｪ nie.\e
 
 [000700|en] 【Meiya】「You need only trust us and wait.」\e
-[000700|ru] 【Meiya】「Musisz tylko poczkeaｨ i mieｨ do nas zaufanie.」\e
+[000700|ru] 【Meiya】「Musisz tylko poczekaｨ i mieｨ do nas zaufanie.」\e
 
 [000702|en] 【Takeru】「...\p...\p...\p...\pokay then.\p I'm counting on you.」\e
 [000702|ru] 【Takeru】「...\p...\pOkej.\p Liczｪ na was.」\e
