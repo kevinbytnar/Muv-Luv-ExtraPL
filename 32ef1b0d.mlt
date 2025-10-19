@@ -68,13 +68,13 @@
 [000067|ru] 【Chizuru】「...\pA to z jakiego powodu?」\e
 
 [000068|en] 【Takeru】「Oh,\p I mean you came in full uniform today.」\e
-[000068|ru] 【Takeru】「Oh,\p wybacz mi.\p\nPo prostu cieszｪ siｪ,\p ｯe przyszｩaﾛ dzisiaj w swoim mundurku szkolnym.」\e
+[000068|ru] 【Takeru】「Oh,\p wybacz mi.\p\nPo prostu cieszｪ siｪ,\p ｯe przyszｩaﾛ dzisiaj w swoim mundurku\p\nszkolnym.」\e
 
 [00006a|en] 【Chizuru】「...\p...\pdidn't I tell you I had a spare?」\e
 [00006a|ru] 【Chizuru】「...\pJestem pewna,\p ｯe mｫwiｩam ci,\p ｯe mam zapasowy.」\e
 
 [00006c|en] 【Takeru】「I see...\p...\pwell,\p maybe you did.\nBut...\p...\pwell...\p...\pI couldn't help but worry about you.」\e
-[00006c|ru] 【Takeru】「Rozumiem...\p Moｯe i tak.\p Ale...\p\nChyba i tak nie mogｩem siｪ nie martwiｨ,\p dopｫki nie zobaczyｩem tego\p\nna wｩasne oczy.」\e
+[00006c|ru] 【Takeru】「Rozumiem...\p Moｯe i tak.\p Ale...\p\nChyba i tak nie mogｩem siｪ nie martwiｨ,\p dopｫki nie zobaczyｩem tego na wｩasne oczy.」\e
 
 [000070|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [000070|ru] 【Chizuru】「...\p...\p」\e
@@ -92,13 +92,13 @@
 [000076|ru] ...\p...\p\e
 
 [000077|en] No you aren't.\e
-[000077|ru] Jest dokｩadnie u niej na odwrｫt.\e
+[000077|ru] Raczej bym powiedziaｩ, ｯe jest dokladnie na odwrｫt.\e
 
 [000078|en] But I can't find the words to tell her that...\p...\pand thinking\nabout how she felt yesterday...\p...\pjust hurts.\e
-[000078|ru] Ale nie mogｪ znaleﾜｨ sｩｫw, aby jｧ pocieszyｨ...\p\nA kiedy myﾛlｪ o tym,\p jak musiaｩa siｪ wczoraj czuｨ...\p\nSamo to boli jak cholera.\e
+[000078|ru] Ale nie mogｪ znaleﾜｨ sｩｫw, aby jｧ pocieszyｨ...\p\nA kiedy myﾛlｪ o tym,\p jak musiaｩa siｪ wczoraj czuｨ...\p\nSamo wspominanie o tym boli jak cholera.\e
 
 [000079|en] I've never felt...\p...\pthis bad before...\p...\pabout someone else's\nproblems.\e
-[000079|ru] Nigdy wczeﾛniej nie czuｩem siｪ... tak ﾜle... z powodu chyichﾛ problemｫw.\e
+[000079|ru] Nigdy wczeﾛniej nie czuｩem siｪ... tak ﾜle... z powodu\p\nczyiﾛ problemｫw.\e
 
 [00007e|en] 【Sumika】「Takeru-chaaan...\p...\p...\p...\pah,\p good morning.」\e 
 [00007e|ru] 【Sumika】「Takeru-chaaan...\p...\p\nOch,\p dzieﾃ dobry Sakaki-san.」\e 
@@ -113,7 +113,7 @@
 [00008b|ru] 【Chizuru】「Mitsurugi-san...\p」\e
 
 [00008f|en] 【Meiya】「Such accidents are a part of sporting events.\p\p\p\nAre you not the one who likened lacrosse to a martial\nart?」\e 
-[00008f|ru] 【Meiya】「Takie wypadki sｧ nie odｩｧcznym ryzykiem wydarzeﾃ\p\p\p\nsportowych. Czy to nie ty porｫwnywaｩaﾛ lacrosse do sztuk walki?」\e 
+[00008f|ru] 【Meiya】「Takie wypadki sｧ nie odｩｧcznym ryzykiem wydarzeﾃ\p\p\p\nsportowych. Czy to nie ty porｫwnywaｩaﾛ lacrosse do sztuk walk?」\e 
 
 [000092|en] 【Sumika】「She's right.\p\p And Suzumiya-san was just fine.」\e
 [000092|ru] 【Sumika】「Meiya ma racje.\p\p\nA Suzumiyi-san nic siｪ nie staｩo,\p prawda??」\e
@@ -251,7 +251,7 @@
 [000122|ru] 【Takeru】「...\p...\p」\e 
 
 [000123|en] It just keeps replaying in my head...\p...\p...\p...\pI can't ignore\nwhat happened to Class Rep yesterday.\e
-[000123|ru] To wciｧｯ i wciｧｯ rozgrywa siｪ w mojej gｩowie...\p...\p\nNie mogｪ zignorowaｨ tego co wydarzyｩo siｪ wczoraj z Przedstawicielkｧ.\e
+[000123|ru] To wciｧｯ i wciｧｯ rozgrywa siｪ w mojej gｩowie...\p...\p\nNie mogｪ zignorowaｨ tego co wydarzyｩo siｪ wczoraj z\p\nPrzedstawicielkｧ.\e
 
 [000125|en] 【Sumika】「Come on Takeru-chan,\p let's go.」\e 
 [000125|ru] 【Sumika】「Dalej, Takeru-chan.\p Idziemy.」\e 
@@ -266,7 +266,7 @@
 [00012c|ru] 【Takeru】「...\pTaaa.\p Co za utrapienie.」\e
 
 [00012e|en] ...\p...\pbut,\p if I do anything to irritate Class Rep...\p...\pit'd be\npointless.\e
-[00012e|ru] ...\pA jednak,\p to nic nie da,\p jeﾛli oczywistym\p\nbｪdzie to,\p ｯe sprawiam wraｯenie,\p ｯe jestem wyczulony i ostroｯny wobec Przedstawicielki...\e
+[00012e|ru] ...\pA jednak,\p to nic nie da,\p jeﾛli oczywistym nbｪdzie to,\p\nｯe sprawiam wraｯenie,\p ｯe jestem wyczulony i ostroｯny\p\nwobec Przedstawicielki...\e
 
 [000130|en] 【Marimo】「Shirogane-kuuun,\p don't complain before we\neven start.\p\p Come on,\p let's go.」\e
 [000130|ru] 【Marimo】「Shirogane-kuuun,\p Nie narzekaj,\p przed startem.\p\nChodﾜ,\p idziemy.」\e
@@ -287,7 +287,7 @@
 [000141|ru] 【Takeru】「Tak jest.」\e
 
 [000143|en] 【Marimo】「By the way,\p don't forget to clean around the\nfar building.」\e
-[000143|ru] 【Marimo】「Aha,\p i nie zapomnijcie o obszarze wokｫｩ budynku\p\nklubu」\e
+[000143|ru] 【Marimo】「Aha,\p i nie zapomnijcie o obszarze wokｫｩ budynku\p\nklubu.」\e
 
 [000144|en] 【Takeru】「No waaay!!」\e
 [000144|ru] 【Takeru】「No nie...!」\e
@@ -323,7 +323,7 @@
 [000156|ru] 【Meiya】「Rozumiem.\p\p W zwiｧzku z festiwalem w klubie sportowym\p\nbｪdzie duｯo ruchu...\p...\p Rozumiem,\p dlatego wｩaﾛnie bｪdzie\p\npanowaｩ baｩagan.」\e
 
 [000157|en] ...\p...\pdo none of you realize you could just go there\nyourselves?\e
-[000157|ru] ...\pAle wiecie,\p teoretycznie moglibyﾛcie sami siｪ tym\p\nzajｧｨ...\e
+[000157|ru] ...\pAle wiecie,\p teoretycznie moglibyﾛcie same siｪ tym\p\nzajｧｨ...\e
 
 [00015c|en] 【Takeru】「Geez...\p...\p」\e
 [00015c|ru] 【Takeru】「Banda palantｫw...\p」\e
@@ -380,7 +380,7 @@
 [000173|ru] Dobrze wiedzieｨ,\p ｯe jedna z nich nie jest gｩupia.\e
 
 [200174|en] ──If that was intentional, she's a total idiot.\e
-[200174|ru] ──Gdyby tak byｩko,\p musiaｩaby byｨ naprawdｪ gｩupia\e
+[200174|ru] ──Gdyby tak byｩko,\p musiaｩaby byｨ naprawdｪ gｩupia.\e
 
 [000175|en] Uu...\p...\pthat logic's twisted but...\p...\pwhatever...\p...\p\e
 [000175|ru] Ngh...\p Jej logika jest pokrｪcona,\p ale...\p\nW sumie niewaｯne...\p\e
@@ -401,7 +401,7 @@
 [20017a|ru] ──A co,\p jeﾛli szukaｩｧ wymｫwki,\p by sprowadziｨ\p\nnaszｧ gwiazdｪ na ziemiｪ i ukraﾛｨ od niej caｩｧ sｩawｪ?\e
 
 [20017b|en] ──Elitists like that can't stand it when the world isn't\nrevolving around them.\e
-[20017b|ru] ──Takie znoby jak ona zawsze muszｧ mieｨ caｩy ﾛwiat\p\nkrｪcｧcy siｪ wokｫｩ nich.\e
+[20017b|ru] ──Takie snoby jak ona zawsze muszｧ mieｨ caｩy ﾛwiat\p\nkrｪcｧcy siｪ wokｫｩ nich.\e
 
 [20017c|en] ──Maybe she thinks that everyone else is an idiot...\p...\p\e
 [20017c|ru] ──Prawdopodobnie uwaｯa wszystkich innych na ﾛwiecie\p\nza idiotｫw,\p prawda?\p\e
@@ -413,10 +413,10 @@
 [00017e|ru] One tak na serio...?\p\nJak one mogｧ tak po prostu sobie mieliｨ jｪzorem,\p\nskoro nie majｧ o niczym pojｪcia?!\e
 
 [20017f|en] ──She was always the most enthusiastic one out\nthere...\p...\p\e
-[20017f|ru] ──Ona zawsze musi zgrywaｨ samotnego wilka,\p prawda?p\e
+[20017f|ru] ──Ona zawsze musi zgrywaｨ samotnego wilka,\p prawda?\e
 
 [200180|en] ──She stays quiet sometimes just because it'd be\neasier to let others do stuff for her...\p...\pbut then she gets\nall full of herself!\e
-[200180|ru] ──Dlatego ｩatwiej jest jej pozwoliｨ wykonaｨ robotｪ za nas.\p\nZ tego powodu jestem stanie znieﾛｨ jej zrzｪdzenie od czasu do czasu...\p\nAle ona na serio POWAﾂNIe ma wyｯej tyｩek niｯ sra.\e
+[200180|ru] ──Dlatego ｩatwiej jest jej pozwoliｨ wykonaｨ robotｪ za nas.\p\nZ tego powodu jestem stanie znieﾛｨ jej zrzｪdzenie od czasu do czasu... Ale ona na serio POWAﾂNIe ma wyｯej tyｩek niｯ sra.\e
 
 [200181|en] ──I feel so sorry for Suzumiya-san...\p...\pshe didn't\ndeserve that.\e
 [200181|ru] ──Biedna Suzumiya-san...\p\nNie zasｩuｯyｩa sobie na to.\e
@@ -425,7 +425,7 @@
 [200182|ru] ──Czy ona nie nazywaｩa Suzumiye-san swojｧ rywalkｧ?\e
 
 [200183|en] ──Uwaaa,\p she really is full of it,\p the bitch!\e 
-[200183|ru] ──O mｫj boｯｪ!\p\nCo to za zadufana w sobie suka!\e 
+[200183|ru] ──O mｫj boｯe!\p\nCo to za zadufana w sobie suka!\e 
 
 [000184|en] 【Takeru】「──!!」\e
 [000184|ru] 【Takeru】「──!!」\e
@@ -434,13 +434,13 @@
 [000185|ru] Cholera! Nie zniosｪ tego dｩuｯej!\e
 
 [200189|en] ──There really is something wrong with her,\p we\nshould just avoid her.\e 
-[200189|ru] ──Z niｧ naprawdｪjest coﾛ bardzo nie tak.\p\nPo prostu powinniﾛmy jej unikaｨ.\e 
+[200189|ru] ──Z niｧ naprawdｪ jest coﾛ bardzo nie tak.\p\nPo prostu powinniﾛmy jej unikaｨ.\e 
 
 [00018e|en] Where are you!?\e
-[00018e|ru] Gdzie poｩazｩyﾛcie!?\e
+[00018e|ru] Gdzie siｪ podziaｩyﾛcie!?\e
 
 [00018f|en] I'll give you a piece of my mind!!\e
-[00018f|ru] Poczekajcie,\p aｯ dam wam popaliｨ\e
+[00018f|ru] Poczekajcie,\p aｯ dam wam popaliｨ!!\e
 
 [200194|en] ──She totally ruined our last sports festival...\p...\p\e
 [200194|ru] ──Caｩkowicie zrujnowaｩa nasz ostatni festiwal sportowy...\p\e
@@ -491,7 +491,7 @@
 [0001b7|ru] Gorzej juｯ byｨ nie moｯe...\p...\p\e
 
 [0001b9|en] 【Chizuru】「I've been picking up trash in your place...\p...\p」\e
-[0001b9|ru] 【Chizuru】「Ciｪｯko siｪ napracowaｩam zbierajｧc tutejsze ﾛmieci,\p\na to z powodu tego,\p KTOﾚ postanowiｩ siｪ poobijaｨ...\p」\e
+[0001b9|ru] 【Chizuru】「Ciｪｯko siｪ napracowaｩam zbierajｧc tutejsze\p\nﾛmieci, a to z powodu tego,\p KTOﾚ postanowiｩ siｪ poobijaｨ...\p」\e
 
 [0001bb|en] ...\p...\p...\p...\p\e
 [0001bb|ru] ...\p...\p\e
@@ -521,7 +521,7 @@
 [0001db|ru] Ah...\p\e
 
 [0001de|en] 【Meiya】「Hmmmm...\p...\p...\p...\pperhaps it is impossible for her\nto not be bothered by it...\p...\p」\e
-[0001de|ru] 【Meiya】「Hmmmm...\p...\p Byｨ moｯe nierozsｧdnie byｩo sｧdziｨ, ｯe tak\p\nszybko zapomni o tej sprawie...\p」\e
+[0001de|ru] 【Meiya】「Hmmmm...\p...\p Byｨ moｯe nierozsｧdnie byｩo sｧdziｨ,\p\nｯe tak szybko zapomni o tej sprawie...\p」\e
 
 [0001e1|en] 【Sumika】「Yeah...\p...\pnormally she'd have given you a huge\nguilt trip...\p...\p」\e
 [0001e1|ru] 【Sumika】「Taaa...\p Normalnie,\p to juｯ teraz by siｪ burzyｩa\p\ni zaczｪｩaby jｧ juｯ szukaｨ...\p」\e
@@ -530,7 +530,7 @@
 [0001e2|ru] ...\pNie w tym leｯy problem.\e
 
 [0001e3|en] Even after what happened yesterday,\p Class Rep still\nwould've done that,\p even if she had to force herself.\e
-[0001e3|ru] Gdyby chodziｩo tylko o to, co wydarzyｩo siｪ wczoraj,\p\nto Przedstawicielka i tak by to zrobiｩa,\p nawet jeﾛli tylko po to,\p\nby zachowaｨ dobrｧ minｪ do zｩej gry. Taka juｯ jest.\e
+[0001e3|ru] Gdyby chodziｩo tylko o to, co wydarzyｩo siｪ wczoraj,\p\nto Przedstawicielka i tak by to zrobiｩa,\p nawet jeﾛli tylko po\p\nto by zachowaｨ dobrｧ minｪ do zｩej gry. Taka juｯ jest.\e
 
 [0001e4|en] But...\p...\p\e
 [0001e4|ru] Ale...\p\e
@@ -554,7 +554,7 @@
 [0001f4|ru] 【Takeru】「Hｪ? O co chodzi?」\e
 
 [0001f6|en] 【Marimo】「Hmmm...\p...\p...\p...\pwell\p...\p...\pis someone...\p...\pdoing\nsomething to Sakaki-san?」\e
-[0001f6|ru] 【Marimo】「Cｫｯ,\p jakby to ujｧｨ....\p....\p\nCzy uczniowie...\p przypadkiem majｧcoﾛ do Sakaki-san?」\e
+[0001f6|ru] 【Marimo】「Cｫｯ,\p jakby to ujｧｨ....\p....\p\nCzy uczniowie...\p przypadkiem majｧ coﾛ do Sakaki-san?」\e
 
 [0001f7|en] 【Takeru】「Eh...\p...\pah...\p...\p」\e
 [0001f7|ru] 【Takeru】「Huh...?\p Oh,\p uh...\p」\e
@@ -572,7 +572,7 @@
 [0001fe|ru] 【Takeru】「Cｫｯ...\p」\e
 
 [000200|en] 【Marimo】「Everyone was behaving strangely this morning\nin class...\p...\p...\p...\pI hoped it wasn't that bad, but...\p...\p」\e
-[000200|ru] 【Marimo】「Wszyscy zachowywali siｪ dziwnie dziﾛ rano w klasie...\p\nMiaｩem nadziejｪ,\p ｯe to tylko moja wyobraﾜnia,\p ale...\p」\e
+[000200|ru] 【Marimo】「Wszyscy zachowywali siｪ dziwnie dziﾛ rano w klasie.\p\nMiaｩem nadziejｪ,\p ｯe to tylko moja wyobraﾜnia,\p ale...\p」\e
 
 [000201|en] 【Takeru】「...\p...\pyes.」\e
 [000201|ru] 【Takeru】「...\pTak.」\e
@@ -584,13 +584,13 @@
 [000204|ru] 【Takeru】「Chyba trudno im w to uwierzyｨ....\p\nZwｩaszcza biorｧc pod uwagｪ okolicznoﾛci...\p」\e
 
 [000205|en] Besides, those people are all interpreting things\nhowever they want instead of looking at the facts...\p...\p\e 
-[000205|ru] A w takich przypadkach ludzie majｧ tendencjｪ do wierzenia\p\nw to, w co chcｧ wierzyｨ...\p lub w to. co jest dla nich\p\nnajwygodniejsze.\p\e 
+[000205|ru] A w takich przypadkach ludzie majｧ tendencjｪ do wierzenia\p\nw to, w co chcｧ wierzyｨ...\p lub w to, co jest dla nich\p\nnajwygodniejsze.\p\e 
 
 [000206|en] Especially after hearing those girls talking earlier...\p...\p\nI know it all too well.\e
 [000206|ru] Zwｩaszcza po usｩyszeniu wczeﾛniejszej rozmowy tych dziewczyn.\p\nZnam to aｯ za dobrze.\e
 
 [000208|en] 【Marimo】「Really now...\p...\p...\pdo they have to see everything\nin such a bad light?」\e
-[000208|ru] 【Marimo】「Akurat teraz...\p...\p\nDLaczego muszｧ widzieｨ wszystko w tak negatywnym ﾛwietle?」\e
+[000208|ru] 【Marimo】「Akurat teraz...\p...\p\nDlaczego muszｧ widzieｨ wszystko w tak negatywnym ﾛwietle?」\e
 
 [000209|en] Class Rep in particular is this year's top student,\p is good\nat sports and doesn't mince her words...\p...\pit's really easy\nto get envious of her.\e
 [000209|ru] Naprawdｪ ｩatwo jest byｨ zazdrosnym o Przedstawicielkｪ...\p\nZwｩaszcza dlatego,\p ｯe jest najlepszｧ uczennicｧ w tym roku,\p\njest dobra w sporcie i nie przebiera w sｩowach.\e
@@ -599,16 +599,16 @@
 [00020b|ru] 【Marimo】「Niezｩy dylemat siｪ z tego zrobiｩ...\p」\e
 
 [00020c|en] 【Takeru】「It's irritating...\p...\pbut we have to just leave it\nalone for now.\p We'll keep an eye on Class Rep for you.」\e
-[00020c|ru] 【Takeru】「Naprawdｪ robi mi siｪ niedobrze...\p\nAle jeﾛli nie dojdzie do eskalacji,\p na razie musimy zostawiｨ to w spokoju.\p\nBｪdziemy mieｨ oko na Przedstawicielkｪ.」\e
+[00020c|ru] 【Takeru】「Naprawdｪ robi mi siｪ niedobrze...\p\nAle jeﾛli nie dojdzie do eskalacji,\p na razie musimy zostawiｨ\p\nto w spokoju. Bｪdziemy mieｨ oko na Przedstawicielkｪ.」\e
 
 [00020e|en] 【Marimo】「Aaah,\p\p I'm not liking this at all...\p...\p...\p...\pteachers\nreally are powerless...\p...\p」\e
-[00020e|ru] 【Marimo】「O jejjciu,\p po prostu nie mogｪ tego znieﾛｨ...\p...\p\nNauczyciele naprawdｪ sｧ bezsilni...」\e
+[00020e|ru] 【Marimo】「O jejciu,\p po prostu nie mogｪ tego znieﾛｨ...\p...\p\nNauczyciele naprawdｪ sｧ bezsilni...」\e
 
 [00020f|en] 【Takeru】「If the teachers get carelessly involved,\p they'll\njust make things worse.\p Please don't do anything for\nnow.」\e
 [00020f|ru] 【Takeru】「Jeﾛli nauczyciele zacznｧ robiｨ zamieszanie,\p\nto tylko pogorszy sytuacjｪ.\p Proszｪ,\p na razie nic nie robiｨ...」\e
 
 [000211|en] 【Marimo】「You're right...\p...\pand when Suzumiya-san comes\nback, things should change...\p...\p」\e
-[000211|ru] 【Marimo】「Masz racjｪ...\p A kiedy Suzumiya-san wrｫci,\p\nwszystko powinno siｪ zmieniｨ na lepszｪ...\[」\e
+[000211|ru] 【Marimo】「Masz racjｪ...\p A kiedy Suzumiya-san wrｫci,\p\nwszystko powinno siｪ zmieniｨ na lepszｪ...」\e
 
 [000212|en] ...\p...\pI don't think Class Rep will ever fully recover from\nthis, but...\p...\pwe can't do anything about that.\e
 [000212|ru] ...\pNie sｧdzｪ,\p ｯeby Przedstawicielka od razu sobie wybaczyｩa,\p\nale...\p nic na to nie poradzimy.\e
@@ -635,7 +635,7 @@
 [00021d|ru] 【Takeru】「...\pHuh?」\e
 
 [00021f|en] 【Marimo】「Suzumiya-san's going to be in the hospital for\nabout a week.」\e
-[00021f|ru] 【Marimo】「Suzumiya-san bｪdzie w szpitalu przez okoｩo tydzieﾃ.」\e
+[00021f|ru] 【Marimo】「Suzumiya-san bｪdzie jeszcze w szpitalu przez\p\nokoｩo tydzieﾃ.」\e
 
 [000220|en] 【Takeru】「Eh!? That long!?」\e
 [000220|ru] 【Takeru】「Co!? Tak dｩugo?」\e
@@ -662,13 +662,13 @@
 [00022a|ru] 【Takeru】「ｳaｩ.....」\e
 
 [00022b|en] ...\p...\pcome to think of it,\p she said something about\nintroducing me to a good neurosurgeon...\p...\pwhen she ran\nover Sumika.\e
-[00022b|ru] ...\pJakby siｪ nad tym zastanowiｨ,\p mｫwiｩa coﾛ o przedstawieniu\p\nmnie dobremu neurochirurgowi...\p kiedy wysｩaｩa Sumikｪ w stratosferｪ.\e
+[00022b|ru] ...\pJakby siｪ nad tym zastanowiｨ,\p mｫwiｩa coﾛ o przedstawieniu\p\nmnie dobremu neurochirurgowi...\p kiedy wysｩaｩa Sumikｪ w\p\nstratosferｪ.\e
 
 [00022d|en] 【Marimo】「Well,\p this is a complicated situation,\p so I'll do\nas you say for now.」\e
-[00022d|ru] 【Marimo】「W kaｯdym razie.\p\nBiorｧc pod uwagｪ okolicznoﾛci,\p postanowili mieｨ na niｧ oko przez jakiﾛ czas.」\e
+[00022d|ru] 【Marimo】「W kaｯdym razie.\p\nBiorｧc pod uwagｪ okolicznoﾛci,\p postanowili mieｨ na niｧ oko\p\nprzez jakiﾛ czas.」\e
 
 [00022e|en] 【Takeru】「Well,\p we know that Suzumiya's coming back,\nright? Why not just have Class Rep stay home for a\nweek...\p...\p?」\e
-[00022e|ru] 【Takeru】「Cｫｯ,\p Suzumiya ma juｯ zaplanowanｧ przyszｩoﾛｨ, prawda?\p\nW takim razie nie powinno byｨ problemu z tym,\p ｯe nie bｪdzie jej\p\nw szkole przez tydzieﾃ...\p」\e
+[00022e|ru] 【Takeru】「Cｫｯ,\p Suzumiya ma juｯ zaplanowanｧ przyszｩoﾛｨ,\p\nprawda? W takim razie nie powinno byｨ problemu z tym,\p\n ｯe nie bｪdzie jej w szkole przez tydzieﾃ...\p」\e
 
 [000230|en] 【Marimo】「That's true.\p\p Unlike a certain someone,\p that\nwouldn't hurt her chances of passing the finals.」\e
 [000230|ru] 【Marimo】「To prawda.\p W przeciwieﾃstwie do pewnej osoby,\p\nnie powinno to zaszkodziｨ jej szansom na zdanie testｫw.」\e
@@ -680,16 +680,16 @@
 [000233|ru] 【Marimo】「Miaｩam zamiar powiedzieｨ im obojgu bezpoﾛrednio,\p\nale wyglｧda na to,\p ｯe lepiej bｪdzie jak tego nie zrobiｪ.」\e
 
 [000235|en] 【Takeru】「It would be, yeah...\p...\pif you call them out now,\nit'll only drive them further into a corner.」\e 
-[000235|ru] 【Takeru】「Tak,\p to dobry plan...\p\nJeﾛli wyjdzie na jaw,\p ｯe zostali wezwani na spotkanie z nauczycielem,\p\nbｪdzie to dla nich ostatni gwｫﾜdﾜ do trumny.」\e 
+[000235|ru] 【Takeru】「Tak,\p to dobry plan...\p\nJeﾛli wyjdzie na jaw,\p ｯe zostali wezwani na spotkanie z\p\nnauczycielem, bｪdzie to dla nich ostatni gwｫﾜdﾜ do trumny.」\e 
 
 [000237|en] 【Marimo】「Good answer...\p...\pjust what I'd expect from you,\nShirogane-kun.」\e
 [000237|ru] 【Marimo】「Masz racjｪ...\p\nWｩaﾛnie tego siｪ po tobie spodziewaｩam,\p Shirogane-kun.」\e
 
 [000239|en] 【Takeru】「Umm,\p not that I don't want to, but...\p...\pwhy me?」\e
-[000239|ru] 【Takeru】「Umm...\p\nNie ｯebym miaｩcoﾛ przeciwko tenu, ale...\p\n?Dlaczego ja?」\e
+[000239|ru] 【Takeru】「Umm...\p\nNie ｯebym miaｩcoﾛ przeciwko tenu, ale...\p\nDlaczego ja?」\e
 
 [00023b|en] 【Marimo】「I think the person closest to Sakaki-san and\nAyamine-san who can treat them both fairly is\nShirogane-kun,\p right?」\e 
-[00023b|ru] 【Marimo】「Osobiﾛcie uwaｯam,\p ｯe jesteﾛ najbardziej zdolnｧ\p\ndo sprawiedliwego traktowania zarｫwno Sakaki-san, jak i Ayamine-san.\p\nNie wspominajｧc o tym\p ｯe wydaje mi siｪ,\p ｯe to ty moｯesz byｨ dla nich\p\nnajbliｯszｧ osobｧ.」\e 
+[00023b|ru] 【Marimo】「Osobiﾛcie uwaｯam,\p ｯe jesteﾛ najbardziej zdolnｧ\p\ndo sprawiedliwego traktowania zarｫwno Sakaki-san, jak i\p\nAyamine-san.\p\nNie wspominajｧc o tym\p ｯe wydaje mi siｪ,\p\nｯe to ty moｯesz byｨ dla nich najbliｯszｧ osobｧ.」\e 
 
 [00023c|en] ──How is that me!?\e
 [00023c|ru] ──Niby od kiedy staｩem siｪ kimﾛ takim!?\e
@@ -722,13 +722,13 @@
 [000249|ru] 【Takeru】「Potrzebujｧ tylko maｩego pchniｪcia we wｩaﾛciwym\p\nkierunku,\p tak uwaｯasz??」\e
 
 [00024b|en] 【Marimo】「I think it'd be best for them to see\nSuzumiya-san in person so they know she's\nalright...\p...\pdespite having to be in the hospital for a\nweek.」\e
-[00024b|ru] 【Marimo】「Myﾛlｪ,\p ｯe najlepiej bｪdzie,\p jeﾛli zobaczｧ,\p\nSuzumiyｪ-san osobiﾛcie,\p ｯeby przekonaｨ siｪ,\p ｯe wszystko z niｧ w porzｧdku.\p\nBｪdzie tam tylko przez tydzieﾃ.」\e
+[00024b|ru] 【Marimo】「Myﾛlｪ,\p ｯe najlepiej bｪdzie,\p jeﾛli zobaczｧ,\p\nSuzumiyｪ-san osobiﾛcie,\p ｯeby przekonaｨ siｪ,\p ｯe wszystko z niｧ\p\nw porzｧdku.Bｪdzie tam tylko przez tydzieﾃ.」\e
 
 [00024c|en] 【Takeru】「...\p...\pyou've got a point.」\e
 [00024c|ru] 【Takeru】「...\pSｩuszna uwaga.」\e
 
 [00024e|en] 【Marimo】「They should do that as soon as possible...\p...\p\nif they never go,\p they'll just feel even worse.」\e
-[00024e|ru] 【Marimo】「Przy okazji,\p im szybciej to zrobiｧ,\p tym lepie....\p\bJeﾛli przegapiｧ swojｧ szansｪ,\p pｫﾜnie bｪdzie tylko niezrｪcznie.」\e
+[00024e|ru] 【Marimo】「Przy okazji,\p im szybciej to zrobiｧ,\p tym lepiej...\p\nJeﾛli przegapiｧ swojｧ szansｪ,\p pｫﾜniej na pewno bｪdzie\p\ntylko niezrｪcznie.」\e
 
 [00024f|en] 【Takeru】「...\p...\pI understand.」\e
 [00024f|ru] 【Takeru】「...\pRozumiem.」\e
