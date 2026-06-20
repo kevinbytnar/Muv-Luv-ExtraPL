@@ -1,4 +1,4 @@
-﻿888888SCR 1 Shift-JIS
+﻿SCR 1 Shift-JIS
 786
 
 [000007|en] ...\p...\pthis really sucks.\e
@@ -17,7 +17,7 @@
 [000024|ru] 【Sumika】「..To ｯe Ayamine-san siｪ nie pojawiｩa\p\nto nic nowego.」\e
 
 [000025|en] 【Meiya】「You may be right about Ayamine.\p\p\nBut we must discuss Sakaki later.」\e
-[000025|ru] 【Meiya】「Moｯesz mieｨ racje co do Ayamine.\p\nAle i tak musimy pｫﾜniej omｫwiｨ, jak sobie poradziｨ z Sakaki.」\e
+[000025|ru] 【Meiya】「Moｯesz mieｨ racje co do Ayamine.\p\nAle i tak musimy pｫﾜniej omｫwiｨ, jak sobie poradziｨ z\p\nSakaki.」\e
 
 [000026|en] 【Sumika】「Okay then.」\e
 [000026|ru] 【Sumika】「Tak, rozumiem.」\e
@@ -26,16 +26,16 @@
 [00002b|ru] ...*Westchnienie*...\e
 
 [00002c|en] I can't stand hearing all these "secret" conversations.\e
-[00002c|ru] Nie mogｪ znieﾛｨ sｩuchania tych wszystkich "tajnych"\p\nrozmｫｩw.\e
+[00002c|ru] Nie mogｪ znieﾛｨ sｩuchania tych wszystkich "tajnych"\p\nrozmｫw.\e
 
 [00002d|en] Even if what they're saying has nothing to do with the\nincident, it still bugs me.\e
 [00002d|ru] Nawet jeﾛli to,\p co mｫwiｪ, nie ma nic wspｫlnego z\p\nincydentem,\p to i tak mnie to wkurza.\e
 
 [00002e|en] And it's not just Meiya and Sumika.\p\nIt bugs me no matter who's saying it.\e
-[00002e|ru] Pomijajｧc Meiye i Sumikｪ,\p wkurza mnie to bez\p\nwzglｪdu na to,\p kto mｫwi.\e
+[00002e|ru] Pomijajｧc Meiye i Sumikｪ,\p wkurza mnie to bez wzglｪdu\p\nna to,\p kto mｫwi.\e
 
 [00002f|en] If I could,\p I'd start screaming wildly and start beating the\ncrap out of random stuff in the classroom.\e
-[00002f|ru] Gdybym mｫgｩ,\p zaczｧｩbym wrzeszczeｨ na caｩy gｩos i po prostu\p\nrozwaliｩym jakieﾛ losowe rzeczy w klasie.\e
+[00002f|ru] Gdybym mｫgｩ,\p zaczｧｩbym wrzeszczeｨ na caｩy gｩos i po\p\nprostu rozwaliｩym jakieﾛ losowe rzeczy w klasie.\e
 
 [000030|en] But if I did that, it'd only make things worse for Class\nRep.\e
 [000030|ru] Ale gdybym to zrobiｩ,\p tylko pogorszｩbym sytuacji\p\nnaszej Przedstawicielki.\e
@@ -122,7 +122,7 @@
 [000083|ru] Ten gｩupi pies naprawdｪ wyglｧda na szczｪﾛliwego.\e
 
 [000084|en] He's running around in circles so fast I think he really\nwill catch his tail...\p...\p...\p...\p\e
-[000084|ru] Wymachuje ogonem tak mocno,\p ｯe wyglｧda,\p jakby miaｩ\p\nzamiar wyleci z tego wzgｫrza...\p...\p\e
+[000084|ru] Wymachuje ogonem tak mocno,\p ｯe wyglｧda,\p jakby miaｩ\p\nzamiar wyleciｨ z tego wzgｫrza...\p...\p\e
 
 [000085|en] 【Takeru】「...\p...\pI hope he doesn't catch it.」\e
 [000085|ru] 【Takeru】「...\pMam nadziejｪ,\p ｯe nie spadnie.」\e
@@ -131,13 +131,13 @@
 [000089|ru] 【Kei】「...\p...\p」\e
 
 [00008b|en] 【Takeru】「Don't mind me,\p just talking to myself.」\e
-[00008b|ru] 【Takeru】「Nie zwracaj na mnie uwagi, po prostu rozmawiam sam\p\nze sobｧ.」\e
+[00008b|ru] 【Takeru】「Nie zwracaj na mnie uwagi, po prostu\p\nrozmawiam sam ze sobｧ.」\e
 
 [00008d|en] 【Kei】「...\p...\pare we going to the hospital today?」\e
 [00008d|ru] 【Kei】「...\pCzy dzisiaj idziemy do szpitala?」\e
 
 [00008e|en] 【Takeru】「Why wouldn't we be?」\e
-[00008e|ru] 【Takeru】「A czy to nie jest wｩｧﾛciwa rzecz do zrobienia?」\e
+[00008e|ru] 【Takeru】「A czy to nie jest najwｩaﾛciwsza rzecz do\p\nzrobienia?」\e
 
 [000090|en] 【Kei】「...\p...\pthat's true.」\e
 [000090|ru] 【Kei】「...\pChyba tak.」\e
@@ -155,7 +155,7 @@
 [000095|ru] 【Kei】「...\p...\p」\e
 
 [000097|en] 【Takeru】「Yesterday...\p...\pafter you ran away,\p I talked to\nSagiri-san.」\e
-[000097|ru] 【Takeru】「Wczoraj...\p po tym jak uciekｩｧﾛ,\p rozmawiaｩem z\p\nSagiri-san.」\e
+[000097|ru] 【Takeru】「Wczoraj...\p po tym jak uciekｩaﾛ,\p rozmawiaｩem z Sagiri-san.」\e
 
 [000098|en] 【Kei】「...\p...\p...\p...\p」\e
 [000098|ru] 【Kei】「...\p...\p」\e
@@ -185,13 +185,13 @@
 [0000a3|ru] 【Kei】「...\p...\p」\e
 
 [0000a5|en] 【Takeru】「I didn't know a person could make such a\nwarm expression...\p...\p When I saw him talk about you,\nAyamine, that's what I thought.」\e
-[0000a5|ru] 【Takeru】「Stary,\p sposｫb w jaki jego twarz siｪ rozjaﾛniｩa,\p\nw momeﾃcie gdy o tobie opowiadaｩ...\p Chyba nigdy wczeﾛniej nie\p\nwidziaｩem czyjejﾛ twarzy tak rozjaﾛnionej.」\e
+[0000a5|ru] 【Takeru】「Stary,\p sposｫb w jaki jego twarz siｪ\p\nrozjaﾛniｩa, w momeﾃcie gdy o tobie opowiadaｩ...\p\nChyba nigdy wczeﾛniej nie widziaｩem czyjejﾛ twarzy\p\ntak rozjaﾛnionej.」\e
 
 [0000a7|en] 【Kei】「...\p...\p...\p...\p」\e
 [0000a7|ru] 【Kei】「...\p...\p」\e
 
 [0000a8|en] 【Takeru】「...\p...\pthinking back on it...\p...\pI feel...\p...\pa little\nenvious...\p...\pI wish I could make that face...\p...\p」\e
-[0000a8|ru] 【Takeru】「...\pGdy o tym myﾛlｪ...\p Wkurza mnie to...\p\nChyba nie mam niczego,\p co moｯe dla mnie aｯ tyle znaczyｨ...\p」\e
+[0000a8|ru] 【Takeru】「...\pGdy o tym myﾛlｪ...\p Wkurza mnie to...\p\nChyba nie mam niczego,\p co moｯe dla mnie aｯ tyle\p\nnaprawdｪ znaczyｨ...\p」\e
 
 [0000aa|en] 【Kei】「...\p...\pShirogane.」\e
 [0000aa|ru] 【Kei】「...\pShirogane.」\e
@@ -215,7 +215,7 @@
 [0000b4|ru] 【Kei】「...\pWiｪc to tak.」\e
 
 [0000b6|en] Why do I have to be so nervous about this?\e
-[0000b6|ru] WDlaczego jestem taki poirytowany...\e
+[0000b6|ru] Dlaczego jestem taki poirytowany...\e
 
 [0000b7|en] This is about Ayamine,\p not me.\e
 [0000b7|ru] I ze wszystkich ludzi,\p musiaｩa to byｨ Ayamine.\e
@@ -227,19 +227,19 @@
 [0000ba|ru] 【Kei】「...\pNie.」\e
 
 [0000bb|en] 【Takeru】「Don't admit it so easily!」\e
-[0000bb|ru] 【Takeru】「Nie przyznawaj siｪ do tego jakby to byｩa najbardziej\p\noczywista rzecz na ﾛwiecie!」\e
+[0000bb|ru] 【Takeru】「Nie przyznawaj siｪ do tego jakby to byｩa\p\nnajbardziej oczywista rzecz na ﾛwiecie!」\e
 
 [0000bd|en] 【Kei】「...\p...\pshould I have been more persistent?」\e
-[0000bd|ru] 【Kei】「...\pWolaｩbyﾛ,\p ｯebym pozwoliｩa na to,\p ｯeby to siｪ\p\nprzeciｧgaｩo?」\e
+[0000bd|ru] 【Kei】「...\pWolaｩbyﾛ,\p ｯebym pozwoliｩa na to,\p ｯeby to\p\nsiｪ przeciｧgaｩo?」\e
 
 [0000bf|en] 【Takeru】「No! ...\p...\p...\p...\pwell,\p it doesn't matter.\nAnyway,\p I'm through pretending to be your boyfriend.」\e
 [0000bf|ru] 【Takeru】「Nie! ...\p...\pOch,\p zapomnij.\p\nW kaｯdym razie,\p mam doﾛｨ udawania twojego chｩopaka.」\e
 
 [0000c1|en] ...\p...\pit's nowhere near as big as I make it sound.\e
-[0000c1|ru] ...\pTo wcale nie jest tak wielka sprawa,\p\njak to przedstawiam.\e
+[0000c1|ru] ...\pTo wcale nie jest tak wielka sprawa, jak to\p\nprzedstawiam.\e
 
 [0000c2|en] But I still heard something I shouldn't have.\e
-[0000c2|ru] Ale i tak usｩyszaｩem coﾛ,\p czego nie powinienem\p\nbyｩ usｩyszeｨ.\e
+[0000c2|ru] Ale i tak usｩyszaｩem coﾛ,\p czego nie powinienem byｩ\p\nusｩyszeｨ.\e
 
 [0000c4|en] I saw an expression I don't think I should've.\e
 [0000c4|ru] Zobaczyｩem wyraz twarzy,\p ktｫrego moim zdaniem nie\p\npowinienem byｩ zobaczyｨ.\e
@@ -248,7 +248,7 @@
 [0000c5|ru] Ten wraｯliwy wyraz twarzy...\p...\p\e
 
 [0000c7|en] Looking back on it,\p that's enough.\e
-[0000c7|ru] To wiｪcej nie wystarczajｧcy powｫd,\p ｯebym czuｩ siｪ\p\ntak okropnie z powodu tej maｩej farsy.\e
+[0000c7|ru] To wiｪcej nie wystarczajｧcy powｫd,\p ｯebym czuｩ siｪ tak\p\nokropnie z powodu tej maｩej farsy.\e
 
 [0000ca|en] 【Kei】「...\p...\phow much did he ask?」\e
 [0000ca|ru] 【Kei】「...\pIle ci powiedziaｩ?」\e
@@ -266,13 +266,13 @@
 [0000d2|ru] Z jakiego powodu...\p te sｩowa naprawdｪ mnie uderzajｧ...\p\e
 
 [0000d4|en] But that word...\p...\pit's kinda heavy.\e
-[0000d4|ru] Ale nie mｫwiｪtego tylko jako jej byｩy udawany chｩopak.\e
+[0000d4|ru] Ale nie mｫwiｪ tego tylko jako jej byｩy udawany chｩopak.\e
 
 [0000d6|en] 【Kei】「...\p...\pare you listening?」\e
 [0000d6|ru] 【Kei】「...\pSｩuchasz?」\e
 
 [0000d9|en] 【Takeru】「I don't like deception,\p so I'll tell you what he\nsaid.\p I didn't really hear much though.」\e
-[0000d9|ru] 【Takeru】「Nie chcｪ,\p ｯebyﾛ ﾜle zrozumiaｩa,\p wiｪc powiem ci,\p\nco powiedziaｩ. Jestem prawie pewien,\p ｯe nie usｩyszaｩem ncizego waｯnego.」\e
+[0000d9|ru] 【Takeru】「Nie chcｪ,\p ｯebyﾛ ﾜle zrozumiaｩa,\p wiｪc powiem ci, co powiedziaｩ. Jestem prawie pewien,\p ｯe nie\p\nusｩyszaｩem niczego waｯnego.」\e
 
 [0000db|en] 【Kei】「...\p...\pI see.」\e
 [0000db|ru] 【Kei】「...\pRozumiem.」\e
@@ -329,7 +329,7 @@
 [0000fb|ru] 【Kei】「...\p...\p」\e
 
 [0000fd|en] 【Takeru】「Did that man really deserve it?」\e
-[0000fd|ru] 【Takeru】「Czy to byｩo konieczne,\p abym tak siｪ zachowywaｩ?」\e
+[0000fd|ru] 【Takeru】「Czy to byｩo konieczne,\p abym tak siｪ\p\nzachowywaｩ?」\e
 
 [0000ff|en] 【Kei】「...\p...\punrelated.」\e
 [0000ff|ru] 【Kei】「...\pNieistotne.」\e
@@ -341,7 +341,7 @@
 [000102|ru] 【Kei】「...\p...\p」\e
 
 [000103|en] 【Takeru】「You're saying this has nothing to do with me?\p\nOr with Sagiri-san?\p What's unrelated to who?」\e
-[000103|ru] 【Takeru】「Mｫwisz,\p ｯe to nie ma nic wspｫlnego ze mnｧ?\p\nAni z Sagiri-san?\p Co jest nieistotne w stosunku do czego?」\e
+[000103|ru] 【Takeru】「Mｫwisz,\p ｯe to nie ma nic wspｫlnego ze mnｧ?\p\nAni z Sagiri-san?\p Co jest nieistotne w stosunku do\p\nczego?」\e
 
 [000105|en] 【Kei】「...\p...\p...\p...\p」\e
 [000105|ru] 【Kei】「...\p...\p」\e
@@ -371,7 +371,7 @@
 [000110|ru] 【Kei】「...\p...\p」\e
 
 [000111|en] 【Takeru】「You made me tell a lie.\p At least explain why\nyou did that...\p...\pwhy you got me involved in this!!」\e
-[000111|ru] 【Takeru】「Zmusiｩaﾛ mnie do powiedzenia okrutnego kｩamstwa.\p\nPrzynajmniej jesteﾛ mi winna wyjaﾛnieie...」\e
+[000111|ru] 【Takeru】「Zmusiｩaﾛ mnie do powiedzenia okrutnego\p\nkｩamstwa. Przynajmniej jesteﾛ mi winna wyjaﾛnieie...」\e
 
 [000115|en] 【Kei】「...\p...\pwho chose to do it?」\e
 [000115|ru] 【Kei】「...\pKto siｪ na to zgodziｩ?」\e
@@ -395,7 +395,7 @@
 [00011e|ru] 【Kei】「...\p...\p」\e
 
 [000120|en] 【Takeru】「Fine.\p I get it...\p...\p...\p...\pgo to the hospital alone.」\e
-[000120|ru] 【Takeru】「Dobra. Rozumiem...\p...\p\nNo to idﾜ do szpitala sama,\p dlaczego miaｩoby mnie to obchodziｨ.」\e
+[000120|ru] 【Takeru】「Dobra. Rozumiem...\p...\p\nNo to idﾜ do szpitala sama,\p dlaczego miaｩoby mnie to\p\nobchodziｨ.」\e
 
 [000122|en] It wouldn't feel right to see him again.\e
 [000122|ru] Nie czuｩbym siｪ dobrze,\p gdybym znｫw go zobaczyｩ.\e
@@ -464,13 +464,13 @@
 [000148|ru] 【Kei】「...\pPｫﾜniej ci powiem...\p Wiｪc chodﾜ ze mnｧ.」\e
 
 [00014a|en] 【Takeru】「...\p...\pokay, fine...\p...\pbut I won't wait that long.」\e
-[00014a|ru] 【Takeru】「...\pDobrze.\p Ale nie myﾛl,\p ｯe bｪdｪ dｩugo czekaｨ.」\e
+[00014a|ru] 【Takeru】「...\pDobrze.\p Ale nie myﾛl,\p ｯe bｪdｪ dｩugo\p\nczekaｨ.」\e
 
 [00014e|en] 【Kei】「...\p...\pokay.」\e
 [00014e|ru] 【Kei】「...\pOkej.」\e
 
 [00014f|en] 【Takeru】「Also,\p like I said before,\p I'm not pretending to\nbe your boyfriend again.」\e
-[00014f|ru] 【Takeru】「I jak juｯ wczeﾛniej mｫwiｩe,\p nie bｪdｪ znowu udawaｨ\p\ntwojego chｩopaka.」\e
+[00014f|ru] 【Takeru】「I jak juｯ wczeﾛniej mｫwiｩem,\p nie bｪdｪ znowu udawaｨ twojego chｩopaka.」\e
 
 [000151|en] 【Kei】「Okay.」\e
 [000151|ru] 【Kei】「...\pOkej.」\e
@@ -497,7 +497,7 @@
 [00015c|ru] 【Kei】「...\pCo tam,\p skarbie～?」\e 
 
 [00015e|en] 【Takeru】「I'm impressed you can still talk like that in a\nsituation like this.」\e
-[00015e|ru] 【Takeru】「Jestem pod wraｯeniem,\p ｯe nadal potrafisz tak\p\ngadaｨ zwｩaszcza w takiej sytuacji.」\e
+[00015e|ru] 【Takeru】「Jestem pod wraｯeniem,\p ｯe nadal potrafisz\p\ntak gadaｨ zwｩaszcza w takiej sytuacji.」\e
 
 [000160|en] 【Kei】「...\p...\pit's talent.」\e
 [000160|ru] 【Kei】「...\pTo talent.」\e
@@ -509,7 +509,7 @@
 [000163|ru] 【Takeru】「Cokolwiek. Lunch prawie siｪ skoﾃczyｩ,\p wiｪc wracam.」\e
 
 [000165|en] She's...\p...\pclinging to my sleeve...\p...\p\e
-[000165|ru] Ona...\p naprawdｪ trzymaｩｧ siｪ mojego rｪkawa...\p\e
+[000165|ru] Ona...\p naprawdｪ trzymaｩa siｪ mojego rｪkawa...\p\e
 
 [000166|en] It feels like...\p...\pI've seen a little of who Ayamine really is.\p\nJust a little tiny bit...\p...\p...\p...\p\e
 [000166|ru] Czujｪ,\p ｯe...\p dostrzegｩem, kim naprawdｪ jest Ayamine.\p\nChoｨby na ulotnｧ chwilｪ...\p...\p\e
@@ -521,7 +521,7 @@
 [000173|ru] Ona nadal jest jednｧ wielkｧ zagadkｧ,\p oczywiﾛcie,\p i\p\nnie ma koﾃca pytaniom,\p ktｫre chciaｩbym jej zadaｨ...\p...\p\e
 
 [000174|en] But Class Rep's the one who's really in trouble.\e
-[000174|ru] Ale to Przedstawicielka jest tｧ,\p ktｫra naprawdｪ ma kｩopoty.\e
+[000174|ru] Ale to Przedstawicielka jest tｧ,\p ktｫra naprawdｪ ma\p\nkｩopoty.\e
 
 [000175|en] Especially yesterday...\p...\p...\p...\p\e
 [000175|ru] Wczoraj byｩ niezｩy baｩagan...\p...\p\e
@@ -533,7 +533,7 @@
 [000177|ru] To tylko pogorsza sytuacje.\e
 
 [000178|en] Class Rep's smart enough to know that.\e
-[000178|ru] Przedstawicielka jest na tyle mｧdra,'o ｯeby to wiedzieｨ.\e
+[000178|ru] Przedstawicielka jest na tyle mｧdra, ｯeby to wiedzieｨ.\e
 
 [00017b|en] 【Takeru】「Hey,\p what do you think we should do?」\e
 [00017b|ru] 【Takeru】「Hej,\p co uwaｯasz ｯe powinniﾛmy zrobiｨ?」\e
@@ -542,10 +542,10 @@
 [00017d|ru] 【Kei】「...\p...\p」\e
 
 [000180|en] 【Takeru】「At least think about it with me.」\e
-[000180|ru] 【Takeru】「Przynajmniej udawaj,\p ｯe jesteﾛ tak zestresowana jak ja.」\e
+[000180|ru] 【Takeru】「Przynajmniej udawaj,\p ｯe jesteﾛ tak\p\nzestresowana jak ja.」\e
 
 [000182|en] 【Kei】「...\p...\pI'm thinking, I'm thinking.」\e
-[000182|ru] 【Kei】「...\pJestem\p jestem.」\e
+[000182|ru] 【Kei】「...\pJestem,\p jestem.」\e
 
 [000183|en] 【Takeru】「Really?」\e
 [000183|ru] 【Takeru】「Narpawdｪ?」\e
@@ -569,7 +569,7 @@
 [00018d|ru] ...\pAle tak na serio.\p\nNaprawdｪ musisz przestaｨ kｩamaｨ.\e
 
 [00018e|en] The more you pile up,\p the more helpless it'll make you.\e
-[00018e|ru] Jeﾛli bｪdziesz budowaｨ swojｧ wieｯｪ kｩamstw coraz wyｯej i\p\nwyｯej,\p prｪdzej czy pｫﾜniej to runie to pod wｩasnym ciｪｯarem.\e
+[00018e|ru] Jeﾛli bｪdziesz budowaｨ swojｧ wieｯｪ kｩamstw coraz wyｯej i wyｯej,\p prｪdzej czy pｫﾜniej to runie to pod wｩasnym\p\nciｪｯarem.\e
 
 [000190|en] Aaah...\p...\p...\p...\pI'm so glad I changed my mind about that lie.\e
 [000190|ru] Cholera...\p...\p\nﾂaｩujｪ,\p ｯe powiedziaｩem to kｩamstwo.\e
@@ -578,7 +578,7 @@
 [000191|ru] Niezaleｯnie od tego,\p dlaczego to zrobiｩem,\p to Ayamine\p\nmiaｩa racjｪ. To ja zdecydowaｩem siｪ to zrobiｨ.\e
 
 [000192|en] Saying 'I never thought it'd turn out like this' isn't good\nenough.\e
-[000192|ru] Mｫwienie: "Ale nigdy nie sｧdziｩam, ｯe tak to siｪ potoczy".\p\nTakie zachowanie to ｯadna wymｫwka.\e
+[000192|ru] Mｫwienie:\p\n"Ale nigdy nie sｧdziｩam, ｯe tak to siｪ potoczy".\p\nTakie zachowanie to ｯadna wymｫwka.\e
 
 [000194|en] This is my problem now.\e
 [000194|ru] I teraz to jest mｫj problem.\e
@@ -638,7 +638,7 @@
 [0001ca|ru] 【Chizuru】「...\pCzego chcesz?」\e
 
 [0001cc|en] 【Takeru】「Wandering around the station when school\ngets out?\p You really suck at cutting.」\e
-[0001cc|ru] 【Takeru】「Wiesz, jeﾛli masz zamiar wagarowaｨ,\p to\p\nprawdopodobnie nie jest najlepszy pomysｩ,\p ｯeby wｩｫczyｨ siｪ\p\npo stacji zaraz po zakoﾃczeniu zajｪｨ.」\e
+[0001cc|ru] 【Takeru】「Wiesz, jeﾛli masz zamiar wagarowaｨ,\p to\p\nprawdopodobnie nie jest najlepszy pomysｩ,\p ｯeby wｩｫczyｨ\p\nsiｪ po stacji zaraz po zakoﾃczeniu zajｪｨ.」\e
 
 [0001ce|en] 【Chizuru】「...\p...\pthank you for the advice.\nI'll be more careful next time.」\e
 [0001ce|ru] 【Chizuru】「...\pDziｪki za radｪ.\p\nNastｪpnym razem bｪdｪ o ostroｯniejsza.」\e
@@ -647,13 +647,13 @@
 [0001cf|ru] 【Takeru】「Nie o to mi chodziｩo...\p...\p\nNie powinno byｨ nastｪpnego razu.」\e
 
 [0001d2|en] 【Chizuru】「...\p...\pwhat does that have to do with you,\nShirogane-kun?」\n
-[0001d2|ru] 【Chizuru】「...\pA co ma to wspｫlnego z tobｧ,\p Shirogane-kun?」\n
+[0001d2|ru] 【Chizuru】「...\pA co ma to wspｫlnego z tobｧ,\p\nShirogane-kun?"」\n
 
-[0001d3|en] 【Takeru】「"...\p...\pwhat does that have to do with you,\nShirogane-kun?"」\e
-[0001d3|ru] 【Takeru】「"...\pA co ma to wspｫlnego z tobｧ,\p Shirogane-kun?」\e
+[0001d3|en] 【Takeru】「"...\p...\pwhat does that have to do with you,\nShirogane-kun?」\e
+[0001d3|ru] 【Takeru】「"...\pA co ma to wspｫlnego z tobｧ,\p\nShirogane-kun?"」\e
 
 [0001d9|en] 【Chizuru】「Please...\p...\p...\p...\peven if Sensei asks,\p don't come\nto my house.」\e
-[0001d9|ru] 【Chizuru】「Posｩuchaj...\p...\p Nie przychodﾜ wiｪcej do mojego domu,\p\nnawet jeﾛli Sensei ciｪ o to poprosi.」\e
+[0001d9|ru] 【Chizuru】「Posｩuchaj...\p...\p\nNie przychodﾜ wiｪcej do mojego domu, nawet\p\njeﾛli Sensei ciｪ o to poprosi.」\e
 
 [0001da|en] 【Takeru】「Hey now...\p...\panyway,\p about the hospital...\p...\p」\e
 [0001da|ru] 【Takeru】「Och, proszｪ....\p\nDoﾛｨ o tym,\p chodﾜmy do szpitala...\p」\e
@@ -674,7 +674,7 @@
 [0001e4|ru] 【Kei】「...\pRozchmurz siｪ.」\e
 
 [0001e5|en] 【Takeru】「You're the one who ran away just now.」\e
-[0001e5|ru] 【Takeru】「Mｫwi to dziewczyna,\p ktｫra uciekｩa i siｪ ukryｩa.」\e
+[0001e5|ru] 【Takeru】「Mｫwi to dziewczyna,\p ktｫra uciekｩa i siｪ\p\nukryｩa.」\e
 
 [0001e7|en] 【Kei】「...\p...\pI thought it'd be better if I wasn't there.」\e
 [0001e7|ru] 【Kei】「...\pPomyﾛlaｩam,\p ｯe bｪdzie lepie,\p jeﾛli mnie\p\ntam nie bｪdzie.」\e
@@ -713,7 +713,7 @@
 [000205|ru] 【Akane】「Oh～?\p Znowu przyszedｩeﾛ?」\e
 
 [000208|en] 【Takeru】「Y-\pyes! ...\p...\pwe've finally achieved our objective!」\e
-[000208|ru] 【Takeru】「Udaｩo siｪ! ...\pW koﾃcu osiｧgnｪliﾛmy nasz cel!」\e
+[000208|ru] 【Takeru】「Udaｩo siｪ! ...\p\nW koﾃcu osiｧgnｪliﾛmy nasz cel!」\e
 
 [00020a|en] 【Akane】「...\p...\pdo you have to get so excited? Nothing's\nhappened.」\e
 [00020a|ru] 【Akane】「...\pOjej, panie duｯy Enutzjazmie.\p\nCzy z ｩaski swojej mｫgｩbyﾛ trochｪ przystopowaｨ?」\e
@@ -737,28 +737,28 @@
 [000215|ru] 【Akane】「Dobze, dobrze.\p Wybaczam ci,\p czy coﾛ.\p\p\nJesteﾛ teraz zadowolony?」\e
 
 [000217|en] 【Takeru】「You don't sound very sincere...\p...\pnot that it\nmatters.\p So how much longer are you going to be here?」\e
-[000217|ru] 【Takeru】「Brzmiaｩo to doﾛｨ nieszczerze...\p ale rydz niｯ nic.\p\nTak czy inaczej,\p jak dｩugo jeszcze bｪdｧciｪ tu trzymaｨ?」\e
+[000217|ru] 【Takeru】「Brzmiaｩo to doﾛｨ nieszczerze...\p\nDarowanemu koniowi w zｪby siｪ nie zaglｧda.\p\nNiewaｯne,\p jak dｩugo jeszcze bｪdｧ ciｪ tu trzymaｨ?」\e
 
 [00021a|en] 【Akane】「Unfortunately it looks like I'm stuck here until\nthe weekend...\p...\p...\p...\pI'm gonna die of boredom.」\e
-[00021a|ru] 【Akane】「Niestety, wyglｧda na to,\p ｯe utknｪ tu do weekendu...\p\nNaprawdｪ umieram z nudｫw.」\e
+[00021a|ru] 【Akane】「Niestety, wyglｧda na to,\p ｯe utknｪ tu do\p\nweekendu... Naprawdｪ umieram z nudｫw.」\e
 
 [00021c|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00021c|ru] 【Takeru】「...\p...\p」\e
 
 [00021f|en] 【Akane】「I just wanna swim.\p\p\p What're you gonna do about\nthis?」\e
-[00021f|ru] 【Akane】「I jedyne, o czym myﾛlｪ, to o tym jak bardzo chce\p\nmi siｪ pｩywaｨ. Jak chcesz mi to wynagrodziｨ?」\e
+[00021f|ru] 【Akane】「I jedyne, o czym myﾛlｪ, to o tym jak bardzo\p\nchcｪ mi siｪ pｩywaｨ. Jak chcesz mi to wynagrodziｨ?」\e
 
 [000220|en] 【Takeru】「Don't complain to me.\p Complain to Ayamine.」\e
-[000220|ru] 【Takeru】「Hej,\p nie trzelaj do posｩaﾃca.\p\nPowiedz to Ayamine.」\e
+[000220|ru] 【Takeru】「Hej,\p nie strzelaj do posｩaﾃca.\p\nPowiedz to Ayamine.」\e
 
 [000223|en] 【Kei】「...\p...\pI'm sorry.」\e
 [000223|ru] 【Kei】「...\pPrzepraszam.」\e
 
 [000225|en] 【Akane】「Ah,\p I-\pI didn't mean it like that!\p Don't worry\nabout it!」\e
-[000225|ru] 【Akane】「Ach!\p N-\pnie, po prostu mu kuczaｩam!\p\nNaprawdｪ! 」\e
+[000225|ru] 【Akane】「Ach!\p N-\pnie, po prostu to nie tak!\p\nNaprawdｪ!」\e
 
 [000227|en] 【Takeru】「Well,\p taking a break is a good thing.」\e
-[000227|ru] 【Takeru】「Cｫｯ, dobrze jest od czasu do czasu zrobiｨ sobie przerwｪ!」\e
+[000227|ru] 【Takeru】「Cｫｯ, dobrze jest od czasu do czasu zrobiｨ\p\nsobie przerwｪ!」\e
 
 [00022b|en] 【Akane】「...\p...\pI'll go with that.\p\nSo where's Chizuru?\p She still busy?」\e
 [00022b|ru] 【Akane】「...\pTak,\p bｪdｪ siｪ tego trzymaｨ.\p\nGdzie jest Chizuru? Nadal jest zajｪta?」\e
@@ -788,16 +788,16 @@
 [00023b|ru] 【Takeru】「Mniej wiｪcej.」\e
 
 [00023c|en] Rumors this widespread aren't going to vanish in an\ninstant.\e
-[00023c|ru] Plotki tak magicznie nie zninｧ z dnia na dzieﾃ.\e
+[00023c|ru] Plotki tak magicznie nie zniknｧ z dnia na dzieﾃ.\e
 
 [00023d|en] She'll hear them whether she wants to or not.\nThey're far from inconspicuous.\e
 [00023d|ru] Ona je usｩyszy,\p czy tego chce, czy nie.\p\nPlotki sｧ dalekie od niepozornych.\e
 
 [00023f|en] 【Akane】「...\p...\pthen I'll pass for now.\p Worrying about\nsomething outside the hospital when I can't leave\nyet...\p...\pI'd go insane...\p...\p」\e
-[00023f|ru] 【Akane】「...\pW takim razie na razie odpuszczｪ.\p\nGdybym dowiedziaｩa siｪ,\p ｯe coﾛ dzieje siｪ tuｯ pod moim nosem\p\ni nie mogｩabym nic tym zrobiｨ,\p bo utknｪｩam w szpitalu...\p\nNie potrafiｩabym sobie z tym poradziｨ tak jak ona.\p\nZwariowaｩabym...\p」\e
+[00023f|ru] 【Akane】「...\pW takim razie na razie odpuszczｪ.\p\nGdybym dowiedziaｩa siｪ,\p ｯe coﾛ dzieje siｪ tuｯ pod moim\p\nnosem i nie mogｩabym nic tym zrobiｨ,\p bo utknｪｩam w\p\nszpitalu... Nie potrafiｩabym sobie z tym poradziｨ\p\ntak jak ona. Zwariowaｩabym...\p」\e
 
 [000241|en] 【Takeru】「That's true,\p you are in the hospital.\nHowever lively you may seem, you're in here for a reason.」\e
-[000241|ru] 【Takeru】「To prawda.\p\nTo ｯe tu utknｪｩaﾛ, musi byｨ dla ciebie okropne.\p\n.Nie moｯesz odejﾛｨ, bez wzglｪdu na to, jak bardzo czujesz siｪ zdrowa.」\e
+[000241|ru] 【Takeru】「To prawda.\p\nTo ｯe tu utknｪｩaﾛ, musi byｨ dla ciebie okropne.\p\nNie moｯesz odejﾛｨ, bez wzglｪdu na to, jak bardzo\p\nczujesz siｪ zdrowa.」\e
 
 [000243|en] 【Akane】「Ah!\p I didn't mean it like that...\p...\p...\p...\p」\e
 [000243|ru] 【Akane】「Oh nie! ...\pNie o tym mｫwiｩam...\p...\p」\e
@@ -809,13 +809,13 @@
 [000247|ru] 【Akane】「...\pN-\pniewaｯne. To nic.」\e
 
 [00024a|en] What's this? Even someone this popular has worries?\e
-[00024a|ru] O co jej teraz chodzi?\p\nWiｪc nawet najpopularniejszy dziedziak w szkole ma swｫj emocjonalny magaｯ,\p\nhuh?\e
+[00024a|ru] O co jej teraz chodzi?\p\nWiｪc nawet najpopularniejszy dzieciak w szkole ma swｫj emocjonalny bagaｯ, huh?\e
 
 [00024b|en] And here I thought her future as a swimmer was set in\nstone...\p...\e
-[00024b|ru] To trochｪ zaskakujｧce.\p\nCzy ona nie bｪdzie studiowaｨ za granicｧ na stypendium pｩywackim?\p\nWyglｧda na to,\p ｯe jeje przyszｩoﾛｨ jest juｯ przesｧdzona.\e
+[00024b|ru] To trochｪ zaskakujｧce.\p\nCzy ona nie bｪdzie studiowaｨ za granicｧ na stypendium\p\npｩywackim? Wyglｧda na to,\p ｯe jeje przyszｩoﾛｨ jest juｯ\p\nprzesｧdzona.\e
 
 [00024c|en] Well,\p of course there's something.\e
-[00024c|ru] WCｫｯ,\p nawet ona jest tylko cｯｩowiekiem.\e
+[00024c|ru] Cｫｯ,\p nawet ona jest tylko czｩowiekiem.\e
 
 [00024e|en] 【Akane】「You'll take care of that,\p won't you\nShirogane-kun?」\e
 [00024e|ru] 【Akane】「Zajmiesz siｪ moimi sprawami, prawda,\p\nShirogane-kun?」\e
@@ -827,7 +827,7 @@
 [000251|ru] 【Akane】「Och,\p masz racje. Mogｩabym.」\e
 
 [000253|en] 【Takeru】「Your brain's soggy from all that swimming...\p...\p」\e
-[000253|ru] 【Takeru】「Wyglｧda na to,\p ｯe to caｩe pｩywanie zalaｩo ci mｫｯg...\p」\e
+[000253|ru] 【Takeru】「Wyglｧda na to,\p ｯe to caｩe pｩywanie zalaｩo\p\nci mｫｯg...\p」\e
 
 [000255|en] 【Akane】「Did you say something?」\e
 [000255|ru] 【Akane】「Mｫwiｩeﾛ coﾛ?」\e
@@ -839,7 +839,7 @@
 [00025c|ru] Stary,\p ale ona jest straszna!～\e
 
 [00025f|en] 【Takeru】「Anyway,\p please do.\p If you're so bored you're\nmelting,\p then tell her to visit you or something.」\e
-[00025f|ru] 【Takeru】「W kaｯdym razie,\ proszｪ zrｫb to.\p\nPowiedz jej,\p ｯe dosｩownie umierasz z nudｫw.\p\nSpraw by poczuｩa siｪ winna lub coﾛ w tym stylu.」\e
+[00025f|ru] 【Takeru】「W kaｯdym razie, proszｪ zrｫb to.\p\nPowiedz jej,\p ｯe dosｩownie umierasz z nudｫw.\p\nSpraw by poczuｩa siｪ winna lub coﾛ w tym stylu.」\e
 
 [000261|en] 【Akane】「I'm not sure I got all that,\p but okay...\p...\p...\p...\pah!\p\p\p\nAaaaaaaaaaah!」\e
 [000261|ru] 【Akane】「Nie wiem, czy zrozumiaｩam,\p ale dobra...\p...\p\n...Ach!\p\p\p Aaaah!」\e
@@ -869,7 +869,7 @@
 [000274|ru] I dlaczego zareagowaｩem dokｩadnie tak,\p jak tego\p\nsobie ona zaｯyczyｩa!?\e
 
 [000275|en] 【Takeru】「...\p...\pwe did what we came here for...\p...\pso,\p shall\nwe go home?」\e
-[000275|ru] 【Takeru】「...\pOsiｧgliﾛmy to po co tu przyszliﾛmy...\p\nWiｪc,\p gotoba by iﾛｨ do domu?」\e
+[000275|ru] 【Takeru】「...\pOsiｧgliﾛmy to po co tu przyszliﾛmy...\p\nWiｪc,\p gotowa by iﾛｨ do domu?」\e
 
 [000279|en] 【Kei】「...\p...\pah!」\e
 [000279|ru] 【Kei】「...\pAh!」\e
@@ -902,22 +902,22 @@
 [0002c5|ru] 【Takeru】「Huh? ...\pEee,\p tak.」\e
 
 [0002c7|en] 【Sagiri】「Really now...\pshe's so hard on her boyfriend.」\e
-[0002c7|ru] 【Sagiri】「To doﾛｨ brutalne potraktowanie...\p\nMoｯna by pomyﾛleｨ, ｯe bｪdzie ｩagodniejsza dla swojego chｩopaka.」\e
+[0002c7|ru] 【Sagiri】「To doﾛｨ brutalne potraktowanie...\p\nMoｯna by pomyﾛleｨ, ｯe bｪdzie ｩagodniejsza dla swojego\p\nchｩopaka.」\e
 
 [0002c9|en] ...\p...\pplease don't show me such a weak smile.\e
-[0002c9|ru] ...\pProszｪ,'p nie uﾛmiechaj siｪ do mnie tym cienkim\p\njak papier uﾛmiechem.\e
+[0002c9|ru] ...\pProszｪ,  nie uﾛmiechaj siｪ do mnie tym cienkim\p\njak papier uﾛmiechem.\e
 
 [0002ca|en] You're making the guilt eat through me...\p...\p\e
 [0002ca|ru] Sprawiasz,\p ｯe zｯera mnie poczucie winy...\p\e
 
 [0002cb|en] I really should tell him the truth.\e
-[0002cb|ru] IMoｯe jendak powiedzenie mu prawdy, byｩoby wｩaﾛciwｧ,\p\nrzeczｧ.\e
+[0002cb|ru] Moｯe jendak powiedzenie mu prawdy, byｩoby wｩaﾛciwｧ,\p\nrzeczｧ.\e
 
 [0002cc|en] ...\p...\pobviously.\e
 [0002cc|ru] ...\pCｫｯ,\p oczywiﾛcie.\e
 
 [0002ce|en] 【Sagiri】「So I still can't talk to her...\p...\pit seems...\p...\p...\p...\p」\e
-[0002ce|ru] 【Sagiri】「Tak jak podejrzewaｩem...\p\bWyglｧda na to,\p ｯe nie chce mieｨ ze mnｧ nic wspｫlnego...\p...\p」\e
+[0002ce|ru] 【Sagiri】「Tak jak podejrzewaｩem... Wyglｧda na to,\p ｯe nie chce mieｨ ze mnｧ nic wspｫlnego...\p...\p」\e
 
 [0002cf|en] ...\p...\pSagiri-san.\e
 [0002cf|ru] ...\pSagiri-san.\e
@@ -926,7 +926,7 @@
 [0002d1|ru] 【Sagiri】「Shirogane-kun...\p nie powinieneﾛ jej goniｨ?」\e
 
 [0002d2|en] 【Takeru】「Ah...\p...\pyou've got a point.\nBut we only came to see Akane today.」\e 
-[0002d2|ru] 【Takeru】「Oh...\p Prawdopodobnie masz racje.\p\nAle,\p naszym celem byｩo odwiedzenie Akane, wiｪc mimo tego, wszystko gra.」\e 
+[0002d2|ru] 【Takeru】「Oh...\p Prawdopodobnie masz racje.\p\nAle,\p naszym celem byｩo odwiedzenie Akane, wiｪc mimo\p\ntego, wszystko gra.」\e 
 
 [0002d4|en] 【Sagiri】「...\p...\pI see.\p Then...\p...\p...\p...\pwould you mind following\nme for a while?」\e
 [0002d4|ru] 【Sagiri】「...Rozumiem.\p W takim razie...\p\nCzy mｫgｩbyﾛ pｫjﾛｨ ze mnｧ na chwilｪ?」\e
@@ -953,13 +953,13 @@
 [0002e5|ru] 【Takeru】「Huh?」\e
 
 [0002e7|en] 【Sagiri】「She has you for a boyfriend,\p so I don't feel\nworried.」\e
-[0002e7|ru] 【Sagiri】「Cｫｯ, bｪdｧc zwiｧzku z takim chｩopakiem\p nie sｧdzｪ,\p\nｯebym miaｩ siｪ o co martwiｨ.」\e
+[0002e7|ru] 【Sagiri】「Cｫｯ, bｪdｧc zwiｧzku z takim chｩopakiem\p nie\p\nsｧdzｪ, ｯebym miaｩ siｪ o co martwiｨ.」\e
 
 [0002e8|en] Uuuuuuuuuu～\e
 [0002e8|ru] Uuuuuuuuugh～\e
 
 [0002ea|en] 【Takeru】「...\p...\pSagiri-san...\p...\phow was Ayamine when you\nknew her?」\e
-[0002ea|ru] 【Takeru】「...\pSagiri-san...\p Jaka byｩa Ayamine,\p kie siｪ z\p\nniｧ zadawaｩeﾛ?」\e
+[0002ea|ru] 【Takeru】「...\pSagiri-san...\p\nJaka byｩa Ayamine,\p kie siｪ z niｧ zadawaｩeﾛ?」\e
 
 [0002ec|en] 【Sagiri】「Hm? ...\p...\p...\p...\pgood question.」\e
 [0002ec|ru] 【Sagiri】「Hm? ...\p...\pDobre pytanie.」\e
@@ -968,7 +968,7 @@
 [0002ed|ru] Kiedy on tak sobie wspomina...\p...\p\nNie potrafiｪ mu spojrzeｨ prosto w oczy.\e.\e
 
 [0002ef|en] 【Sagiri】「Haha! ...\p...\p...\pnow that you ask,\p it's surprisingly\nhard to say.」\e
-[0002ef|ru] 【Sagiri】「Haha...\p Teraz,\p kiedy stawiasz mnie w trudnej sytuacji,\p\ntrochｪ to zaskakujｧce,\p ale trudno to uｩoｯyｨ w sｩowa.」\e
+[0002ef|ru] 【Sagiri】「Haha!\p Teraz,\p kiedy stawiasz mnie w trudnej\p\nsytuacji, trochｪ to zaskakujｧce,\p ale trudno to uｩoｯyｨ\p\nw sｩowa.」\e
 
 [0002f0|en] 【Takeru】「...\p...\pmy thoughts exactly.」\e
 [0002f0|ru] 【Takeru】「...\pMam dokｩadnie tak samo jak ty.」\e
@@ -980,7 +980,7 @@
 [0002f3|ru] 【Takeru】「...\p...\p」\e
 
 [0002f5|en] 【Sagiri】「That's right...\p...\p...\p...\p...\pmy beloved sister...\p...\p...\p...\p\nwould she forgive me?」\e
-[0002f5|ru] 【Sagiri】「Myﾛlaｩem o niej...\p...\p prawie jak o mojej mｩodszej siostrze...\p...\p\nPrzepraszam,\p ｯe mam nadziejｪ,\p ｯe tyle ci wystarczy?」\e
+[0002f5|ru] 【Sagiri】「Myﾛlaｩem o niej...\p...\p prawie jak o mojej\p\nmｩodszej siostrze...\p...\p\nPrzepraszam,\p ｯe mam nadziejｪ,\p ｯe tyle ci wystarczy?」\e
 
 [0002f7|en] ...\p...\pis that really it?\e
 [0002f7|ru] ...\pCzy to naprawdｪ wszystko?\e
@@ -989,16 +989,16 @@
 [0002f8|ru] Chciaｩbym zadaｨ mo to pytanie.\e
 
 [0002f9|en] But I have no right to.\e
-[0002f9|ru] Ale nie mam do tego prawa,\p jako osoba trzecia\p\ni do tego totalny kｩamca.\e
+[0002f9|ru] Ale nie mam do tego prawa,\p jako osoba trzecia i do\p\ntego totalny kｩamca.\e
 
 [0002fb|en] It's not something I should hear.\e
 [0002fb|ru] To nie jest moja rola,\p ｯeby pytaｨ.\e
 
 [0002fc|en] It's like spying on people's feelings...\p...\pdamn it...\p...\e
-[0002fc|ru] To tak,\p jakbym szpiegowaｩ uczucia innych\p\nludzi... A niech to...\e
+[0002fc|ru] To tak,\p jakbym szpiegowaｩ uczucia innych ludzi.\p\nA niech to...\e
 
 [0002fe|en] 【Sagiri】「I haven't seen Kei since she started going to\nHakuryou.」\e
-[0002fe|ru] 【Sagiri】「Nie widziaｩem siｪ z Kei odkｧd zaczｪｩa chodziｨ\p\ndo Hakuryo,\p wiｪc sam rozumiesz.」\e
+[0002fe|ru] 【Sagiri】「Nie widziaｩem siｪ z Kei odkｧd zaczｪｩa\p\nchodziｨ do Hakuryo,\p wiｪc sam rozumiesz.」\e
 
 [000300|en] 【Takeru】「...\p...\pit's been that long since you last saw her?」\e
 [000300|ru] 【Takeru】「...\pAｯ tyle czasu siｪ nie widzieliﾛcie?」\e
@@ -1022,10 +1022,10 @@
 [00030a|ru] 【Takeru】「Huh?」\e
 
 [00030c|en] 【Sagiri】「...\p...\pdidn't I tell you yesterday?\p I betrayed her.」\e
-[00030c|ru] 【Sagiri】「...\pCzy nie mｫwiｩem ci wczoraj?\p Zdradziｩem jｧ.」\e
+[00030c|ru] 【Sagiri】「...\pCzy nie mｫwiｩem ci wczoraj?\p\nZdradziｩem jｧ.」\e
 
 [00030d|en] 【Takeru】「...\p...\pyes.」\e
-[00030d|ru] 【Takeru】「...\pW sumie, to mｫwiｩeﾛ.」\e
+[00030d|ru] 【Takeru】「...\pW sumie, mｫwiｩeﾛ to.」\e
 
 [00030f|en] ...\p...\pshould I really hear any more of this?\e
 [00030f|ru] ...\pCzy naprawdｪ powinienem dalej drｧｯyｨ temat?\e
@@ -1043,13 +1043,13 @@
 [000314|ru] 【Sagiri】「Nie poprosisz mnie,\p ｯebym kontynuowaｩ?」\e
 
 [000316|en] 【Takeru】「...\p...\phonestly, I don't know if this is something I\nshould get involved in.」\e
-[000316|ru] 【Takeru】「...\pSzczerze mｫwiｧc,\p to nie wiem,\p czy powinienem\p\nsiｪ w to angaｯowaｨ.」\e
+[000316|ru] 【Takeru】「...\pSzczerze mｫwiｧc,\p to nie wiem,\p czy\p\npowinienem siｪ w to angaｯowaｨ.」\e
 
 [000318|en] 【Sagiri】「I see...\p...\p...\p...\p」\e
 [000318|ru] 【Sagiri】「Rozumiem...\p...\p」\e
 
 [000319|en] 【Takeru】「Besides...\p...\pAyamine won't tell me this,\p so\nhearing it from someone else while she's away...\p...\p\nthat can't be good...\p...\p」\e
-[000319|ru] 【Takeru】「I...\p jeﾛli Ayamine sama mi tego nie powie,\p\nto nie wypadaｩoby usｩyszeｨ tego od kogoﾛ innego,\p\nkiedy jej nie ma przy tym...\p」\e
+[000319|ru] 【Takeru】「I...\p jeﾛli Ayamine sama mi tego nie powie,\p\nto nie wypadaｩoby usｩyszeｨ tego od kogoﾛ innego, kiedy\p\njej nie ma przy tym...\p」\e
 
 [00031a|en] I just don't want to learn their secrets through a lie.\e
 [00031a|ru] Ale rｫwnieｯ prawda jest taka,\p ｯe po prostu nie chcｪ\p\npoznaｨ ich sekretｫw pod faｩszywymi pozorami.\e
@@ -1073,25 +1073,25 @@
 [000324|ru] 【Takeru】「Masz na myﾛli Ayamine?」\e
 
 [000326|en] 【Sagiri】「...\p...\pyes.\p\p\p When you get used to being quiet,\p the\npain feels very small.」\e
-[000326|ru] 【Sagiri】「...\pTak.\p\p\p Kiedy przyzwyczaisz siｪ to powstrzymywania\p\nswoich uczuｨ,\p to bｫl przestaje mieｨ znaczenie.」\e
+[000326|ru] 【Sagiri】「...\pTak.\p\p\p Kiedy przyzwyczaisz siｪ do\p\npowstrzymywania swoich uczuｨ,\p to bｫl przestaje mieｨ\p\nznaczenie.」\e
 
 [000328|en] So...\p...\pit's harder on the one who has to say it?\e
 [000328|ru] Wiｪc...\p trudniej jest to powiedzieｨ niｯ nie?\e
 
 [00032a|en] 【Sagiri】「I gained many things as a result,\p\p\p but I lost what\nwas truly precious.」\e
-[00032a|ru] 【Sagiri】「W rezultacie zystaｩem wiele rzeczy,\p\p\p ale straciｩem\p\nwszystko. co byｩo mi naprawdｪ drogie.」\e
+[00032a|ru] 【Sagiri】「W rezultacie zyskaｩem wiele rzeczy,\p\p\p ale\p\nstraciｩem wszystko. co byｩo mi naprawdｪ drogie.」\e
 
 [00032b|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00032b|ru] 【Takeru】「...\p...\p」\e
 
 [00032d|en] 【Sagiri】「...\p...\pno,\p everything I gained from it is probably\nworthless in comparison...\p...\p」\e
-[00032d|ru] 【Sagiri】「...\pWｩaﾛciwie...\p Przypuszczam,\p ｯe moｯna powiedzieｨ,\p\nｯe wszystko,\p co zystaｩem w rezultacie, byｩo nic nie warte\p\nw porｫwnaniu...\p」\e
+[00032d|ru] 【Sagiri】「...\pWｩaﾛciwie...\p Przypuszczam,\p ｯe moｯna\p\npowiedzieｨ, ｯe wszystko,\p co zystaｩem w rezultacie, byｩo nic nie\p\nwarte w porｫwnaniu...\p」\e
 
 [00032f|en] 【Takeru】「Sagiri-san...\p...\p」\e
 [00032f|ru] 【Takeru】「Sagiri-san...\p」\e
 
 [000331|en] 【Sagiri】「...\p...\pbut...\p...\p...\p...\pthe most important thing I\nlost...\p...\pwas Kei...\p...\p...\p...\pin my opinion.」\e
-[000331|ru] 【Sagiri】「...\pAle...\p...\p ze wszystkich rzeczy,\p ktｫre straciｩem,\p\nnajcenniejsza ze wszystkich...\p...\p byｩa ona,\p taka jest moja opinia.」\e
+[000331|ru] 【Sagiri】「...\pAle...\p...\p ze wszystkich rzeczy,\p ktｫre\p\nstraciｩem, najcenniejsza ze wszystkich...\p...\p byｩa ona,\p\p\ntaka jest moja opinia.」\e
 
 [000333|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000333|ru] 【Takeru】「...\p...\p」\e
@@ -1103,7 +1103,7 @@
 [000338|ru] 【Takeru】「Nic siｪ nie staｩo...\p」\e
 
 [00033a|en] 【Sagiri】「That's just...\p...\p...\p...\phow I really feel...\p...\p...\p...\p\nthat's what Kei meant to me.」\e
-[00033a|ru] 【Sagiri】「To po prostu...\p...\p wiem,\p co naprawdｪ czujｪ...\p\nTo tylko potwierdza ile Kei dla mnie znaczyｩa, tak przypuszczam.」\e
+[00033a|ru] 【Sagiri】「To po prostu...\p wiem,\p co naprawdｪ czujｪ...\p\nTo tylko potwierdza ile Kei dla mnie znaczyｩa, tak\p\nprzypuszczam.」\e
 
 [00033c|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00033c|ru] 【Takeru】「...\p...\p」\e
@@ -1121,7 +1121,7 @@
 [000345|ru] Z jakiegoﾛ powodu nie mogｪ siｪ uspokoiｨ.\e
 
 [000346|en] So this is how I feel after asking about something I\nwanted to know?\e
-[000346|ru] Myﾛlaｩem,\p ｯe chcｪ wiedzieｨ,\p wiｪc zapytaｩem -\p\ni o to, co dostajｪ w zamian?\e
+[000346|ru] Myﾛlaｩem,\p ｯe chcｪ wiedzieｨ,\p wiｪc zapytaｩem - i o to,\p\nco dostajｪ w zamian?\e
 
 [000347|en] This isn't what I expected at all...\p...\p...\p...\p\e
 [000347|ru] To wcale nie jest to,\p czego siｪ spodziewaｩem...\p...\p\e
@@ -1142,7 +1142,7 @@
 [000360|ru] ...\pWiｪc kiedyﾛ chodzili ze sobｧ.\e 
 
 [000361|en] And it's not completely over between them.\e
-[000361|ru] I to jeszcze nie jest definitywny koniec miｪdziy nimi.\e
+[000361|ru] I to jeszcze nie jest definitywny koniec miｪdzy nimi.\e
 
 [000362|en] Even though they haven't met in three years...\p...\p...\p...\p\e
 [000362|ru] Chociaｯ nie widzieli siｪ przez trzy lata...\p...\p\e
@@ -1151,7 +1151,7 @@
 [000363|ru] Ayamine nadal jest czｪﾛciｧ Sagiri-san,\p nawet jeﾛli jest\p\nodwrotna sytuacja nie jest prawdｧ.\e
 
 [000364|en] ...\p...\p...\pI felt that from his words and expressions...\p...\p...\p\e
-[000364|ru] ...\p...\pMogｩem to wyczuｨ z tego cmi powiedziaｩ\p\ni z jego wyrazu twarzy...\p...\p\e
+[000364|ru] ...\p...\pMogｩem to wyczuｨ z tego cmi powiedziaｩ i z\p\njego wyrazu twarzy...\p...\p\e
 
 [000365|en] So what is Ayamine thinking?\e
 [000365|ru] Wiｪc o czym myﾛli Ayamine?\e
@@ -1166,10 +1166,10 @@
 [000368|ru] Nie mam z tym nic wspｫlnego...\p\e
 
 [000371|en] ...\p...\pI never managed to say it was a lie.\e
-[000371|ru] ...\pNigdy nie udaｩo mi siｪ powiedzieｨ,\p\nｯe to byｩo kｩamstwo.\e
+[000371|ru] ...\pNigdy nie udaｩo mi siｪ powiedzieｨ, ｯe to byｩo\p\nkｩamstwo.\e
 
 [000372|en] Not that I could've after hearing so much.\e
-[000372|ru] Nie ｯebym mｫgｩ to zrobiｨ, po tym co od\p\nniego usｩyszaｩem.\e
+[000372|ru] Nie ｯebym mｫgｩ to zrobiｨ, po tym co od niego\p\nusｩyszaｩem.\e
 
 [000373|en] It's too late now.\e
 [000373|ru] Juｯ za pｫﾜno.\e
@@ -1181,13 +1181,13 @@
 [000376|ru] Nie ma juｯ powodu,\p ｯebm chodziｩ do szpitala.\e
 
 [000377|en] Even the excuse that Ayamine's going.\e
-[000377|ru] Nawet nie mogｪ teraz uｯyｨ wymｫwki,\p ｯe Ayamine\p\nteｯ idzie do szpitala.\e
+[000377|ru] Nawet nie mogｪ teraz uｯyｨ wymｫwki,\p ｯe Ayamine teｯ\p\nidzie do szpitala.\e
 
 [000378|en] No more coincidences.\e
 [000378|ru] Koniec ze zbiegami okolicznoﾛci.\e
 
 [000379|en] The accident at the sports festival is completely out of\nthe picture now.\e
-[000379|ru] Wypadek na festiwalu sportowym zupeｩnie nie wchodzi w grｪ.\e
+[000379|ru] Wypadek na festiwalu sportowym zupeｩnie nie wchodzi w\p\ngrｪ.\e
 
 [00037a|en] 【Takeru】「...\p...\p...\p...\pwhat's she trying to do...\p...\p」\e
 [00037a|ru] 【Takeru】「...\p...\pCo ona prｫbuje zrobiｨ...?\p」\e
@@ -1196,7 +1196,7 @@
 [00037b|ru] Czy ona po prostu planuje to tak zostawiｨ?\e
 
 [00037c|en] Ayamine's avoiding him because this bugs her too,\p\nright?\p Because it's not completely over between them?\e
-[00037c|ru] Ayamine go unika, bo jｧ teｯ to wkurza, prawda?\p\p\nA moｯe dlatego, ｯe jeszcze sprawy miｪdzy nimi tak naprawdｪ,\p\njeszcze siｪ nie zakoﾃczyｩy?\e
+[00037c|ru] Ayamine go unika, bo jｧ teｯ to wkurza, prawda?\p\p\nA moｯe dlatego, ｯe jeszcze sprawy miｪdzy nimi tak\p\nnaprawdｪ, jeszcze siｪ nie zakoﾃczyｩy?\e
 
 [00037d|en] In which case...\p...\p...\p...\p\e
 [00037d|ru] W takim razie...\p...\p\e
@@ -1226,7 +1226,7 @@
 [00038b|ru] 【Kei】「...\p...\p」\e
 
 [00038c|en] 【Takeru】「Just gonna keep running until it blows over?」\e
-[00038c|ru] 【Takeru】「Po prostu masz zamiar uciekaｨ, aｯ to wszystko\p\nsiｪ kiedyﾛ skoﾃczy?」\e
+[00038c|ru] 【Takeru】「Po prostu masz zamiar uciekaｨ, aｯ to\p\nwszystko siｪ kiedyﾛ skoﾃczy?」\e
 
 [00038e|en] 【Kei】「...\p...\pthat has nothing to do with you, Shirogane.」\e
 [00038e|ru] 【Kei】「...\pTo nie ma nic wspｫlnego z tobｧ,\p Shirogane.」\e
@@ -1244,7 +1244,7 @@
 [000394|ru] Cｫｯ,\p to nie tak, ｯe siｪ myli.\p\nTo fakcycznie nie ma nic wspｫlnego ze mnｧ.\e
 
 [000395|en] 【Takeru】「Didn't you get me involved by making me your\npretend boyfriend!?」\e
-[000395|ru] 【Takeru】「A czy to nie ty wkrｪciｩaﾛ mnie w to wszystko,\p\nrobiｧz ze mnie swojego udawanego chｩopaka!?」\e
+[000395|ru] 【Takeru】「A czy to nie ty wkrｪciｩaﾛ mnie w to\p\nwszystko, robiｧc ze mnie swojego udawanego chｩopaka!?」\e
 
 [000397|en] 【Kei】「...\p...\pwho made that decision?」\e
 [000397|ru] 【Kei】「...\pA kto wyraziｩ na to wszystko zgodｪ?」\e
@@ -1313,10 +1313,10 @@
 [0003b9|ru] 【Takeru】「N-\pnie, to nie...\p...\p」\e
 
 [0003bb|en] 【Kei】「...\p...\pso it was stupid after all.」\e
-[0003bb|ru] 【Kei】「...\pWiedziaｩam,\p od poczatku, ｯe to bｪdzie cos gｩupiego.」\e
+[0003bb|ru] 【Kei】「...\pWiedziaｩam,\p od poczｧtku, ｯe to bｪdzie coﾛ\p\ngｩupiego.」\e
 
 [0003bd|en] 【Takeru】「Then why've you been waiting!? We met\nSuzumiya today. You have no reason to come here\nanymore! Isn't that right!?」\e
-[0003bd|ru] 【Takeru】「Jeﾛli to jest gｩupie,\p to dlaczego czekｩaﾛ na mni!? Juｯ dziﾛ widzieliﾛmy Suzumiyｪ.\p\nNie masz powodu, ｯeby tu teraz byｨ!\p\nMylｪ siｪ!?」\e
+[0003bd|ru] 【Takeru】「Jeﾛli to jest gｩupie,\p to dlaczego czekｩaﾛ\p\nna mniｪ!? Juｯ dziﾛ widzieliﾛmy Suzumiyｪ.\p\nNie masz powodu, ｯeby tu teraz byｨ! Mylｪ siｪ!?」\e
 
 [0003c1|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003c1|ru] 【Kei】「...\p...\p」\e
@@ -1328,7 +1328,7 @@
 [0003c4|ru] 【Kei】「...\p...\p」\e
 
 [0003c5|en] 【Takeru】「I might have no right to butt into this and start\ncomplaining, but...\p...」\e
-[0003c5|ru] 【Takeru】「Moｯe nie mam prawa wtrｧｨ siｪ w to ani mｫwiｨ ci,\p\nco masz robiｨ,\p ale mimo wszystko8...」\e
+[0003c5|ru] 【Takeru】「Moｯe nie mam prawa wtrｧｨ siｪ w to ani mｫwiｨ\p\nci, co masz robiｨ,\p ale mimo wszystko...」\e
 
 [0003c7|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003c7|ru] 【Kei】「...\p...\p」\e
@@ -1361,10 +1361,10 @@
 [0003d7|ru] 【Takeru】「Do diabｩa...\p\nDlaczego tak siｪ do mnie zwracasz?!\p\nTo jest denerwujｧce!」\e
 
 [0003d9|en] 【Kei】「...\p...\pyou don't have to say it.」\e
-[0003d9|ru] 【Kei】「...\pW takim razie nie powinineﾛ byｩ nic mｫwiｨ」\e
+[0003d9|ru] 【Kei】「...\pW takim razie nie powinineﾛ byｩ nic mｫwiｨ.」\e
 
 [0003db|en] 【Takeru】「What did you say!? You really need to...\p...\p...\p...\p」\e
-[0003db|ru] 【Takeru】「Co to miaｩo byｨ\p\nPosｩuchaj,\p powinnaﾛ...\p...\p」\e
+[0003db|ru] 【Takeru】「Co to miaｩo byｨ.\p\nPosｩuchaj,\p powinnaﾛ...\p...\p」\e
 
 [0003dd|en] 【Kei】「...\p...\pyou don't have to worry about me.」\e
 [0003dd|ru] 【Kei】「...\pNie musisz siｪ o mnie martwic.」\e
@@ -1376,13 +1376,13 @@
 [0003e1|ru] 【Kei】「...\pRobisz wszystko, o cie ciｪ poproszｧ inni?」\e
 
 [0003e2|en] 【Takeru】「Enough childish questions!」\e
-[0003e2|ru] 【Takeru】「Doﾛｨ tych dizecinnych pytaﾃ!」\e
+[0003e2|ru] 【Takeru】「Doﾛｨ tych dziecinnych pytaﾃ!」\e
 
 [0003e4|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003e4|ru] 【Kei】「...\p...\p」\e
 
 [0003e6|en] 【Takeru】「Do you enjoy making me mad?」\e
-[0003e6|ru] 【Takeru】「Czyty po prostu lubisz mnie wkurzaｨ?」\e
+[0003e6|ru] 【Takeru】「Czy ty po prostu lubisz mnie wkurzaｨ?」\e
 
 [0003e8|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003e8|ru] 【Kei】「...\p...\p」\e
@@ -1409,7 +1409,7 @@
 [0003f2|ru] 【Kei】「...\p...\p」\e
 
 [0003f3|en] 【Takeru】「Why can't you just see him and talk to him?\p\nI don't know what happened in the past,\p but...\p...\p」\e
-[0003f3|ru] 【Takeru】「Dlaczego po prostu nie moｯesz go zobaczyｨ i\p\nz nim porozmawiaｨ? Nie wiem, co siｪ wydarzyｩo w przeszｩoﾛci,\p\nale...\p」\e
+[0003f3|ru] 【Takeru】「Dlaczego po prostu nie moｯesz go zobaczyｨ i\p\nz nim porozmawiaｨ? Nie wiem, co siｪ wydarzyｩo w\p\nprzeszｩoﾛci, ale...\p」\e
 
 [0003f5|en] 【Kei】「But...\p...\pwhat?」\e
 [0003f5|ru] 【Kei】「Ale...\p co?」\e
@@ -1421,7 +1421,7 @@
 [000405|ru] 【Takeru】「Aｩa!! ──Za co to byｩo!!?」\e 
 
 [000407|en] 【Kei】「...\p...\psay anymore and I'll hit harder.」\e
-[000407|ru] 【Kei】「...\pJak siｪ zaraz nie zamkniesz to walnｪ ciｪ mocniej.」\e
+[000407|ru] 【Kei】「...\pJak siｪ zaraz nie zamkniesz to walnｪ ciｪ\p\nmocniej.」\e
 
 [00040a|en] 【Takeru】「You just won't...\p...\p」\e
 [00040a|ru] 【Takeru】「Po prostu nie......\p」\e
@@ -1442,7 +1442,7 @@
 [000413|ru] 【Kei】「...\pWcale nie.」\e
 
 [000415|en] 【Takeru】「Do you really need...\p...\pto keep it all in?」\e
-[000415|ru] 【Takeru】「Czy naprawdｪ musisz trzymaｨ to wszystko w sobie?」\e
+[000415|ru] 【Takeru】「Czy naprawdｪ musisz trzymaｨ to wszystko\p\nw sobie?」\e
 
 [000416|en] 【Kei】「...\p...\p...\p...\p」\e
 [000416|ru] 【Kei】「...\p...\p」\e
@@ -1469,7 +1469,7 @@
 [000422|ru] 【Takeru】「Co takiego moｯesz mu zrobiｨ?\p\n...Co ty masz──」\e
 
 [000424|en] 【Kei】「...\p...\phe has a wife...\p...」\e 
-[000424|ru] 【Kei】「...\Ty wiesz,\p ｯe on ma ｯonｪ..」\e 
+[000424|ru] 【Kei】「...\pTy wiesz,\p ｯe on ma ｯonｪ..」\e 
 
 [000429|en] 【Kei】「Can I be selfish...\p...\pand tell him to be with me\nagain?」\e
 [000429|ru] 【Kei】「Czy mogｪ byｨ samolubna...\p i powiedzieｨ mu,\p\nｯe znowu byｩ ze mnｧ?」\e
@@ -1508,7 +1508,7 @@
 [000442|ru] 【Takeru】「...\p...\p」\e
 
 [000446|en] 【Kei】「...\p...\pShirogane,\p\p have you ever loved someone?」\e
-[000446|ru] 【Kei】「...\pShirogane,\p\p czy kiedykolwiek pokochaｩeﾛ kogoﾛ?」\e
+[000446|ru] 【Kei】「Shirogane,\p\p czy kiedykolwiek pokochaｩeﾛ kogoﾛ?」\e
 
 [00045a|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00045a|ru] 【Takeru】「...\p...\p」\e
@@ -1520,7 +1520,7 @@
 [00045f|ru] 【Takeru】「...\p...\p」\e
 
 [000461|en] 【Kei】「...\p...\pI don't want to hear what other people have to\nsay.」\e 
-[000461|ru] 【Kei】「...\Nie chcｪ sｩuchaｨ ｯadnych twoich uogｫlnieﾃ.」\e 
+[000461|ru] 【Kei】「...\pNie chcｪ sｩuchaｨ ｯadnych twoich uogｫlnieﾃ.」\e 
 
 [000462|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000462|ru] 【Takeru】「...\p...\p」\e
@@ -1556,7 +1556,7 @@
 [000499|ru] 【Takeru】「Co takiego moｯesz mu zrobiｨ?\p\n...Co ty masz──」\e
 
 [00049e|en] 【Kei】「...\p...\phe has a wife...\p...」\e
-[00049e|ru] 【Kei】「...\Ty wiesz,\p ｯe on ma ｯonｪ...」\e
+[00049e|ru] 【Kei】「...\pTy wiesz,\p ｯe on ma ｯonｪ...」\e
 
 [0004a3|en] 【Kei】「Can I be selfish...\p...\pand tell him to be with me\nagain?」\e
 [0004a3|ru] 【Kei】「Czy mogｪ byｨ samolubna...\p i powiedzieｨ mu,\p\nｯe znowu byｩ ze mnｧ?」\e
@@ -1592,7 +1592,7 @@
 [0004b6|ru] Mogｩem mieｨ inny obraz na tｪ sytuacje,\p bo spｪdziliﾛmy\p\nrazem ze sobｧ trochｪ czasu i razem udaliﾛmy siｪ do\p\nszpitala, ale...\e
 
 [0004b7|en] ...\p...\pnow that I think about it,\p I don't know anything about\nAyamine.\e
-[0004b7|ru] ...\pTeraz, kiedy o tym myﾛlｪ,\p to tak naprawdｪ nic nie wiem o\nAyamine.\e
+[0004b7|ru] ...\pTeraz, kiedy o tym myﾛlｪ,\p to tak naprawdｪ nic nie\p\nwiem o Ayamine.\e
 
 [0004b8|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0004b8|ru] 【Takeru】「...\p...\p」\e
@@ -1610,7 +1610,7 @@
 [0004c2|ru] 【Sumika】「No serio,\p co jest dzisiaj z tobｧ?」\e
 
 [0004c4|en] 【Meiya】「He is beyond help...\p...\p...\p...\pKamiyo,\p Tomoe,\p Ebisu.」\e
-[0004c4|ru] 【Meiya】「Chyba nie ma na to rady...\p...\pKamiyo,\p Tomoe,\p Ebisu.」\e
+[0004c4|ru] 【Meiya】「Chyba nie ma na to rady...\p...\p\nKamiyo,\p Tomoe,\p Ebisu.」\e
 
 [0004ca|en] 【Tomoe】「You called, Meiya-sama～?」\e
 [0004ca|ru] 【Tomoe】「Wzywaｩaﾛ, Meiya-sama～?」\e
@@ -1691,7 +1691,7 @@
 [000500|ru] 【Takeru】「...\pProszｪ, nie rｫb tego.」\e
 
 [000502|en] 【Sumika】「It's dinner time, so focus on eating!」\e
-[000502|ru] 【Sumika】「Mamy teraz kolacje, wiｪc skup siｪ na jedzeniu!」\e
+[000502|ru] 【Sumika】「Mamy teraz kolacje, wiｪc skup siｪ na\p\njedzeniu!」\e
 
 [000503|en] 【Takeru】「...\p...\pyes, yes,\p I get it, I get it.」\e
 [000503|ru] 【Takeru】「...\pTak, tak.\p Dobra, dobra, juｯ jem.」\e
@@ -1709,10 +1709,10 @@
 [000508|ru] Najmniejszym z nich jest to niedopracowane kｩamstwo,\p\nktｫre powiedziaｩem Sagiri-san...\e
 
 [000509|en] Ayamine said she wanted me to take her to the\nhospital...\p...\p\e
-[000509|ru] I nawet poprosiｩ mnie, ｯebym przyprowadziｩ\p\nAyamine do szpitala...\p\e
+[000509|ru] I nawet poprosiｩ mnie, ｯebym przyprowadziｩ Ayamine\p\ndo szpitala...\p\e
 
 [00050a|en] ...\p...\p...\p...\pbut...\p...\pat this rate...\p...\pI doubt Ayamine will ever tell\nme what happened.\e
-[00050a|ru] ...\p...\pAle...\p w tym tempie...\p wｧtpie,\p\nｯeby Ayamine kiedykolwiek powiedziaｩa mi,\p\nco siｪ miｪdzy nimi wydarzy;p.\e
+[00050a|ru] ...\p...\pAle...\p w tym tempie...\p wｧtpie, ｯeby Ayamine\p\nkiedykolwiek powiedziaｩa mi, co siｪ miｪdzy nimi wydarzyｩo.\e
 
 [00050b|en] I don't know if she'll even come to school tomorrow...\p...\p\e
 [00050b|ru] Nie wiem, czy jutro w ogｫle przyjdzie do szkoｩy...\p\e
@@ -1739,7 +1739,7 @@
 [00051d|ru] 【Takeru】「...\p*Westchnienie*...」\e
 
 [000525|en] 【Kei】「...\p...\pShirogane,\p have you ever loved someone?」\e
-[000525|ru] 【Kei】「...\p...\pShirogane,\p\p czy kiedykolwiek pokochaｩeﾛ kogoﾛ?」\e
+[000525|ru] 【Kei】「Shirogane,\p\p czy kiedykolwiek pokochaｩeﾛ kogoﾛ?」\e
 
 [000527|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000527|ru] 【Takeru】「...\p...\p」\e
@@ -1751,7 +1751,7 @@
 [00052f|ru] 【Takeru】「...\p...\p」\e
 
 [000534|en] 【Kei】「...\p...\pI don't want to hear what other people have to\nsay.」\e
-[000534|ru] 【Kei】「...\Nie chcｪ sｩuchaｨ ｯadnych twoich uogｫlnieﾃ.」\e
+[000534|ru] 【Kei】「Nie chcｪ sｩuchaｨ ｯadnych twoich uogｫlnieﾃ.」\e
 
 [000535|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000535|ru] 【Takeru】「...\p...\p」\e
@@ -1781,7 +1781,7 @@
 [00055b|ru] Wszystko, co jej teraz powiem...\p\nBｪdzie brzmiaｩo jak wymｫwka.\e
 
 [00055c|en] Not knowing he had a wife doesn't excuse anything.\e
-[00055c|ru] To,\p ｯe nie wiedziaｩem o tym, nie usprawiedliwia\p\ntego, co zrobiｩem.\e
+[00055c|ru] To,\p ｯe nie wiedziaｩem o tym, nie usprawiedliwia tego,\p\nco zrobiｩem.\e
 
 [00055d|en] I knew she didn't want to talk about it...\p...\p\e
 [00055d|ru] Wiedziaｩem,\p ｯe nie chciaｩa o tym rozmawiaｨ...\p\e
@@ -1814,7 +1814,7 @@
 [20056a|ru] ──Shirogane,\p zy kiedykolwiek pokochaｩeﾛ kogoﾛ?\e
 
 [00056d|en] That really hurt...\p...\p...\p...\p\e
-[00056d|ru] To naprawdｪuderzyｩo mnie w czuｩy punkt...\p...\p\e
+[00056d|ru] To napraw dｪuderzyｩo mnie w czuｩy punkt...\p...\p\e
 
 [000572|en] 【Takeru】「...\p...\p...\p...\pit's open.」\e
 [000572|ru] 【Takeru】「...\p...\pOtwarte.」\e
@@ -1826,19 +1826,19 @@
 [00057c|ru] 【Takeru】「Meiya?\p Co ty tu robisz o tej porze?」\e
 
 [00057e|en] 【Meiya】「What am I doing? ...\p...\pit is bad.」\e
-[00057e|ru] 【Meiya】「Pytasz: "Co ja tu robiｪ?"\p\nMusisz byｨ tym bardziej pochｩoniｪty, niｯ na poczｧtku myﾛlaｩam.」\e
+[00057e|ru] 【Meiya】「Pytasz: "Co ja tu robiｪ?"\p\nMusisz byｨ tym bardziej pochｩoniｪty, niｯ na poczｧtku\p\nmyﾛlaｩam.」\e
 
 [00057f|en] 【Takeru】「What is?」\e
-[00057f|ru] 【Takeru】「Uh. co?」\e
+[00057f|ru] 【Takeru】「Uh co?」\e
 
 [000581|en] 【Meiya】「You would do well to recall your behavior during\ndinner today.」\e
-[000581|ru] 【Meiya】「Dobrze by byｩo,\p gdybyﾛ przypomniaｩ sobie swoje\p\nzachowanie przy kolacji dziﾛ wiedzorem.」\e
+[000581|ru] 【Meiya】「Dobrze by byｩo,\p gdybyﾛ przypomniaｩ sobie\p\nswoje zachowanie przy kolacji dziﾛ wieczorem.」\e
 
 [000582|en] 【Takeru】「...\p...\pah,\p yeah.」\e
 [000582|ru] 【Takeru】「...\pO-oh, zgadza siｪ.」\e
 
 [000584|en] 【Meiya】「It was obvious to everyone that you were acting\nodd...\p...\p...\pwere you not aware of it?」\e
-[000584|ru] 【Meiya】「Dla wszystkich byｩo oczywiste, ｯe czujesz siｪ nieswojo...\p\nCzy ty nawet nie byｩeﾛ tego ﾛwiadomy?」\e
+[000584|ru] 【Meiya】「Dla wszystkich byｩo oczywiste, ｯe czujesz\[\nsiｪ nieswojo.nCzy ty nawet nie byｩeﾛ tego ﾛwiadomy?」\e
 
 [000585|en] 【Takeru】「I'm...\p...\pI'm fine.\nI just had to think about something.」\e
 [000585|ru] 【Takeru】「U mnie...\p U mnie wszystko gra.\p\nPo prostu mam duｯo na gｩowie.」\e
@@ -1850,7 +1850,7 @@
 [000588|ru] 【Takeru】「...\p...\p」\e
 
 [00058a|en] 【Meiya】「When you are so clearly troubled,\p Kagami is not\nthe only one who can tell.\p It must be quite bad.」\e
-[00058a|ru] 【Meiya】「Kiedy jesteﾛ tak wyraﾜnie zaniepokojony,\p Kagami\p\nnie jest jedynｧ osobｧ,\p ktｫra to wyczuwa.\p Musi byｨ naprawdｪ ﾜle.」\e
+[00058a|ru] 【Meiya】「Kiedy jesteﾛ tak wyraﾜnie zaniepokojony,\p\nKagami nie jest jedynｧ osobｧ,\p ktｫra to wyczuwa.\p\p\nMusi byｨ naprawdｪ ﾜle.」\e
 
 [00058b|en] 【Takeru】「Why're you bringing up Sumika?」\e
 [00058b|ru] 【Takeru】「Dlaczego wspominasz o Sumicｪ?」\e
@@ -1862,13 +1862,13 @@
 [00058f|ru] 【Takeru】「C-\pco...\p...\p?」\e
 
 [000591|en] 【Meiya】「Kagami has known you and lived beside you far\nlonger than I...\p...\p...\p...\p...\p...\pthat is the reality...\p...\p」\e
-[000591|ru] 【Meiya】「Kagami zna ciｪ i mieszka z tobｧ o wiele dｩuｯej\p\nniｯ ja...\p...\p Frustrujｧce, jakkolwiek frustrujｧce to moｯe byｨ,\p\ntaka jest rzeczywistoﾛｨ.」\e
+[000591|ru] 【Meiya】「Kagami zna ciｪ i mieszka z tobｧ o wiele dｩuｯej niｯ ja...\p...\p\p\nFrustrujｧce, jakkolwiek frustrujｧce to moｯe byｨ,\p\ntaka jest rzeczywistoﾛｨ.」\e
 
 [000592|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000592|ru] 【Takeru】「...\p...\p」\e
 
 [000594|en] 【Meiya】「Is it not the same for you?\p\p\p Are there not times\nwhen you know precisely what Kagami is thinking?」\e
-[000594|ru] 【Meiya】「Czy z tobｧ nie jest tak samo?\p\p\nCzy nie zdarzajｧ siｪ chwile,\p kiedy dokｩadnie wiecz,\p\no czym tak naprawdｪ myﾛli Kagami?」\e
+[000594|ru] 【Meiya】「Czy z tobｧ nie jest tak samo?\p\p\nCzy nie zdarzajｧ siｪ chwile,\p kiedy dokｩadnie wiesz,\p\no czym tak naprawdｪ myﾛli Kagami?」\e
 
 [000595|en] 【Takeru】「...\p...\pwell,\p yeah.\p We've known each other a long\ntime.」\e
 [000595|ru] 【Takeru】「...\pNo cｫｯ, faktycznie.\p\nZnamy siｪ przecieｯ od dawna.」\e
@@ -1880,7 +1880,7 @@
 [000598|ru] 【Takeru】「Huh?」\e
 
 [00059a|en] 【Meiya】「There are things you and Kagami can convey in\none breath which probably could never be explained to\nme...\p...\p...\p...\p」\e
-[00059a|ru] 【Meiya】「Sｧ rzeczy, ktｫre ty i Kagami przekazujecie sobie\p\njednym tchem,\p a ktｫrych prawdopodobnie nigdy nie\p\npotrafiｩbyﾛ mi wyjaﾛniｨ...\p...\p」\e
+[00059a|ru] 【Meiya】「Sｧ rzeczy, ktｫre ty i Kagami przekazujecie\p\nsobie jednym tchem,\p a ktｫrych prawdopodobnie nigdy\p\nnie potrafiｩbyﾛ mi wyjaﾛniｨ...\p...\p」\e
 
 [00059b|en] 【Takeru】「Meiya?」\e
 [00059b|ru] 【Takeru】「Meiya?」\e
@@ -1904,7 +1904,7 @@
 [0005a4|ru] 【Takeru】「...\p...\pNie moge powiedzieｨ.\p\nTo po prostu zbyt ｯaｩosne.」\e
 
 [0005a6|en] 【Meiya】「...\p...\pthen...\p...\pcould you tell it to Kagami?」\e
-[0005a6|ru] 【Meiya】「...\pWiｪc...\p a czy zdradziｩbyﾛ szczegｫly, Kagami?」\e
+[0005a6|ru] 【Meiya】「...\pWiｪc...\p a czy zdradziｩbyﾛ szczegｫly,\p\nKagami?」\e
 
 [0005a7|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0005a7|ru] 【Takeru】「...\p...\p」\e
@@ -1928,10 +1928,10 @@
 [0005af|ru] ...\pNie,\p ｯe mam zamiar oceniaｨ wszystko, co robiｪ w\p\nstosunku do Sumiki...\e
 
 [0005b0|en] I do have a feeling I'd tell her about this...\p...\p\e
-[0005b0|ru] Mam przeczucie,\p ｯe to jest coﾛ,\p o czym mｫgｩbym\p\nzniｧ porozmawiaｨ...\p\e
+[0005b0|ru] Mam przeczucie,\p ｯe to jest coﾛ,\p o czym mｫgｩbym z niｧ\p\nporozmawiaｨ...\p\e
 
 [0005b1|en] But that doesn't mean I'm going to.\e 
-[0005b1|ru] Ale nie chcｪ biec do niej za kaｯdym razem,\p gdy\p\nmam problem.\e 
+[0005b1|ru] Ale nie chcｪ biec do niej za kaｯdym razem,\p gdy mam\p\nproblem.\e 
 
 [0005b2|en] 【Meiya】「...\p...\pTakeru?」\e
 [0005b2|ru] 【Meiya】「...\pTakeru?」\e
@@ -1946,7 +1946,7 @@
 [0005ba|ru] 【Takeru】「──Huh?」\e
 
 [0005bc|en] 【Meiya】「But,\p when I saw your face a moment ago...\p...\p...\p...\p\nit concerned me.\p\p\p I merely wished to be of some help...\p...\p」\e
-[0005bc|ru] 【Meiya】「Ale,\[p kiedy przed chwilｧ zobaczyｩam twojｧ twarz...\p\nZaniepokoiｩam siｪ.\p\p\p\nChciaｩam tylko sprawdziｨ,\p czy mogｪ ci jakoﾛ pomｫc, to wszystko...\p」\e
+[0005bc|ru] 【Meiya】「Ale,\p kiedy przed chwilｧ zobaczyｩam twojｧ\p\ntwarz... Zaniepokoiｩam siｪ.\p\p\p\nChciaｩam tylko sprawdziｨ,\p czy\p\nmogｪ ci jakoﾛ pomｫc, to wszystko...\p」\e
 
 [0005bd|en] 【Takeru】「Ah!\p Hey!」\e
 [0005bd|ru] 【Takeru】「Ah!\p Hej!」\e
@@ -1967,13 +1967,13 @@
 [0005c6|ru] 【Meiya】「...\pPokｩｫciｩeﾛ siｪ?\p Ty i Ayamine??」\e
 
 [0005c7|en] 【Takeru】「...\p...\pI can't tell you all the details,\p since it'd\nintrude on her privacy.」\e
-[0005c7|ru] 【Takeru】「...\pNie mogｪ ci zdradziｨ wszystkich szczegｫｩｫw,\p bo to\p\nby naruszyｩo jej prywatnoﾛｨ.」\e
+[0005c7|ru] 【Takeru】「...\pNie mogｪ ci zdradziｨ wszystkich\p\nszczegｫｩｫw,\p bo to by naruszyｩo jej prywatnoﾛｨ.」\e
 
 [0005c9|en] 【Meiya】「All right.」\e
 [0005c9|ru] 【Meiya】「Bardzo dobrze.」\e
 
 [0005ca|en] 【Takeru】「When we went to visit Suzumiya at the\nhospital,\p we bumped into an old friend of hers.」\e
-[0005ca|ru] 【Takeru】「Kiedy poszliﾛmy odwiedziｨ Suzumiyｪ w szpitalu,\p\nwpadliﾛmy na jej starego przyjaciela.」\e
+[0005ca|ru] 【Takeru】「Kiedy poszliﾛmy odwiedziｨ Suzumiyｪ w\p\nszpitalu, wpadliﾛmy na jej starego przyjaciela.」\e
 
 [0005cc|en] 【Meiya】「I see.」\e
 [0005cc|ru] 【Meiya】「Rozumiem.」\e
@@ -1988,19 +1988,19 @@
 [0005d0|ru] 【Meiya】「...\pProﾛbｪ?」\e
 
 [0005d1|en] 【Takeru】「It was...\p...\pwell...\p...\pthe end result was that I lied\nto her old friend...\p...\p」\e
-[0005d1|ru] 【Takeru】「To byｩo...\p\nNo cｫｯ,\p ｯeby skrｫciｨ tｧ dｩugｧ historiｪ,\p\nokｩamaｩem jej starego przyjaciela...\p」\e
+[0005d1|ru] 【Takeru】「To byｩo...\p\nNo cｫｯ,\p ｯeby skrｫciｨ tｧ dｩugｧ historiｪ, okｩamaｩem\p\njej starego przyjaciela...\p」\e
 
 [0005d3|en] 【Meiya】「...\p...\p」\e
 [0005d3|ru] 【Meiya】「...\p」\e
 
 [0005d4|en] 【Takeru】「After that,\p I accidentally got a chance to talk\nto him...\p...\pafter which, I couldn't bring myself to tell him\nthe truth...\p...\pand now I'm sure Ayamine's\nmisunderstanding something...\p...\p」\e
-[0005d4|ru] 【Takeru】「Potem przypadkowo miaｩem okazjｪ z nim porozmawiaｨ...\\p\mPo czym nie mogｩem siｪ zmusiｨ,\p ｯeby powiedzieｨ mu prawdｪ...\p\nI teraz jestem pewien,\p ｯe Ayamine czegoﾛ nie zrozumiaｩa...」\e
+[0005d4|ru] 【Takeru】「Potem przypadkowo miaｩem okazjｪ z nim\p\nporozmawiaｨ... Po czym nie mogｩem siｪ zmusiｨ,\p\nｯeby powiedzieｨ mu prawdｪ... I teraz jestem pewien,\p ｯe Ayamine\p\nczegoﾛ nie zrozumiaｩa...」\e
 
 [0005d6|en] 【Meiya】「...\p...\pokay.」\e
 [0005d6|ru] 【Meiya】「...\pRozumiem.」\e
 
 [0005d7|en] 【Takeru】「I don't like lying,\p so I told her to explain why\nshe made me do it...\p...\pbut she pushed me away, saying it\nhad nothing to do with me.」\e
-[0005d7|ru] 【Takeru】「ｷle siｪ czuｩem, kｩamiｧc,\p i chodziaｯ wiedziaｩem,\p\nｯe nie powinienem,\p powiedziaｩem jej,\p ｯe wyjaﾛniｩa mu wszystko...\p\nAle ona mnie odepchnｪｩa,\p mｫwiｧc,\p ｯe to nie ma ze mnｧ nic wspｫlnego.」\e
+[0005d7|ru] 【Takeru】「ｷle siｪ czuｩem, kｩamiｧc,\p i chodziaｯ\p\nwiedziaｩem, ｯe nie powinienem, powiedziaｩem jej,\p\nｯe wyjaﾛniｩa mu wszystko... Ale ona mnie odepchnｪｩa,\p mｫwiｧc,\p\p\nｯe to nie ma ze mnｧ nic wspｫlnego.」\e
 
 [0005d9|en] 【Takeru】「But that's not true anymore. She got me\ninvolved, right? ──Besides,\p how long is it going to be\nuntil she tells me?」\e
 [0005d9|ru] 【Takeru】「Ale to juｯ nieprawda.\p\nWciｧgnｪｩa mnie w to, prawda?\p\n──Poza tym, kto wie, ile czasu minie, zanim mi powie?」\e
@@ -2009,10 +2009,10 @@
 [0005db|ru] 【Meiya】「...\pI?」\e
 
 [0005dc|en] 【Takeru】「...\p...\pso I got mad and started saying things I\ndidn't mean...\p...\p」\e
-[0005dc|ru] 【Takeru】「...\pWiｪc wﾛciekｩem siｪ i zaczｧｩem mｫwiｨ rzeczy,\p\nktｫrych nie miaｩem na mysli...\p」\e
+[0005dc|ru] 【Takeru】「...\pWiｪc wﾛciekｩem siｪ i zaczｧｩem mｫwiｨ\p\nrzeczy, ktｫrych nie miaｩem na mysli...\p」\e
 
 [0005de|en] 【Takeru】「And then...\p...\pshe said something hurtful...\p...\p\nand I couldn't respond.」\e
-[0005de|ru] 【Takeru】「A potem...\p odgryzｩa mi siｪ czymﾛ bolesnym...\p\nA ja nie mogｩem odpowiedzieｨ.」\e
+[0005de|ru] 【Takeru】「A potem...\p odgryzｩa mi siｪ czymﾛ bardzo\p\nbolesnym... A ja nie mogｩem odpowiedzieｨ.」\e
 
 [0005e0|en] 【Meiya】「...\p...\pI see.」\e
 [0005e0|ru] 【Meiya】「...\pRozumiem.」\e
@@ -2039,7 +2039,7 @@
 [0005eb|ru] 【Meiya】「Tamto to nie sｧ kｩｫtnie.\p\p\nTo po prostu starcie osobowoﾛci.」\e
 
 [0005ec|en] 【Takeru】「Oooh,\p you really do get it.」\e
-[0005ec|ru] 【Takeru】「Cｫｯ.\p Brzmi,\p jakbyﾛ miaｩa wszystko pukｩadane\p\nna ten temat.」\e
+[0005ec|ru] 【Takeru】「Cｫｯ.\p Brzmi,\p jakbyﾛ miaｩa wszystko\p\npukｩadane na ten temat.」\e
 
 [0005ee|en] 【Meiya】「Are you mocking me...\p...\p...\p...\p?\p\nThose two could not be easier to understand.」\e
 [0005ee|ru] 【Meiya】「ﾂartujesz sobie ze mnie...\p...?\p\nKogo,\p jak kogo,\p ale tｧ dwｫjkｪ najｩatwiej zrozumieｨ.」\e
@@ -2054,7 +2054,7 @@
 [0005f4|ru] 【Takeru】「Hmmm...\p Wydawaｩa siｪ naprawdｪ wkurzona...\p\nChyba?」\e
 
 [0005f6|en] 【Meiya】「So even Ayamine can get seriously mad.」\e
-[0005f6|ru] 【Meiya】「Wiｪc nawet Ayamine zwana Nieporuszonｧ potrafi\p\nbyｨ zawziｪta gdy zostanie przyparta do muru...」\e
+[0005f6|ru] 【Meiya】「Wiｪc nawet Ayamine zwana "Nieporuszonｧ"\p\npotrafi byｨ zawziｪta gdy zostanie przyparta do\p\nmuru...」\e
 
 [0005f8|en] Seriously...\p...\p...\p...\pyeah.\e
 [0005f8|ru] Zawziｪta...\p Taa.\e
@@ -2066,10 +2066,10 @@
 [0005fa|ru] Rzadko kiedy okazuje swoje emocje.\e
 
 [0005fc|en] And yet, she got seriously mad.\e
-[0005fc|ru] A jednak wｩaﾛnie byｩem ﾛwiadkiem, jak naprawdｪ\p\nsiｪ zdenerwowaｩa.\e
+[0005fc|ru] A jednak wｩaﾛnie byｩem ﾛwiadkiem, jak naprawdｪ siｪ\p\nzdenerwowaｩa.\e
 
 [0005fd|en] Simply from what I said to her.\e
-[0005fd|ru] Wszystlo przez to,\p ｯe powiedziaｩem jej tｪ jednｧ maｩｧ rzecz.\e
+[0005fd|ru] Wszystko przez to,\p ｯe powiedziaｩem jej tｪ jednｧ maｩｧ\p\nrzecz.\e
 
 [0005ff|en] 【Meiya】「Is that not good?」\e
 [0005ff|ru] 【Meiya】「Czy to nie jest dobry znak?」\e
@@ -2078,19 +2078,19 @@
 [000600|ru] 【Takeru】「D-\pdlaczego miaｩoby byｨ?」\e
 
 [000602|en] 【Meiya】「...\p...\pwhat would be gained from doing exactly\nwhat you always do?」\e
-[000602|ru] 【Meiya】「...\pCzy byｩoby coﾛ wartoﾛciowego w kontyuowaniu tej\p\nsamej wymiany zdaﾃ,\p ktｫrｧ z niｧ prowadzisz dizeﾃ po dniu,\p\nw nieskoﾃczonoﾛｨ?」\e
+[000602|ru] 【Meiya】「...\pCzy byｩoby coﾛ wartoﾛciowego w\p\nkontyuowaniu tej samej wymiany zdaﾃ,\p ktｫrｧ z niｧ\p\nprowadzisz dzieﾃ po dniu, w nieskoﾃczonoﾛｨ?」\e
 
 [000603|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000603|ru] 【Takeru】「...\p...\p」\e
 
 [000605|en] 【Meiya】「Whatever the circumstances,\p Ayamine displayed\nan honest emotion in front of you.\p\nThat is a huge step forward.」\e
-[000605|ru] 【Meiya】「Bez wzglｪdu na okolicznoﾛci,\p Ayamine pokazaｩa\p\nci swoje prawdziwe emocje.\p To ogromny krok naprzｫd.....」\e
+[000605|ru] 【Meiya】「Bez wzglｪdu na okolicznoﾛci,\p Ayamine\p\npokazaｩa ci swoje prawdziwe emocje.\p\nTo ogromny krok naprzｫd.....」\e
 
 [000606|en] 【Takeru】「Well,\p that's true...\p...\p...\p...\pbut I didn't want it to be\nthat emotion.」\e
 [000606|ru] 【Takeru】「Cｫｯ,\p to prawda,\p chyba...\p...\p\nPo prostu chciaｩbym,\p ｯeby to byｩy inne emocje, wiesz?」\e
 
 [000608|en] 【Meiya】「You are quite demanding.\n...\p...\pif that is what you want,\p then you will have to learn to\nfight her more skillfully.」\e
-[000608|ru] 【Meiya】「Jesteﾛ doﾛｨ wymagajｧcy...\p\nJeﾛli tego chcesz, to bｪdziesz musiaｩ nauczyｨ siｪ stawiaｨ jej czoｩa\p\nz odrobinｧ wiｪcej prawdy.」\e
+[000608|ru] 【Meiya】「Jesteﾛ doﾛｨ wymagajｧcy...\p\nJeﾛli tego chcesz, to bｪdziesz musiaｩ nauczyｨ siｪ\p\nstawiaｨ jej czoｩa z odrobinｧ wiｪcej prawdy.」\e
 
 [00060a|en] 【Takeru】「...\p...\pI'd be doing that if I knew how.」\e
 [00060a|ru] 【Takeru】「...\pZrobiｩbym to,\p gdybym wiedziaｩ jak.」\e
@@ -2105,7 +2105,7 @@
 [00060f|ru] ﾂaｩowanie tego, co zrobiｩem, niczego nie rozwiｧｯe.\e
 
 [000610|en] Worrying about it like this won't make me feel better.\e
-[000610|ru] Wyrywanie sobie wｩosｫw z tego powodu nie poprawi mi samopoczucia.\e
+[000610|ru] Wyrywanie sobie wｩosｫw z tego powodu nie poprawi mi\p\nsamopoczucia.\e
 
 [000612|en] I know it's all a waste of time.\e
 [000612|ru] Nawet ja wiem,\p ｯe to byｩaby strata.\e
@@ -2114,25 +2114,25 @@
 [000613|ru] 【Takeru】「...\pAle teraz moｯe byｨ za pｫﾜno.\p\nMogｩem powiedzieｨ coﾛ,\p czego nie powinienem.」\e
 
 [000615|en] 【Meiya】「That matters not.\p\p\p\nThe issue is what you want to do right now.」\e
-[000615|ru] 【Meiya】「To tylko drobiazg\p\p\p\nChodzi o to, co TY chcesz zrobiｨ w przyszｩoﾛci,\p\na moｯe siｪ mylｪ?」\e
+[000615|ru] 【Meiya】「To tylko drobiazg\p\p\p\nChodzi o to, co TY chcesz zrobiｨ w przyszｩoﾛci, a\p\nmoｯe siｪ mylｪ?」\e
 
 [000617|en] 【Takeru】「Eh?」\e
 [000617|ru] 【Takeru】「Huh?」\e
 
 [000619|en] 【Meiya】「...\p...\pit is easy to fear something and force\nyourself to be hold back.」\e
-[000619|ru] 【Meiya】「...\pｳatwo jest powtrzymaｨ siｪ z powodu strachu.」\e
+[000619|ru] 【Meiya】「ｳatwo jest powtrzymaｨ siｪ z powodu strachu.」\e
 
 [00061b|en] 【Takeru】「...\p...\peh?」\e
-[00061b|ru] 【Takeru】「...\pHuh>」\e
+[00061b|ru] 【Takeru】「...\pHuh?」\e
 
 [00061d|en] 【Meiya】「It is easy to run away when you think getting\ninvolved will only cause problems...\p...\p」\e
-[00061d|ru] 【Meiya】「ｳatwo jest uciec,\p gdy myﾛlisz,\p ｯe angaｯowanie\p\nsiｪ spowoduje problemy tylko dla osｫb wokｫｩ ciebie...\p」\e
+[00061d|ru] 【Meiya】「ｳatwo jest uciec,\p gdy myﾛlisz,\p ｯe\p\nangaｯowanie siｪ spowoduje problemy tylko dla osｫb\p\nwokｫｩ ciebie...\p」\e
 
 [000620|en] 【Takeru】「...\p...\pMeiya.」\e
 [000620|ru] 【Takeru】「...\pMeiya.」\e
 
 [000624|en] 【Meiya】「But even so...\p...\p...\p...\pyou cannot lie about your own\nfeelings.\p That is why I came here in the first place.」\e
-[000624|ru] 【Meiya】「Ale mimo to...\p...\p nie moｯesz okｩamywaｨ wｩｧsnych uczuｨ.\p\nDlatego wｩaﾛnie tu przybyｩam.」\e
+[000624|ru] 【Meiya】「Ale mimo to...\p...\p nie moｯesz okｩamywaｨ\p\nwｩasnych uczuｨ. Dlatego wｩaﾛnie tu przybyｩam.」\e
 
 [000626|en] 【Takeru】「...\p...\pwhy...\pare you...\p...\psaying this...?」\e
 [000626|ru] 【Takeru】「...\pDlaczego...\p mi...\p to mｫwisz...?」\e
@@ -2156,13 +2156,13 @@
 [00062e|ru] Ale mogｩem udawaｨ,\p ｯe o tym zapomniaｩem...\p\nGdy moje ｯycie stawaｩo siｪ coraz bardziej chaotyczne...\p\e
 
 [000630|en] 【Meiya】「Everyone becomes frustrated when they try to\nlearn more about someone, only to find it backfiring.」\e
-[000630|ru] 【Meiya】「Kaｯdy czuje frustracjｪ,\p gdy prｫbuje dowiedzieｨ\p\nsiｪ czegoﾛ wiｪcej o kimﾛ,\p a potem okazuje siｪ,\p\nｯe to siｪ nie udaje.」\e
+[000630|ru] 【Meiya】「Kaｯdy czuje frustracjｪ,\p gdy prｫbuje\p\ndowiedzieｨ siｪ czegoﾛ wiｪcej o kimﾛ,\p a\p\npotem okazuje siｪ, ｯe to siｪ nie udaje.」\e
 
 [000631|en] 【Takeru】「Try to learn more...\p...\p...\p...\pthat's not what I...\p...」\e
-[000631|ru] 【Takeru】「Nie chodzi o to,\p ｯe prｫbujｪ dowiedzieｨ siｪ o\p\nniej czegoﾛ wiｪcej.」\e
+[000631|ru] 【Takeru】「Nie chodzi o to,\p ｯe prｫbujｪ dowiedzieｨ siｪ\p\no niej czegoﾛ wiｪcej.」\e
 
 [000634|en] 【Meiya】「Do not change the subject, Takeru.\p\p\p\p\nRight now,\p you want to know more about\nAyamine...\p...\p...\p...\pam I wrong?」\e
-[000634|ru] 【Meiya】「Nie odwracaj ode mnie wzroku, Takeru...\p\nTeraz chcesz dowiedzieｨ siｪo wiｪcej o Ayamine...\p\nMylｪ siｪ...?」\e
+[000634|ru] 【Meiya】「Nie odwracaj ode mnie wzroku, Takeru...\p\nTeraz chcesz dowiedzieｨ siｪ wiｪcej o Ayamine...\p\nMylｪ siｪ...?」\e
 
 [000635|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000635|ru] 【Takeru】「...\p...\p」\e
@@ -2198,13 +2198,13 @@
 [000647|ru] Chwileczkｪ...\p\e
 
 [000649|en] ...\p...\pis that why I've been so irritated all this time?\e
-[000649|ru] ...\pCzy dlatego byｩem tak zirytowany przez caｩy ten czas?\e
+[000649|ru] Czy dlatego byｩem tak zirytowany przez caｩy ten czas?\e
 
 [00064a|en] Is this...\p...\p...\p...\penvy?\e 
 [00064a|ru] Czy to byｩa...\p...\p Zazdroﾛｨ?\e 
 
 [00064c|en] Is there no place for me between Ayamine and\nSagiri-san...\p...\p?\e
-[00064c|ru] Czy to dlatego,\p ｯe czujｪ,\p ｯe nie ma dla mnie\p\nmiejsca miｪdzy Ayamine a Sagiri-san...\p?\e
+[00064c|ru] Czy to dlatego,\p ｯe czujｪ,\p ｯe nie ma dla mnie miejsca\p\nmiｪdzy Ayamine a Sagiri-san...\p?\e
 
 [00064d|en] Because I'm an outsider...\p...\p?\e
 [00064d|ru] Bo jestem kimﾛ z zewnatrz...\p?\e
@@ -2246,7 +2246,7 @@
 [00065f|ru] 【Meiya】「Jestem w tobie zakochana.」\e
 
 [000664|en] 【Meiya】「Therefore I wish to fight openly and directly\nwith the girls around you,\p\p so as to win you fair and\nsquare.」\e
-[000664|ru] 【Meiya】「Dlatego chcｪ walczyｨ otwarcie i na rｫwnych zasadach\p\nz mｩodymi kobietami wokｫｩ ciebie,\p aby zdobyｨ ciｪ\p\nuczciwie i sprawiedliwie.」\e
+[000664|ru] 【Meiya】「Dlatego chcｪ walczyｨ otwarcie i na rｫwnych\p\nzasadach z mｩodymi kobietami wokｫｩ ciebie,\p aby\p\nzdobyｨ ciｪ nuczciwie i sprawiedliwie.」\e
 
 [000665|en] 【Takeru】「...\p...\pMeiya.」\e
 [000665|ru] 【Takeru】「...\pMeiya.」\e
@@ -2270,7 +2270,7 @@
 [000673|ru] 【Takeru】「D-\pdobrze...\p」\e
 
 [000675|en] 【Meiya】「...\p...\pfirst, settle your score with Ayamine.\p\p\p\nKagami and I will challenge her afterward.」\e
-[000675|ru] 【Meiya】「...\pNajpierw rozlicz siｪ z Ayamine.\p\p\p\nGdy wszystko bｪdzie zrobione, ja i Kagami rzucimy jej wyzwanie.」\e
+[000675|ru] 【Meiya】「...\pNajpierw rozlicz siｪ z Ayamine.\p\p\p\nGdy wszystko bｪdzie zrobione, ja i Kagami rzucimy jej\p\nwyzwanie.」\e
 
 [000677|en] 【Takeru】「...\p...\pokay.」\e
 [000677|ru] 【Takeru】「...\pOkej.」\e
@@ -2309,7 +2309,7 @@
 [000691|ru] 【Takeru】「...\p*Westchnienie*...\p」\e
 
 [000693|en] And yet...\p...\pa proud woman like you fell in love with\nme...\p...\pI truly am honored...\p...\p\e
-[000693|ru] A jednak...\p taka szlachetna kobieta jak ty zakochaｩa siｪ\p\nwe mnie...\p naprawdｪ jestem zaszczycony...\p\e
+[000693|ru] A jednak...\p taka szlachetna kobieta jak ty zakochaｩa\p\nsiｪ we mnie...\p naprawdｪ jestem zaszczycony...\p\e
 
 [000694|en] Meiya,\p I won't run anymore...\p...\p\e
 [000694|ru] Nie bｪdｪ juｯ wiｪcej uciekaｩ,\p Meiyo...\p\e
@@ -2324,7 +2324,7 @@
 [000697|ru] To jedyne,\p co mogｪ teraz zrobiｨ.\e
 
 [000698|en] That's the one and only way...\p...\pI can avoid defiling your\npride.\e
-[000698|ru] Przykro mi,\p ｯe zakochaｩaﾛ siｪ w bezwartoﾛciowym doupku takim\p\njak ja...\p Ale moｯe - tylko moｯe- uda mi siｪ to przetrwaｨ,\p\nnie okazujｧc braku szacunku twoim szlachetnym intencjom.\e
+[000698|ru] Przykro mi,\p ｯe zakochaｩaﾛ siｪ w bezwartoﾛciowym\p\ndoupku takim jak ja...\p Ale moｯe - tylko moｯe-\p\nuda mi siｪ to przetrwaｨ, nie okazujｧc braku\p\nszacunku twoim szlachetnym intencjom.\e
 
 [00069a|en] 【Takeru】「...\p...\pokay.」\e
 [00069a|ru] 【Takeru】「...\pOkej.」\e
@@ -2333,10 +2333,10 @@
 [00069b|ru] ...\pJutro znowu pｫjdｪ do szpitala.\e
 
 [00069c|en] This won't go anywhere unless I come clean first.\e
-[00069c|ru] To nic nie da,\p jeﾛli najpierw siｪ nie przyznam do kｩamstwa.\e
+[00069c|ru] To nic nie da,\p jeﾛli najpierw siｪ nie przyznam do\p\nkｩamstwa.\e
 
 [00069d|en] If I don't fix it soon,\p I might just forget about it\ncompletely someday,\p and then it'll never go away.\e
-[00069d|ru] Moｯe mｫgｩbym po prostu to odpuﾛciｨ.\p\nPewnego dnia mｫgｩbym nawet o tym zapomnieｨ.\p\nAle byｩoby to najgorsze, najbardziej tchｫrzliwe wyjﾛcie.\e
+[00069d|ru] Moｯe mｫgｩbym po prostu to odpuﾛciｨ.\p\nPewnego dnia mｫgｩbym nawet o tym zapomnieｨ.\p\nAle byｩoby to wtedy najgorsze, najbardziej tchｫrzliwe\p\nwyjﾛcie.\e
 
 [00069e|en] ...\p...\pokay,\p then it's decided.\p I'm going to the hospital.\e
 [00069e|ru] ...\pSpokojnie.\p\nNo to postanowione.\p\nJadｪ do szpitala.\e
