@@ -1,4 +1,4 @@
-SCR 1 Shift-JIS
+﻿SCR 1 Shift-JIS
 1056
 
 [000008|en] In the end,\p I came here again.\e
@@ -20,7 +20,7 @@ SCR 1 Shift-JIS
 [00000d|ru] Musiaｩa opuﾛciｨ szkoｩｪ, ｯeby tam pｫjﾛｨ.\p\nCo jest, przyznajｪ, bardzo Ayamine'owskim zachowaniem.\e
 
 [00000e|en] Well,\p it's easier to talk after school anyway...\p...\p\e
-[00000e|ru] Cｫｯ, jeﾛli to ma byｨ dｩugo rozmowa, to chyba\p\nnie bｪdzie wystarczajｧco duｯo czasu po szkole...\p\e
+[00000e|ru] Cｫｯ, jeﾛli to ma byｨ dｩugo rozmowa, to chyba nie\p\nbｪdzie wystarczajｧco duｯo czasu po szkole...\p\e
 
 [00000f|en] And I did the same thing once.\e
 [00000f|ru] I zrobiｩem dokｩadnie to samo co dwa dni temu.\e
@@ -44,7 +44,7 @@ SCR 1 Shift-JIS
 [000015|ru] ...\pNaprawdｪ jesteﾛ niesamowita...\p Meiyo.\e
 
 [000016|en] You listened to everything I had to say...\p...\pwithout batting\nan eyelid...\p...\pyou were waiting for me to come talk to\nyou, weren't you?\e
-[000016|ru] Wysｩuchaｩaﾛ wszystkiego, co miaｩem do powiedzenia,\p\nnawet nie mrugnｧwszy okiem...\p Czekaｩaﾛ, aｯ przyjdｪ z tobｧ\p\nporozmawiaｨ, prawda?\e
+[000016|ru] Wysｩuchaｩaﾛ wszystkiego, co miaｩem do powiedzenia,\p\nnawet nie mrugnｧwszy okiem...\p Czekaｩaﾛ, aｯ przyjdｪ z\p\ntobｧ porozmawiaｨ, prawda?\e
 
 [000017|en] ...\p...\p...\p...\pI really am weak.\e
 [000017|ru] ...\p...\pJestem takim sｩabeuszem.\e
@@ -59,7 +59,7 @@ SCR 1 Shift-JIS
 [00002c|ru] Oho?\p Prｫbujesz podaｨ tylnｧ ｩapｪ, co?\p\nMasz tupet, kolego.\e
 
 [00002e|en] Ayamine really has been training this guy.\e
-[00002e|ru] Widaｨ, ｯe to jest pies Ayamien. Masz to po niej.\e
+[00002e|ru] Widaｨ, ｯe to jest pies Ayamine. Masz to po niej.\e
 
 [000031|en] 【Takeru】「...\p...\psit.」\e
 [000031|ru] 【Takeru】「...\pSiad.」\e
@@ -86,7 +86,7 @@ SCR 1 Shift-JIS
 [000056|ru] 【Takeru】「...\pP-\pPrzedstawicielka!?」\e
 
 [000058|en] 【Chizuru】「...\p...\pwhen I went to your house, Mitsurugi-san\nsaid I could find you here.」\e
-[000058|ru] 【Chizuru】「...\pKiedy poszｩad do ciebie, Mitsurugi-san\p\npowiedziaｩa, ｯe to tu mogｪ ciｪ znaleﾜｨ.」\e
+[000058|ru] 【Chizuru】「...\pKiedy poszｩam do ciebie, Mitsurugi-san\p\npowiedziaｩa, ｯe to tu mogｪ ciｪ znaleﾜｨ.」\e
 
 [000059|en] You've been skipping school all week...\p...\p...\p...\pwhy're you\nhere now?\e
 [000059|ru] Wagarowaｩaﾛ przez caｩy tydzieﾃ...\p...\p\nDlaczego teraz tu przyszｩaﾛ?\e
@@ -95,25 +95,25 @@ SCR 1 Shift-JIS
 [00005a|ru] 【Takeru】「Co sprawiｩo, ｯe chciaｩaﾛ siｪ tu pojawiｨ?\p\n...Co siｪ staｩo?」\e
 
 [00005c|en] We didn't exactly end on good terms last time.\e
-[00005c|ru] Ostatnio nie rostaliﾛmy w dobrych stosunkach.\e
+[00005c|ru] Ostatnio nie rozstaliﾛmy w dobrych stosunkach.\e
 
 [00005d|en] Until I know why she's here,\p I'll have to be careful what I\nsay.\e
-[00005d|ru] Dopｫki nie dowiem siｪ, dlaczego ona tu jest,\p\nto bｪdｪ musiaｩ uwaｯaｨ na to, co mｫwiｪ.\e
+[00005d|ru] Dopｫki nie dowiem siｪ, dlaczego ona tu jest, to bｪdｪ\p\nmusiaｩ uwaｯaｨ na to, co mｫwiｪ.\e
 
 [00005f|en] 【Chizuru】「I wouldn't be able to forgive myself if I didn't\nsay it first.」\e
-[00005f|ru] 【Chizuru】「Pomyﾛlaｩam, ｯe dam ci znaｨ, zanim wyjdｪ i zrobiｪ.\p\nInaczej nie przyjｪｩabym tego dobrze.」\e
+[00005f|ru] 【Chizuru】「Pomyﾛlaｩam, ｯe dam ci znaｨ, zanim wyjdｪ i\p\nzrobiｪ. Inaczej nie przyjｪｩabym tego dobrze.」\e
 
 [000060|en] 【Takeru】「What?」\e
 [000060|ru] 【Takeru】「Sｩucham?」\e
 
 [000062|en] 【Chizuru】「Honestly, I'm tired...\p...\p...\pof having everyone\nworry about me.」\e
-[000062|ru] 【Chizuru】「I szczerze mｫwiｧc,\p mam juｯ doﾛｨ tego, ｯe wszyscy\p\nsiｪ o mnie martwiｧ.」\e
+[000062|ru] 【Chizuru】「I szczerze mｫwiｧc,\p mam juｯ doﾛｨ tego, ｯe\p\nwszyscy siｪ o mnie martwiｧ.」\e
 
 [000064|en] 【Takeru】「Hey now.」\e
 [000064|ru] 【Takeru】「Przepraszam bardzo.」\e
 
 [000066|en] 【Chizuru】「I'm sick of Kagami-san and Mitsurugi-san\ncoming to talk to me every single day...\p...\p\pit's exhausting.」\e
-[000066|ru] 【Chizuru】「Mam juｯ doﾛ tego, ｯe Kagami-san i Mitsurugi-san\p\nprzychodzｧ i prｫbujｪ mnie przekonaｨ kaｯdego dnia...\p\nTo wyczerpujｧce.」\e
+[000066|ru] 【Chizuru】「Mam juｯ doﾛ tego, ｯe Kagami-san i\p\nMitsurugi-san przychodzｧ i prｫbujｪ mnie przekonaｨ\p\nkaｯdego dnia... To wyczerpujｧce.」\e
 
 [000068|en] 【Takeru】「...\p...\peh?」\e
 [000068|ru] 【Takeru】「...\pHuh?」\e
@@ -122,31 +122,31 @@ SCR 1 Shift-JIS
 [000069|ru] Wiｪc to wｩaﾛnie tym siｪ zajmowaｩy...\p...\p\e
 
 [00006b|en] 【Chizuru】「...\p...\pI can't just ignore them...\p...\p...\phow could I?」\e
-[00006b|ru] 【Chizuru】「...\pAle nie moge ich po prostu obrazaｨ za to,\p\nｯe chcｧ mi pomｫｯ...\p A moｯe tak naprawdｪ mogｪ to robiｨ?」\e
+[00006b|ru] 【Chizuru】「Ale nie moge ich po prostu obrazaｨ za to,\p\nｯe chcｧ mi pomｫc...\p A moｯe tak naprawdｪ mogｪ to robiｨ?」\e
 
 [00006c|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00006c|ru] 【Takeru】「...\p...\p」\e
 
 [00006e|en] 【Chizuru】「So I wanted to go to the hospital.」\e
-[00006e|ru] 【Chizuru】「Wiｪc pomyﾛlaｩa, ｯe powinnam pｫjﾛｨ do szpitala.」\e
+[00006e|ru] 【Chizuru】「Wiｪc pomyﾛlaｩa, ｯe powinnam pｫjﾛｨ do\p\nszpitala.」\e
 
 [00006f|en] 【Takeru】「So that's why you're here...\p...\p...\p...\p\nbut why wouldn't you forgive yourself?」\e
-[00006f|ru] 【Takeru】「Wiｪc dlatego tu siｪ pojawiｩaﾛ...\p...\p\nAle dlaczego czujesz potrzebｪ, ｯeby mi to najpierw powiedzieｨ?」\e
+[00006f|ru] 【Takeru】「Wiｪc dlatego tu siｪ pojawiｩaﾛ...\p...\p\nAle dlaczego czujesz potrzebｪ, ｯeby mi to najpierw\p\npowiedzieｨ?」\e
 
 [000073|en] 【Chizuru】「Isn't it better to come tell you before instead\nof after?」\e
-[000073|ru] 【Chizuru】「Czy nie byｩoby trochｪ niegrzeczne z mojej strony,\p\ngdybym poszｩa bez wczeﾛniejszego powiedzenia ci?」\e
+[000073|ru] 【Chizuru】「Czy nie byｩoby trochｪ niegrzeczne z mojej\p\nstrony, gdybym poszｩa bez wczeﾛniejszego powiedzenia\p\nci?」\e
 
 [000074|en] 【Takeru】「Huh?」\e
 [000074|ru] 【Takeru】「Huh?」\e
 
 [000076|en] 【Chizuru】「It's hard to tell everyone before you take\naction, you know.\p\p Well...\p...\p...\p...\pI'm just being stubborn.\p\nDon't worry about it.」\e
-[000076|ru] 【Chizuru】「Pｫjﾛcie bez powiedzenia nikomu byｩoｩby ｩatwym\p\nwyjﾛciem Lepiej zｩoｯyｨ obietnicｪ i zmusiｨ siｪ do jej dotrzymania.」\e
+[000076|ru] 【Chizuru】「Pｫjﾛcie bez powiedzenia nikomu byｩoｩby\p\nｩatwym wyjﾛciem Lepiej zｩoｯyｨ obietnicｪ i zmusiｨ siｪ do\p\njej dotrzymania.」\e
 
 [000078|en] ...\p...\pClass Rep sounds like herself again.\e
-[000078|ru] ...\pPrzedstawicielka znｫw brzmi jak dobra stara Przedstawicielka.\e
+[000078|ru] ...\pPrzedstawicielka znｫw brzmi jak dobra stara  nasza\p\nPrzedstawicielka.\e
 
 [000079|en] 【Takeru】「I don't really get it,\p but if you say so,\p Class\nRep,\p then it must be true.」\e
-[000079|ru] 【Takeru】「Naprawdｪ tego nie rozumiem. Ale skoro tak mｫwisz,\p\nPrzedstawicielko, to musi byｨ prawda.」\e
+[000079|ru] 【Takeru】「Naprawdｪ tego nie rozumiem. Ale skoro tak\p\nmｫwisz, Przedstawicielko, to musi byｨ prawda.」\e
 
 [00007b|en] 【Chizuru】「Akane told me the same thing.」\e
 [00007b|ru] 【Chizuru】「I no Akane kazaｩa mi teｯ przyjﾛｨ.」\e
@@ -161,13 +161,13 @@ SCR 1 Shift-JIS
 [00007f|ru] Oh!\p No tak.\p Powiedziaｩem jej, ｯeby to zrobiｩa.\e
 
 [000081|en] 【Chizuru】「She said to come visit if I had the time.」\e
-[000081|ru] 【Chizuru】「Powiedziaｩa, ｯe siｪ nudzi i kazaｩa mi przyjﾛｨ\p\ndo niej z wizytｧ.」\e
+[000081|ru] 【Chizuru】「Powiedziaｩa, ｯe siｪ nudzi i kazaｩa mi\p\nprzyjﾛｨ do niej z wizytｧ.」\e
 
 [000082|en] 【Takeru】「She wouldn't shut up about wanting to leave,\p\nwould she?」\e
 [000082|ru] 【Takeru】「Nie przestawaｩa mｫwiｨ, ｯe chce juｯ wrｫciｨ, prawda?」\e
 
 [000084|en] 【Chizuru】「Not really...\p...\p...\p...\p\nBut I could tell she was being considerate.」\e
-[000084|ru] 【Chizuru】「Mniej wiｪcej...\p...\pnAle widziaｩa, ｯe po prostu staraｩa siｪ byｨ wyrozumiaｩa.」\e
+[000084|ru] 【Chizuru】「Mniej wiｪcej...\p...\pAle widziaｩa, ｯe po\p\nprostu staraｩa siｪ byｨ wyrozumiaｩa.」\e
 
 [000085|en] 【Takeru】「...\p...\pI see.」\e
 [000085|ru] 【Takeru】「...\pRozumiem.」\e
@@ -188,13 +188,13 @@ SCR 1 Shift-JIS
 [00008e|ru] 【Chizuru】「Skoﾃczyｩam.」\e
 
 [00008f|en] 【Takeru】「When will you start coming to class again?」\e
-[00008f|ru] 【Takeru】「Kiedy znowu zaczniesz przychodziｨ do szkoｩy?」\e
+[00008f|ru] 【Takeru】「Kiedy znowu zaczniesz przychodziｨ do naszej\p\n szkoｩy?」\e
 
 [000091|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [000091|ru] 【Chizuru】「...\p...\p」\e
 
 [000092|en] 【Takeru】「You can't just keep cutting forever.」\e
-[000092|ru] 【Takeru】「Nie moｯesz po prsotu wiecznie opuszczaｨ szkoｩy.」\e
+[000092|ru] 【Takeru】「Nie moｯesz po prsotu wiecznie opuszczaｨ\p\nszkoｩy.」\e
 
 [000096|en] 【Chizuru】「...\p...\pyou're right.」\e
 [000096|ru] 【Chizuru】「...\pMasz racje.」\e
@@ -203,7 +203,7 @@ SCR 1 Shift-JIS
 [000097|ru] ...\p...\p\e
 
 [000099|en] 【Takeru】「Ayamine...\p...\pshe's facing her troubles head on\ntoday.」\e
-[000099|ru] 【Takeru】「Wiesz...\p Ayamine stawia dziﾛ czoｩa swoim problemom.」\e
+[000099|ru] 【Takeru】「Wiesz...\p\p\nAyamine stawia dziﾛ czoｩa swoim problemom.」\e
 
 [00009b|en] 【Chizuru】「...\p...\pwhat does that mean?」\e
 [00009b|ru] 【Chizuru】「...\pO czym ty mｫwisz?」\e
@@ -215,10 +215,10 @@ SCR 1 Shift-JIS
 [00009e|ru] Nie mogｪ po prostu wygadaｨ siｪ o ｯyciu rodzinnym i\p\nosobistych sprawach Ayamine...\p\e
 
 [00009f|en] But I don't think leaving Class Rep here is the right\nchoice either.\e
-[00009f|ru] Ale nie sｧdzｪ, ｯeby pozwoloenei Przedstawiciellce\p\nodejﾛｨ bez powiedzenia czegokolwiek byｩo wｩaﾛciwym wyborem.\e
+[00009f|ru] Ale nie sｧdzｪ, ｯeby pozwoliｨ Przedstawiciellce\p\nodejﾛｨ bez powiedzenia czegokolwiek byｩo wｩaﾛciwym\p\nwyborem.\e
 
 [0000a0|en] 【Takeru】「There's a lot going on...\p...\p...\p...\pwith her.」\e
-[0000a0|ru] 【Takeru】「Ona teｯ ma sporo osobistych spraw na gｩowie.」\e
+[0000a0|ru] 【Takeru】「Ona teｯ ma sporo wｩasnych spraw na gｩowie.」\e
 
 [0000a2|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000a2|ru] 【Chizuru】「...\p...\p」\e
@@ -233,10 +233,10 @@ SCR 1 Shift-JIS
 [0000a6|ru] 【Takeru】「Chodzi o Ayamine.\p\nCzy moｯe wiesz o niej coﾛ wiｪcej?」\e
 
 [0000aa|en] 【Chizuru】「...\p...\pI don't think I know anything.」\e
-[0000aa|ru] 【Chizuru】「...\pMyﾛlｪ, ｯe tak naprawdｪ to nic o niej nie wiem.」\e
+[0000aa|ru] 【Chizuru】「...\pMyﾛlｪ, ｯe tak naprawdｪ to nic o niej\p\nnie wiem.」\e
 
 [0000ac|en] 【Takeru】「Neither did I,\p until a few days ago.」\e
-[0000ac|ru] 【Takeru】「Ja teｯ nie za wiele o niej wiedziaｩe, aｯ do chwili\p\nktｫra zdarzyｩa siｪ kilka dni temu.」\e
+[0000ac|ru] 【Takeru】「Ja teｯ nie za wiele o niej wiedziaｩem, aｯ\p\ndo chwili ktｫra zdarzyｩa siｪ kilka dni temu.」\e
 
 [0000ae|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000ae|ru] 【Chizuru】「...\p...\p」\e
@@ -254,61 +254,61 @@ SCR 1 Shift-JIS
 [0000b6|ru] 【Chizuru】「...\pO jej mamie...\p...\p」\e
 
 [0000b8|en] 【Takeru】「She worked as a nurse.\nThe other person was studying to be a doctor.\nHe was probably something like a brother to Ayamine,\nmaybe even more.」\e
-[0000b8|ru] 【Takeru】「Pracowaｩa jako pielｪgniarka.\p\nDruga osoba byｩa lekarzem ﾛwieｯo po studiach medycznych.\p\nChyba byｩ dla Ayamine jak starszy brat.\p\nA moｯe nawet kimﾛ wiｪcej.」\e
+[0000b8|ru] 【Takeru】「Pracowaｩa jako pielｪgniarka.\p\nDruga osoba byｩa lekarzem ﾛwieｯo po studiach\p\nmedycznych.\p\nChyba byｩ dla Ayamine jak starszy brat.\p\nA moｯe nawet kimﾛ wiｪcej.」\e
 
 [0000ba|en] 【Chizuru】「...\p...\pmore than that?」\e
 [0000ba|ru] 【Chizuru】「...\pWiｪcej niｯ to?」\e
 
 [0000bc|en] 【Takeru】「I should say lovers...\p...\pthey were thinking about\nmarriage.」\e
-[0000bc|ru] 【Takeru】「Bliｯej im byｩo do bycia kochankami niｯ rodzeﾃstwem...\p\nNajwyraﾜniej myﾛleli nawet o ﾛｩubie.」\e
+[0000bc|ru] 【Takeru】「Bliｯej im byｩo do bycia kochankami niｯ\p\nrodzeﾃstwem... Najwyraﾜniej myﾛleli nawet o ﾛｩubie.」\e
 
 [0000c1|en] ...\p...\pthis is pitiful.\e
 [0000c1|ru] ...\pAle to jest ｯaｩosne.\e
 
 [0000c2|en] I can't believe saying these things makes me feel so\nnervous.\e
-[0000c2|ru] Wiedziaｩem o tym wszystki, wiｪc dlaczego tak mnie to boli?\e
+[0000c2|ru] Wiedziaｩem o tym wszystki, wiｪc dlaczego tak mnie to\p\nmocno boli?\e
 
 [0000c6|en] 【Chizuru】「...\p...\pm-\pmarriage?」\e
 [0000c6|ru] 【Chizuru】「...\pﾚ-\pﾚlubie?」\e
 
 [0000c8|en] 【Takeru】「...\p...\pyeah,\p and from what he said, he was really\nclose to Kei's mother.\p Ayamine also respected her\nmother,\p and wanted to be a nurse too.」\e
-[0000c8|ru] 【Takeru】「...\pATak.\p I z tego, co powiedziaｩ, byｩ narpawdｪ\p\nblisko z mamｧ Kei. Ayamine rｫwnieｯ szanowaｩa swoj mamｪ i teｯ\p\nchciaｩa zostaｨ pielｪgniarkｧ.」\e
+[0000c8|ru] 【Takeru】「...\pTak.\p I z tego, co powiedziaｩ, byｩ\p\nnarpawdｪ blisko z mamｧ Kei. Ayamine rｫwnieｯ szanowaｩa\p\nswojｧ mamｪ i teｯ chciaｩa zostaｨ pielｪgniarkｧ.」\e
 
 [0000ca|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000ca|ru] 【Chizuru】「...\p...\p」\e
 
 [0000cc|en] 【Takeru】「Those days and those people meant a lot to\nAyamine.」\e
-[0000cc|ru] 【Takeru】「Myﾛlｪ, ｯe to byｩszczｪﾛliwy czas w ｯyciu Ayamine.\p\nMyﾛlｪ, ｯe byli...zasadniczo rodzinｧ.」\e
+[0000cc|ru] 【Takeru】「Myﾛlｪ, ｯe to byｩszczｪﾛliwy czas w ｯyciu\p\nAyamine. Myﾛlｪ, ｯe byli...zasadniczo rodzinｧ.」\e
 
 [0000ce|en] 【Chizuru】「...\p...\pI...\p...\psee.」\e
 [0000ce|ru] 【Chizuru】「...\p...\pJa...\p rozumiem」\e
 
 [0000d0|en] 【Takeru】「But that all fell apart.\p One day,\p her mother\ncommitted malpractice and was thrown out of the\nhospital.」\e
-[0000d0|ru] 【Takeru】「Ale wszystko siｪ rozpadｩo.\p\nPewnego dnai jej matka popeｩniｩa bｩad w sztuce lekarskiej i zostaｩa\p\nwyrzuczona z szpitala.」\e
+[0000d0|ru] 【Takeru】「Ale wszystko siｪ rozpadｩo. Pewnego\p\ndnia jej matka popeｩniｩa bｩｧd w sztuce\p\nlekarskiej i zostaｩa wyrzuczona z szpitala.」\e
 
 [0000d2|en] 【Chizuru】「...\p...\p」\e
 [0000d2|ru] 【Chizuru】「...\p」\e
 
 [0000d3|en] 【Takeru】「The hospital pushed all of the responsibility\nonto Ayamine's mother,\p and left it at that.\nThe patient turned out fine, since he was treated in time.\nThe incident was never exposed to the public.」\e
-[0000d3|ru] 【Takeru】「Szpital zrzuciｩ caｩｧ winｪ na matkｪ Ayamine i\p\nzostawiｩ sprawｪ nie bawiｧc siｪ w peｩne wyjaﾛnienie. Pacjentowi koniec koﾃcｫw\p\nnic siｪ nie staｩo, poniewaｯ zdoｩali go wyleczyｨ na czas. Incydent nigdy\p\nnie zostaｩ ujawniony opini publicznej.」\e
+[0000d3|ru] 【Takeru】「Szpital zrzuciｩ caｩｧ winｪ na mamｪ Ayamine i\p\nzostawiｩ sprawｪ nie bawiｧc siｪ w peｩne wyjaﾛnienie.\p\nPacjentowi koniec koﾃcｫw nic siｪ nie staｩo, poniewaｯ zdoｩali go\p\nwyleczyｨ na czas. Incydent nigdy nie zostaｩ\p\nujawniony opini publicznej.」\e
 
 [0000d5|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000d5|ru] 【Chizuru】「...\p...\p」\e
 
 [0000d6|en] 【Takeru】「She's stayed away from that man ever since.\nI think she could've met him any time she wanted.\nBut they both had reasons not to see one another.」\e
-[0000d6|ru] 【Takeru】「Ona i ten mｪｯczynza nie widzieli siｪ od tamtej pory.\p\nNie ｯeby nie mogｩa z nim dalej spotykaｨ, gdyby chciaｩa.\p\nPo prostu kaｯde z nich miaｩo swoje powody, ｯeby tego nie robiｨ.」\e
+[0000d6|ru] 【Takeru】「Ona i ten mｪｯczyzna nie widzieli siｪ od\p\ntamtej pory. Nie ｯeby nie mogｩa z nim dalej spotykaｨ,\p\ngdyby chciaｩa. Po prostu kaｯde z nich miaｩo swoje powody,\p\nｯeby tego nie robiｨ.」\e
 
 [0000d8|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000d8|ru] 【Chizuru】「...\p...\p」\e
 
 [0000d9|en] 【Takeru】「But that's not the truth.\nThat man was actually the one who made the mistake.\p\nAyamine's mother did nothing wrong.」\e
-[0000d9|ru] 【Takeru】「Ale to nie jest caｩa historia.\p\nPrawda jest taka, ｯe to nie mama Ayamine popeｩniｩa bｩｧd.\p\nBｩｧd popeｩniｩ ten mｩody lekarz.」\e
+[0000d9|ru] 【Takeru】「Ale to nie jest caｩa historia. Prawd\p\njest taka, ｯe to nie mama Ayamine popeｩniｩa bｩｧd.\p\nBｩｧd popeｩniｩ ten mｩody lekarz.」\e
 
 [0000db|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000db|ru] 【Chizuru】「...\p...\p」\e
 
 [0000dd|en] 【Takeru】「He was an excellent doctor,\p and she didn't\nwant his career destroyed by the incident,\p so she said it\nwas her fault.」\e
-[0000dd|ru] 【Takeru】「Byｩ obiecujｧcym mｩodym lekarzem i nie chciaｩa,\p\nｯeby jego kariera zostaｩa zniszczona przez incydent.\p\nWiｪc powiedziaｩa, ｯe to byｩa jej wina.」\e
+[0000dd|ru] 【Takeru】「Byｩ obiecujｧcym mｩodym lekarzem i nie\p\nchciaｩa, ｯeby jego kariera zostaｩa zniszczona przez\p\nincydent. Wiｪc powiedziaｩa, ｯe to byｩa jej wina.」\e
 
 [0000df|en] 【Chizuru】「...\p...\p」\e
 [0000df|ru] 【Chizuru】「...\p」\e
@@ -320,43 +320,43 @@ SCR 1 Shift-JIS
 [0000e2|ru] 【Chizuru】「...\p...\p」\e
 
 [0000e3|en] 【Takeru】「But it was too late.\p Everyone thought he was\njust trying to defend Ayamine's mother.」\e
-[0000e3|ru] 【Takeru】「Ale byｩo juｯ za pｫﾜno\p\nWszyscy myﾛleli, ｯe po prostu prｫbuje broniｨ matki Ayamine.」\e
+[0000e3|ru] 【Takeru】「Ale byｩo juｯ za pｫﾜno\p\nWszyscy myﾛleli, ｯe po prostu prｫbuje broniｨ matki\p\nAyamine.」\e
 
 [0000e5|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000e5|ru] 【Chizuru】「...\p...\p」\e
 
 [0000e6|en] 【Takeru】「He was a loyal and hardworking person...\p...\p...\p...\p\nso they believed he'd never do such a thing.」\e
-[0000e6|ru] 【Takeru】「Byｩ lojalnｧ i pracowitｧ osobｧ...\p...\p\nWiｪc byli przekonani, ｯe nigdy do czegoﾛ takiego nie doszｩo.」\e
+[0000e6|ru] 【Takeru】「Byｩ lojalnｧ i pracowitｧ osobｧ...\p...\p\nWiｪc byli przekonani, ｯe nigdy do czegoﾛ takiego nie\p\ndoszｩo.」\e
 
 [0000e8|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000e8|ru] 【Chizuru】「...\p...\p」\e
 
 [0007f7|en] 【Takeru】「And then...\p...\phe married the hospital director's\ndaughter.」\e
-[0007f7|ru] 【Takeru】「A potem...\p poﾛlubiｩ cｫrkｪ dyrektora szpitala.」\e
+[0007f7|ru] 【Takeru】「A potem...\p\nNawet poﾛlubiｩ cｫrkｪ dyrektora szpitala.」\e
 
 [0000eb|en] 【Chizuru】「...\p...\p!」\e
-[0000eb|ru] 【Chizuru】「...\p!」\e
+[0000eb|ru] 【Chizuru】「!」\e
 
 [0000ec|en] 【Takeru】「...\p...\pAyamine doesn't know about that.\nShe always thought her mother was at fault.」\e
-[0000ec|ru] 【Takeru】「...\pAyamine nie wie, co narpawdｪ siｪ wydarzyｩo.\p\nNigdy nie powiedzieli jej prawdy...\p\nI w rezultacie jej relacje z mamｧ drastycznie siｪ pogorszyｩy.」\e
+[0000ec|ru] 【Takeru】「...\pAyamine nie wie, co narpawdｪ siｪ\p\nwydarzyｩo. Nigdy nie powiedzieli jej prawdy...\p\nI w rezultacie jej relacje z mamｧ drastycznie siｪ\p\npogorszyｩy.」\e
 
 [0000ee|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000ee|ru] 【Chizuru】「...\p...\p」\e
 
 [0000ef|en] 【Takeru】「She really loved her,\p so the incident hurt her\ndeeply.」\e
-[0000ef|ru] 【Takeru】「Naprawdｪ kochaｩa swojｧ matkｪ, wiｪc incydent ten\p\nmocno jｧ dotknｧｩ.」\e
+[0000ef|ru] 【Takeru】「Naprawdｪ kochaｩa swojｧ matkｪ, wiｪc incydent\p\nten mocno jｧ dotknｧｩ.」\e
 
 [0000f1|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000f1|ru] 【Chizuru】「...\p...\p」\e
 
 [0000f2|en] 【Takeru】「That was the only way she could make herself\naccept it.」\e
-[0000f2|ru] 【Takeru】「Ale posiadanie kogoﾛ, kogo mogｩaby obwiniｨ,\p\nbyｩo jedynym sposobem, aby to zaakceptowaｨ」\e
+[0000f2|ru] 【Takeru】「Ale posiadanie kogoﾛ, kogo mogｩaby obwiniｨ,\p\nbyｩo jedynym sposobem, aby to zaakceptowaｨ.」\e
 
 [0000f4|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000f4|ru] 【Chizuru】「...\p...\p」\e
 
 [0000f5|en] 【Takeru】「She might've felt...\p...\pthat the people she was\nclosest to all betrayed her.」\e
-[0000f5|ru] 【Takeru】「Mogｩa poczuｨ...\p ｯe ludzie, z ktｫrymi byｩa najbliｯej,\p\njｧ zdradzili.」\e
+[0000f5|ru] 【Takeru】「Mogｩa poczuｨ...\p ｯe ludzie, z ktｫrymi byｩa\p\nnajbliｯej, jｧ zdradzili.」\e
 
 [0000f7|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [0000f7|ru] 【Chizuru】「...\p...\p」\e
@@ -368,7 +368,7 @@ SCR 1 Shift-JIS
 [0000fa|ru] 【Chizuru】「...\pTo okropne.」\e
 
 [0000fb|en] 【Takeru】「Well,\p I don't know exactly how much Ayamine\nchanged because of it.」\e
-[0000fb|ru] 【Takeru】「Cｫｯ,\p nie wiem dokｩadnie, jak bardzo Atamine\p\nsiｪ przez to zmieniｩa.」\e
+[0000fb|ru] 【Takeru】「Cｫｯ,\p nie wiem dokｩadnie, jak bardzo Ayamine\p\nsiｪ przez to zmieniｩa.」\e
 
 [0000fd|en] I don't know what she was like back then.\e
 [0000fd|ru] Wiem tylko, jaka jest teraz.\e
@@ -377,7 +377,7 @@ SCR 1 Shift-JIS
 [0000ff|ru] 【Chizuru】「...\pTo musiaｩo byｨ doﾛｨ znaczｧce.」\e
 
 [000100|en] 【Takeru】「Yeah. I can't blame her for distancing herself\nfrom others.\p In fact, when I told that man I knew\nAyamine,\p he was absolutely shocked...\p...\p」\e 
-[000100|ru] 【Takeru】「Tak. Nie moge jej winiｨ za to, ｯe dystansuje siｪ\p\nod innych. Wｩaﾛciwie, kiedy powiedziaｩem tamtemu lekarzowi, ｯe Ayamine\p\njest introwertyczkｧ, byｩ totalnie tym faktem zszokowany...\p」\e 
+[000100|ru] 【Takeru】「Tak. Nie moge jej winiｨ za to, ｯe\p\ndystansuje siｪ od innych. Wｩaﾛciwie, kiedy\p\npowiedziaｩem tamtemu lekarzowi, ｯe Ayamine\p\njest introwertyczkｧ, byｩ totalnie tym faktem\p\nzszokowany...\p」\e 
 
 [000102|en] 【Chizuru】「...\p...\pI see.」\e
 [000102|ru] 【Chizuru】「...\pRozumiem.」\e
@@ -389,13 +389,13 @@ SCR 1 Shift-JIS
 [000105|ru] 【Chizuru】「...\p...\p」\e
 
 [000106|en] 【Takeru】「So when you, Class Rep,\p as a representative\nof the school,\p start getting involved in her business...\p...\p\nyou know what I mean?」\e
-[000106|ru] 【Takeru】「Wiｪc kiedy ty, Przedstawicielko kto kto reprezentuje\p\nszkoｩe,\p zaczyna na niｧ narzekaｨ...\p Chyba, zaczynasz powoli\p\nrozumieｨ co mam na myﾛli, prawda?」\e
+[000106|ru] 【Takeru】「Wiｪc kiedy ty, Przedstawicielko ta ktｫra\p\nreprezentuje szkoｩe,\p zaczyna na niｧ narzekaｨ...\p\nChyba, zaczynasz powoli rozumieｨ co mam na myﾛli, prawda?」\e
 
 [000108|en] 【Chizuru】「Yeah.\p\p The hospital just threw her out...\p...\p」\e
 [000108|ru] 【Chizuru】「Tak.\p\p To przez to,\p jak bardzo poczuｩa siｪ\p\nzdradzona przez szpital...\p」\e
 
 [000109|en] 【Takeru】「You're accepting it that easily?」\e
-[000109|ru] 【Takeru】「ｳaｩ. Akceptujesz to tak ｩatwo」\e
+[000109|ru] 【Takeru】「ｳaｩ. Akceptujesz to tak ｩatwo.」\e
 
 [00010b|en] 【Chizuru】「...\p...\p...\p...\p」\e
 [00010b|ru] 【Chizuru】「...\p...\p」\e
@@ -407,7 +407,7 @@ SCR 1 Shift-JIS
 [00010d|ru] Ktoﾛ zaczｧｩ wyglｧdaｨ jak maｩy maruda.\e
 
 [00010f|en] 【Chizuru】「...\p...\pI don't like it,\p but I can understand how\nthat feels.」\e
-[00010f|ru] 【Chizuru】「...\pto nie znaczy, ｯe jest dobrze, ale rozumiem,\p\nco ona musi czuｨ.」\e
+[00010f|ru] 【Chizuru】「...\pTo nie znaczy, ｯe jest dobrze, ale\p\nrozumiem, co ona musi czuｨ.」\e
 
 [000110|en] 【Takeru】「Eh?」\e
 [000110|ru] 【Takeru】「Huh?」\e
@@ -419,7 +419,7 @@ SCR 1 Shift-JIS
 [000113|ru] 【Takeru】「S-\pSkｧd ci siｪ to wziｪｩo...\p?」\e
 
 [000115|en] 【Chizuru】「I don't want to be the one not confessing to\nanything.」\e
-[000115|ru] 【Chizuru】「Po prostu nie chcｪ, ｯebyﾛ myﾛlaｩ, ｯe jestem\p\njedynｧ, ktｫra ma ｩatwo w ｯyciu.」\e
+[000115|ru] 【Chizuru】「Po prostu nie chcｪ, ｯebyﾛ myﾛlaｩ, ｯe\p\njestem jedynｧ, ktｫra ma ｩatwo w ｯyciu.」\e
 
 [000116|en] ...\p...\pseriously.\e
 [000116|ru] ...\pO jeju.\e
@@ -440,7 +440,7 @@ SCR 1 Shift-JIS
 [00011d|ru] Czyｯ nie,\p Meiya?\e
 
 [00011f|en] 【Chizuru】「Well...\p...\p...\p...\p...\p...\pthere's...\p...\psomeone I hate...\p...\p...\p...\p」\e
-[00011f|ru] 【Chizuru】「No cｫｯ...\p...\p jest...\p ktoﾛ...\p kogo nienawidzｪ...」\e
+[00011f|ru] 【Chizuru】「No cｫｯ...\p...\p jest...\p ktoﾛ...\p kogo\p\nnienawidzｪ...」\e
 
 [000120|en] 【Takeru】「Who?」\e
 [000120|ru] 【Takeru】「Kogo?」\e
@@ -452,34 +452,34 @@ SCR 1 Shift-JIS
 [000123|ru] 【Takeru】「...\pDobra, nie ruszajmy tego.」\e
 
 [000125|en] 【Chizuru】「A slovenly person who can't do anything by\nherself.」\e
-[000125|ru] 【Chizuru】「Niedbaｩa osoba, ktｫra nie potrafi nic zrobiｨ\p\nsama.」\e
+[000125|ru] 【Chizuru】「Niedbaｩa osoba, ktｫra nie potrafi nic\p\nzrobiｨ sama.」\e
 
 [000126|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000126|ru] 【Takeru】「...\p...\p」\e
 
 [000128|en] 【Chizuru】「I vowed to never become like her,\p and have\nbeen working hard ever since.」\e
-[000128|ru] 【Chizuru】「Zｩoｯyｩam sobie przysiｪgｪ, ｯe nigdy nie bｪdｪ taka\p\njak ona i od tamtej pory staram siｪ, ｯeby tak pozostaｩo.」\e
+[000128|ru] 【Chizuru】「Zｩoｯyｩam sobie przysiｪgｪ, ｯe nigdy nie bｪdｪ\p\ntaka jak ona i od tamtej pory staram siｪ, ｯeby\p\ntak pozostaｩo.」\e
 
 [000129|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000129|ru] 【Takeru】「...\p...\p」\e
 
 [00012b|en] 【Chizuru】「When I saw her not show up on time,\p I vowed\nto always be on time...\p...\p」\e
-[00012b|ru] 【Chizuru】「Poniewaｯ ona nigdy nie pojawiaｩa siｪ na czas,\p\nprzyszekｩam sobie, ｯe bｪdｪ tak punktualna, jak to moｯliwe...\p」\e
+[00012b|ru] 【Chizuru】「Poniewaｯ ona nigdy nie pojawiaｩa siｪ na\p\nczas, przyszekｩam sobie, ｯe bｪdｪ tak punktualna, jak\p\nto moｯliwe...\p」\e
 
 [00012d|en] 【Takeru】「...\p...\pthat does sound like something you'd do.」\e
 [00012d|ru] 【Takeru】「...\pTo dokｩadnie brzmi jak w twoim stylu.」\e
 
 [00012f|en] 【Chizuru】「When she broke a promise,\p I vowed never to\nbreak one of my own.」\e
-[00012f|ru] 【Chizuru】「Poniewaｯ ona zawsze ｩamaｩa swoje obietnice,\p\nprzyszekｩam sobie,\p ｯe nigdy nie zｩamiｪ ｯadnej swojej obietnicy.」\e
+[00012f|ru] 【Chizuru】「Poniewaｯ ona zawsze ｩamaｩa swoje obietnice\p\n, przyszekｩam sobie,\p ｯe nigdy nie zｩamiｪ ｯadnej swojej\p\nobietnicy.」\e
 
 [000131|en] 【Takeru】「...\p...\pis that why you decided to go to the\nhospital?」\e
-[000131|ru] 【Takeru】「...\pCzy dlatego zdecydowaｩaﾛ siｪ pｫjﾛｨ do szpitala?」\e
+[000131|ru] 【Takeru】「...\pCzy dlatego zdecydowaｩaﾛ siｪ pｫjﾛｨ do\p\nszpitala?」\e
 
 [000133|en] 【Chizuru】「To be honest,\p that was half of it.\p\p\nThe other half was what I told you earlier.」\e
-[000133|ru] 【Chizuru】「Szczerze mｫwiｧc, to tylko zgadza siｪ w poｩowie.\p\p\nDruga poｩowa to to, co powiedziaｩam ci wczeﾛniej.\p\nﾂe to mi siｪ nie sposoba.」\e
+[000133|ru] 【Chizuru】「Szczerze mｫwiｧc, to tylko zgadza siｪ w\p\npoｩowie. Druga poｩowa to to, co powiedziaｩam ci\p\nwczeﾛniej. ﾂe to mi siｪ nie sposoba.」\e
 
 [000134|en] 【Takeru】「I see.\p But doesn't that mean you're rebelling\nagainst what you can't stand as well?」\e
-[000134|ru] 【Takeru】「Rozumiem.\p Wiｪc co prostu buntujesz siｪ przeciwko\p\ntemu, czego nie moｯesz znieﾛｨ. Tak?」\e
+[000134|ru] 【Takeru】「Rozumiem.\p Wiｪc co prostu buntujesz siｪ\p\nprzeciwko temu, czego nie moｯesz znieﾛｨ. Tak?」\e
 
 [000136|en] She's doing it in a different way,\p but still...\p...\p\e
 [000136|ru] Robi to w inny sposｫb, ale mimo wszystko...\p\e
@@ -494,19 +494,19 @@ SCR 1 Shift-JIS
 [00013c|ru] 【Takeru】「...\p...\p」\e
 
 [00013e|en] 【Chizuru】「...\p...\pwe're not just similar...\p...\p...\pwe might be\nexactly the same.」\e
-[00013e|ru] 【Chizuru】「...\pNie jesteﾛmy po prostu do siebie podobne...\p\nMoｯemy byｨ dokｩadnie takie same.」\e
+[00013e|ru] 【Chizuru】「...\pNie jesteﾛmy po prostu do siebie\p\npodobne... Moｯemy byｨ dokｩadnie takie same.」\e
 
 [00013f|en] 【Takeru】「Isn't that super-annoying?」\e
-[00013f|ru] 【Takeru】「Wyglｧdasz na strasznie cholernie zirytowanｧ?」\e
+[00013f|ru] 【Takeru】「Wyglｧdasz teraz na strasznie cholernie\p\nzirytowanｧ?」\e
 
 [000141|en] 【Chizuru】「It is super-annoying.」\e
-[000141|ru] 【Chizuru】「Zdaje ci siｪ.\p\nTak naprawdｪ bardzo siｪ cieszｪ ztego powodu.」\e
+[000141|ru] 【Chizuru】「Zdaje ci siｪ.\p\nTak naprawdｪ bardzo siｪ cieszｪ z tego powodu.」\e
 
 [000142|en] 【Takeru】「...\p...\pClass Rep, you use 'super' too?」\e
 [000142|ru] 【Takeru】「...\pPrzedstawicielko,\p kto by pomyﾛlaｩ.」\e
 
 [000144|en] 【Chizuru】「I was being sarcastic.」\e
-[000144|ru] 【Chizuru】「Widocznie mｫj sarkazm nie byｩwystarczajｧco widoczny.」\e
+[000144|ru] 【Chizuru】「Widocznie mｫj sarkazm nie byｩ\p\nwystarczajｧco widoczny.」\e
 
 [000145|en] 【Takeru】「Haha!」\e
 [000145|ru] 【Takeru】「Haha!」\e
@@ -515,7 +515,7 @@ SCR 1 Shift-JIS
 [000147|ru] 【Chizuru】「Z-\pzz czego siｪ ﾛmiejsz?」\e
 
 [000148|en] 【Takeru】「...\p...\pI was thinking that's so like you, Class Rep.」\e
-[000148|ru] 【Takeru】「...\pTak jakoﾛ sobie pomyﾛlaｩem, ｯe to w twoim stylu.」\e
+[000148|ru] 【Takeru】「Tak jakoﾛ sobie pomyﾛlaｩem, ｯe to w twoim\p\nstylu.」\e
 
 [00014a|en] 【Chizuru】「...\p...\pwell, sorry.」\e
 [00014a|ru] 【Chizuru】「...\pNo cｫｯ, przepraszam.」\e
@@ -530,10 +530,10 @@ SCR 1 Shift-JIS
 [0007fd|ru] 【Chizuru】「...\p」\e
 
 [0007fe|en] 【Takeru】「So she can face the past that's been tying her\ndown...\p...\p」\e
-[0007fe|ru] 【Takeru】「ﾂeby mogｩa stawiｨ czoｩa swoim problemom i przestaｩa\p\ntkwiｨ w wｩasnej przeszｩoﾛci...\p」\e
+[0007fe|ru] 【Takeru】「ﾂeby mogｩa stawiｨ czoｩa swoim problemom i\p\nprzestaｩa tkwiｨ w wｩasnej przeszｩoﾛci...\p」\e
 
 [000151|en] 【Chizuru】「...\p...\pyou really are looking out for her.」\e
-[000151|ru] 【Chizuru】「...\pJesteﾛ prawdziwym miｪczakiem, wiesz o tym?」\e
+[000151|ru] 【Chizuru】「...\pJesteﾛ prawdziwym miｪczakiem, wiesz o\p\ntym?」\e
 
 [000152|en] 【Takeru】「Huh? Why're you saying that?」\e
 [000152|ru] 【Takeru】「Huh? Dlaczego to powiedziaｩaﾛ?」\e
@@ -605,7 +605,7 @@ SCR 1 Shift-JIS
 [00017b|ru] 【Takeru】「Hej, po co ten poﾛpiecz?\p\nZostaﾃ ze mnｧ jeszcze trochｪ.」\e
 
 [00017d|en] 【Chizuru】「Can't calm down without someone to talk to?」\e
-[00017d|ru] 【Chizuru】「Boisz siｪ, ｯe siｪ zaｩamiesz bez ramienia w pobliｯu,\p\nna ktｫrym mｫgｩbyﾛ siｪ wypｩakaｨ?」\e
+[00017d|ru] 【Chizuru】「Boisz siｪ, ｯe siｪ zaｩamiesz bez ramienia w\p\npobliｯu, na ktｫrym mｫgｩbyﾛ siｪ wypｩakaｨ?」\e
 
 [00017e|en] 【Takeru】「I-\pidiot,\p that's not it at all.」\e
 [00017e|ru] 【Takeru】「K-\pKretynka. To nie o to chodzi.」\e
@@ -629,7 +629,7 @@ SCR 1 Shift-JIS
 [000187|ru] 【Takeru】「Juｯ ci mｫwiｩem...\p...\p」\e
 
 [000189|en] 【Chizuru】「Why not say you passed by while walking the\ndog?」\e
-[000189|ru] 【Chizuru】「Dlaczego nie powiesz, ｯe po prostu przechodziｩeﾛ,\p\nobok, wyprowadzajｧc psa?」\e
+[000189|ru] 【Chizuru】「Dlaczego nie powiesz, ｯe po prostu\p\nprzechodziｩeﾛ, obok, wyprowadzajｧc psa?」\e
 
 [00018a|en] 【Takeru】「That's way too obvious.」\e
 [00018a|ru] 【Takeru】「To zbyt oczywiste.」\e
@@ -677,10 +677,10 @@ SCR 1 Shift-JIS
 [0001ad|ru] 【Chizuru】「Ale wiesz, ｯe nie zawsze jestem wkurzona.」\e
 
 [0001ae|en] 【Takeru】「So even Class Rep's in a good mood\nsometimes.」\e
-[0001ae|ru] 【Takeru】「Wiｪc nawet niesｩawna, zimna jak kamieﾃ\p\nPrzedstawicielka potrafi siｪ od czasu do czasu uﾛmiechaｨ.」\e
+[0001ae|ru] 【Takeru】「Wiｪc nawet niesｩawna, zimna jak kamieﾃ\p\nPrzedstawicielka potrafi siｪ od czasu do czasu\p\nuﾛmiechaｨ.」\e
 
 [0001b0|en] 【Chizuru】「...\p...\pI got something off my chest, that's all.」\e
-[0001b0|ru] 【Chizuru】「...\pPo prostu coﾛ mi siｪ wymsknｪｩo, to wszystko.」\e
+[0001b0|ru] 【Chizuru】「...\pPo prostu coﾛ mi siｪ wymsknｪｩo, to\p\nwszystko.」\e
 
 [0001b1|en] ...\p...\pgot what off your chest?\e
 [0001b1|ru] ...\pCo ci siｪ wymsknｪｩo?\e
@@ -692,37 +692,37 @@ SCR 1 Shift-JIS
 [0001b6|ru] 【Takeru】「Czy to prawda?」\e
 
 [0001b8|en] 【Chizuru】「...\p...\pthough now I'll be depressed for a different\nreason.」\e
-[0001b8|ru] 【Chizuru】「...\pJestem rpawie pewna, ｯe po prostu bｪdｪ przygnｪbiona\p\nz innego powodu.」\e
+[0001b8|ru] 【Chizuru】「...\pJestem rpawie pewna, ｯe po prostu bｪdｪ\p\nprzygnｪbiona z innego powodu.」\e
 
 [0001ba|en] 【Takeru】「...\p...\pis it just me,\p or are you being competitive?」\e
-[0001ba|ru] 【Takeru】「...?\p Gdzie podziaｩ siｪ dwｫj duch walki」\e
+[0001ba|ru] 【Takeru】「...?\p Gdzie podziaｩ siｪ dwｫj duch walki?」\e
 
 [0001bc|en] 【Chizuru】「And what's wrong with that...\p...\p?」\e
 [0001bc|ru] 【Chizuru】「Oh,\p odczep siｪ ode mnie...\p」\e
 
 [0001bf|en] 【Takeru】「Ah,\p heeey,\p stupid dog,\p don't run so far away.」\e
-[0001bf|ru] 【Takeru】「Whoa!\p Hej, gｩupi psie!\p Nie wybiegaj tak daleko!」\e
+[0001bf|ru] 【Takeru】「ｳaｩ!\p Hej, gｩupi psie!\p Nie wybiegaj tak\p\ndaleko!」\e
 
 [0001c0|en] You really are energetic.\e
 [0001c0|ru] Rozbrykana maｩa kulka futra.\e
 
 [0001c8|en] 【Chizuru】「...\p...\pabout me going to see Akane...\p...\p」\e
-[0001c8|ru] 【Chizuru】「...\pWｩaﾛciwie, jeﾛli chodzi o odwiedziny Akane...\p」\e
+[0001c8|ru] 【Chizuru】「...\pWｩaﾛciwie, jeﾛli chodzi o odwiedziny\p\nAkane...\p」\e
 
 [0001ca|en] 【Takeru】「Yeah?」\e
 [0001ca|ru] 【Takeru】「Taaa?」\e
 
 [0001ce|en] 【Chizuru】「The truth is...\pI made my decision after seeing\nyour face, Shirogane-kun.」\e
-[0001ce|ru] 【Chizuru】「Szczerze mｫwiｧc, nie zdecydowaｩam siｪ, dopｫki nie\p\nprzyszｩam ciｪ zobaczyｨ, Shirogane-kun.」\e
+[0001ce|ru] 【Chizuru】「Szczerze mｫwiｧc, nie zdecydowaｩam siｪ,\p\ndopｫki nie przyszｩam ciｪ zobaczyｨ, Shirogane-kun.」\e
 
 [0001cf|en] 【Takeru】「...\p...\pwhat the hell?」\e
 [0001cf|ru] 【Takeru】「...\pCo,\p ty tak serio?」\e
 
 [0001d1|en] 【Chizuru】「It really isn't fun...\p...\p...\pbeing the only one\nrunning away.」\e
-[0001d1|ru] 【Chizuru】「To naprawdｪ do bani byｨ jedynym uciekajｧcym.」\e
+[0001d1|ru] 【Chizuru】「To naprawdｪ do bani byｨ tym jedynym\p\nuciekajｧcym.」\e
 
 [0001d2|en] 【Takeru】「Well,\p that's true.\p You can't let yourself lose to\nAyamine.」\e
-[0001d2|ru] 【Takeru】「Tak,\p obstawiam, ｯe tak.\p\nNie jesteﾛ tｧ, ktｫry pozwoliｩaby Ayamine zajｧｨ wyｯszｧ pozycjｪ moralnｧ.」\e
+[0001d2|ru] 【Takeru】「Tak,\p obstawiam, ｯe tak.\p\nNie jesteﾛ tｧ, ktｫry pozwoliｩaby Ayamine zajｧｨ wyｯszｧ\p\npozycjｪ moralnｧ.」\e
 
 [0001d4|en] 【Chizuru】「Yeah...\p...\p」\e
 [0001d4|ru] 【Chizuru】「Tak...\p」\e
@@ -740,16 +740,16 @@ SCR 1 Shift-JIS
 [0001dc|ru] 【Chizuru】「...\p...\p」\e
 
 [0001dd|en] 【Takeru】「Now since you know that,\p maybe you can be\nmore friendly toward her.」\e
-[0001dd|ru] 【Takeru】「Teraz, gdy to rozumiesz, moze zaczniecie siｪ\p\nlepiej dogadywaｨ.」\e
+[0001dd|ru] 【Takeru】「Teraz, gdy to rozumiesz, moze zaczniecie\p\nsiｪ lepiej dogadywaｨ.」\e
 
 [0001df|en] 【Chizuru】「...\p...\p」\e
 [0001df|ru] 【Chizuru】「...\p」\e
 
 [0001e1|en] 【Takeru】「Of course it'll still take a while to accept the\nway she is.」\e
-[0001e1|ru] 【Takeru】「Chociaｯ jestem pewien, ｯe nadal zajmie to trochｪ\p\nczasu, zanim zaakceptujesz jｧ takｧ, jakｧ jest.」\e
+[0001e1|ru] 【Takeru】「Chociaｯ jestem pewien, ｯe nadal zajmie to\p\ntrochｪ czasu, zanim zaakceptujesz jｧ takｧ, jakｧ jest.」\e
 
 [0001e3|en] 【Chizuru】「It's been years, and I still haven't managed\nit...\p...\p...\p...\p」\e
-[0001e3|ru] 【Chizuru】「Minｪｩy lata, a ja nadal nie potrafiｪ sobie z\p\ntym poradziｨ...\p...\p」\e
+[0001e3|ru] 【Chizuru】「Minｪｩy lata, a ja nadal nie potrafiｪ sobie\p\nz tym poradziｨ...\p...\p」\e
 
 [0001e4|en] 【Takeru】「...\p...\pyou can't erase the past,\p so why not?」\e
 [0001e4|ru] 【Takeru】「...\pNie moｯesz zmieniｨ przeszｩoﾛｨi, wiｪc siｪ\p\ntym nie przejmuj.」\e
@@ -758,10 +758,10 @@ SCR 1 Shift-JIS
 [0001e6|ru] 【Chizuru】「...\p...\p」\e
 
 [0001e7|en] 【Takeru】「Wouldn't it be a waste to reject everything\nthat's happened?」\e
-[0001e7|ru] 【Takeru】「Czyｯ nie byｩoby marnotrawstem odrzuciｨ wszystko,\p\nco siｪ wydarzyｩo?」\e
+[0001e7|ru] 【Takeru】「Czyｯ nie byｩoby marnotrawstem odrzuciｨ\p\nwszystko, co siｪ wydarzyｩo?」\e
 
 [0001e9|en] 【Chizuru】「...\p...\pI don't think it would be.」\e
-[0001e9|ru] 【Chizuru】「...\pNie sｧdzｪ, ｯeby chodziｩo o marnotrawstwo.」\e
+[0001e9|ru] 【Chizuru】「Nie sｧdzｪ, ｯeby chodziｩo o marnotrawstwo.」\e
 
 [0001ea|en] 【Takeru】「Why not?\p Accept her already.\p And everything\nshe's done in the past.」\e
 [0001ea|ru] 【Takeru】「Czemu nie? Zaakceptuj jｧ juｯ.\p\nI wszystko, co zrobiｩa w przeszｩoﾛci.」\e
@@ -770,10 +770,10 @@ SCR 1 Shift-JIS
 [0001ee|ru] 【Chizuru】「...\pMasz racje.」\e
 
 [0001ef|en] 【Takeru】「And you have to keep changing.\nThere's no reset button.」\e
-[0001ef|ru] 【Takeru】「Poniewaｯ wszystko, co moｯesz teraz zrobiｨ, to\p\nzaczｧｨ zmieniaｨ siebie. W ｯyciu nie ma przycisku reset.」\e
+[0001ef|ru] 【Takeru】「Poniewaｯ wszystko, co moｯesz teraz zrobiｨ,\p\nto zaczｧｨ zmieniaｨ siebie. W ｯyciu nie ma przycisku\p\nreset.」\e
 
 [0001f1|en] 【Chizuru】「...\p...\psometimes you really know what to say,\nShirogane-kun.」\e
-[0001f1|ru] 【Chizuru】「...\pTo caｩkiem niezｩa kwestia, Shirogane-kun.\p\nJak na twoje standardy.」\e
+[0001f1|ru] 【Chizuru】「To caｩkiem niezｩa kwestia, Shirogane-kun.\p\nJak na twoje standardy.」\e
 
 [0001f2|en] 【Takeru】「You sound unsatisfied.」\e
 [0001f2|ru] 【Takeru】「Wydajesz siｪ niezadowolona.」\e
@@ -803,7 +803,7 @@ SCR 1 Shift-JIS
 [000204|ru] 【Takeru】「Rozumiem.」\e
 
 [000206|en] 【Chizuru】「They'll say a lot of horrible things,\p but nothing\nwill end if I never go back.」\e
-[000206|ru] 【Chizuru】「Jestem pewna, ｯe ludzie bｪdｧ mｫwiｨ okropne rzeczy,\p\nale to siｪ nigdy nie skoﾃczy, jeﾛli nie wrｫcｪ.」\e
+[000206|ru] 【Chizuru】「Jestem pewna, ｯe ludzie bｪdｧ mｫwiｨ okropne\p\nrzeczy, ale to siｪ nigdy nie skoﾃczy, jeﾛli nie wrｫcｪ.」\e
 
 [000208|en] 【Takeru】「That's true.」\e
 [000208|ru] 【Takeru】「To prawda.」\e
@@ -812,13 +812,13 @@ SCR 1 Shift-JIS
 [00020a|ru] 【Chizuru】「I tak mam juｯ doﾛｨ wagarowania.」\e
 
 [00020b|en] 【Takeru】「That's just because you aren't used to it.」\e
-[00020b|ru] 【Takeru】「Chyba ｯycie wagarowicza nie jest dla kaｯdego, co?」\e
+[00020b|ru] 【Takeru】「Chyba ｯycie wagarowicza nie jest dla\p\nkaｯdego, co?」\e
 
 [00020e|en] 【Chizuru】「Maybe it is.」\e
 [00020e|ru] 【Chizuru】「Wyglｧda na to, ｯe nie.」\e
 
 [00020f|en] Well,\p maybe that's just how it works.\e
-[00020f|ru] No cｫｯ.\p\nTo wcale nie byｩo takie trudne, co nie?\e
+[00020f|ru] No cｫｯ. To wcale nie byｩo takie trudne, co nie?\e
 
 [000214|en] 【Chizuru】「Hey,\p are you sure you should let him go that\nfar?」\e
 [000214|ru] 【Chizuru】「Hej,\p jesteﾛ pewien, ｯe moｯesz pozwoliｨ mu\p\ntak bardzo siｪ oddalaｨ?」\e
@@ -827,7 +827,7 @@ SCR 1 Shift-JIS
 [000217|ru] Ugh. Przestaﾃ siｪ oddalaｨ, ty gｩupi psie.\e
 
 [000219|en] 【Takeru】「He's hopeless...\p...\pwanna chase him?」\e
-[000219|ru] 【Takeru】「On jest beznadziejny...\p\nChyba lepiej bedzie, jak za nim pｫjdziemy?」\e
+[000219|ru] 【Takeru】「On jest beznadziejny...\p\nChyba lepiej bｪdzie, jak za nim pｫjdziemy?」\e
 
 [000222|en] Geez...\pfinally caught up.\e
 [000222|ru] Ufff.\p W koﾃcu go dogoniｩem.\e
@@ -845,16 +845,16 @@ SCR 1 Shift-JIS
 [00022b|ru] 【Takeru】「Tak. Wｩaﾛnie, ｯe mam.」\e
 
 [00022e|en] 【Chizuru】「...\p...\phey,\p that dog's running off again.」\e
-[00022e|ru] 【Chizuru】「...\pUh.\p\nAle wiesz, ｯe znowu pozwalasz psu na ucieczkｪ.」\e
+[00022e|ru] 【Chizuru】「...\pUh. Ale wiesz, ｯe znowu pozwalasz psu na ucieczkｪ.」\e
 
 [000230|en] 【Takeru】「Whaaaaaaat!?」\e
 [000230|ru] 【Takeru】「ﾂe co!?」\e
 
 [000232|en] Ah,\p she's right. Does that thing ever sit still?\e
-[000232|ru] Cholera, ona ma racje.\p\nCzemu ten pies nie wie, ｯe ma po prostu trzymaｨ siｪ blisko mnie!?\e
+[000232|ru] Cholera, ona ma racje.\p\nCzemu ten pies nie wie, ｯe ma po prostu trzymaｨ siｪ\p\nblisko mnie!?\e
 
 [000233|en] Geez,\p stop screwing with me.\e
-[000233|ru] A niech to.\p\nPrzestaﾃ siｪ ze mnｧ droczyｨ.\e
+[000233|ru] A niech to. Przestaﾃ siｪ ze mnｧ droczyｨ.\e
 
 [000235|en] 【Takeru】「...\p...\p...\p...\phm?」\e
 [000235|ru] 【Takeru】「...\p...\pHm?」\e
@@ -866,7 +866,7 @@ SCR 1 Shift-JIS
 [00023d|ru] 【Takeru】「Co za kretyn!!」\e
 
 [000245|en] Crap! Am I gonna make it in time? Am I!?\e
-[000245|ru] A niech to! Czy zdｧｯe na czaｯ? Zdｧｯｪ!?\e
+[000245|ru] A niech to! Czy zdｧｯe na czas? Zdｧｯｪ!?\e
 
 [000247|en] ...\p...\pdammit!\e
 [000247|ru] ...\pCholera!\e
@@ -899,7 +899,7 @@ SCR 1 Shift-JIS
 [000273|ru] ...\p...\p\e
 
 [000274|en] Mm...\p...\pmmmm...\p...\p...\p...\p\e
-[000274|ru] Mm...\pmmmm...\p...\p\e
+[000274|ru] Mm...\p mmmm...\p...\p\e
 
 [000279|en] ...\p...\phuh? Where am I?\e
 [000279|ru] ...\pHuh? Gdzie ja jestem?\e
@@ -914,13 +914,13 @@ SCR 1 Shift-JIS
 [000282|ru] 【Takeru】「Huh...?\p Przedstawicielko?」\e
 
 [000288|en] 【Chizuru】「You really scared me...\p...\p...\p...\p」\e
-[000288|ru] 【Chizuru】「Wtedy tam,\p naprawdｪ mnie wystraszyｩeﾛ...\p...\p」\e
+[000288|ru] 【Chizuru】「Wtedy tam,\p naprawdｪ mnie wystraszyｩeﾛ...\p」\e
 
 [00028d|en] 【Takeru】「The dog!」\e
 [00028d|ru] 【Takeru】「Co z psem!」\e
 
 [000291|en] 【Chizuru】「Don't worry...\p...\phe was fine.」\e
-[000291|ru] 【Chizuru】「Nie martw siｪ...\p\nU pieska wszystko gra.」\e
+[000291|ru] 【Chizuru】「Nie martw siｪ... U pieska wszystko gra.」\e
 
 [000294|en] 【Takeru】「...\p...\pI see.」\e
 [000294|ru] 【Takeru】「Ufff. Co za ulga.」\e
@@ -935,31 +935,31 @@ SCR 1 Shift-JIS
 [00029b|ru] 【Chizuru】「...\p...\p」\e
 
 [00029c|en] 【Takeru】「If something happened to him...\p...\p...\p...\p\nI don't want to know...\p...\p...\p...\phow she'd take it.」\e
-[00029c|ru] 【Takeru】「Nawet nie chcｪ sobie wyobraｯaｨ jej miny...\p...\p\nGdyby coﾛ siｪ staｩu temu psu...」\e
+[00029c|ru] 【Takeru】「Nawet nie chcｪ sobie wyobraｯaｨ jej miny...\p\nGdyby coﾛ siｪ staｩu temu psu...」\e
 
 [00029e|en] 【Chizuru】「Then think about how she'd take it...\p...\p\nif something happened to you, Shirogane-kun.」\e
-[00029e|ru] 【Chizuru】「A jak myﾛlisz, co my wszczyscy byﾛmy siｪ czuli.\p\nGdyby coﾛ staｩo siｪ tobie, Shirogane-kun?」\e
+[00029e|ru] 【Chizuru】「A jak myﾛlisz, co my wszczyscy byﾛmy siｪ\p\nczuli. Gdyby coﾛ staｩo siｪ tobie, Shirogane-kun?」\e
 
 [00029f|en] 【Takeru】「Eh?」\e
-[00029f|ru] 【Takeru】「Huh」\e
+[00029f|ru] 【Takeru】「Huh?」\e
 
 [0002a1|en] 【Chizuru】「...\p...\pyou never think about the consequences\nof your actions.」\e
 [0002a1|ru] 【Chizuru】「Nigdy nie myﾛlisz o konsekwencjach swoich czynｫw.」\e
 
 [0002a3|en] 【Takeru】「Nothing would ever change if I waste time\nthinking about consequences.\nBesides,\p my body just moved on its own.」\e
-[0002a3|ru] 【Takeru】「Jeﾛli marnujesz czas na myﾛlenie o konsekwencjach,\p\nto nigdy nie bｪdziesz w stanie ncizego zmieniｨ.\p\nA ja nie mogｩem siｪ powtrzymaｨ.\p\nMoje ciaｩo po prostu samo siｪ ruszyｩo.」\e
+[0002a3|ru] 【Takeru】「Jeﾛli marnujesz czas na myﾛlenie o\p\nkonsekwencjach, to nigdy nie bｪdziesz w stanie niczego\p\nzmieniｨ. A ja nie mogｩem siｪ powtrzymaｨ.\p\nMoje ciaｩo po prostu samo siｪ ruszyｩo.」\e
 
 [0002a5|en] 【Chizuru】「That does sound like you...\p...\p」\e
 [0002a5|ru] 【Chizuru】「To brzmi dokladnie w twoim stylu..\p」\e
 
 [0002a6|en] 【Takeru】「Wait,\p is this...\p...\p...\p...\pthe hospital?」\e
-[0002a6|ru] 【Takeru】「Czedkaj, ten szpital...\p...\p\nCzy jestem teraz w szpitalu Keyaki?」\e
+[0002a6|ru] 【Takeru】「Czekaj, ten szpital...\p...\p\nCzy jestem teraz w szpitalu Keyaki?」\e
 
 [0002a8|en] 【Chizuru】「That's right.」\e
 [0002a8|ru] 【Chizuru】「Zgadza siｪ.」\e
 
 [0002a9|en] 【Takeru】「...\p...\psorry you went to all the trouble.」\e
-[0002a9|ru] 【Takeru】「...\pPrzepraszam Musiaｩem ci narobiｨ kｩopotｫw.」\e
+[0002a9|ru] 【Takeru】「Przepraszam. Musiaｩem ci narobiｨ kｩopotｫw.」\e
 
 [0002ab|en] 【Chizuru】「You don't know the half of it.」\e
 [0002ab|ru] 【Chizuru】「Nie wiesz nawet jak bardzo.」\e
@@ -974,13 +974,13 @@ SCR 1 Shift-JIS
 [0002b0|ru] 【Takeru】「Ciｧgle wymyka siｪ ze swojego pokoju.」\e
 
 [0002b2|en] 【Chizuru】「Kagami-san and Mitsurugi-san should be\ncoming here too.」\e
-[0002b2|ru] 【Chizuru】「Kagami-san i Mitsurugi-san teｯ juｯ tu jadｧ.」\e
+[0002b2|ru] 【Chizuru】「A Kagami-san i Mitsurugi-san teｯ juｯ tutaj\p\njadｧ.」\e
 
 [0002b3|en] 【Takeru】「It's not that big a deal...\p...\pthey worry too much.」\e
-[0002b3|ru] 【Takeru】「Stary,\p to gruba przesada...\p\nMam nadzieje, ｯe nikt wiｪcej nie bｪdziｪ siｪ juｯ martwic.」\e
+[0002b3|ru] 【Takeru】「Stary,\p to gruba przesada... Mam nadzieje,\p\nｯe nikt wiｪcej nie bｪdziｪ siｪ juｯ martwiｨ.」\e
 
 [0002b7|en] 【Chizuru】「And why is that, Shirogane-kun?」\e
-[0002b7|ru] 【Chizuru】「Teraz o wiele bardziej amrtwiesiｪo towje zdrowie, Shirogane-kun?」\e
+[0002b7|ru] 【Chizuru】「Teraz o wiele bardziej martwiｪ siｪ o twoje\p\nzdrowie, Shirogane-kun?」\e
 
 [0002b8|en] 【Takeru】「Huuuh?」\e
 [0002b8|ru] 【Takeru】Uh, co?」\e
@@ -1001,7 +1001,7 @@ SCR 1 Shift-JIS
 [0002c1|ru] 【Chizuru】「...\pJesteﾛ niewyragodny.」\e
 
 [0002c2|en] 【Takeru】「What was that for?」\e
-[0002c2|ru] 【Takeru】「P co to byｩo?」\e
+[0002c2|ru] 【Takeru】「Po co to byｩo?」\e
 
 [0002c4|en] 【Chizuru】「...\p...\pwhat if you'd been hurt worse than this?」\e
 [0002c4|ru] 【Chizuru】「...\pMogｩeﾛ tam umrzeｨ.\p\nCo byﾛ wtedy zrobiｩ?」\e
@@ -1010,7 +1010,7 @@ SCR 1 Shift-JIS
 [0002c5|ru] 【Takeru】「No cｫｯ...\p\nNic, pewnie nic.\p\nByｩbym wtedy martwy.」\e
 
 [0002c7|en] 【Chizuru】「Just because Ayamine-san liked that\ndog...\p...\pyou're reckless.」\e
-[0002c7|ru] 【Chizuru】「Naraziｩeﾛ swoje ｯycie tylko dlatego,\p\nｯe Ayamine-san lubiｩa tego psa...\p\nJesteﾛ zbyt lekkomyﾛlny.」\e
+[0002c7|ru] 【Chizuru】「Naraziｩeﾛ swoje ｯycie tylko dlatego, ｯe\p\nAyamine-san lubiｩa tego psa...\p\nJesteﾛ zbyt lekkomyﾛlny.」\e
 
 [0002c8|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002c8|ru] 【Takeru】「...\p...\p」\e
@@ -1019,7 +1019,7 @@ SCR 1 Shift-JIS
 [0002ca|ru] 【Chizuru】「...\p...\p」\e
 
 [0002cb|en] 【Takeru】「I remembered what I have to do here...\p...\p...\p...\p」\e
-[0002cb|ru] 【Takeru】「Wｩaﾛnie przypomniaｩem sobie, co muszｪ zrobiｨ...\p...\p」\e
+[0002cb|ru] 【Takeru】「Wｩaﾛnie przypomniaｩem sobie, co muszｪ tak\p\nnaprawdｪ zrobiｨ...\p...\p」\e
 
 [0002cd|en] 【Chizuru】「...\p...\pShirogane-kun?」\e
 [0002cd|ru] 【Chizuru】「...\pShirogane-kun?」\e
@@ -1043,10 +1043,10 @@ SCR 1 Shift-JIS
 [0002de|ru] 【Chizuru】「...\pCzekaj,\p czemu wstajesz?」\e
 
 [0002e0|en] 【Takeru】「Ow-ow-ow-ow...\p...\pisn't it obvious? I'm getting\nher back.」\e
-[0002e0|ru] 【Takeru】「Aｩ-aｩ-aｩ-aｩ...\p\nCzy to nie jest oczywiste?\p\nIdｪ jｧ odzyskaｨ.」\e
+[0002e0|ru] 【Takeru】「Aｩ-aｩ-aｩ-aｩ...\p\nCzy to nie jest oczywiste? Idｪ jｧ odzyskaｨ.」\e
 
 [0002e4|en] 【Chizuru】「Forget about that...\p...\pyou might be uninjured,\nbut you were hit in a lot of places.\p Even the doctors say\nit's best not to move right now...\p...\p」\e
-[0002e4|ru] 【Chizuru】「Zapomnij o tym...\p\nMoｯesz nie mieｨ ｯadnych zewnｪtrznych obraｯeﾃ, ale jesteﾛ caｩy poobijany.\p\nLekarz powiedziaｩ, ｯe najlepiej bｪdzie, jeﾛli na razie nie bｪdzie siｪ\p\nza duｯo poruszaｨ...\p」\e
+[0002e4|ru] 【Chizuru】「Zapomnij o tym...\p\nMoｯesz nie mieｨ ｯadnych zewnｪtrznych obraｯeﾃ, ale\p\njesteﾛ caｩy poobijany. Lekarz powiedziaｩ, ｯe\p\nnajlepiej bｪdzie, jeﾛli na razie nie bｪdzie siｪ\p\nza duｯo poruszaｨ...\p」\e
 
 [0002e6|en] 【Takeru】「I don't wanna regret this.」\e
 [0002e6|ru] 【Takeru】「Nie chcｪ tego ｯaｩowaｨ.」\e
@@ -1070,19 +1070,19 @@ SCR 1 Shift-JIS
 [0002ef|ru] 【Takeru】「Wyglｧda na to, ｯe wpadｩaﾛ juｯ na nich.\p\nMam racjｪ, Przedstawicielko?」\e
 
 [0002f1|en] Why else would you say I shouldn't go?\e
-[0002f1|ru] Bo z jakiego innego powodu, powiedziaｩabyﾛ mi,\p\nｯebym nie poszedｩ?\e
+[0002f1|ru] Bo z jakiego innego powodu, powiedziaｩabyﾛ mi, ｯebym\p\nnie poszedｩ?\e
 
 [0002f2|en] I know what you're thinking,\p there's no room for me\nbetween those two.\e
 [0002f2|ru] Wiem o czym teraz myﾛlisz.\p\nNie ma miejsca, ｯebym stanｧｩ miｪdzy tymi dwoma.\e
 
 [0002f4|en] I've only known this emotion for a few days now,\p but I\nunderstand.\e 
-[0002f4|ru] Znam to uczucie dopiero od kilku dni, ale nie ejstem na\p\ntyle gｩupi, ｯeby je pomyliｨ.\e 
+[0002f4|ru] Znam to uczucie dopiero od kilku dni, ale nie jestem na\p\ntyle gｩupi, ｯeby je pomyliｨ.\e 
 
 [0002f5|en] When I learned what it's like to feel this way about\nsomeone else,\p I became sure of it.\e
 [0002f5|ru] A teraz, kiedy wie, jak to jest czuｨ coﾛ takiego do\p\nkogoﾛ innego, moje przekonania siｪ zmieniｩy.\e
 
 [0002f7|en] 【Chizuru】「I heard voices in the hallway...\p...\pand...\p...\p...\p...\p」\e
-[0002f7|ru] 【Chizuru】「Usｩyszaｩam ich gｩosy na korytarzu...\p i...\p...\p」\e
+[0002f7|ru] 【Chizuru】「Usｩyszaｩam ich gｩosy na korytarzu...\p i...\p」\e
 
 [0002f8|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002f8|ru] 【Takeru】「...\p...\p」\e
@@ -1112,28 +1112,28 @@ SCR 1 Shift-JIS
 [000307|ru] 【Takeru】「Cｫｯ,\p to dosyｨ powaｯna sprawa.」\e
 
 [000309|en] 【Chizuru】「...\p...\pI think...\p...\pthey're on the roof.\p\nI saw them going up the stairs.」\e
-[000309|ru] 【Chizuru】「...\pChyba...\p sｧ teraz na dachy.\p\nWidziaｩam, jak wchodzili po schodach.」\e
+[000309|ru] 【Chizuru】「...\pChyba...\p sｧ teraz na dachu.\p\nWidziaｩam, jak wchodzili po schodach.」\e
 
 [00030a|en] 【Takeru】「Got it...\p...\p...\p...\pthanks...\p...\p...\p...\powa!」\e
-[00030a|ru] 【Takeru】「Zrozumiaｩem...\p..\p\nDziｪki...\p\nｳoa!」\e
+[00030a|ru] 【Takeru】「Zrozumiaｩem..\p Dziｪki... ｳoa!」\e
 
 [000310|en] 【Chizuru】「H-\phey!\p Are you sure you're okay?」\e
 [000310|ru] 【Chizuru】「Uwaｯaj!\p Jesteﾛ pewien, ｯe dasz radｪ?」\e
 
 [000312|en] 【Takeru】「Ahahaha! ...\p...\p...\p...\pis this because I hit my head?\nI feel kinda woozy...\p...」\e
-[000312|ru] 【Takeru】「Ahahaha... Chyba naprawdｪ i porzｧdnie uderzyｩem siｪ gｩowｪ?\p\nNadal czujｪ siｪ trochｪ oszoｩomiony...」\e
+[000312|ru] 【Takeru】「Ahahaha... Chyba naprawdｪ i porzｧdnie\p\nuderzyｩem siｪ gｩowｪ? Nadal czujｪ siｪ trochｪ oszoｩomiony...」\e
 
 [000314|en] 【Chizuru】「You really are hopeless...\p...\pgrab on.」\e
-[000314|ru] 【Chizuru】「Naprawdｪ beznadziejny z ciebie ewenement...\p\nZｩap siｪ mnie.」\e
+[000314|ru] 【Chizuru】「Naprawdｪ prawdziwie beznadziejny z ciebie\p\newenement... Zｩap siｪ mnie.」\e
 
 [000318|en] 【Takeru】「It's okay...\p...\p...\p...\pI'll go alone.」\e
-[000318|ru] 【Takeru】「Wszystko jest w porzｧdku...\p...\p\nPｫjdｪ sam.」\e
+[000318|ru] 【Takeru】「Wszystko jest w porzｧdku...\p Pｫjdｪ sam.」\e
 
 [00031b|en] 【Chizuru】「Hey now...\p...\pdo you really think I can leave you\nalone in that condition?」\e
-[00031b|ru] 【Chizuru】「Och,proszｪ ciｪ...\p\nNaprawdｪ myﾛlisz, ｯe mogｪ ciｪ zostawiｨ smaego w takim stanie?」\e
+[00031b|ru] 【Chizuru】「Och, proszｪ ciｪ...\p\nNaprawdｪ myﾛlisz, ｯe mogｪ ciｪ zostawiｨ smaego w takim\p\nstanie?」\e
 
 [00031c|en] 【Takeru】「Wouldn't it be lame if I couldn't go alone?」\e
-[00031c|ru] 【Takeru】「Rozumiem, ale byｩoby ｯaｩoﾛnie, gdybym nie poszedｩ sam.」\e
+[00031c|ru] 【Takeru】「Rozumiem, ale byｩoby ｯaｩoﾛnie, gdybym nie\p\nposzedｩ sam.」\e
 
 [00031e|en] 【Chizuru】「That's not the...\p...\p」\e
 [00031e|ru] 【Chizuru】「To wcale nie tak...\p」\e
@@ -1145,7 +1145,7 @@ SCR 1 Shift-JIS
 [000321|ru] 【Chizuru】「...\p...\p」\e
 
 [000322|en] 【Takeru】「There are plenty of times when it's okay to\nrely on someone else.」\e
-[000322|ru] 【Takeru】「Sｧ chwile, kiedy moｯna polegaｨ na kimﾛ innym.」\e
+[000322|ru] 【Takeru】「Sｧ chwile, kiedy naprawdｪ moｯna polegaｨ na\p\nkimﾛ innym.」\e
 
 [000324|en] 【Chizuru】「...\p...\pis that sarcasm?」\e
 [000324|ru] 【Chizuru】「...\pCzy to sakrazm?」\e
@@ -1157,7 +1157,7 @@ SCR 1 Shift-JIS
 [000327|ru] 【Chizuru】「...\p...\p」\e
 
 [000328|en] 【Takeru】「Didn't you learn that yourself during all this?」\e
-[000328|ru] 【Takeru】「Czy nie nauczyｩaﾛ siｪtego sama podczas tego wszystkiego?」\e
+[000328|ru] 【Takeru】「Czy nie nauczyｩaﾛ siｪ tego sama podczas\p\ntego wszystkiego?」\e
 
 [00032a|en] 【Chizuru】「...\p...\pthat's true.\p I caused a lot of trouble for\neveryone.\p I know they were all worried about me...\p...\p...\p」\e
 [00032a|ru] 【Chizuru】「...\pTo prawda.\p\nSprawiaｩam wszystkim mnｫstwo kｩopotｫw.\p\nWiem, ｯe wszyscy siｪ o mnie martwiｩyﾛcie.」\e
@@ -1166,7 +1166,7 @@ SCR 1 Shift-JIS
 [00032b|ru] 【Takeru】「Sｧ chwilｪ, kiedy moｯna polegaｨ na innych...\p\nAle sｧ teｯ chwilｪ, kiedy musisz zrobiｨ sam...」\e
 
 [00032d|en] 【Chizuru】「...\p...\p...\p...\pidiot...\p...\pI'm not responsible for whatever\nhappens to you.」\e
-[00032d|ru] 【Chizuru】「...\p...\pGｩupek...\p\nNie przychodﾜ do mnie z pｩaczem, jeﾛli spadniesz ze schodｫw.」\e
+[00032d|ru] 【Chizuru】「...\p...\pGｩupek...\p\nNie przychodﾜ do mnie z pｩaczem, jeﾛli spadniesz ze\p\nschodｫw.」\e
 
 [00032e|en] 【Takeru】「Haha! ...\p...\pthen I'll be going now.」\e
 [00032e|ru] 【Takeru】「Hahaha...\p\nNo dobrze. To ja juｯ pｫjdｪ.」\e
@@ -1187,7 +1187,7 @@ SCR 1 Shift-JIS
 [000336|ru] ...\p...\p\e
 
 [000337|en] I don't know how this is going to go,\p but I'm not just\ngoing to wait for it to end.\e
-[000337|ru] Nie wiem, jak to siｪ potoczy, ale nie zamierzam po prostu\p\nczekaｨ, aｯ siｪ to skoﾃczy.\e
+[000337|ru] Nie wiem, jak to siｪ potoczy, ale nie zamierzam po\p\nprostu czekaｨ, aｯ siｪ to skoﾃczy.\e
 
 [000338|en] I learned yesterday that Ayamine still has feelings for\nSagiri-san.\e
 [000338|ru] Wczoraj dowiedziaｩem siｪ, ｯe Ayamine nadal coﾛ czujｪ\p\ndo Sagiriego-san.\e
@@ -1196,19 +1196,19 @@ SCR 1 Shift-JIS
 [000339|ru] Powiedziaｩa mi to wprost.\e
 
 [00033a|en] She said she couldn't forget him...\p...\p\e
-[00033a|ru] Powiedziaｩｧ, ｯe nie moｯe o nim zapomnieｨ...\p\e
+[00033a|ru] Powiedziaｩa, ｯe nie moｯe o nim zapomnieｨ...\p\e
 
 [00033b|en] I don't have anything prepared.\e
 [00033b|ru] Nic a nic nie przygotowaｩem.\e
 
 [00033c|en] I don't think I'll be able to say anything as soon as I find\nthem.\e
-[00033c|ru] I nie sｧdzｪ, ｯebym byｩ w stanie po prostu magicznie wymyﾛliｨ\p\nodpowiednie sｩowa, kiedy ich znajdｪ.\e
+[00033c|ru] I nie sｧdzｪ, ｯebym byｩ w stanie po prostu magicznie\p\nwymyﾛliｨ odpowiednie sｩowa, kiedy ich znajdｪ.\e
 
 [00033d|en] But I'm fine with that.\e
 [00033d|ru] Ale mi to pasujｪ.\e
 
 [00033e|en] That's just who I am.\e
-[00033e|ru] Taki juｯ jestem\e
+[00033e|ru] Taki juｯ jestem.\e
 
 [00033f|en] I can't wait until I'm fully prepared.\e
 [00033f|ru] Nie mogｪ czekaｯ za tym, aｯ bｪdｪ w peｩni przygotowany.\e
@@ -1217,19 +1217,19 @@ SCR 1 Shift-JIS
 [000341|ru] Bｪdｪ musiaｩ po prostu wymyﾛliｨ coﾛ na miejscu.\e
 
 [000347|en] 【Sagiri】「...\p...\p...\p...\p────It might be too late to say\nthis...\p...\p...\pbut...\p...\p...\p...\pKei...\p...\pI want to start over.」\e
-[000347|ru] 【Sagiri】「────Moｯe byｨ za pｫﾜno,\p ｯeby to powiedzieｨ, ale...\p\nKei...\p Chcｪ zaczｧｨ wszystko od nowa z tobｧ.」\e
+[000347|ru] 【Sagiri】「──Moｯe byｨ za pｫﾜno,\p ｯeby to powiedzieｨ,\p\nale...\p Kei...\p Chcｪ zaczｧｨ wszystko od nowa z tobｧ.」\e
 
 [000350|en] 【Kei】「...\p...\p...\p...\p」\e
 [000350|ru] 【Kei】「...\p...\p」\e
 
 [000352|en] 【Sagiri】「If we could do that,\p I'd be willing to throw away\neverything I have now.」\e
-[000352|ru] 【Sagiri】「Gdybyﾛmy mogli to zrobiｨ,\p byｩym gotｫw wyrzucyｨ\p\nwszystko, co mam teraz.」\e
+[000352|ru] 【Sagiri】「Gdybyﾛmy mogli to zrobiｨ,\p byｩbym gotｫw\p\nwyrzucyｨ wszystko, co mam teraz.」\e
 
 [000357|en] 【Kei】「...\p...\pNaoya...\p...」\e
 [000357|ru] 【Kei】「...\pNaoya...」\e
 
 [000359|en] 【Sagiri】「I was a fool...\p...\p...\p...\pI must atone for what I've\ndone...\p...\p...\p...\pI know what I'm saying may be a huge burden\non you.」\e
-[000359|ru] 【Sagiri】「Byｩem gｩupcem...\p...\p\nMuszｪ odpokutowaｨ za to, co zrobiｩem...\p\nWiem, ｯe to, co mｫwiｪ, moｯe byｨ dla ciebie ogromnym ciｪｯarem.」\e
+[000359|ru] 【Sagiri】「Byｩem gｩupcem...\p...\p\nMuszｪ odpokutowaｨ za to, co zrobiｩem... Wiem, ｯe to,\p\nco mｫwiｪ, moｯe byｨ dla ciebie ogromnym ciｪｯarem.」\e
 
 [00035e|en] 【Kei】「...\p...\p...\p...\p」\e
 [00035e|ru] 【Kei】「...\p...\p」\e
@@ -1265,7 +1265,7 @@ SCR 1 Shift-JIS
 [000381|ru] 【Kei】「...\p...\p」\e
 
 [000383|en] 【Takeru】「If you both still feel that way about each other,\p\nmaybe that's just fine.\p That was one of the things I\nthought.」\e
-[000383|ru] 【Takeru】「Na poczｧtku myﾛlaｩem, ｯe jeﾛli oboje nadal coﾛ do\p\nsiebie czujecie, to moｯe jest to w porzｧdku.」\e
+[000383|ru] 【Takeru】「Na poczｧtku myﾛlaｩem, ｯe jeﾛli oboje nadal\p\ncoﾛ do siebie czujecie, to moｯe jest to w porzｧdku.」\e
 
 [000386|en] 【Sagiri】「...\p...\pyou...」\e
 [000386|ru] 【Sagiri】「...\pTy...」\e
@@ -1277,79 +1277,79 @@ SCR 1 Shift-JIS
 [000389|ru] 【Kei】「...\p...\p」\e
 
 [00038b|en] 【Takeru】「But...\p...\pI can't accept that after all.\p\nI'm not saying...\p...\pstarting over would be a bad thing.」\e
-[00038b|ru] 【Takeru】「Ale po namyﾛlｪ...\p nie mogｪ tego zaakceptowaｨ.\p\nOczywiﾛcie... Nie mｫwiｪ, ｯe jest coﾛ zｩego w tym,\p\nｯeby sprｫbowaｨ jeszcze raz.」\e
+[00038b|ru] 【Takeru】「Ale po namyﾛlｪ...\p nie mogｪ tego ot tak\p\nzaakceptowaｨ. Oczywiﾛcie... Nie mｫwiｪ, ｯe jest coﾛ\p\nzｩego w tym, ｯeby sprｫbowaｨ jeszcze raz.」\e
 
 [00038d|en] 【Sagiri】「...\p...\p...\p...\p」\e
 [00038d|ru] 【Sagiri】「...\p...\p」\e
 
 [00038e|en] 【Takeru】「Or that marriage would be a bad thing.」\e
-[00038e|ru] 【Takeru】「...Albo ｯe jest coﾛ zｩego w tym, ｯeby siｪ rozwieﾛｨ,\p\nalbo coﾛ w tym stylu.」\e
+[00038e|ru] 【Takeru】「...Albo ｯe jest coﾛ zｩego w tym, ｯeby siｪ\p\nrozwieﾛｨ, albo coﾛ w tym stylu.」\e
 
 [000391|en] 【Sagiri】「...\p...\p...\p...\p」\e
 [000391|ru] 【Sagiri】「...\p...\p」\e
 
 [000392|en] 【Takeru】「I'm not blaming anyone for what they couldn't\ndo in the past.」\e
-[000392|ru] 【Takeru】「...Nie obwiniam teｯ nikogo za to, czego nie mｫgｩ\p\nzrobiｨ w przeszｩoﾛci.」\e
+[000392|ru] 【Takeru】「...Nie obwiniam teｯ nikogo za to, czego nie\p\nmｫgｩ zrobiｨ w przeszｩoﾛci.」\e
 
 [000394|en] 【Sagiri】「...\p...\pI understand that.」\e
 [000394|ru] 【Sagiri】「...\pRozumiem to.」\e
 
 [000395|en] 【Takeru】「I think those turns of events were unavoidable.」\e
-[000395|ru] 【Takeru】「Nie sｧdzｪ, ｯeby ktokolwiek mｫgｩ powtrzymaｨ wydarzenia,\p\nktｫre potoczyｩy siｪ w taki sposｫb.」\e
+[000395|ru] 【Takeru】「Nie sｧdzｪ, ｯeby ktokolwiek mｫgｩ powtrzymaｨ\p\nwydarzenia, ktｫre potoczyｩy siｪ w taki sposｫb.」\e
 
 [000397|en] 【Kei】「...\p...\p...\p...\p」\e
 [000397|ru] 【Kei】「...\p...\p」\e
 
 [000399|en] 【Takeru】「However,\p after it was all over,\p you both\ncould've done something!」\e
-[000399|ru] 【Takeru】「...Ale mimo wszystko - po wszystkim, mogliﾛcie\p\ncoﾛ zrobiｨ」\e
+[000399|ru] 【Takeru】「...Ale mimo wszystko - po wszystkim,\p\nmogliﾛcie coﾛ zrobiｨ.」\e
 
 [00039b|en] 【Sagiri】「...\p...\p!」\e
-[00039b|ru] 【Sagiri】「..\p!」\e
+[00039b|ru] 【Sagiri】「...\p!」\e
 
 [00039d|en] 【Takeru】「I know I'm being arrogant. I don't know the\ndetails of your past.」\e
-[00039d|ru] 【Takeru】「Wiem, ｯe wybiegam myﾛlami w przyszｩoﾛｨ.\p\nNie znam wszystkich szczegｫｩｫw z twojeje przeszｩoﾛci.」\e
+[00039d|ru] 【Takeru】「Wiem, ｯe wybiegam myﾛlami w przyszｩoﾛｨ.\p\nNie znam wszystkich szczegｫｩｫw z twojej przeszｩoﾛci.」\e
 
 [00039e|en] 【Takeru】「...\p...\pI confessed to her yesterday,\p but she hasn't\nanswered me yet. So I don't even know how Ayamine\nfeels.」\e
-[00039e|ru] 【Takeru】「...\pWczoraj wyznaｩem jej miｩoﾛｨ, ale jeszcze mi nie\p\nodpowiedziaｩa. WIｴC nawet nie wiem, co tak narpadｪ czuje Ayamine,.」\e
+[00039e|ru] 【Takeru】「...\pWczoraj wyznaｩem jej miｩoﾛｨ, ale jeszcze\p\nmi nie odpowiedziaｩa. WIｴC nawet nie wiem, co tak\p\nnaprawdｪ czuje Ayamine,.」\e
 
 [0003a1|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003a1|ru] 【Kei】「...\p...\p」\e
 
 [0003a2|en] 【Takeru】「But...\p...\pI can't leave Ayamine...\p...\pthe girl I love...\p...\p\nto someone who's done nothing but wait for her all this\ntime.」\e
-[0003a2|ru] 【Takeru】「Ale...\p nie mogｪ zostawiｨ Ayamine - dziewczyny,\p\nktｫrｧ kocham - komuﾛ takiemu jak ty. Komuﾛ kto przez ten caｩｩy\p\nczas jedynie siedziaｩ na dupie i czekaｩ.」\e
+[0003a2|ru] 【Takeru】「Ale...\p nie mogｪ zostawiｨ Ayamine -\p\ndziewczyny,\p\nktｫrｧ kocham - komuﾛ takiemu jak ty.\p\nKomuﾛ kto przez ten caｩｩy czas jedynie siedziaｩ na dupie i\p\npo prostu czekaｩ.」\e
 
 [0003a5|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003a5|ru] 【Kei】「...\p...\p」\e
 
 [0003a6|en] 【Takeru】「I can't forgive you...\p...\pfor making a decision like\nthat...\p...\ponly to change your mind later.」\e 
-[0003a6|ru] 【Takeru】「Nie mogｪ ci wybaczyｨ tego, ｯe podjｧｩeﾛ takｧ decyzjｪ,\p\na pｫﾜniej jakby nigdy nic zmieniｩeﾛ swoje zdanie.」\e 
+[0003a6|ru] 【Takeru】「Nie mogｪ ci wybaczyｨ tego, ｯe podjｧｩeﾛ takｧ\p\ndecyzjｪ, a pｫﾜniej jakby nigdy nic zmieniｩeﾛ swoje\p\nzdanie.」\e 
 
 [0003a8|en] 【Sagiri】「...\p...\p...\p...\p」\e
-[0003a8|ru] 【Sagiri】「p...\p...\p」\e
+[0003a8|ru] 【Sagiri】「...\p...\p」\e
 
 [0003a9|en] 【Takeru】「And in the end,\p it's Ayamine's decision...\p...\p...\p...\p\nso I know that saying all this is unfair.」\e
-[0003a9|ru] 【Takeru】「I ostatnie sｩowo w tej kwestii ma Ayamine...\p\nWiｪc wiem, ｯe mｫwienie tego wszystkiego jest niesprawiedliwie.」\e
+[0003a9|ru] 【Takeru】「I ostatnie sｩowo w tej kwestii ma Ayamine.\p\nWiｪc wiem, ｯe mｫwienie tego wszystkiego jest\p\nniesprawiedliwie.」\e
 
 [0003ab|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003ab|ru] 【Kei】「...\p...\p」\e
 
 [0003ac|en] 【Takeru】「However,\p if I really tried to be considerate of\nyou,\p I wouldn't be able to do anything at all...\p...\p...\p...\p\nI don't want to be like that.」\e
-[0003ac|ru] 【Takeru】「Jednak gdybym zdecydowaｩ siｪ nie podejmowaｨ ｯadnych\p\ndziaｩaﾃ tylko po to, ｯeby byｨ dla ciebie wyrozumiaｩym, to sam\p\nz siebie zrobiｩbym zwyczajne popychadｩo...\p\nA to ani trochｪ mi siｪ nie podoba.」\e
+[0003ac|ru] 【Takeru】「Jednak gdybym zdecydowaｩ siｪ nie\p\npodejmowaｨ ｯadnych dziaｩaﾃ tylko po to, ｯeby\p\nbyｨ dla ciebie wyrozumiaｩym, to sam z siebie\p\nzrobiｩbym zwyczajne popychadｩo...\p\nA to ani trochｪ mi siｪ nie podoba.」\e
 
 [0003ae|en] 【Sagiri】「...\p...\p...\p...\pyou...\p...\p...\p...\pyou really are strong....\p...\p...\p...\p\nI envy you.」\e
 [0003ae|ru] 【Sagiri】「Ty...\p...\p naprawdｪ jesteﾛ silny.\p\nZazdroszczｪ ci tego.」\e
 
 [0003b1|en] 【Takeru】「No I'm not...\p...\pI just knew someone who helped\nme figure out how I felt.」\e
-[0003b1|ru] 【Takeru】「Nie, wcale nie jestem silny.\p\nPo prostu mam szczｪﾛcie, ｯe mam przyjaciｫ, ktｫrzy pomogli mi to zrozumieｨ.」\e
+[0003b1|ru] 【Takeru】「Nie, wcale nie jestem silny.\p\nPo prostu mam szczｪﾛcie, ｯe mam przyjaciｫ, ktｫrzy\p\npomogli mi to zrozumieｨ.」\e
 
 [0003b3|en] 【Takeru】「I'm in no position to say anything about you,\p\nSagiri-san...\p...\pbut,\p now that I've realized all this,\p I can't\njust stand by and watch.」\e
-[0003b3|ru] 【Takeru】「Chcｪ powiedzieｨ, prawda jest taka, ｯe nie jestem\p\nw pozycji, aby cokolwiek ci mｫwiｨ, Sagiri-san...\p\nAle teraz, gdy doszedｩem do tego wniosku, nie mogｪ po prostu\p\nsobie staｨ i patrzeｨ」\e
+[0003b3|ru] 【Takeru】「Chcｪ powiedzieｨ, prawda jest taka, ｯe nie\p\njestem w pozycji, aby cokolwiek ci mｫwiｨ,\p\nSagiri-san... Ale teraz, gdy doszedｩem do tego\p\nwniosku, nie mogｪ po prostu sobie staｨ i patrzeｨ.」\e
 
 [0003b5|en] 【Sagiri】「I see...\p...\p」\e
 [0003b5|ru] 【Sagiri】「Rozumiem...\p」\e
 
 [0003b6|en] 【Takeru】「I'm nowhere near skilled enough to do this in a\nway that'd be easy on everyone.\p Just thinking about me\nand Ayamine is all I can manage now.」\e
-[0003b6|ru] 【Takeru】「Nie jestem nawet blisko wystarczajｧcych umiejｪtnoﾛci,\p\naby zrobiｨ to w sposｫb, ktｫry byｩby ｩatwy dla wszystkich.\p\nTeraz mogｪ tylko myﾛlｪｨ o mnie i Ayamine.」\e
+[0003b6|ru] 【Takeru】「Nie jestem nawet blisko wystarczajｧcych\p\numiejｪtnoﾛci, aby zrobiｨ to w sposｫb, ktｫry byｩby\p\nｩatwy dla wszystkich. Teraz mogｪ tylko myﾛlｪｨ o mnie\p\ni Ayamine.」\e
 
 [0003b8|en] 【Kei】「...\p...\p...\p...\p」\e
 [0003b8|ru] 【Kei】「...\p...\p」\e
@@ -1424,7 +1424,7 @@ SCR 1 Shift-JIS
 [000465|ru] ...\p...\p\e
 
 [000466|en] This really isn't how I intended to come to the hospital.\e
-[000466|ru] Tak naprawdｪ nie planowaｩem nawet przychodziｨ do spzitala.\e
+[000466|ru] Tak naprawdｪ nie planowaｩem nawet przychodziｨ do\p\nszpitala.\e
 
 [000467|en] I wonder what Ayamine did.\e
 [000467|ru] Ciekawe, co postanowiｩa Ayamine.\e
@@ -1472,7 +1472,7 @@ SCR 1 Shift-JIS
 [000477|ru] 【Takeru】「...\p...\p」\e
 
 [000478|en] So that's why I can't move it...\p...\pshe's holding it too tight.\e
-[000478|ru] Wiｪc to dlatego nie mogｪ niｧ poruszyｨ...\p\Gdyｯ ona trzyma jｧ troszeczｪ za mocno.\e
+[000478|ru] Wiｪc to dlatego nie mogｪ niｧ poruszyｨ...\p\nGdyｯ ona trzyma jｧ troszeczｪ za mocno.\e
 
 [000479|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000479|ru] 【Takeru】「...\p...\p」\e
@@ -1499,7 +1499,7 @@ SCR 1 Shift-JIS
 [000481|ru] Ona jest taka sｩodka, kiedy ﾛpi...\p\e
 
 [000482|en] Don't be so defenseless...\p...\p\e
-[000482|ru] Nie wyglｧdaj na takｧbezbronnｧ...\p\e
+[000482|ru] Nie wyglｧdaj na takｧ bezbronnｧ...\p\e
 
 [000485|en] You'll make me do things to you.\e
 [000485|ru] Kto wie, do czego jestem teraz zdolny.\e
@@ -1508,13 +1508,13 @@ SCR 1 Shift-JIS
 [000486|ru] Nie sｩyszaｩaﾛ, co wczeﾛniej do ciebie mｫwiｩem?\e
 
 [000487|en] I can't stand not knowing what happened between you\nand Sagiri-san...\p...\p...\p...\pdon't tempt me like this...\p...\p...\p...\p\e
-[000487|ru] Poddajｧc mnie takiemu czemuﾛ, po tym kiedy jestem taki\p\nzestresowanym, tym co wydarzyｩo siｪ miｪdziy dobｧ Sagirim-san...\p\nTo jest dla mnie prawdziwe piekｩo...\e
+[000487|ru] Poddajｧc mnie takiemu czemuﾛ, po tym kiedy jestem taki\p\nzestresowanym, tym co wydarzyｩo siｪ miｪdziy tobｧ\p\nSagirim-san... To jest dla mnie prawdziwe piekｩo...\e
 
 [000488|en] Aaah,\p dammit!\p She looks so comfortable I can't wake\nher up!\e
-[000488|ru] Gah! Kurwa maｨ!\p\nWyglｧda ｯe jest jej tak wygodnie, ｯe nie mogｪ jej obudziｨ!\e
+[000488|ru] Gah! Kurwa maｨ! Wyglｧda ｯe jest jej tak wygodnie, ｯe nie\p\nmogｪ jej obudziｨ!\e
 
 [000489|en] It'd be so wrong not to let her sleep...\p...\e
-[000489|ru] A po za tym. I tak uwaｯam, ｯe to byｩaby strata okazji...\e
+[000489|ru] A po za tym. I tak uwaｯam, ｯe to byｩaby strata okazji.\e
 
 [00048a|en] 【Kei】「...\p...\p...\p...\p」\e
 [00048a|ru] 【Kei】「...\p...\p」\e
@@ -1538,13 +1538,13 @@ SCR 1 Shift-JIS
 [000495|ru] 【Kei】「...\p...\p」\e
 
 [000496|en] ...\p...\pwh-\pwhat?\p Did she just talk in her sleep?\e
-[000496|ru] ...\pC-co do cholery?\p\nCzy ona wｩaﾛnie mｫwiｩｧ przez sen?\e
+[000496|ru] ...\pC-co do cholery?\p\nCzy ona wｩaﾛnie mｫwiｩa przez sen?\e
 
 [000497|en] Don't scare me like that...\p...\p\e
 [000497|ru] Nie strasz mnie tak...\p\e
 
 [00049a|en] For a moment I thought I was thinking out loud again...\p...\p\e
-[00049a|ru] Przez sekundｪ myﾛlaｩe, ｯe znowu na gｩos myﾛli...\p\e
+[00049a|ru] Przez sekundｪ myﾛlaｩem, ｯe znowu na gｩos myﾛli...\p\e
 
 [00049b|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00049b|ru] 【Takeru】「...\p...\p」\e
@@ -1553,7 +1553,7 @@ SCR 1 Shift-JIS
 [00049c|ru] Martwisz siｪ o mnie?\e
 
 [00049d|en] ...\p...\pthen why are you sleeping?\e
-[00049d|ru] ...\pTo dlaczeog ﾛpisz?\e
+[00049d|ru] ...\pTo dlaczego ﾛpisz?\e
 
 [00049e|en] Well,\p this isn't the first time she's sent me mixed signals.\e
 [00049e|ru] No cｫｯ, nie, ｯe to byｩby pierwszy raz,\p kiedy wysｩaｩa\p\nmi mieszane sygnaｩy.\e
@@ -1571,7 +1571,7 @@ SCR 1 Shift-JIS
 [0004a2|ru] Nigdy wczeﾛniej nawet nie dotknｧｩem jej dｩoni.\e
 
 [0004a3|en] But now I can feel Ayamine this close to me.\e
-[0004a3|ru] Ale teraz czujｪ jｧtuｯ obok siebie..\e
+[0004a3|ru] Ale teraz czujｪ jｧ tuｯ obok siebie...\e
 
 [0004a4|en] 【Kei】「...\p...\pmm...\pmm...\p...\p」\e
 [0004a4|ru] 【Kei】「...\pMmm...\p mmm...\p」\e
@@ -1592,7 +1592,7 @@ SCR 1 Shift-JIS
 [0004ae|ru] U-\pumm...\p Zobaczmy...\p...\p\e
 
 [0004af|en] 【Kei】「...\p...\pyou alive?」\e
-[0004af|ru] 【Kei】「...\pﾂejesz?」\e
+[0004af|ru] 【Kei】「...\pﾂyjesz?」\e
 
 [0004b0|en] 【Takeru】「...\p...\pah,\p yeah.」\e
 [0004b0|ru] 【Takeru】「...\pEr, taaak\p.」\e
@@ -1601,7 +1601,7 @@ SCR 1 Shift-JIS
 [0004b1|ru] Nie chcｪ nawet myﾛleｨ o tym, ｯe ciepｩo z dｩoni Ayamine\p\njest wytworem mojej wyobraﾜni.\e
 
 [0004b2|en] If this isn't a dream,\p then I'm still alive and well.\e
-[0004b2|ru] Jeﾛli to nie jest sen, to ja wciｧｯ ｯyjｪ i mam siｪ dobrze.\e
+[0004b2|ru] Jeﾛli to nie jest sen, to ja wciｧｯ ｯyjｪ i mam siｪ\p\nchyba dobrze.\e
 
 [0004b4|en] 【Kei】「...\p...\pthat's good.」\e
 [0004b4|ru] 【Kei】「...\pTo dobrze.」\e
@@ -1616,10 +1616,10 @@ SCR 1 Shift-JIS
 [0004b7|ru] 【Kei】「...\p...\p」\e
 
 [0004b8|en] 【Takeru】「...\p...\pb-\pby the way,\p did you see Class Rep?」\e
-[0004b8|ru] 【Takeru】「...\pA-\pa tak w ogｫle, widziaｩaﾛ Przedstawicielkｪ?」\e
+[0004b8|ru] 【Takeru】「...\pA-\pa tak w ogｫle, widziaｩaﾛ\p\nPrzedstawicielkｪ?」\e
 
 [0004b9|en] 【Kei】「Everyone came together to take Takeru back.」\e
-[0004b9|ru] 【Kei】「Wszyscy zebrali siｪ, ｯeby zabraｨ Takeru z powrotem.」\e
+[0004b9|ru] 【Kei】「Wszyscy zebrali siｪ, ｯeby zabraｨ Takeru z\p\npowrotem.」\e
 
 [0004ba|en] 【Takeru】「Eh? Ah...\p...\p...\p...\pyou mean the dog?」\e
 [0004ba|ru] 【Takeru】「Eh? Oh...\p masz na myﾛｩi swojego psa??」\e
@@ -1634,10 +1634,10 @@ SCR 1 Shift-JIS
 [0004be|ru] 【Kei】「...\pTrochｪ sobie porozmawiaｩyﾛmy.」\e
 
 [0004bf|en] 【Takeru】「You and Class Rep? That's a surprise.」\e
-[0004bf|ru] 【Takeru】「Ty i  Przedstawicielka A to niespodzianka.」\e
+[0004bf|ru] 【Takeru】「Ty i Przedstawicielka. A to niespodzianka.」\e
 
 [0004c0|en] 【Kei】「...\p...\pyes,\p I was shocked.」\e
-[0004c0|ru] 【Kei】「...\Tak.\p Duｯa niespodzianka.」\e
+[0004c0|ru] 【Kei】「...\pTak.\p Duｯa niespodzianka.」\e
 
 [0004c1|en] 【Takeru】「Hey now.」\e
 [0004c1|ru] 【Takeru】「Nie musisz siｪ ze mnｧ zgadzaｨ.」\e
@@ -1685,7 +1685,7 @@ SCR 1 Shift-JIS
 [0004d3|ru] 【Takeru】「Nie przejmuj siｪ tym.\p\nOd teraz wszystko bｪdzie inaczej」\e
 
 [0004d5|en] 【Kei】「...\p...\pyeah.」\e
-[0004d5|ru] 【Kei】「...\pWeim.」\e
+[0004d5|ru] 【Kei】「...\pWiem.」\e
 
 [0004d6|en] 【Takeru】「Then what's wrong with it? Things'll be\ndifferent now anyway.」\e
 [0004d6|ru] 【Takeru】「Wiｪc w czym problem?\p\nOd teraz wszystko bｪdzie inaczej.」\e
@@ -1706,25 +1706,25 @@ SCR 1 Shift-JIS
 [0004dc|ru] Ona nigdy tego nie robi.\e
 
 [0004dd|en] She always avoids thinking hard about things.\e
-[0004dd|ru] Zawsze unika gｩｪbokiego myﾛlenia o sprawach.\e
+[0004dd|ru] Zawsze unika gｩｪbokiego myﾛlenia o wszelkich sprawach.\e
 
 [0004de|en] 【Kei】「I'm sure he still...\p...\p」\e
 [0004de|ru] 【Kei】「Jestem pewna, ｯe on nadal...\p」\e
 
 [0004df|en] He still hasn't changed a bit...\p...\p...\p...\p\e
-[0004df|ru] Jego uczucia nadal siｪani trochｪ nie zmieniｩy...\p...\p\e
+[0004df|ru] Jego uczucia nadal siｪ ani trochｪ nie zmieniｩy...\p...\p\e
 
 [0004e1|en] 【Kei】「...\p...\pshould we promise not to talk about this?」\e
 [0004e1|ru] 【Kei】「...\pMoｯe powinniﾛmy obiecaｨ, ｯe nie bｪdziemy o tym porozmawiaｨ?」\e
 
 [0004e2|en] 【Takeru】「It's really easy to get lost in the past.」\e
-[0004e2|ru] 【Takeru】「Naprawdｪ ｩatwo jest daｨ siｪ wciｧgnｧｨ w przeszｩoﾛｨ.」\e
+[0004e2|ru] 【Takeru】「Naprawdｪ ｩatwo jest daｨ siｪ wciｧgnｧｨ w\p\nprzeszｩoﾛｨ.」\e
 
 [0004e4|en] 【Kei】「...\p...\pthat's true.」\e
 [0004e4|ru] 【Kei】「...\pZbyt prawdziwe.」\e
 
 [0004e5|en] 【Takeru】「But I think we're still better off knowing,\p don't\nyou?」\e
-[0004e5|ru] 【Takeru】「BAle myﾛlｪ, ｯe lepiej bｪdzie, jeﾛli o tym wiemy.\p\nNie zgodzisz siｪ ze mnｧ?」\e
+[0004e5|ru] 【Takeru】「Ale myﾛlｪ, ｯe lepiej bｪdzie, jeﾛli o tym\p\nwiemy. Nie zgodzisz siｪ ze mnｧ?」\e
 
 [0004ec|en] So Sagiri-san explained it to her.\e
 [0004ec|ru] Wiｪc Sagiris-an wyjaﾛniｩ nieporozumienie.\e
@@ -1745,7 +1745,7 @@ SCR 1 Shift-JIS
 [0004f2|ru] 【Takeru】「Rozumiem.\p\nKaｯdy dostaje swoje zakoﾃczenie, chyba...\p」\e
 
 [0004f4|en] 【Kei】「...\p...\pcongratula,\p congratula.」\e
-[0004f4|ru] 【Kei】「...\pWszystko jest ﾛwietne, co siｪ dobrze koﾃczy.」\e
+[0004f4|ru] 【Kei】「Wszystko jest ﾛwietne, co siｪ dobrze koﾃczy.」\e
 
 [0004f6|en] 【Takeru】「That's a little off.」\e
 [0004f6|ru] 【Takeru】「To chyba nie do koﾃca tak szｩo.」\e
@@ -1763,7 +1763,7 @@ SCR 1 Shift-JIS
 [0004fc|ru] 【Takeru】「Co powiedziaｩaﾛ?」\e
 
 [0004fe|en] ...\p...\pnow this is more like it.\e
-[0004fe|ru] ...\pTeraz to bardziej pasuje\e
+[0004fe|ru] ...\pTeraz to bardziej pasuje.\e
 
 [0004ff|en] If they both just had a little courage,\p they wouldn't have\nbeen tied down by the past.\e
 [0004ff|ru] Gdyby onoje mieli odrobinｪ wiｪcej odwagi,\p nie byliby\p\nuwiｧzani przeszｩoﾛciｧ.\e
@@ -1793,7 +1793,7 @@ SCR 1 Shift-JIS
 [00050b|ru] 【Takeru】「Dwｫjki?\p\nMasz na myﾛli Sagiriego-san i Przedstawicielke?」\e
 
 [00050d|en] 【Kei】「...\p...\pyes.\p\p They told me to tell you 'thank you.'」\e
-[00050d|ru] 【Kei】「...\pTak.\p\p\nPowiedzieli mi, ｯebym to przekazaｩa」\e
+[00050d|ru] 【Kei】「...\pTak.\p\p Powiedzieli mi, ｯebym to przekazaｩa.」\e
 
 [00050e|en] 【Takeru】「Did you have to say it that way?」\e
 [00050e|ru] 【Takeru】「Czy musiaｩaﾛ to powiedzieｨ w ten sposｫb?」\e
@@ -1808,7 +1808,7 @@ SCR 1 Shift-JIS
 [000512|ru] Chcieli mi podziｪkowaｨ, huh...\p\e
 
 [000513|en] 【Takeru】「I see...\p...\pnot that I did anything to deserve their\nthanks.」\e
-[000513|ru] 【Takeru】「Cieszｪ siｪ, ｯe to sｩyszｪ...\p\nChociaｯ tak naprawdｪ nie zrobiｩem nic, za co warto byｩoby\p\npodziｪkowaｨ.」\e
+[000513|ru] 【Takeru】「Cieszｪ siｪ, ｯe to sｩyszｪ...\p\nChociaｯ tak naprawdｪ nie zrobiｩem nic, za co warto\p\nbyｩoby podziｪkowaｨ.」\e
 
 [000515|en] All I did was run around desperately.\e
 [000515|ru] Wszystko, co robiｩem, to biegaｩem rozpaczliwie.\e
@@ -1820,7 +1820,7 @@ SCR 1 Shift-JIS
 [000519|ru] 【Kei】「...\pDziｪkujｪ.」\e
 
 [00051b|en] 【Takeru】「Hm?\p Who was that one from──」\e
-[00051b|ru] 【Takeru】「Hm?\p WA to, od kogo to byｩo──」\e
+[00051b|ru] 【Takeru】「Hm?\p A to, od kogo to byｩo──」\e
 
 [00051d|en] 【Kei】「...\p...\pthat was from me.」\e
 [00051d|ru] 【Kei】「...\pTo, byｩo ode mnie.」\e
@@ -1844,7 +1844,7 @@ SCR 1 Shift-JIS
 [000526|ru] 【Kei】「...\pCzy nadal czekasz?」\e
 
 [000527|en] 【Takeru】「I did promise to wait a little while.」\e
-[000527|ru] 【Takeru】「No tak.\p\nObiecaｩem, ｯe trochｪ poczekam, prawda?」\e
+[000527|ru] 【Takeru】「No tak.\p Obiecaｩem, ｯe trochｪ poczekam, prawda?」\e
 
 [000529|en] 【Kei】「...\p...\pI see.」\e
 [000529|ru] 【Kei】「...\pRozumiem.」\e
@@ -1862,7 +1862,7 @@ SCR 1 Shift-JIS
 [000530|ru] 【Kei】「Podjｪｩam decyzjｪ.」\e
 
 [000531|en] 【Takeru】「I see.\p Can you tell me yet?」\e
-[000531|ru] 【Takeru】「Rozumiem.\p\nCzy mam powtｫrzyｨ moje wyznanie miｩoﾛci?」\e
+[000531|ru] 【Takeru】「Rozumiem.\p Czy mam powtｫrzyｨ moje wyznanie miｩoﾛci?」\e
 
 [000533|en] 【Kei】「...\p...\pno.」\e
 [000533|ru] 【Kei】「...\pNie.」\e
@@ -1871,7 +1871,7 @@ SCR 1 Shift-JIS
 [000535|ru] 【Takeru】「...\p...\p」\e
 
 [00053f|en] 【Kei】「...\p...\pI'm not good at talking.」\e
-[00053f|ru] 【Kei】「...\pNie jestem dobry w mｫwieniu.」\e
+[00053f|ru] 【Kei】「...\pNie jestem dobra w mｫwieniu.」\e
 
 [000540|en] 【Takeru】「Eh? Ah...\p...\p」\e
 [000540|ru] 【Takeru】「Co? Ah....\p」\e
@@ -2699,7 +2699,7 @@ SCR 1 Shift-JIS
 [0006be|ru] 【Takeru】「Nie martw siｪ, odprowadzｪ ciｪ do domu.」\e
 
 [0006bf|en] ...\p...\pI thought it'd be much more embarrassing than this.\e
-[0006bf|ru] ...\pMyﾛlaｩem, ｯe bｪdzie to o wiele bardziej zawstydzajｧce.\e
+[0006bf|ru] Myﾛlaｩem, ｯe bｪdzie to o wiele bardziej zawstydzajｧce.\e
 
 [0006c1|en] 【Kei】「...\p...\pwhat is it?」\e
 [0006c1|ru] 【Kei】「...\pO co chodzi?」\e
@@ -2726,7 +2726,7 @@ SCR 1 Shift-JIS
 [0006d0|ru] 【Kei】「Poniesiesz mnie?」\e
 
 [0006d1|en] 【Takeru】「Geh! Seriously? ...\p...\pI'm hurt too you know...\p...\p」\e
-[0006d1|ru] 【Takeru】「Guh! Naprawdｪ? ...Mnie teｯ to boli, wiesz...\p\nWｩｧﾛnie miaｩem wypadek samochodowy, pamiｪtasz?\p」\e
+[0006d1|ru] 【Takeru】「Guh! Naprawdｪ?\p\n...Mnie teｯ to boli, wiesz...\p\nWｩaﾛnie miaｩem wypadek samochodowy, pamiｪtasz?\p」\e
 
 [0006d3|en] 【Kei】「Carry me intensely?」\e
 [0006d3|ru] 【Kei】「Weﾜmiesz mnie na barana?」\e
@@ -2750,7 +2750,7 @@ SCR 1 Shift-JIS
 [0006dd|ru] 【Kei】「Podwｫjne ponosisz mnie?」\e 
 
 [0006de|en] 【Takeru】「Stop that already.\nThat's enough 'inspired' versions for one day.\nBesides,\p what do you even mean!?」\e
-[0006de|ru] 【Takeru】「Przestaﾃ juｯ.\p\nWystarczy juｯ twojej "oryginalnej treﾛci" na jeden dzieﾃ.\p\nA poza tym - czym to siｪ rｫｯni od jaｯdy na barana!?」\e
+[0006de|ru] 【Takeru】「Przestaﾃ juｯ.\p\nWystarczy juｯ twojej "oryginalnej treﾛci" na jeden\p\ndzieﾃ. A poza tym - czym to siｪ rｫｯni od jaｯdy\p\nna barana!?」\e
 
 [0006e1|en] 【Kei】「Then carry me like a princess～」\e
 [0006e1|ru] 【Kei】「No dobra. No to ponieﾛ mnie jak ksiｪｯniczkｪ～」\e
@@ -2771,13 +2771,13 @@ SCR 1 Shift-JIS
 [0006e9|ru] Nie ma wspｫｩczucia, co?\e
 
 [0006eb|en] Speaking of which,\p is it just me,\p or is she about to leave\nme alone in the hospital?\e 
-[0006eb|ru] A propos - czy to tylko ja, czy ona zamierza mnie zostawiｨ\p\nsamego w szpitalu?\e 
+[0006eb|ru] A propos - czy to tylko ja, czy ona zamierza mnie\p\nzostawiｨ samego w szpitalu?\e 
 
 [0006ed|en] Even though I'd just collapsed...\p...\p...\p...\pwell,\p I sure didn't\nact like it.\e
-[0006ed|ru] I pomyﾛleｨ, ｯe dosｩownie zemdlaｩem wczeﾛniej...\p\nChociaｯ chyba nie mogｪ byｨ aｯ tak zraniony, biorｧc pod uwagｪ to,\p\nco wｩaﾛnie zrobiｩem.\e
+[0006ed|ru] I pomyﾛleｨ, ｯe dosｩownie zemdlaｩem wczeﾛniej...\p\nChociaｯ chyba nie mogｪ byｨ aｯ tak zraniony, biorｧc pod\p\nuwagｪ to, co wｩaﾛnie zrobiｩem.\e
 
 [0006ee|en] 【Takeru】「Do you think someone would come if we\npressed the call button?」\e
-[0006ee|ru] 【Takeru】「Myﾛlisz, ｯe ktoﾛ by przyszedｩ, gdybyﾛmy nacisnｪli przycisk przywoｩania?」\e
+[0006ee|ru] 【Takeru】「Myﾛlisz, ｯe ktoﾛ by przyszedｩ, gdybyﾛmy\p\nnacisnｪli przycisk przywoｩania?」\e
 
 [0006f0|en] 【Kei】「...\p...\pthey would.」\e
 [0006f0|ru] 【Kei】「...\pPrawdopodobnie.」\e
@@ -2804,7 +2804,7 @@ SCR 1 Shift-JIS
 [0006fa|ru] 【Takeru】「Rozumiem...\p\nAle robi siｪ juｯ trochｪ pｫﾜno.」\e
 
 [0006fc|en] 【Kei】「...\p...\phe told me to take my time talking to you.」\e
-[0006fc|ru] 【Kei】「...\pPowiedziaｩ mi, ｯebym nie spierzyｩa siｪ rozmowｧ z tobｧ.」\e
+[0006fc|ru] 【Kei】「...\pPowiedziaｩ mi, ｯebym nie spierzyｩa\p\nrozmowｧ z tobｧ.」\e
 
 [0006fd|en] 【Takeru】「I see.」\e
 [0006fd|ru] 【Takeru】「Rozumiem.」\e
@@ -2825,7 +2825,7 @@ SCR 1 Shift-JIS
 [000706|ru] A co z tobｧ!?\e
 
 [000707|en] How should I say this...\p...\pshouldn't you be...\p...\ptrying to\ncreate a more romantic mood or something?\e
-[000707|ru] O co ci chodzi...?\p\nNie moｯesz przynajmniej sprｫbowaｨ utrzymaｨ romantycznego nastroju?\e
+[000707|ru] O co ci chodzi...?\p\nNie moｯesz przynajmniej sprｫbowaｨ utrzymaｨ\p\nromantycznego nastroju?\e
 
 [000709|en] 【Kei】「...\p...\p...\p...\p?」\e
 [000709|ru] 【Kei】「...\p...\p?」\e
@@ -2879,7 +2879,7 @@ SCR 1 Shift-JIS
 [000722|ru] 【Takeru】「Masz racjｪ. To wszystko, co siｪ liczy.」\e
 
 [000724|en] 【Kei】「...\p...\pthen it's alright.」\e
-[000724|ru] 【Kei】「...\pW takim razie jest w porzadku, prawda?」\e
+[000724|ru] 【Kei】「...\pW takim razie jest w porzｧdku, prawda?」\e
 
 [000725|en] 【Takeru】「Fine.」\e
 [000725|ru] 【Takeru】「Wszystko gra.」\e
@@ -2897,7 +2897,7 @@ SCR 1 Shift-JIS
 [00072b|ru] 【Takeru】「Trudno zaufaｨ czemuﾛ, co wychodzi z twoich ust, jasne?」\e
 
 [00072d|en] 【Kei】「That's why...\p...\pI asked you to...\p...\p...\p...\p」\e
-[00072d|ru] 【Kei】「Dlatego...\p zamiast tego uｯyｩam swojego ciaｩa...\p」\e
+[00072d|ru] 【Kei】「Dlatego...\p zamiast tego uｯyｩam swojego ciaｩa.\p」\e
 
 [00072f|en] 【Takeru】「...\p...\p...\p...\p」\e
 [00072f|ru] 【Takeru】「...\p...\p」\e
@@ -2942,13 +2942,13 @@ SCR 1 Shift-JIS
 [000754|ru] 【Takeru】「Dlaczego ja!?」\e
 
 [000757|en] 【Kei】「...\p...\pnormal people don't do such amazing things in\na place like this.」\e
-[000757|ru] 【Kei】「...\pNormalni ludzie nie robiｧ takich lubieｯnych rzeczy\p\nw takich miejscu.」\e
+[000757|ru] 【Kei】「...\pNormalni ludzie nie robiｧ takich lubieｯnych\p\nrzeczy w takich miejscu.」\e
 
 [00075a|en] 【Takeru】「Eh?」\e
 [00075a|ru] 【Takeru】「Huh?」\e
 
 [00075d|en] 【Kei】「...\p...\pyour fault, Shirogane.」\e
-[00075d|ru] 【Kei】「...\pTo twoja wina,Shirogane.」\e
+[00075d|ru] 【Kei】「...\pTo twoja wina, Shirogane.」\e
 
 [00075e|en] 【Takeru】「W-\pwait a minute.」\e
 [00075e|ru] 【Takeru】「N-\pN, zaczekaj chwilｪ...」\e
@@ -2981,10 +2981,10 @@ SCR 1 Shift-JIS
 [000773|ru] Nie ｯeby mi to przeszkadzaｩo.\p\nChciaｩem Ayamine dokｩadnie takｧ, jaka jest.\e
 
 [000776|en] I only wanted to make her mine.\e
-[000776|ru] Nie chcｪ, ｯeby droczyｩｧ siｪ z kimkolwiek oprｫcz mnie.\e
+[000776|ru] Nie chcｪ, ｯeby droczyｩa siｪ z kimkolwiek oprｫcz mnie.\e
 
 [000777|en] 【Takeru】「I might've forgotten something,\p so I'll go see\nSagiri-san now.」\e
-[000777|ru] 【Takeru】「Mogｩem o czymﾛ zapomnieｨ, wiｪc pｫjdｪ sprawdziｨ,\p\nco u Sagiriego-san.」\e
+[000777|ru] 【Takeru】「Mogｩem o czymﾛ zapomnieｨ, wiｪc pｫjdｪ\p\nsprawdziｨ, co u Sagiriego-san.」\e
 
 [00077a|en] 【Kei】「...\p...\pthen I'll go with you.」\e
 [00077a|ru] 【Kei】「...\pWtedy pｫjdｪ z tobｧ.」\e
@@ -2993,7 +2993,7 @@ SCR 1 Shift-JIS
 [00077b|ru] 【Takeru】「Ah,\p okej.」\e
 
 [00077c|en] We're going to see Sagiri-san, you know?\e
-[00077c|ru] Nie sｧdziｩem, ｯe bｪdziesz tak chｪtna, zeby go znowu zobaczyｨ.\e
+[00077c|ru] Nie sｧdziｩem, ｯe bｪdziesz tak chｪtna, zeby go znowu\p\nzobaczyｨ.\e
 
 [00077f|en] 【Kei】「...\p...\pI'm fine now.」\e
 [00077f|ru] 【Kei】「...\pTeraz jest juｯ dobrze.」\e
@@ -3032,7 +3032,7 @@ SCR 1 Shift-JIS
 [000796|ru] Zostawiamy to tak jak jest?\e
 
 [000797|en] *sigh*\p How long am I gonna be able to keep this up?\e
-[000797|ru] *Westchnienie*\p\n...Czy narpawdｪ bｪdｪ w stanie to robiｨ kaｯdego nia?\e
+[000797|ru] *Westchnienie*\p\n...Czy narpawdｪ bｪdｪ w stanie to robiｨ kaｯdego dnia?\e
 
 [00079a|en] Geez...\p...\p...\p...\pwish I could look forward to it.\e
 [00079a|ru] To byｩo nawet zabawne...\p...\p\nJuｯ nie mogｪ siｪ doczekaｨ.\e
@@ -3089,7 +3089,7 @@ SCR 1 Shift-JIS
 [0007bb|ru] 【Takeru】「Gotowa do wyjﾛcia?」\e
 
 [0007c1|en] 【Kei】「...\p...\phold out your hand.」\e
-[0007c1|ru] 【Kei】「...\pTrzymaj swojｧ rｪkｪ.」\e
+[0007c1|ru] 【Kei】「...\pWyciｧgaj swojｧ rｪkｪ.」\e
 
 [0007c2|en] 【Takeru】「My hand? Okay.」\e
 [0007c2|ru] 【Takeru】「Mojｧ rｪkｪ? Okej.」\e
@@ -3104,13 +3104,13 @@ SCR 1 Shift-JIS
 [0007c7|ru] 【Takeru】「H-\phej.」\e
 
 [0007ca|en] Don't hold my hand so suddenly.\p You startled me.\e
-[0007ca|ru] Nie chwytaj mnie tak za rｪkｪ, kiedy siｪ tego nie spodziewam.\e
+[0007ca|ru] Nie chwytaj mnie tak za rｪkｪ, kiedy siｪ tego nie\p\nspodziewam.\e
 
 [0007cb|en] Though it's kinda stupid of me to react this much to\nholding hands now...\p...\p\e
 [0007cb|ru] Cociaｯ to trochｪ gｩupie z mojej strony, ｯe tak bardzo\p\nreagujｪ na trzymanie siｪ za rｪce w tym momeﾃcie...\p\e
 
 [0007ce|en] 【Kei】「...\p...\pyou can shake now.」\e
-[0007ce|ru] 【Kei】「...\pDoby chｩopiec.\p\nNauczyｩeﾛ siｪ podawaｨ rｪkｪ.」\e
+[0007ce|ru] 【Kei】「...\pDobry chｩopiec.\p\nNauczyｩeﾛ siｪ podawaｨ rｪkｪ.」\e
 
 [0007cf|en] 【Takeru】「...\p...\pdo you have to bring that up...\p...\p?」\e
 [0007cf|ru] 【Takeru】「...\pUgh...\p\nMyﾛlaｩem, ｯe to juｯ za nami...\p?」\e
@@ -3131,7 +3131,7 @@ SCR 1 Shift-JIS
 [0007d9|ru] ...\pZaﾛmiaｩｧ siｪ.\e
 
 [0007da|en] Ayamine...\p...\plaughed.\e
-[0007da|ru] Ayamine...\p...\plaughed.\e
+[0007da|ru] Ayamine...\p siｪ zaﾛmiaｩa.\e
 
 [0007db|en] Hahahaha...\p...\p\e
 [0007db|ru] Hahahaha...\p\e
