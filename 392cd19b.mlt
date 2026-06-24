@@ -1,4 +1,4 @@
-SCR 1 Shift-JIS
+﻿SCR 1 Shift-JIS
 418
 
 [00000a|en] 【Takeru】「...\p...\p...\p...\p」\e
@@ -8,13 +8,13 @@ SCR 1 Shift-JIS
 [00000b|ru] Huh...\p Nie ma jej tu...\p\e
 
 [00000c|en] I was sure she'd be here,\p since she wasn't in the\nclassroom or anything...\p...\e
-[00000c|ru] Byｩem prawie pewien, ｯe tu bｪdzie, skoro nie byｩo\p\njej w klasie ani gdzie indziej...\e
+[00000c|ru] Byｩem prawie pewien, ｯe tu bｪdzie, skoro nie byｩo jej\p\nw klasie ani gdzie indziej...\e
 
 [00000d|en] But, despite that,\p not finding her is actually a relief.\e
 [00000d|ru] Ale szczerze...\p\nTak naprawdｪ to siｪ ucieszyｩem, ｯe jej tut nie ma.\e
 
 [00000e|en] I can't get yesterday out of my head.\e
-[00000e|ru] Gdyｯ nadal nie mogｪ wyrzucic wczorajszego dnia\p\nz mojej gｩowy.\e
+[00000e|ru] Gdyｯ nadal nie mogｪ wyrzucic wczorajszego dnia z\p\nmojej gｩowy.\e
 
 [000013|en] I'm just wasting my afternoon now.\e
 [000013|ru] A w tym momeﾃcie po prostu marnujｪ swｫj czas.\e
@@ -35,13 +35,13 @@ SCR 1 Shift-JIS
 [00001b|ru] Co to jest?\e
 
 [00001d|en] Aaah,\p that's what that is.\e
-[00001d|ru] Och,\pto jest to.\e
+[00001d|ru] Och,\p to jest to.\e
 
 [000026|en] 【Takeru】「Hey,\p I told you to stop doing that.」\e
-[000026|ru] 【Takeru】「Hej,\ mｫwiｩem ci juｯ,\p ｯebyﾛ przestaｩ\p\nto robiｨ.」\e
+[000026|ru] 【Takeru】「Hej, mｫwiｩem ci juｯ,\p ｯebyﾛ przestaｩ to\p\nrobiｨ.」\e
 
 [000027|en] Geez,\p this is why I keep calling you stupid.\e
-[000027|ru] Ugh,\p Dlaczego ciｧgle nazywam ciｪ gｩupim\p\nkundlem.\e
+[000027|ru] Ugh,\p Dlaczego ciｧgle nazywam ciｪ gｩupim kundlem.\e
 
 [000029|en] 【Dog】　──*chomp*\e
 [000029|ru] 【Pies】　──*Chrup*\e
@@ -56,10 +56,10 @@ SCR 1 Shift-JIS
 [00002e|ru] 【Takeru】「...\pIdﾜ sobie.」\e
 
 [000033|en] 【Takeru】「...\p...\pyou really are carefree, aren't you?」\e
-[000033|ru] 【Takeru】「...\pNaprawdｪ nie masz ｯadnych zmartwieﾃ, prwada?」\e
+[000033|ru] 【Takeru】「...\pNaprawdｪ nie masz ｯadnych zmartwieﾃ,\p\nprawda?」\e
 
 [000034|en] He's wagging his tail so hard I think it might fly off...\p...\p...\p...\p\e
-[000034|ru] Zdajｪ mi siｪ, ｯe on maha swym ogonem tak mocno,\p\njakby miaｩ zaraz odlecieｨ...\p...\p\e
+[000034|ru] Zdajｪ mi siｪ, ｯe on maha swym ogonem tak mocno, jakby\p\nmiaｩ zaraz odlecieｨ...\p...\p\e
 
 [00003a|en] 【Dog】　──*whap* *whap* *whap* *whap* *whap*\n*whap!*\e
 [00003a|ru] 【Pies】　──*Chrup* *chrup* *chrup* *chrup* *chrup*\n*chrup*!\e
@@ -68,7 +68,7 @@ SCR 1 Shift-JIS
 [00003b|ru] 【Takeru】「Nie,\p nie traktuj tego jako wyzwania.」\e
 
 [00003c|en] I really wouldn't mind if it did come off.\e
-[00003c|ru] Nie wiem, co bym do cholory zrobiｩ,\p gdyby\p\nfaktycznie mi tutaj odleciaｩ.\e
+[00003c|ru] Nie wiem, co bym do cholory zrobiｩ,\p gdyby faktycznie\p\nmi tutaj odleciaｩ.\e
 
 [000045|en] 【Takeru】「You think Ayamine will come today?」\e
 [000045|ru] 【Takeru】「Myﾛlisz, ｯe Ayamine przyjdzie dzisiaj?」\e
@@ -77,7 +77,7 @@ SCR 1 Shift-JIS
 [000046|ru] ...\pPrzecieｯ i tak nie rozumiesz co do ciebie mｫwiｪ.\e
 
 [00004e|en] Now that I think about it,\p it might be best not to see\neach other.\e
-[00004e|ru] Chociaｯ po namyﾛlｪ, moｯe powinienem siｪ cieszyｨ, ｯe na niｧ\p\ndzisiaj nie wpadｩem.\e
+[00004e|ru] Chociaｯ po namyﾛlｪ, moｯe powinienem siｪ cieszyｨ, ｯe na\p\nniｧ dzisiaj nie wpadｩem.\e
 
 [00004f|en] After what happened yesterday...\p...\pcrap,\p I'm\nremembering it again.\e
 [00004f|ru] Zwｩaszcza po tym, co siｪ wczoraj wydarzyｩo...\p\nCholera, znowu sobie o tym przypomniaｩem.\e
@@ -89,10 +89,10 @@ SCR 1 Shift-JIS
 [000051|ru] 【Takeru】「Mｫwiｩem ci, ｯe to nie jest ｯadne wyzwanie.」\e
 
 [00005b|en] 【Dog】　*pit* *pat* *pit* *pat*\e 
-[00005b|ru] 【Pies】　*pit* *pat* *pit* *pat*\e 
+[00005b|ru] 【Pies】　*Tup* *Tup* *Tup* *Tup*\e 
 
 [000063|en] 【Takeru】「Hm? What is it?」\e
-[000063|ru] 【Takeru】「Hm? Co to ma byｨ」\e
+[000063|ru] 【Takeru】「Hm? Co to ma byｨ?」\e
 
 [000068|en] Don't randomly run off all of a sudden...\p...\p...\p...\pwait...\p...\pah.\e
 [000068|ru] Nie uciekaj mi mi tak znienacka...\p\nNo czekaj...\p co to ma byｨ...\p\e
@@ -107,7 +107,7 @@ SCR 1 Shift-JIS
 [00006f|ru] ...\p...\p\e
 
 [000071|en] There's nothing strange about her being here...\p...\p\e
-[000071|ru] To nie tak, ｯe jej pojawienie siｪ tu, to coﾛ\p\ndziwnego, ale...\p\e
+[000071|ru] To nie tak, ｯe jej pojawienie siｪ tu, to coﾛ dziwnego,\p\nale...\p\e
 
 [000072|en] I-\pI'm not the slightest bit prepared for this.\e
 [000072|ru] J-\pja nie jestem na to przygotowany.\e
@@ -122,7 +122,7 @@ SCR 1 Shift-JIS
 [00007a|ru] ...\p\e
 
 [00007c|en] ...\p...\p...\p...\peh?\e
-[00007c|ru] ...\p...\peh?\e
+[00007c|ru] ...\p...\pEh?\e
 
 [00007e|en] 【Kei】「...\p...\pwhat're you doing?」\e
 [00007e|ru] 【Kei】「...\pCo ty robisz?」\e
@@ -152,13 +152,13 @@ SCR 1 Shift-JIS
 [00008a|ru] W koﾃcu to twoja wina.\e
 
 [00008b|en] Well,\p I gave her that blank look after the fight too.\e
-[00008b|ru] Chyba nie powinienem oczekiwaｨ niczego innego.\p\nOna rｫwnieｯ po kｩｫtki spojrzaｩa na mnie tym samym\p\npustem wzrokiem.\e
+[00008b|ru] Chyba nie powinienem oczekiwaｨ niczego innego.\p\nOna rｫwnieｯ po kｩｫtki spojrzaｩa na mnie tym samym\p\npustym wzrokiem.\e
 
 [00008d|en] 【Kei】「...\p...\pyou mad?」\e
 [00008d|ru] 【Kei】「...\pWkurzony jesteﾛ?」\e
 
 [00008e|en] 【Takeru】「Not really.」\e
-[00008e|ru] 【Takeru】「W sumie to nie zabardzo.」\e
+[00008e|ru] 【Takeru】「W sumie to nie za bardzo.」\e
 
 [000090|en] 【Kei】「...\p...\phmmm.」\e
 [000090|ru] 【Kei】「...\pOh-ho.」\e
@@ -176,7 +176,7 @@ SCR 1 Shift-JIS
 [000096|ru] 【Kei】「...\pTakeru,\p podejdﾜ tu.」\e
 
 [000099|en] Damn,\p fleeing to the dog again.\e
-[000099|ru] Tch.\p Znowu zasｩaniam siｪ psem.\e
+[000099|ru] Tch.\p Znowu zasｩania siｪ psem.\e
 
 [0000a0|en] What am I doing...\p...\p?\e
 [0000a0|ru] Co ja, do cholery, robiｪ...\p?\e
@@ -191,7 +191,7 @@ SCR 1 Shift-JIS
 [0000b0|ru] 【Kei】「...\pKto o tym zdecydowaｩ?」\e
 
 [0000b1|en] 【Takeru】「YOU──!! You can't sit on me, Ayamine!」\e
-[0000b1|ru] 【Takeru】「TY──!! Ayamine, nie wolno ci na mnie siadaｨ!」\e
+[0000b1|ru] 【Takeru】「TY──!!\p\nAyamine, nie wolno ci na mnie siadaｨ!」\e
 
 [0000b3|en] 【Kei】「...\p...\pand Takeru can?」\e
 [0000b3|ru] 【Kei】「...\pA Takeru moｯe?」\e
@@ -230,7 +230,7 @@ SCR 1 Shift-JIS
 [0000d4|ru] 【Kei】「...\pOch. Kogoﾛ zamurowaｩo.」\e
 
 [0000d8|en] 【Takeru】「Because of what you just said!」\e
-[0000d8|ru] 【Takeru】「Poniewaｯ z znikｧ wyskoczyｩaﾛ tym szajsem!」\e
+[0000d8|ru] 【Takeru】「Poniewaｯ z znikｧd wyskoczyｩaﾛ tym szajsem!」\e
 
 [0000da|en] 【Kei】「You said you'd assault me.」\e
 [0000da|ru] 【Kei】「To ty powiedziaｩeﾛ, ｯe zrobisz mi krzywdｪ.」\e
@@ -263,7 +263,7 @@ SCR 1 Shift-JIS
 [0000f1|ru] 【Kei】「No dalej. Skrzywdﾜ mnie.」\e
 
 [0000f3|en] 【Takeru】「Hey now!! S-\pstop it.\nI came to say something else today.」\e
-[0000f3|ru] 【Takeru】「No dobra, daj spokｫj!\p\nZjawiｩem siｪ dzisiaj bo mam jeszcze coﾛ innego do powiedzienia.」\e
+[0000f3|ru] 【Takeru】「No dobra, daj spokｫj!\p\nZjawiｩem siｪ dzisiaj bo mam jeszcze coﾛ innego do\p\npowiedzienia.」\e
 
 [0000fa|en] 【Kei】「Intense coward.」\e
 [0000fa|ru] 【Kei】「Wielki tchｫrz.」\e
@@ -287,7 +287,7 @@ SCR 1 Shift-JIS
 [000104|ru] ...\p...\p\e
 
 [000107|en] 【Takeru】「Aaah,\p enough of this! Stop it!! Just stop it!」\e
-[000107|ru] 【Takeru】「Ugh! Wystarczy! Skoﾃczyｩem!\p\nLepiej by juｯ byｩo, gdybyﾛｧ sama to zrobiｩa!」\e
+[000107|ru] 【Takeru】「Ugh! Wystarczy! Skoﾃczyｩem!\p\nLepiej by juｯ byｩo, gdybyﾛ sama to zrobiｩa!」\e
 
 [000109|en] 【Kei】「But it's fun.」\e
 [000109|ru] 【Kei】「Ale to takie zabawne.」\e
@@ -311,7 +311,7 @@ SCR 1 Shift-JIS
 [000114|ru] 【Kei】「Serio, serio!?」\e
 
 [000115|en] 【Takeru】「...\p...\pit's fun.\p It really is fun.\p You bet it's fun! You\nsatisfied now!?」\e
-[000115|ru] 【Takeru】「...\pNo nie, to jest bardzo zabawne.\p\nPrawdziwa beczka ﾛmiechu.\p\nTo takie zabawne, ｯe duszｪ siｪ z ﾛmiechu! Teraz zadowolona?」\e
+[000115|ru] 【Takeru】「...\pNo nie, to jest bardzo zabawne.\p\nPrawdziwa beczka ﾛmiechu.\p\nTo takie zabawne, ｯe duszｪ siｪ z ﾛmiechu!\p\nTeraz zadowolona?」\e
 
 [000117|en] 【Kei】「Yes.」\e
 [000117|ru] 【Kei】「Tak.」\e
@@ -320,7 +320,7 @@ SCR 1 Shift-JIS
 [000118|ru] 【Takeru】「...\p...\p」\e
 
 [000119|en] Am I the only one who feels like I'm dancing in someone\nelse's palm?\e
-[000119|ru] Czy tylko mi siｪ zdajｪ, ale czy faktycznie taﾃczｪ dokｩadnie\p\ntak jak ona mi zagra?\e
+[000119|ru] Czy tylko mi siｪ zdajｪ, ale czy faktycznie taﾃczｪ\p\ndokｩadnie tak jak ona mi zagra?\e
 
 [00011a|en] 【Takeru】「Can we get back to the point?」\e
 [00011a|ru] 【Takeru】「Czy moｯemy wrｫciｨ do sedna?」\e
@@ -338,10 +338,10 @@ SCR 1 Shift-JIS
 [000120|ru] W koﾃcu nie mogｩem tego powiedzieｨ wczoraj.\e
 
 [000122|en] I don't want this to go on any longer without coming\nclean about what I know.\e
-[000122|ru] Okaｯｪ siｪ byｨ tchｫrzem jeﾛli nadal bｪdｪ ciｧgnｧｩ tｪ\p\nfarse dalej. Zwｩaszcza po tym co siｪ wczoraj dowiedziaｩem \e
+[000122|ru] Okaｯｪ siｪ byｨ tchｫrzem jeﾛli nadal bｪdｪ ciｧgnｧｩ tｪ\p\nfarse dalej. Zwｩaszcza po tym co siｪ wczoraj tak\p\nnaprawdｪ dowiedziaｩem.\e
 
 [000123|en] I won't let myself be racked with guilt every time\nAyamine comes near me.\e
-[000123|ru] Nie mogｪ sobie pozwoliｨ na to, ｯe zakaｯdym razem\p\njak bｪdｪ widziaｩ z Ayamine, ｯe bｪdzie mnie drｪczyｩo sumienie.\e
+[000123|ru] Nie mogｪ sobie pozwoliｨ na to, ｯe zakaｯdym razem\p\njak bｪdｪ widziaｩ z Ayamine, ｯe bｪdzie mnie drｪczyｩo\p\nsumienie.\e
 
 [000125|en] I don't know if I'm betraying anyone by doing this.\e
 [000125|ru] W sumie to sam nie wiem kogo bym teraz zdradzaｩ.\e
@@ -359,13 +359,13 @@ SCR 1 Shift-JIS
 [00012c|ru] 【Kei】「...\p...\p」\e
 
 [00012f|en] 【Takeru】「Sagiri-san really wanted to talk to you.」\e
-[00012f|ru] 【Takeru】「Sagiri-san naprawdｪ chciaｩ z tobｧ porozmawiaｨ.」\e
+[00012f|ru] 【Takeru】「Sagiri-san naprawdｪ chciaｩ z tobｧ\p\nporozmawiaｨ.」\e
 
 [000131|en] 【Kei】「...\p...\p...\p...\p」\e
 [000131|ru] 【Kei】「...\p...\p」\e
 
 [000133|en] 【Takeru】「Isn't now a good a time as any to see him?」\e
-[000133|ru] 【Takeru】「Czy to nie jest dobry moment, ｯeby go zobaczyｨ?」\e
+[000133|ru] 【Takeru】「Czy to nie jest dobry moment, ｯeby go\p\nzobaczyｨ?」\e
 
 [000134|en] 【Kei】「...\p...\p...\p...\p」\e
 [000134|ru] 【Kei】「...\p...\p」\e
@@ -389,7 +389,7 @@ SCR 1 Shift-JIS
 [00013b|ru] Nie podobaｩoby mi siｪ, gdyby Ayamine przestaｩa spｪdzaｨ\p\nze mnｧ czas po tym...\p\e
 
 [00013d|en] ...\p...\pbut,\p even so...\p...\pI still need to do this.\e
-[00013d|ru] ...\pAle mimo to...\p nadal musze to zrobiｨ.\e
+[00013d|ru] ...\pAle mimo to...\p nadal muszｪ to zrobiｨ.\e
 
 [00013e|en] For her sake.\e
 [00013e|ru] Po to by jｧ strzｧsnｧｨ.\e
@@ -428,7 +428,7 @@ SCR 1 Shift-JIS
 [000155|ru] 【Takeru】「...\pEh, tak.」\e
 
 [000157|en] Having to wait that long for an answer really is unnerving.\e
-[000157|ru] Mimo ｯe to ja to zasugerowaｩem i na takｧ odpowiedﾜ liczyｩem.\p\nNadal mnie to trochｪ niepokoi.\e
+[000157|ru] Mimo ｯe to ja to zasugerowaｩem i na takｧ odpowiedﾜ\p\nliczyｩem. Nadal mnie to trochｪ niepokoi.\e
 
 [000158|en] I thought I was prepared for this.\e
 [000158|ru] Myﾛlaｩem, ｯe byｩem na to przygotowany.\e
@@ -512,10 +512,10 @@ SCR 1 Shift-JIS
 [00017e|ru] Przed Ayamine...\p i przed Sagiri-san...\p...\p?\e
 
 [00017f|en] Am I pretending to hold back because I'm afraid to hear\nan answer?\e
-[00017f|ru] Czy udajｪ, ｯe siｪ powtrzymujｪ bo bojｪ siｪ usｩyszeｨ odpowiedﾜ?\e
+[00017f|ru] Czy udajｪ, ｯe siｪ powtrzymujｪ bo bojｪ siｪ usｩyszeｨ\p\nodpowiedﾜ?\e
 
 [000180|en] I'm not worried about causing problems for them by\nstepping in.\e
-[000180|ru] Nie chodzi o to, ｯe bojｪ siｪ, ｯe wtrｧcｪ siｪ, ｯeby\p\nim nie sprawiｨ problemｫw.\e
+[000180|ru] Nie chodzi o to, ｯe bojｪ siｪ, ｯe wtrｧcｪ siｪ, ｯeby im\p\nnie sprawiｨ problemｫw.\e
 
 [000181|en] I'm afraid of how such an act might backfire on me.\e
 [000181|ru] Bojｪ siｪ, ｯe to moｯe siｪ na mnie zemﾛciｨ.\e
@@ -524,7 +524,7 @@ SCR 1 Shift-JIS
 [000182|ru] Bojｪ siｪ odrzucenia.\e
 
 [20018c|en] ──But even so...\p...\p...\p...\pyou cannot lie about your own\nfeelings.\p That is why I came here in the first place.\e
-[20018c|ru] ──Ale mimo wszystko...\p nie moｯesz okｩamywaｨ wｩasnych uczuｨ.\p\nWｩaﾛnie dlatego tu przyszedｩem.\e
+[20018c|ru] ──Ale mimo wszystko...\p nie moｯesz okｩamywaｨ\p\nwｩasnych uczuｨ. Wｩaﾛnie dlatego tu przyszedｩem.\e
 
 [000192|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000192|ru] 【Takeru】「...\p...\p」\e
@@ -539,7 +539,7 @@ SCR 1 Shift-JIS
 [000195|ru] Nie jest uczciwie wymyﾛlaｨ wymｫwki, a potem uciekaｨ,\p\nｯeby nikt nie ucierpiaｩ.\e
 
 [000196|en] That's why...\p...\p...\p...\pI know what I need to do.\e
-[000196|ru] Dlatego...\p...\p\nWiem, co muszｪ zrobiｨ.\e
+[000196|ru] Dlatego...\p...\p Wiem, co muszｪ zrobiｨ.\e
 
 [000197|en] 【Takeru】「Hey,\p Ayamine.」\e
 [000197|ru] 【Takeru】「Hej,\p Ayamine.」\e
@@ -551,7 +551,7 @@ SCR 1 Shift-JIS
 [00019a|ru] 【Takeru】「...\p...\p」\e
 
 [00019b|en] 【Kei】「...\p...\pwhat?」\e
-[00019b|ru] 【Kei】「...\pC?」\e
+[00019b|ru] 【Kei】「...\pCo?」\e
 
 [00019c|en] 【Takeru】「...\p...\pI...\p...\p...\p...\p」\e
 [00019c|ru] 【Takeru】「...\pJa...\p...\p」\e
@@ -560,7 +560,7 @@ SCR 1 Shift-JIS
 [00019d|ru] 【Kei】「...\p...\p」\e
 
 [00019e|en] 【Takeru】「I think I'm in love with you,\p Ayamine.」\e
-[00019e|ru] 【Takeru】「Myﾛlｪ, ｯe prawdopodobnie ciｪ kocham,\p Ayamine.」\e
+[00019e|ru] 【Takeru】「Myﾛlｪ, ｯe prawdopodobnie chyba ciｪ kocham,\p\nAyamine.」\e
 
 [00019f|en] 【Kei】「...\p...\pyou are?」\e
 [00019f|ru] 【Kei】「...\pKochasz?」\e
@@ -617,7 +617,7 @@ SCR 1 Shift-JIS
 [0001c3|ru] 【Kei】「...\pNie wyglｧdasz za dobrze.」\e
 
 [0001c5|en] 【Takeru】「It's nothing.\p I'm just a bit surprised.」\e
-[0001c5|ru] 【Takeru】「To nic. Jestem po prostu trochｪ zdenerwowany.」\e
+[0001c5|ru] 【Takeru】「To nic. Jestem po prostu odrobinｪ\p\nzdenerwowany.」\e
 
 [0001c7|en] 【Kei】「...\p...\pI see.」\e
 [0001c7|ru] 【Kei】「...\pRozumiem.」\e
@@ -647,7 +647,7 @@ SCR 1 Shift-JIS
 [0001d6|ru] 【Kei】「...\pPasuje ci?」\e
 
 [0001d8|en] 【Takeru】「No it's not.\p It's not good at all, but...\p...」\e
-[0001d8|ru] 【Takeru】「Tak, pasuje.\p\nTo znaczy, wcale tak naprawdｪ to nie ale jakoﾛ przeｯyjｪ...」\e
+[0001d8|ru] 【Takeru】「Tak, pasuje. To znaczy, wcale tak naprawdｪ to nie,\p\nale jakoﾛ przeｯyjｪ...」\e
 
 [0001dc|en] 【Kei】「...\p...\p...\p...\p」\e
 [0001dc|ru] 【Kei】「...\p...\p」\e
@@ -662,10 +662,10 @@ SCR 1 Shift-JIS
 [0001e3|ru] 【Takeru】「Mnie o to nie pytaj...\p...\p」\e
 
 [0001e6|en] 【Kei】「...\p...\pthere's no one else to ask.」\e
-[0001e6|ru] 【Kei】「...\pNie ma nikogo innego, kogo mogｩabym o to zapytaｨ.」\e
+[0001e6|ru] 【Kei】「...\pNie ma nikogo innego, kogo mogｩabym o to\p\nzapytaｨ.」\e
 
 [0001e7|en] 【Takeru】「...\p...\pI'm the one who asked you to in the first\nplace.」\e
-[0001e7|ru] 【Takeru】「...\pTo ja byｩem tym, ktｫry pierwszy o to poprosiｩ.」\e
+[0001e7|ru] 【Takeru】「...\pTo ja byｩem tym, ktｫry pierwszy o to\p\npoprosiｩ.」\e
 
 [0001e9|en] 【Kei】「Sorry.」\e
 [0001e9|ru] 【Kei】「Przepraszam.」\e
@@ -707,7 +707,7 @@ SCR 1 Shift-JIS
 [000204|ru] 【Kei】「...\p...\p」\e
 
 [000206|en] 【Takeru】「Make sure you've thought everything through\nby tomorrow.」\e
-[000206|ru] 【Takeru】「Upewnij siｪ, ｯe wszystko dobrze przemyﾛlaｩaﾛ.」\e
+[000206|ru] 【Takeru】「Upewnij siｪ tylko, ｯe wszystko dobrze\p\nprzemyﾛlaｩaﾛ.」\e
 
 [000208|en] 【Kei】「...\p...\pI will.」\e
 [000208|ru] 【Kei】「...\pTak zrobiｪ.」\e
@@ -725,7 +725,7 @@ SCR 1 Shift-JIS
 [00020e|ru] 【Kei】「...\pShirogane?」\e
 
 [000211|en] 【Takeru】「Don't say you just wanted to call my name.」\e
-[000211|ru] 【Takeru】「Nie chcesz mi chyba powiedzieｨ, ｯe po prostu\p\nchciaｩaﾛ wypowiedzieｨ moje nazwisko.」\e
+[000211|ru] 【Takeru】「Nie chcesz mi chyba powiedzieｨ, ｯe po\p\nprostu chciaｩaﾛ wypowiedzieｨ moje nazwisko.」\e
 
 [000213|en] 【Kei】「...\p...\p...\p...\p」\e
 [000213|ru] 【Kei】「...\p...\p」\e
@@ -785,7 +785,7 @@ SCR 1 Shift-JIS
 [000239|ru] 【Takeru】「...\p...\p」\e
 
 [00023a|en] ...\p...\pnow then,\p there's something else I need to do.\e
-[00023a|ru] ...\pA teraz.\p\nMuszｪ jeszcze coﾛ zrobiｨ.\e
+[00023a|ru] ...\pA teraz. Muszｪ jeszcze coﾛ zrobiｨ.\e
 
 [00023c|en] It hasn't been very long since that door appeared in my\nroom.\e
 [00023c|ru] Nie minｪｩo duｯo czasu, odkｧd te drzi pojawiｩy siｪ w\p\nmoim pokoju.\e
@@ -818,7 +818,7 @@ SCR 1 Shift-JIS
 [000254|ru] Nie wiem, jak to siｪ zaczｪｩo.\e
 
 [000255|en] Much less why it turned out like this...\p...\p\e
-[000255|ru] A tyk bardziej, dlatego tak siｪ potoczyｩo...\p\e
+[000255|ru] A tym bardziej, dlatego tak siｪ potoczyｩo...\p\e
 
 [000256|en] I just couldn't answer Meiya's feelings.\e
 [000256|ru] Po prostu nie potrafiｩem odpowiedzieｨ na uczucia Meiyi.\e
@@ -827,13 +827,13 @@ SCR 1 Shift-JIS
 [000257|ru] Moje uczucia sｧ juｯ skierowane gdzie indziej.\e
 
 [000258|en] Even if Ayamine dumps me,\p the fact that Meiya isn't the\none I really want means I have to say this now.\e
-[000258|ru] Nawet jeﾛli Ayamine mnie zostawi,\p fakt, ｯe Meiya nie jest tｧ,\p\nktｫrej naprawdｪ chcｪ, oznacza to, ｯe musｯe jej ci to powiedzieｨ.\e
+[000258|ru] Nawet jeﾛli Ayamine mnie zostawi,\p fakt, ｯe Meiya nie\p\njest tｧ, ktｫrej naprawdｪ chcｪ, oznacza to,\p\nｯe muszｪ jej ci to powiedzieｨ.\e
 
 [000259|en] ...\p...\pI need to put an end to this.\e
 [000259|ru] ...\pMuszｪ to zakoﾃczyｨ.\e
 
 [00025a|en] I can't just wait until Meiya gives up and leaves me.\e 
-[00025a|ru] Nie mogｪ po prostu czekaｯ, aｯ Meiya mnie zostawi.\e 
+[00025a|ru] Nie mogｪ po prostu czekaｨ, aｯ Meiya mnie zostawi.\e 
 
 [00025b|en] I need to say this myself.\e
 [00025b|ru] Muszｪ sam to powiedzieｨ.\e
@@ -851,7 +851,7 @@ SCR 1 Shift-JIS
 [00026a|ru] 【Meiya】「Rozumiem.」\e
 
 [00026c|en] 【Takeru】「I...\p...\p...\p...\phave to tell you something,\p Meiya.」\e
-[00026c|ru] 【Takeru】「Ja...\p...\p\nMuszｪ ci coﾛ powiedzieｨ,\p Meiyo.」\e
+[00026c|ru] 【Takeru】「Ja...\p...\p Muszｪ ci coﾛ powiedzieｨ,\p Meiyo.」\e
 
 [00026e|en] 【Meiya】「...\p...\p...\p...\pokay.」\e
 [00026e|ru] 【Meiya】「...\p...\pBardzo dobrze.」\e
@@ -863,13 +863,13 @@ SCR 1 Shift-JIS
 [000271|ru] 【Meiya】「...\pAch.」\e
 
 [000272|en] 【Takeru】「She hasn't answered me yet,\p so I'm still pretty\nnervous.」\e
-[000272|ru] 【Takeru】「Jeszcze mi nie odpowiedziaｩa, wiｪc nadal siｪ\p\ndenerwujｪ.」\e
+[000272|ru] 【Takeru】「Jeszcze mi nie odpowiedziaｩa, wiｪc nadal\p\nsiｪ denerwujｪ.」\e
 
 [000274|en] 【Meiya】「...\p...\pI see.」\e
 [000274|ru] 【Meiya】「...\pRozumiem.」\e
 
 [000275|en] 【Takeru】「There's probably a better way to say this,\p but I\ncan't think of anything else...\p...\p」\e
-[000275|ru] 【Takeru】「Prawdopodobnie jest lepszy sposｫb, ｯeby to powiedzieｨ,\p\nale nie mogｩem wymyﾛliｨ niczego innego...\p」\e
+[000275|ru] 【Takeru】「Prawdopodobnie jest lepszy sposｫb, ｯeby to\p\npowiedzieｨ, ale nie mogｩem wymyﾛliｨ niczego innego...\p」\e
 
 [000277|en] 【Meiya】「...\p...\p...\p...\p」\e
 [000277|ru] 【Meiya】「...\p...\p」\e
@@ -899,7 +899,7 @@ SCR 1 Shift-JIS
 [000287|ru] 【Takeru】「Huh?」\e
 
 [000289|en] 【Meiya】「In fact,\p if you had said it any less bluntly...\p...\p\nit would have been strange.」\e
-[000289|ru] 【Meiya】「Wｩaﾛnicie...\p\nByｩoby o wiele dziwniej usｩyszeｨ, jak to ujmujesz bardziej zrｪcznie.」\e
+[000289|ru] 【Meiya】「Wｩaﾛciwie...\p\nByｩoby o wiele dziwniej usｩyszeｨ, jak to ujmujesz\p\nbardziej zrｪcznie.」\e
 
 [00028a|en] 【Takeru】「...\p...\pMeiya.」\e
 [00028a|ru] 【Takeru】...\pMeiya.」\e
@@ -908,7 +908,7 @@ SCR 1 Shift-JIS
 [00028b|ru] Chyba ma racjｪ.\e
 
 [00028c|en] She was never expecting any clever lines from me.\e
-[00028c|ru] Nigdy nie spodziewaｩem siｪ po mnie ｯadnych gｩadkich i\p\n.taktownych kwestii.\e
+[00028c|ru] Nigdy nie spodziewaｩem siｪ po mnie ｯadnych gｩadkich i\p\ntaktownych kwestii.\e
 
 [00028d|en] 【Takeru】「I'm grateful to you.」\e
 [00028d|ru] 【Takeru】「Jestem ci wdziｪczny.」\e
@@ -920,13 +920,13 @@ SCR 1 Shift-JIS
 [000290|ru] 【Takeru】「Moｯe to niesprawieliwe, ale...\p...\p\nDziｪkujｪ za wysｩuchanie mnie.」\e
 
 [000292|en] 【Meiya】「...\p...\pTakeru,\p you misunderstand.」\e
-[000292|ru] 【Meiya】「p...\pTakeru,\p ty coﾛ ﾜle zrozumiaｩeﾛ.」\e
+[000292|ru] 【Meiya】「...\pTakeru,\p ty coﾛ ﾜle zrozumiaｩeﾛ.」\e
 
 [000293|en] 【Takeru】「Meiya?」\e
 [000293|ru] 【Takeru】「Meiya?」\e
 
 [000295|en] 【Meiya】「I wanted to do that...\p...\pand Takeru,\p you are the\none...\p...\pwho taught me how to listen,\p\p in such a short time.」\e
-[000295|ru] 【Meiya】「Ja chciaｩam ci pomｫc...\p\nBo w naszym wspｫlnym i krｫtkim spｪdzonym czasie, to ty tak naprawdｪ\p\nnauczyｩeﾛ mnie sｩuchaｨ.」\e
+[000295|ru] 【Meiya】「Ja chciaｩam ci pomｫc...\p\nBo w naszym wspｫlnym i krｫtkim spｪdzonym czasie, to ty\p\ntak naprawdｪ nauczyｩeﾛ mnie sｩuchaｨ.」\e
 
 [000296|en] 【Takeru】「...\p...\pI did that?」\e
 [000296|ru] 【Takeru】「...\pZrobiｩem tak?」\e
@@ -953,19 +953,19 @@ SCR 1 Shift-JIS
 [0002a2|ru] 【Meiya】「...\pCzy nie powiedziaｩam...\p\nﾂe ja jestem inna?」\e
 
 [0002a3|en] 【Takeru】「You're right.\p You can't do anything if you get\nlost in someone else's issues.」\e
-[0002a3|ru] 【Takeru】「Jest dokｩadnie tak, jak powiedziaｩaﾛ.\p\nNie moｯesz nic zrobiｨ, jeﾛli zgubisz siｪ w cudzych problemach.」\e
+[0002a3|ru] 【Takeru】「Jest dokｩadnie tak, jak powiedziaｩaﾛ.\p\nNie moｯesz nic zrobiｨ, jeﾛli zgubisz siｪ w cudzych\p\nproblemach.」\e
 
 [0002a5|en] 【Meiya】「...\p...\p...\p...\p」\e
 [0002a5|ru] 【Meiya】「...\p...\p」\e
 
 [0002a6|en] 【Takeru】「And if that's why you can't do anything, then\nyou're just a coward...\p...\p Isn't that right?」\e
-[0002a6|ru] 【Takeru】「A jeﾛli dlatego nic nie moｯesz zrobiｨ.\p\nPomimo tego, ｯe tak narpawdｪ siｪ tego nie obawiasz...\pnTo koniec koﾃcｫw wychodzi na to, ｯe jesteﾛ zwycajnym tchｫrzesz.\p\nPrawda, Meiyo?」\e
+[0002a6|ru] 【Takeru】「A jeﾛli dlatego nic nie moｯesz zrobiｨ.\p\nPomimo tego, ｯe tak narpawdｪ siｪ tego nie obawiasz...\p\nTo koniec koﾃcｫw wychodzi na to, ｯe jesteﾛ zwyczajnym\p\ntchｫrzem. Prawda, Meiyo?」\e
 
 [0002a8|en] 【Meiya】「Yes...\p...\p...\p...\pthat is why I came here.」\e
-[0002a8|ru] 【Meiya】「Tak...\p...\p\nWｩaﾛnie dlatego tutaj przyszｩam..」\e
+[0002a8|ru] 【Meiya】「Tak...\p...\p\nWｩaﾛnie dlatego tutaj przyszｩam.」\e
 
 [0002a9|en] 【Takeru】「...\p...\pMeiya.」\e
-[0002a9|ru] 【Takeru】「...\pMeiya.」\e
+[0002a9|ru] 【Takeru】「...\pMeiyo.」\e
 
 [0002ab|en] 【Meiya】「...\p...\p...\p...\p」\e
 [0002ab|ru] 【Meiya】「...\p...\p」\e
@@ -989,7 +989,7 @@ SCR 1 Shift-JIS
 [0002b7|ru] 【Meiya】「...\pGｩupolu...\p Nie przepraszaj.」\e
 
 [0002b9|en] 【Takeru】「...\p...\pMeiya.」\e
-[0002b9|ru] 【Takeru】「...\pMeiya.」\e
+[0002b9|ru] 【Takeru】「...\pMeiyo.」\e
 
 [0002bb|en] 【Meiya】「I knew what you wanted to say...\p...\p...\p...\p」\e
 [0002bb|ru] 【Meiya】「Od poczｧtku wiedziaｩam, co chcesz powiedzieｨ...\p...\p」\e
@@ -1037,25 +1037,25 @@ SCR 1 Shift-JIS
 [0002d3|ru] To byｩoby zwykｩym orkucieﾃstwem.\e
 
 [0002d4|en] That's something only a clueless idiot would do.\e
-[0002d4|ru] To coﾛ, co zrobiｩby tylko najbardziej nieﾛwiadomy idiota.\e
+[0002d4|ru] To coﾛ, co zrobiｩby tylko najbardziej totalnie\p\nnieﾛwiadomy idiota.\e
 
 [0002d6|en] 【Meiya】「...\p...\pkeep looking forward.」\e
 [0002d6|ru] 【Meiya】「...\pPozostaﾃ stanowczy i patrz przed siebie.」\e
 
 [0002d7|en] 【Takeru】「Meiya.」\e
-[0002d7|ru] 【Takeru】「Meiya.」\e
+[0002d7|ru] 【Takeru】「Meiyo.」\e
 
 [0002d9|en] 【Meiya】「Idiot...\p...\p...\pdo not show me such a pathetic face.」\e
-[0002d9|ru] 【Meiya】「Gｩupcze...\p...\p\nNie rｫb takiej ｯaｩosnej miny.」\e
+[0002d9|ru] 【Meiya】「Gｩupcze...\p...\p Nie rｫb takiej ｯaｩosnej miny.」\e
 
 [0002db|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002db|ru] 【Takeru】「...\p...\p」\e
 
 [0002dd|en] 【Meiya】「Please remain the Shirogane Takeru who made\nthat decision...\p...\p...\p...\puntil the end.」\e
-[0002dd|ru] 【Meiya】「Proszｪ, pozostaﾃ Shirogane Takeru, ktｫrego\p\nsama wybraｩam...\p do samego koﾃca」\e
+[0002dd|ru] 【Meiya】「Proszｪ, pozostaﾃ Shirogane Takeru, ktｫrego\p\nsama wybraｩam...\p do samego koﾃca.」\e
 
 [0002de|en] 【Takeru】「...\p...\pMeiya.」\e
-[0002de|ru] 【Takeru】「...\pMeiya.」\e
+[0002de|ru] 【Takeru】「...\pMeiyo.」\e
 
 [0002e0|en] 【Meiya】「...\p...\pnow...\p...\p...\p...\p」\e
 [0002e0|ru] 【Meiya】「...\pI, wraz z tym...\p...\p」\e
@@ -1076,13 +1076,13 @@ SCR 1 Shift-JIS
 [0002ea|ru] 【Takeru】「...\p」\e
 
 [0002ec|en] 【Meiya】「I will not leave tomorrow...\p...\p」\e
-[0002ec|ru] 【Meiya】「Nie mam na myﾛli, ｯe wyjadｪ jutro albo pojutrze...\p」\e
+[0002ec|ru] 【Meiya】「Nie mam na myﾛli, ｯe wyjadｪ jutro albo\p\npojutrze...\p」\e
 
 [0002ed|en] 【Takeru】「...\p...\pMeiya.」\e
-[0002ed|ru] 【Takeru】「...\pMeiya.」\e
+[0002ed|ru] 【Takeru】「...\pMeiyo.」\e
 
 [0002ef|en] 【Meiya】「I want to see where this path leads you.」\e
-[0002ef|ru] 【Meiya】「Chcｪ zobaczyｨ, dokｧd zaprowadzi ciｪ ta ﾛcieｯka.」\e
+[0002ef|ru] 【Meiya】「Chcｪ zobaczyｨ, dokｧd zaprowadzi ciｪ ta\p\nﾛcieｯka.」\e
 
 [0002f0|en] 【Takeru】「...\p...\peh?」\e
 [0002f0|ru] 【Takeru】「...\pHuh?」\e
@@ -1094,22 +1094,22 @@ SCR 1 Shift-JIS
 [0002f3|ru] 【Takeru】「No hej...」\e
 
 [0002f5|en] 【Meiya】「Huhuhu...\p...\p」\e
-[0002f5|ru] 【Meiya】「*Chichot*..\p」\e
+[0002f5|ru] 【Meiya】「*Chichot*...\p」\e
 
 [0002f6|en] 【Takeru】「Is this really an appropriate time to say that?」\e
 [0002f6|ru] 【Takeru】「Czy to narpawdｪ jest moment, ｯeby to mｫwiｨ?」\e
 
 [0002f8|en] 【Meiya】「...\p...\pforgive me.\p\p I am quite weak right now...\p...\p」\e
-[0002f8|ru] 【Meiya】「...\p...\pforgive me.\p\p I am quite weak right now...\p...\p」\e
+[0002f8|ru] 【Meiya】「...\pWybacz mi.\p Nie jestem teraz w formie...\p」\e
 
 [0002fa|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0002fa|ru] 【Takeru】「...\p...\p...\p...\p」\e
 
 [0002fc|en] 【Meiya】「...\p...\pI am not proud of it either, but...\p...\p...\pif I do not\nsee the end of it,\p\p and get some closure...\p...\p...\p...\p...\p...\pI will\nnever...\p...\p」\e
-[0002fc|ru] 【Meiya】「...\p...\pI am not proud of it either, but...\p...\p...\pif I do not\nsee the end of it,\p\p and get some closure...\p...\p...\p...\p...\p...\pI will\nnever...\p...\p」\e
+[0002fc|ru] 【Meiya】「...\pJa teｯ nie jestem z tego dumna, ale...\p\nJeﾛli nie zobaczｪ koﾃca i nie zamknｪ tej sprawy...\p\nTo nigdy...」\e
 
 [0002fe|en] 【Takeru】「...\p...\pMeiya.」\e
-[0002fe|ru] 【Takeru】「...\p...\pMeiya.」\e
+[0002fe|ru] 【Takeru】「...\p...\pMeiyo.」\e
 
 [000300|en] 【Meiya】「...\p...\p...\p...\p」\e
 [000300|ru] 【Meiya】「...\p...\p...\p...\p」\e
@@ -1118,10 +1118,10 @@ SCR 1 Shift-JIS
 [000301|ru] 【Takeru】「...\p...\p...\p...\p」\e
 
 [000303|en] 【Meiya】「...\p...\pI am joking.」\e
-[000303|ru] 【Meiya】「...\p...\pI am joking.」\e
+[000303|ru] 【Meiya】「...\pﾂartowaｩam.」\e
 
 [000305|en] 【Takeru】「...\p...\pMeiya.」\e
-[000305|ru] 【Takeru】「...\p...\pMeiya.」\e
+[000305|ru] 【Takeru】「...\p...\pMeiyo.」\e
 
 [000307|en] 【Meiya】「Sakaki's name has yet to be cleared.\nI cannot leave until that has been dealt with.」\e
 [000307|ru] 【Meiya】「Imiｪ Sakaki jeszcze nie zostaｩo czyszczone.\p\nNie mogｪ odejﾛｨ, dopｫki to nie zostanie zaｩatwione.」\e
@@ -1130,7 +1130,7 @@ SCR 1 Shift-JIS
 [000308|ru] 【Takeru】「...\p...\p」\e
 
 [00030c|en] 【Meiya】「I have failed to claim you, but...\p...\p」\e
-[00030c|ru] 【Meiya】「Nie udaｩo mi siｪciｪ pochwycyｨ, ale...\p」\e
+[00030c|ru] 【Meiya】「Nie udaｩo mi siｪ ciｪ pochwycyｨ, ale...\p」\e
 
 [00030d|en] 【Takeru】「...\p...\phm?」\e
 [00030d|ru] 【Takeru】「...\pHm?」\e
@@ -1142,19 +1142,19 @@ SCR 1 Shift-JIS
 [000311|ru] 【Takeru】「....\p...\p」\e
 
 [000313|en] 【Meiya】「I have obtained many things...\p...\pwhich I would\nnever have known of within Mitsurugi,\p\p and which are\nalmost impossible to replace...\p...\p」\e
-[000313|ru] 【Meiya】「Zdobyｩam tu wiele rzeczy...\p\nRzeczy, o ktｫrych nigdy bym siｪ nie dowiedziaｩa w granicach Mitsurugich.\p\nRzeczy ktｫrych prawie nie da siｪ zastｧpiｨ...\p」\e
+[000313|ru] 【Meiya】「Zdobyｩam tu wiele rzeczy...\p\nRzeczy, o ktｫrych nigdy bym siｪ nie dowiedziaｩa w\p\ngranicach Mitsurugich.\p\nRzeczy ktｫrych prawie nie da siｪ zastｧpiｨ...\p」\e
 
 [000314|en] 【Takeru】「...\p...\p...\p...\p」\e
 [000314|ru] 【Takeru】「...\p...\p」\e
 
 [000316|en] 【Meiya】「Meeting people is a truly precious thing...\p...\p」\e
-[000316|ru] 【Meiya】「Spotkania, ktｫre mamy w tym ｯyciu, sｧ naprawdｪ cenne...\p」\e
+[000316|ru] 【Meiya】「Spotkania, ktｫre mamy w tym ｯyciu, sｧ\p\nnaprawdｪ cenne...\p」\e
 
 [000317|en] 【Takeru】「Meiya...\p...\p」\e
-[000317|ru] 【Takeru】「Meiya...\p」\e
+[000317|ru] 【Takeru】「Meiyo...\p」\e
 
 [000319|en] 【Meiya】「...\p...\pyour time will come shortly, will it not?」\e
-[000319|ru] 【Meiya】「...\pTwｫj prawdziwy test wciｧｯ jest przed tobｧ?」\e
+[000319|ru] 【Meiya】「Twｫj prawdziwy test wciｧｯ jest przed tobｧ?」\e
 
 [00031a|en] 【Takeru】「...\p...\pI know.」\e
 [00031a|ru] 【Takeru】「...\pWiem.」\e
@@ -1166,7 +1166,7 @@ SCR 1 Shift-JIS
 [00031d|ru] 【Takeru】「...\pTaaa.」\e
 
 [00031f|en] 【Meiya】「I am proud to have fought alongside Kagami and\nSakaki...\p...\p If you handle their feelings poorly,\p I shall not\nforgive you...\p...\p」\e
-[00031f|ru] 【Meiya】「Jestem dumna ｯe walczyｩam u boku Kagami i Sakaki.\p\nJeﾛli ﾜle poradzisz soibe z ich uczuciami...\p\nTo ci tego nie wybaczｪ\p」\e
+[00031f|ru] 【Meiya】「Jestem dumna ｯe walczyｩam u boku Kagami i\p\nSakaki. Jeﾛli ﾜle poradzisz soibe z ich uczuciami...\p\nTo ci tego nie wybaczｪ\p」\e
 
 [000321|en] 【Takeru】「...\p...\pI know.」\e
 [000321|ru] 【Takeru】「...\pWiem.」\e
@@ -1178,7 +1178,7 @@ SCR 1 Shift-JIS
 [000326|ru] 【Takeru】「...\p...\p」\e
 
 [000328|en] 【Meiya】「...\p...\pyou had best return soon.」\e
-[000328|ru] 【Meiya】「...\pNajlepiej bｪdzie jak juｯ bｪdziesz siｪ zbieraｩ.」\e
+[000328|ru] 【Meiya】「...\pNajlepiej bｪdzie jak juｯ bｪdziesz siｪ\p\nzbieraｩ.」\e
 
 [000329|en] 【Takeru】「Eh?」\e
 [000329|ru] 【Takeru】「Huh?」\e
@@ -1202,10 +1202,10 @@ SCR 1 Shift-JIS
 [00034e|ru] Sprawiｩaﾛ, ｯe nasze dni byｩy takie gｩoﾛnie i peｩne ｯycia...\p\e
 
 [000353|en] The direct and honest feelings...\p...\pyou gave us...\p...\p\e
-[000353|ru] Podzieliｩaﾛ siｪ swoimi uczuciami, szczerymi i prawdziwymi...\p\e
+[000353|ru] Podzieliｩaﾛ siｪ swoimi uczuciami, szczerymi i\p\nprawdziwymi...\p\e
 
 [000358|en] Many, many feelings...\p...\pyou made me realize...\p...\p\e
-[000358|ru] Pomogｩaﾛ mi zrozumieｨ...\p\nTak wiele rzeczy...\p\e
+[000358|ru] Pomogｩaﾛ mi zrozumieｨ... Tak wiele rzeczy...\p\e
 
 [00035d|en] And...\p...\pthe last thing you gave me was...\p...\presolve...\p...\p\e
 [00035d|ru] A ostatniｧ rzeczｧ, ktｫrｧ mi daｩaﾛ...\p\nByｩa determinacja...\p\e
@@ -1217,7 +1217,7 @@ SCR 1 Shift-JIS
 [000366|ru] Naprawdｪ jestem...\p szczｪﾛciarzem...\p\e
 
 [000367|en] I'll probably never meet another woman as noble as\nyou...\p...\p\e
-[000367|ru] Prawdopodobnie nigdy nie spotkam innej kobiety,\p\ntak szlachetnej jak ty...\p\e
+[000367|ru] Prawdopodobnie nigdy nie spotkam innej kobiety, tak\p\nszlachetnej jak ty...\p\e
 
 [000368|en] Much less one infatuated with me...\p...\p\e
 [000368|ru] A tym bardziej takiej, ktｫra jest we mnie zauroczona...\p\e
