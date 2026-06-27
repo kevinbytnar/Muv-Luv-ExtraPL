@@ -1,4 +1,4 @@
-SCR 1 Shift-JIS
+﻿SCR 1 Shift-JIS
 106
 
 [0001b6|en] 【Takeru】「...\p...\phey.」\e
@@ -14,7 +14,7 @@ SCR 1 Shift-JIS
 [0001ba|ru] Dzisiaj opuﾛciliﾛmy caｩy dzieﾃ zajｪｨ, ｯeby mｫc pｫjﾛｨ\p\nna randkｪ...\p\e
 
 [0001bb|en] But in the end, we came back to the hill behind the\nschool...\p...\pjust to fall asleep.\e
-[0001bb|ru] Ale ostatecznie wrｫciliﾛmy na wzgｫrze za sobｧ...\p\nTylko po to, ｯeby soibe pospaｨ.\e
+[0001bb|ru] Ale ostatecznie wrｫciliﾛmy na wzgｫrze za sobｧ...\p\nTylko po to, ｯeby sobie pospaｨ.\e
 
 [0001bc|en] 【Takeru】「...\p...\p...\p...\p」\e
 [0001bc|ru] 【Takeru】「...\p...\p」\e
@@ -35,13 +35,13 @@ SCR 1 Shift-JIS
 [0001c4|ru] Czy mam teraz rozmawiaｨ z psem?\e
 
 [0001c6|en] 【Takeru】「...\p...\pif Class Rep finds us,\p it's gonna get very\nmessy.」\e
-[0001c6|ru] 【Takeru】「...\pJeﾛli znajdzie nas Przedstawicielka, to z pewnoﾛciｧ\p\nzrobi nam piekｩo na Ziemi.」\e
+[0001c6|ru] 【Takeru】「...\pJeﾛli znajdzie nas Przedstawicielka, to\p\nz pewnoﾛciｧ zrobi nam piekｩo na Ziemi.」\e
 
 [0002bd|en] 【Kei】「...\p...\p...\p...\p」\e
 [0002bd|ru] 【Kei】「...\p...\p」\e
 
 [0001c9|en] 【Takeru】「I'm impressed you can sleep so comfortably\nhere...\p...\p」\e
-[0001c9|ru] 【Takeru】「Jestem pod wraｯeniem, ｯe moｯesz tu tak wygodnie\p\nspaｨ...\p」\e
+[0001c9|ru] 【Takeru】「Jestem pod wraｯeniem, ｯe moｯesz tu tak\p\nwygodnie spaｨ...\p」\e
 
 [0001ca|en] And on my shoulder of all places...\p...\p\e
 [0001ca|ru] I ze wszystkich miejsc, wybraｩaﾛ moje ramie...\p\e
@@ -50,7 +50,7 @@ SCR 1 Shift-JIS
 [0001cc|ru] 【Takeru】「*Westchnienie*」\e
 
 [0001cd|en] Well,\p it doesn't matter.\e
-[0001cd|ru] WCｫｯ, chyba jest w porzｧdku.\e
+[0001cd|ru] Cｫｯ, chyba jest w porzｧdku.\e
 
 [0001ce|en] ──*kiss*\e
 [0001ce|ru] ──*Buziak*\e
@@ -59,25 +59,25 @@ SCR 1 Shift-JIS
 [0001cf|ru] 【Takeru】「Huh?」\e
 
 [0001d1|en] 【Takeru】「What did you do?」\e
-[0001d1|ru] 【Takeru】「Co zrobilaﾛ」\e
+[0001d1|ru] 【Takeru】「Co zrobiｩaﾛ?」\e
 
 [0002ca|en] 【Kei】「...\p...\pyou couldn't tell?」\e
 [0002ca|ru] 【Kei】「...\pNie zauwaｯyｩeﾛ?」\e
 
 [0001d4|en] 【Takeru】「I-\pI could.」\e
-[0001d4|ru] 【Takeru】「Aniby jak miaｩem to zrobiｨ.」\e
+[0001d4|ru] 【Takeru】「A niby jak miaｩem to zrobiｨ.」\e
 
 [0002cb|en] 【Kei】「...\p...\pthen I won't say it.」\e
 [0002cb|ru] 【Kei】「...\pWiｪc nie powiem.」\e
 
 [0001d7|en] 【Takeru】「Hey now...\p...」\e
-[0001d7|ru] 【Takeru】Okej,\p posｩuchaj...」\e
+[0001d7|ru] 【Takeru】「Okej,\p posｩuchaj...」\e
 
 [0002cc|en] 【Kei】「...\p...\pdidn't you like it?」\e
 [0002cc|ru] 【Kei】「...\pNie podobaｩo siｪ?」\e
 
 [0001da|en] 【Takeru】「It's not that.」\e
-[0001da|ru] 【Takeru】「To nie to.」\e
+[0001da|ru] 【Takeru】「To nie tak.」\e
 
 [0002cd|en] 【Kei】「...\p...\pwanna do it again?」\e
 [0002cd|ru] 【Kei】「...\pChcesz to zrobiｨ jeszcze raz?」\e
@@ -107,7 +107,7 @@ SCR 1 Shift-JIS
 [0002e4|ru] 【Kei】「...\pWszystko w porzｧdku?」\e
 
 [0001eb|en] 【Takeru】「Anyway,\p school's over.」\e
-[0001eb|ru] 【Takeru】「Chodzi mi o to, ｯe szkoｩa wｩaﾛnie siｪ skoﾃczyｩa.」\e
+[0001eb|ru] 【Takeru】「Chodzi mi o to, ｯe szkoｩa wｩaﾛnie siｪ\p\nskoﾃczyｩa.」\e
 
 [0002e5|en] 【Kei】「I want to keep doing this.」\e
 [0002e5|ru] 【Kei】「Chcｪ to robiｨ dalej.」\e
@@ -155,10 +155,10 @@ SCR 1 Shift-JIS
 [0002eb|ru] 【Kei】「...\pDobrze.」\e
 
 [000201|en] I only found out after going out with her, but...\p...\p\nAyamine gets jealous really easily...\p...\p\e
-[000201|ru] Odkryｩem to dopiero, gdy zaczｧｩem siｪ z niｧ spotykaｨ, ale...\p Ayamine bardzo ｩatwo wpada w zazdroﾛｨ...\p\e
+[000201|ru] Odkryｩem to dopiero, gdy zaczｧｩem siｪ z niｧ spotykaｨ,\p\nale...\p Ayamine bardzo ｩatwo wpada w zazdroﾛｨ...\p\e
 
 [000202|en] She even got jealous of a manga heroine once...\p...\p\e
-[000202|ru] Zazdroﾛciｩa nwet bohaterce mangi, ktｫrｧ kiedyﾛ czytaｩem...\p\e
+[000202|ru] Zazdroﾛciｩa nawet bohaterce mangi, ktｫrｧ kiedyﾛ sobie\p\nczytaｩem...\p\e
 
 [000203|en] 【Takeru】「So,\p you really want to stay here?」\e
 [000203|ru] 【Takeru】「Wiｪc narpawdｪ chcesz tu zostaｨ?」\e
@@ -254,7 +254,7 @@ SCR 1 Shift-JIS
 [100382|ru] \r
 
 [30021c|en] 【Takeru】「So,\p what should I do?」\p
-[30021c|ru] 【Takeru】「Wiｪc,uh...\p Cp [pwomoeme, teraz zrobiｨ?」\p
+[30021c|ru] 【Takeru】「Wiｪc,uh...\p Co powinienem, teraz zrobiｨ?」\p
 
 [100383|en] \r
 [100383|ru] \r
