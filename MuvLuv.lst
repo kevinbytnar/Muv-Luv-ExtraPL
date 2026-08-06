@@ -4753,7 +4753,7 @@ Przede mną na stole pojawił się kawałek papieru.
 【月詠】「お戻りは早くて年明けかと」
 【月詠】「お戻りは早くて年明けかと」
 【Tsukuyomi】「They should be back around the beginning of the New Year, at the earliest.」
-【Tsukuyomi】「Gdzieśtak na początku roku powinni::BREAKLINE::wrócić do domu.」
+【Tsukuyomi】「Gdzieś tak na początku roku powinni::BREAKLINE::wrócić do domu.」
 【武】「なにを――――――――――――！！！！？？？」
 【武】「なにを――――――――――――！！！！？？？」
 【Takeru】「Whaaaaaaaaaaaaat!?!?!?」
@@ -4821,7 +4821,7 @@ Przede mną na stole pojawił się kawałek papieru.
 【冥夜】「昨夕昨晩のそなたと鑑のやりとりは一体どのような理由に基づいて行われたものであるのか私はぜひに説明を求めたいところで……」
 【冥夜】「昨夕昨晩のそなたと鑑のやりとりは一体どのような理由に基づいて行われたものであるのか私はぜひに説明を求めたいところで……」
 【Meiya】「Most notably, I remain uncertain as to the cause of your quarrel with Kagami yesterday evening, and I would greatly appreciate any explanation you might be able to...」
-【Meiya】「Most notably, I remain uncertain as to the cause of your quarrel with Kagami yesterday evening, and I would greatly appreciate any explanation you might be able to...」
+【Meiya】「I przede wszystkim nie jestem pewna::BREAKLINE::co do przyczyny waszej wczorajszej wieczornej kłótni::BREAKLINE::z Kagami. Byłabym bardzo wdzięczna za wszelkie::BREAKLINE::wyjaśnienia co do tej sytuacji, które::BREAKLINE::moglibyście mi dać...」
 【月詠】「冥夜様」
 【月詠】「冥夜様」
 【Tsukuyomi】「Meiya-sama.」
@@ -4829,71 +4829,71 @@ Przede mną na stole pojawił się kawałek papieru.
 【冥夜】「ん？　タケルはどうした？」
 【冥夜】「ん？　タケルはどうした？」
 【Meiya】「Hm? Where has Takeru gone?」
-【Meiya】「Hm? Where has Takeru gone?」
+【Meiya】「Hm? Gdzie poszedł Takeru?」
 【月詠】「外にてお待ちでございます。::BREAKLINE::さあ、鞄をお持ちになって…………はい、それでは行ってらっしゃいませ」
 【月詠】「外にてお待ちでございます。::BREAKLINE::さあ、鞄をお持ちになって…………はい、それでは行ってらっしゃいませ」
 【Tsukuyomi】「He awaits you outside.::BREAKLINE::Here, your bookbag... There we are.::BREAKLINE::I do hope you have a pleasant day at school.」
-【Tsukuyomi】「He awaits you outside.::BREAKLINE::Here, your bookbag... There we are.::BREAKLINE::I do hope you have a pleasant day at school.」
+【Tsukuyomi】「Udał się na zewnątrz.::BREAKLINE::Czeka już na ciebie.::BREAKLINE::Proszę, oto twój plecak.::BREAKLINE:: Mam nadzieję, że będziesz miała::BREAKLINE::przyjemny dzień w szkole...」
 【冥夜】「わかった……ふ、せっかちなヤツだ。::BREAKLINE::鑑、準備はよいか」
 【冥夜】「わかった……ふ、せっかちなヤツだ。::BREAKLINE::鑑、準備はよいか」
 【Meiya】「 Very well... Heh, what an impatient man.::BREAKLINE::Kagami, are your preparations complete?」
-【Meiya】「 Very well... Heh, what an impatient man.::BREAKLINE::Kagami, are your preparations complete?」
+【Meiya】「 Bardzo dobrze...::BREAKLINE::Heh, co za niecierpliwy mężczyzna.::BREAKLINE::Kagami, przygotowałaś się do szkoły?」
 【純夏】「え、あ、うん……」
 【純夏】「え、あ、うん……」
 【Sumika】「Huh? Oh. Yeah...」
-【Sumika】「Huh? Oh. Yeah...」
+【Sumika】「Ech? Ach, tak...」
 【冥夜】「月詠、先ほどのタケルの言葉……」
 【冥夜】「月詠、先ほどのタケルの言葉……」
 【Meiya】「Tsukuyomi, what Takeru said just now...」
-【Meiya】「Tsukuyomi, what Takeru said just now...」
+【Meiya】「Tsukuyomi, z tego co Takeru powiedział...」
 【月詠】「全てお任せ下さいませ」
 【月詠】「全てお任せ下さいませ」
 【Tsukuyomi】「Please, leave everything to me.」
-【Tsukuyomi】「Please, leave everything to me.」
+【Tsukuyomi】「Proszę, zosaw wszystko mnie.」
 【冥夜】「頼んだぞ」
 【冥夜】「頼んだぞ」
 【Meiya】「I am counting on you.」
-【Meiya】「I am counting on you.」
+【Meiya】「Liczę na ciebie.」
 【武】「いてて…………くっそぉ、最近このパターン多すぎるぞ！」
 【武】「いてて…………くっそぉ、最近このパターン多すぎるぞ！」
 【Takeru】「Ow-ow-ow... Dammit, this is happening way too often recently!」
-【Takeru】「Ow-ow-ow... Dammit, this is happening way too often recently!」
+【Takeru】「Ała-ała-ała......::BREAKLINE::Cholera, tego typu rzeczy jakoś ostatnio::BREAKLINE::za często mi się zdarzają!」
 【声】「大丈夫か？」
 【声】「大丈夫か？」
 【Voice】「Are you alright?」
-【Voice】「Are you alright?」
+【Głos】「Czy wszystko w porządku?」
 【男】「おまえがいきなり車の前に降ってくるから驚いたぞ。::BREAKLINE::俺でなければかわせたかどうか……」
 【男】「おまえがいきなり車の前に降ってくるから驚いたぞ。::BREAKLINE::俺でなければかわせたかどうか……」
 【Man】「You gave me quite the shock when you fell in front of my car like that all of a sudden. I doubt most people could have avoided you in time...」
-【Man】「You gave me quite the shock when you fell in front of my car like that all of a sudden. I doubt most people could have avoided you in time...」
+【Mężczyzna】「Wywołałeś u mnie nie mały szok w::BREAKLINE::w momencie, gdy tak nagle stanąłeś przy moim samochodzie.::BREAKLINE::Wątpie, by większość ludzi dałaby radę ominąć cię::BREAKLINE::na czas.」
 【武】「あ、ああ……すんませ……ん！？」
 【武】「あ、ああ……すんませ……ん！？」
 【Takeru】「O-Oh, right... Sorry about tha-... Hm!?」
-【Takeru】「O-Oh, right... Sorry about tha-... Hm!?」
+【Takeru】「Ach... racja...::BREAKLINE::Przepraszam za to...::BREAKLINE::HM!?」
 【武】「な、なんだこりゃあ……」
 【武】「な、なんだこりゃあ……」
 【Takeru】「Wh-What the heck is this...?」
-【Takeru】「Wh-What the heck is this...?」
+【Takeru】「Cc-coo to do choley ma być...?」
 【男】「おまえが白銀武だな？」
 【男】「おまえが白銀武だな？」
 【Man】「Shirogane Takeru, I presume?」
-【Man】「Shirogane Takeru, I presume?」
+【Mężczyzna】「Shirogane Takeru, jak przypuszczam?」
 【武】「な、何で知ってんだ！？」
 【武】「な、何で知ってんだ！？」
 【Takeru】「H-How do you know my name?」
-【Takeru】「H-How do you know my name?」
+【Takeru】「Ss-skąd wiesz jak mam naa imię!?」
 【男】「俺は冥夜様の御車役を仰せつかっている者だ」
 【男】「俺は冥夜様の御車役を仰せつかっている者だ」
 【Man】「I am Meiya-sama's personal chauffeur.」
-【Man】「I am Meiya-sama's personal chauffeur.」
+【Mężczyzna】「Jestem osobistym szoferem Meiyi-sama.」
 【武】「はあ……」
 【武】「はあ……」
 【Takeru】「Riiight...」
-【Takeru】「Riiight...」
+【Takeru】「Okej...」
 【男】「ともすれば、長い付き合いになるかもしれないからな。::BREAKLINE::顔ぐらいは覚えておくさ」
 【男】「ともすれば、長い付き合いになるかもしれないからな。::BREAKLINE::顔ぐらいは覚えておくさ」
 【Man】「Which means we might be seeing a lot of each other from now on. Figured I should at least remember your face.」
-【Man】「Which means we might be seeing a lot of each other from now on. Figured I should at least remember your face.」
+【Mężczyzna】「Co oznacza, że od teraz będziemy się::BREAKLINE:coraz częściej spotykać....::BREAKLINE:Więc pomyślałem, że powinienem co::BREAKLINE:najmniej zapamiętać twoją twarz.」
 【冥夜】「──鷹嘴」
 【冥夜】「──鷹嘴」
 【Meiya】「──Takahashi.」
@@ -4901,87 +4901,87 @@ Przede mną na stole pojawił się kawałek papieru.
 【鷹嘴】「おはようございます、冥夜様。::BREAKLINE::お迎えに上がりました」
 【鷹嘴】「おはようございます、冥夜様。::BREAKLINE::お迎えに上がりました」
 【Takahashi】「Good morning, Meiya-sama.::BREAKLINE::Are we ready to depart?」
-【Takahashi】「Good morning, Meiya-sama.::BREAKLINE::Are we ready to depart?」
+【Takahashi】「Dzień dobry, Meiyo-sama.::BREAKLINE::Czy jesteśgotowa do odjazdu?」
 【冥夜】「うん、今朝は徒歩でいくつもりなのだ。許すが良い」
 【冥夜】「うん、今朝は徒歩でいくつもりなのだ。許すが良い」
 【Meiya】「Yes, but I plan to commute on foot today.::BREAKLINE::Forgive me.」
-【Meiya】「Yes, but I plan to commute on foot today.::BREAKLINE::Forgive me.」
+【Meiya】「Tak, ale dzisiaj zaplanowałam spacer.::BREAKLINE: Przepraszam cię za to.」
 【鷹嘴】「かしこまりました。では、お気をつけて」
 【鷹嘴】「かしこまりました。では、お気をつけて」
 【Takahashi】「Understood. Please be careful on your way.」
-【Takahashi】「Understood. Please be careful on your way.」
+【Takahashi】「Zrozumiałem. Proszę zachowaj ostrożność::BREAKLINE:w czasie swojego spaceru.」
 ブオオオオオ…………
 ブオオオオオ…………
 *vroooooom*......
-*vroooooom*......
+*Broooooom*......
 ……ブオオオオオ…………
 ……ブオオオオオ…………
 ...*vroooooom*...
-...*vroooooom*...
+...*Broooooom*...
 …………ブオオオオオ…………
 …………ブオオオオオ…………
 ......*vroooooom*
-......*vroooooom*
+......*Broooooom*
 【純夏】「な、何か……長い車だね～～」
 【純夏】「な、何か……長い車だね～～」
 【Sumika】「Th-That car's... kinda long, isn't it...?」
-【Sumika】「Th-That car's... kinda long, isn't it...?」
+【Sumika】「T-ten samochód....::BREAKLINE:Nie jest przypadkiem trochę za długi?」
 【冥夜】「そうか？　６０メートルくらいだろう？」
 【冥夜】「そうか？　６０メートルくらいだろう？」
 【Meiya】「Is it? It's only about sixty meters or so, I believe.」
-【Meiya】「Is it? It's only about sixty meters or so, I believe.」
+【Meiya】「Tak sądzisz?::BREAKLINE:Posiada on jedynie sześćdziesiąt metrów,::BREAKLINE:albo chociaż wierzę, że tyle może mieć.」
 【武】「６０メートルッ！？」
 【武】「６０メートルッ！？」
 【Takeru】「Sixty meters!?」
-【Takeru】「Sixty meters!?」
+【Takeru】「Sześćdziesiąt metrów!?」
 車は路地を曲がって去っていった…………マガッテ！？
 車は路地を曲がって去っていった…………マガッテ！？
 The car turns a corner, and disappears from view... Wait. What!?
-The car turns a corner, and disappears from view... Wait. What!?
+Samochód skręca za rogiem....::BREAKLINE:I znika z widoku...::BREAKLINE:Chwileczkę. Że jak?!
 【武】「……どうやって曲がってった？」
 【武】「……どうやって曲がってった？」
 【Takeru】「...How in the hell did that thing make a turn?」
-【Takeru】「...How in the hell did that thing make a turn?」
+【Takeru】「..Jakim cudem to coś może skręcać?」
 【純夏】「……ごくごく普通に」
 【純夏】「……ごくごく普通に」
 【Sumika】「...Like it wasn't even a big deal.」
-【Sumika】「...Like it wasn't even a big deal.」
+【Sumika】「...W sumie cośtakiego to nic wielkiego...」
 【冥夜】「どうした、行かぬのか？」
 【冥夜】「どうした、行かぬのか？」
 【Meiya】「What is it? Are we going or not?」
-【Meiya】「What is it? Are we going or not?」
+【Meiya】「O co chodzi?::BREAKLINE:Nie mieliśmy przypadkiem już iść?」
 【武】「あ、ああ……って、純夏ひっつくなっ！！」
 【武】「あ、ああ……って、純夏ひっつくなっ！！」
 【Takeru】「O-Oh, right... Hey, cut it out, Sumika! Get off me!!」
-【Takeru】「O-Oh, right... Hey, cut it out, Sumika! Get off me!!」
+【Takeru】「Ach, no tak...::BREAKLINE:Hej, przestań Sumika! Odejdź ode mnie!!!」
 【純夏】「ふーんだ、ホラ、行こう？」
 【純夏】「ふーんだ、ホラ、行こう？」
 【Sumika】「Nuh-uh! C'mon, let's go.」
-【Sumika】「Nuh-uh! C'mon, let's go.」
+【Sumika】「Hmmm. Dalej, chodźmy.」
 【武】「あ、あはは……これはだな……」
 【武】「あ、あはは……これはだな……」
 【Takeru】「A-Ahaha... This is, well...」
-【Takeru】「A-Ahaha... This is, well...」
+【Takeru】「Ach... Ahahaha... Więc to tak...」
 【冥夜】「よい、気にするでない」
 【冥夜】「よい、気にするでない」
 【Meiya】「It is fine. Do not mind me.」
-【Meiya】「It is fine. Do not mind me.」
+【Meiya】「W porządku. Nie zwracajcie na mnie uwagi.」
 【Takeru】「Uh, okay...」
-【Takeru】「Uh, okay...」
+【Takeru】「Uh, okej...」
 【純夏】「タケルちゃん、行こう！」
 【純夏】「タケルちゃん、行こう！」
 【Sumika】「Takeru-chan, let's go!」
-【Sumika】「Takeru-chan, let's go!」
+【Sumika】「Takeru-chan, chodźmy!」
 【武】「ああ……」
 【武】「ああ……」
 【Takeru】「Right...」
-【Takeru】「Right...」
+【Takeru】「Taaa...」
 【武】「……純夏あ……いい加減に離れろよっ！」
 【武】「……純夏あ……いい加減に離れろよっ！」
 【Takeru】「...Sumikaaa... let go of me already!!」
-【Takeru】「...Sumikaaa... let go of me already!!」
+【Takeru】「...Sumikaaa...::BREAKLINE:Daj już spokój!!」
 【Sumika】「Nope.」
-【Sumika】「Nope.」
+【Sumika】「Nie ma mowy.」
 【武】「おいおい！」
 【武】「おいおい！」
 【Takeru】「C'mon, dude!」
