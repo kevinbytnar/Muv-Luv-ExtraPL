@@ -3121,7 +3121,7 @@ N-n-n-i-i-i-e-e-e m-m-m-a-a-a szans na pomyłkę!::BREAKLINE::Ta twarz, ten gło
 な、なんだ？　オレのことじ～～～っと見て。
 な、なんだ？　オレのことじ～～～っと見て。
 Wh-What do you want? Quit staring straight at me like that.
-A-aa ty czego chcesz? Przestań siętak na mnie patrzyć.
+A-aa ty czego chcesz? Przestań się tak na mnie patrzyć.
 【冥夜】「タケル、共に過ごせることをうれしく思うぞ」
 【冥夜】「タケル、共に過ごせることをうれしく思うぞ」
 【Meiya】「Takeru, I am glad that we may spend this time together.」
@@ -3349,7 +3349,7 @@ Chwila. Dopiero co ją uderzyłem! Choooleeeraaa!!!
 【冥夜】「それよりタケル、皆がそなたに向ける目が尋常ではないが……何かあったのか？」
 【冥夜】「それよりタケル、皆がそなたに向ける目が尋常ではないが……何かあったのか？」
 【Meiya】「That aside, Takeru — for some reason, it seems as though all eyes are fixed upon you... Has something happened?」
-【Meiya】「Po za tym, Takeru, wygląda na to, że z::BREAKLINE::jakiegoś powodu wszystkie oczy sąskierowane na ciebie.::BREAKLINE::Czy coś się stało?」
+【Meiya】「Poza tym, Takeru, wygląda na to, że z::BREAKLINE::jakiegoś powodu wszystkie oczy są skierowane na ciebie.::BREAKLINE::Czy coś się stało?」
 【武】「はあ？」
 【武】「はあ？」
 【Takeru】「Uh, what?」
@@ -4515,7 +4515,7 @@ To mięciutkie uczucie...::BREAKLINE::Z odpowiednią dawką ciepła...
 【冥夜】「それは美味そうだ。::BREAKLINE::それではいただこう……どうしたタケル？」
 【冥夜】「それは美味そうだ。::BREAKLINE::それではいただこう……どうしたタケル？」
 【Meiya】「That certainly does sound good.::BREAKLINE::Let's begin our meal then...::BREAKLINE::Is something the matter, Takeru?」
-【Meiya】「Brzmi dobrze.::BREAKLINE::Przejdźmy już do naszego posiłku::BREAKLINE::Coś nie tak, Takeru?」
+【Meiya】「Brzmi dobrze.::BREAKLINE::Przejdźmy już do naszego posiłku.::BREAKLINE::Coś nie tak, Takeru?」
 【武】「……何でオレのベッドで寝てるんだよ！？」
 【武】「……何でオレのベッドで寝てるんだよ！？」
 【Takeru】「...Why do you keep sleeping in my bed!?」
@@ -4705,7 +4705,7 @@ Przede mną na stole pojawił się kawałek papieru.
 【冥夜】「最後を見るがよい」
 【冥夜】「最後を見るがよい」
 【Meiya】「Look at the bottom.」
-【Meiya】「Spójrz co jest na dole」
+【Meiya】「Spójrz co jest na dole.」
 【武】「…………オ、オヤジと……小湖首相のサインッ！！？」
 【武】「…………オ、オヤジと……小湖首相のサインッ！！？」
 【Takeru】「...M-My dad's signature... and the Prime Minister's!?!?」
@@ -4789,7 +4789,7 @@ Przede mną na stole pojawił się kawałek papieru.
 【冥夜】「それゆえ私もそのことについては良いのだが、乳房とは女性が女性たる素晴らしき部位のひとつであり非常に繊細であるが故により一層の……」
 【冥夜】「それゆえ私もそのことについては良いのだが、乳房とは女性が女性たる素晴らしき部位のひとつであり非常に繊細であるが故により一層の……」
 【Meiya】「For that reason, I am fine with it. However, a woman's chest is not only one of her most defining features, but also extremely sensitive, and thus deserving of...」
-【Meiya】「Z tego powodu nie mam nic przeciwko temu.::BREAKLINE::Jednak klatka piersiowa kobiety jest nie tylko jedną z::BREAKLINE::jej najbardziej charakterystycznych cech, ale także::BREAKLINE::równocześnie jest niezwykle wrażliwą częśćią, a więc::BREAKLINE::zasłaguje na...8」
+【Meiya】「Z tego powodu nie mam nic przeciwko temu.::BREAKLINE::Jednak klatka piersiowa kobiety jest nie tylko jedną z::BREAKLINE::jej najbardziej charakterystycznych cech, ale także::BREAKLINE::równocześnie jest niezwykle wrażliwą częścią, a więc::BREAKLINE::zasługuje na...」
 【純夏】「た～け～る～ちゅわぁあああん……」
 【純夏】「た～け～る～ちゅわぁあああん……」
 【Sumika】「Taaakeeeruuu-chuwaaaaaaaan...」
@@ -5185,7 +5185,7 @@ Sensei... jesteś niesamowita.::BREAKLINE::Twoja zdolność utrzymywania bycia c
 【冥夜】「よい。今の私は一介の学園生だ、先の香月教諭の言葉、何も問題はあるまい」
 【冥夜】「よい。今の私は一介の学園生だ、先の香月教諭の言葉、何も問題はあるまい」
 【Meiya】「It is fine. I am but an average student now. There is no issue with what Instructor Kouzuki has said.」
-【Meiya】「Wszystko jest w należytym porządku.::BREAKLINE::Teraz jestem zwykłą studentką.::BREAKLINE::I nie mam problemu z tym co powiedziała::BREAKLINE::Instruktorka Kouzuki」
+【Meiya】「Wszystko jest w należytym porządku.::BREAKLINE::Teraz jestem zwykłą studentką.::BREAKLINE::I nie mam problemu z tym co powiedziała::BREAKLINE::Instruktorka Kouzuki.」
 【月詠】「はっ……。出過ぎた真似を……」
 【月詠】「はっ……。出過ぎた真似を……」
 【Tsukuyomi】「Of course... I apologize for my presumptuous actions...」
@@ -5601,7 +5601,7 @@ Uuu...::BREAKLINE::Blask w jej oczach wydaje się jeszcze bardziej ostry::BREAKL
 【武】「Ｄ組にいるよ」
 【武】「Ｄ組にいるよ」
 【Takeru】「She's in class D.」
-【Takeru】「Pewnie jest w klasie D」
+【Takeru】「Pewnie jest w klasie D.」
 【冥夜】「でかしたタケルッ！」
 【冥夜】「でかしたタケルッ！」
 【Meiya】「Excellent work, Takeru!!」
@@ -5613,7 +5613,7 @@ Uuu...::BREAKLINE::Blask w jej oczach wydaje się jeszcze bardziej ostry::BREAKL
 【冥夜】「無現鬼道流剣術免許皆伝の私に任せておけ！」
 【冥夜】「無現鬼道流剣術免許皆伝の私に任せておけ！」
 【Meiya】「Leave it to me and the secrets of the Mitsurugi Mugen Kidou Way of the Sword!」
-【Meiya】「Zostaw tę sprawę mi, oraz szkole szermierki::BREAKLINE::Mitsurugi Mugen Kidou」
+【Meiya】「Zostaw tę sprawę mi, oraz szkole szermierki::BREAKLINE::Mitsurugi Mugen Kidou.」
 【武】「おいおい……」
 【武】「おいおい……」
 【Takeru】「Hey, come on now...」
@@ -5653,7 +5653,7 @@ Uuu...::BREAKLINE::Blask w jej oczach wydaje się jeszcze bardziej ostry::BREAKL
 【武】「だって、３年生が引退したからメンツ足りないんだろ？::BREAKLINE::まさか来年、委員長が大学から助っ人でもあるまいし」
 【武】「だって、３年生が引退したからメンツ足りないんだろ？::BREAKLINE::まさか来年、委員長が大学から助っ人でもあるまいし」
 【Takeru】「Come on. Once the third-years graduate, they won't have enough people. You know that. And it's not like Class Rep can come to the rescue once she's off at university.」
-【Takeru】「No daj spokój. Przecież w momencie,::BREAKLINE::gdy trzecioklasiści ukończą szkołę, to klub nie::BREAKLINE::będzie miałwystaraczająco dużo członków, by::BREAKLINE::funkcjonować. Dobrze o tym wiesz. i rpzecież nie ma::BREAKLINE::mowy, aby Przedstawicielka tutaj przycodziła, by::BREAKLINE::pomagać w rozterkach szkolnego klubu」
+【Takeru】「No daj spokój. Przecież w momencie,::BREAKLINE::gdy trzecioklasiści ukończą szkołę, to klub nie::BREAKLINE::będzie miał wystaraczająco dużo członków, by::BREAKLINE::funkcjonować. Dobrze o tym wiesz. i przecież nie ma::BREAKLINE::mowy, aby Przedstawicielka tutaj przychodziła, by::BREAKLINE::pomagać w rozterkach szkolnego klubu.」
 【純夏】「そんなこと言って、可哀想だよ……」
 【純夏】「そんなこと言って、可哀想だよ……」
 【Sumika】「Don't say that... I feel sorry for them now...」
@@ -5665,7 +5665,7 @@ Uuu...::BREAKLINE::Blask w jej oczach wydaje się jeszcze bardziej ostry::BREAKL
 【純夏】「自業自得でしょ？　ホラ、行こう？　遅刻しちゃう」
 【純夏】「自業自得でしょ？　ホラ、行こう？　遅刻しちゃう」
 【Sumika】「Isn't that your own fault? Come on, let's go. We're gonna be late.」
-【Sumika】「Ale przypadkiem to nie jest twoja wina,::BREAKLINE::że jesteś przez nią wyzywany? No dobra. Chodźmy::BREAKLINE::już, bo się spóźnimy」
+【Sumika】「Ale przypadkiem to nie jest twoja wina,::BREAKLINE::że jesteś przez nią wyzywany? No dobra. Chodźmy::BREAKLINE::już, bo się spóźnimy.」
 【武】「ん？　そうだな、これで遅刻したら委員長に何言われるかわからんしな」
 【武】「ん？　そうだな、これで遅刻したら委員長に何言われるかわからんしな」
 【Takeru】「Mm? Oh. Yeah, you're right. Who knows what Class Rep'll say if we're late today.」
@@ -6413,7 +6413,7 @@ Ale z jakiegoś powodu czuję się trochę nieswojo.
 【武】「モグモグ……この野郎、軽く言い流せばいいってもんじゃねーんだぞ？　とにかく『男』を感じさせる弁当にしろ」
 【武】「モグモグ……この野郎、軽く言い流せばいいってもんじゃねーんだぞ？　とにかく『男』を感じさせる弁当にしろ」
 【Takeru】「*munch* *munch*...Don't try to change the subject. This is serious business, alright? Next time, make me a lunch that just oozes with manliness.」
-【Takeru】「*Mniam* *mniam*::BREAKLINE::Nie zmieniaj tematu.::BREAKLINE::To są bardzo poważne sprawy, wiesz?::BREAKLINE::Następnym razem przygotuj lunch, który emanuje::BREAKLINE::męskością」
+【Takeru】「*Mniam* *mniam*::BREAKLINE::Nie zmieniaj tematu.::BREAKLINE::To są bardzo poważne sprawy, wiesz?::BREAKLINE::Następnym razem przygotuj lunch, który emanuje::BREAKLINE::męskością.」
 【壬姫】「モグモグ……たけるさんえばってるねー」
 【壬姫】「モグモグ……たけるさんえばってるねー」
 【Miki】「*munch* *munch*...Takeru-san, you're being arrogant.」
@@ -6875,7 +6875,7 @@ Czy ty próbujesz mnie wytesować!?
 【武】「何がだっ！　それより、よくヤキソバパン仕入れたな。::BREAKLINE::しかも２個？」
 【武】「何がだっ！　それより、よくヤキソバパン仕入れたな。::BREAKLINE::しかも２個？」
 【Takeru】「At what!? And anyway, I can't believe you managed to get a yakisoba sandwich — let alone two of them!」
-【Takeru】「W czym?! Po za tym, nie mogę uwierzyć,::BREAKLINE::że udało ci się zdobyć kanapkę yakisoba - nie::BREAKLINE::mówiąc już o dwóch sztukach!」
+【Takeru】「W czym?! Poza tym, nie mogę uwierzyć,::BREAKLINE::że udało ci się zdobyć kanapkę yakisoba - nie::BREAKLINE::mówiąc już o dwóch sztukach!」
 【慧】「購買で売ってる」
 【慧】「購買で売ってる」
 【Kei】「They sell them at the student store.」
@@ -7203,7 +7203,7 @@ Szczerze to o kim może być mowa? Przecież to::BREAKLINE::niemożliwe, aby mó
 冥夜とコスプレは関係ないしな。::BREAKLINE::更に言えば、冥夜が乗り込んだ原因も、別にオレのせいじゃないと思うんだが。
 冥夜とコスプレは関係ないしな。::BREAKLINE::更に言えば、冥夜が乗り込んだ原因も、別にオレのせいじゃないと思うんだが。
 Meiya and cosplay have nothing to do with one another. On top of that, I really don't think it's my fault that Meiya charged in there.
-Meiya i cosplay nie mają ze sobą nic wspólnego.Po za tym, naprawdę nie sądzę, żeby to była moja wina,::BREAKLINE::że Meiya zaatakowala tamtą dziewczynę.
+Meiya i cosplay nie mają ze sobą nic wspólnego. Poza tym, naprawdę nie sądzę, żeby to była moja wina,::BREAKLINE::że Meiya zaatakowała tamtą dziewczynę.
 【夕呼】「……ふふ、言うわね、白銀」
 【夕呼】「……ふふ、言うわね、白銀」
 【Yuuko】「......Heh heh. You've got some nerve, Shirogane.」
@@ -7269,7 +7269,7 @@ Jak szybko...::BREAKLINE::Ona jest już stracona.
 【夕呼】「平然とそんなことしてるから男にフラれるのよね～」
 【夕呼】「平然とそんなことしてるから男にフラれるのよね～」
 【Yuuko】「Maybe if she wasn't so quick to get undressed, she wouldn't keep getting dumped all the time...」
-【Yuuko】「Może gdybyś siętak szybko nie::BREAKLINE::rozbierała, to nie byłabyś tak ciągle porzucona.」
+【Yuuko】「Może gdybyś się tak szybko nie::BREAKLINE::rozbierała, to nie byłabyś tak ciągle porzucona.」
 【まりも】「ななななな何言ってるの！！」
 【まりも】「ななななな何言ってるの！！」
 【Marimo】「Wh-Wh-What are you saying!?!?」
@@ -7743,7 +7743,7 @@ Mówi to, a jednoćześnie też zerka. Hipokryta..
 【武】「すげぇ倍率でなあ、そうそうできるモンじゃないんだぜ？　よかったな冥夜、オレが当番で」
 【武】「すげぇ倍率でなあ、そうそうできるモンじゃないんだぜ？　よかったな冥夜、オレが当番で」
 【Takeru】「It's an insanely sought after role, so it's not something everyone gets a chance to do. Luckily for you, Meiya, it's my turn today.」
-【Takeru】「To szalenie ważna poszukiwana rola, więc::BREAKLINE::nie każdy ma szanse to zrobić. Na szczęście dla::BREAKLINE::ciebie, Meiya , dziś moja kolej」
+【Takeru】「To szalenie ważna poszukiwana rola, więc::BREAKLINE::nie każdy ma szanse to zrobić. Na szczęście dla::BREAKLINE::ciebie, Meiya , dziś moja kolej.」
 【冥夜】「そのようなものを……本当によいのか？」
 【冥夜】「そのようなものを……本当によいのか？」
 【Meiya】「Such an honor... Are you certain you wish to bequeath it to me?」
@@ -7837,7 +7837,7 @@ Cz-czyżby to był... list miłosny!?
 おいおい鎧衣く～ん、相変わらずモテてんじゃないのぉ？
 おいおい鎧衣く～ん、相変わらずモテてんじゃないのぉ？
 Damn, Yoroi-kun! Still drownin' in it, I see.
-Yoroi-kun, dalej dostajesz pełno tego typu rzeczy?.
+Yoroi-kun, dalej dostajesz pełno tego typu rzeczy?
 どれどれ……
 どれどれ……
 Let's see here...
@@ -7865,7 +7865,7 @@ Co my tu mamy?::BREAKLINE::"Do mojego ukochanego Yoroi Mikoto-sempai"...::BREAKL
 尊人ぉ、今度はいつ来るんだよ。::BREAKLINE::この子が待ってるぞ？
 尊人ぉ、今度はいつ来るんだよ。::BREAKLINE::この子が待ってるぞ？
 Mikoto. Bro. Are you gonna be back soon, or what?::BREAKLINE::It's not nice to keep a girl waiting, man.
-Mikotooo, brachu. Masz zamiar wócić, tak? Bo nie::BREAKLINE::ładnie kazać tak czekać dziewczynie.
+Mikotooo, brachu. Masz zamiar wrócić, tak? Bo nie::BREAKLINE::ładnie kazać tak czekać dziewczynie.
 何て子だ？
 何て子だ？
 Who is this chick, anyway?
@@ -8029,7 +8029,7 @@ No bo ja mam to już za sobą.
 【武】「いくら友達っつったって、勝手に覗くのは良くないぞ？」
 【武】「いくら友達っつったって、勝手に覗くのは良くないぞ？」
 【Takeru】「I know he's our friend and all, but that doesn't mean we can go through his stuff.」
-【Takeru】「Wiem, że jest naszym przyjacielem i tak::BREAKLINE::dalej, ale to nie znaczy, że możemy zaglądać do jego::BREAKLINE::rzeczy」
+【Takeru】「Wiem, że jest naszym przyjacielem i tak::BREAKLINE::dalej, ale to nie znaczy, że możemy zaglądać do jego::BREAKLINE::rzeczy.」
 【純夏】「わかってるよぉ……冗談だったんだもん」
 【純夏】「わかってるよぉ……冗談だったんだもん」
 【Sumika】「I know that... I was just kidding.」
@@ -8223,7 +8223,7 @@ Strzała, którą właśnie wystrzeliła Tama, wyleciała::BREAKLINE::z imponuj�
 どうした？　オレの顔なんかじーっと見て。
 どうした？　オレの顔なんかじーっと見て。
 What's wrong? Why're they all staring at my face?
-Coś nie tak?::BREAKLINE::Dlaczego zaczęły mi siętak przyglądać/
+Coś nie tak?::BREAKLINE::Dlaczego zaczęły mi się tak przyglądać?
 【女子部員１】「……かもね」
 【女子部員１】「……かもね」
 【Female Archer 1】「...He might be.」
@@ -8413,7 +8413,7 @@ Jakoś...::BREAKLINE::Ten gościu wydaje się naprawdę dojrzały.::BREAKLINE::H
 【武】「え？　そうだけど？」
 【武】「え？　そうだけど？」
 【Takeru】「Huh? Why do you ask?」
-【Takeru】「Ech? Czemu pytasz」
+【Takeru】「Ech? Czemu pytasz?」
 【主将】「Ｆ組の石沢だ」
 【主将】「Ｆ組の石沢だ」
 【Captain】「I'm Ishizawa from Class F.」
@@ -8457,7 +8457,7 @@ Jakoś...::BREAKLINE::Ten gościu wydaje się naprawdę dojrzały.::BREAKLINE::H
 【主将】「へぇって…………まあいいや」
 【主将】「へぇって…………まあいいや」
 【Captain】「'Wowie'...? ...Well, whatever.」
-【Kapitan】「"Łał"...? ...Nieważne」
+【Kapitan】「"Łał"...? ...Nieważne.」
 【武】「それより、何でオレの名前知ってんの？」
 【武】「それより、何でオレの名前知ってんの？」
 【Takeru】「Anyway, how do you know my name?」
@@ -8493,7 +8493,7 @@ Prędkość rozpowszechniania się informacji jest::BREAKLINE::przerażająca!
 【女子部員２】「でも、全部見つかってよかったですね」
 【女子部員２】「でも、全部見つかってよかったですね」
 【Female Archer 2】「But at least we managed to find all of them.」
-【Łuczniczka 2】「Ale chociaż udało nam się wszystkie::BREAKLINE::znaleźć」
+【Łuczniczka 2】「Ale chociaż udało nam się wszystkie::BREAKLINE::znaleźć.」
 【女子部員３】「でも珠瀬先輩、さっきの先輩って……」
 【女子部員３】「でも珠瀬先輩、さっきの先輩って……」
 【Female Archer 3】「But Tamase-senpai, about this boy...」
@@ -8545,7 +8545,7 @@ Prędkość rozpowszechniania się informacji jest::BREAKLINE::przerażająca!
 【純夏】「よくも掃除サボったわねっ！！」
 【純夏】「よくも掃除サボったわねっ！！」
 【Sumika】「How dare you run away from your cleaning duty!!!」
-【Sumika】「Jak śmaiłeś porzucić swój obowiazek::BREAKLINE::sprzątania i uciec!!!」
+【Sumika】「Jak śmiałeś porzucić swój obowiązek::BREAKLINE::sprzątania i uciec!!!」
 O-Oh, crap!!
 Ch-cholera!!
 【冥夜】「タケル、一体どういうことなのだ？　鑑はタケルが私に掃除を押しつけたと言っているのだが……」
@@ -8574,3 +8574,1719 @@ Ch-cholera!!
 【Takeru】「Co my tu mamy...?」
 【武】「それが面白いんだ。::BREAKLINE::さ、行くぞ」
 【武】「それが面白いんだ。::BREAKLINE::さ、行くぞ」
+【冥夜】「鷹嘴か」
+【冥夜】「鷹嘴か」
+【Meiya】「Takahashi?」
+【Meiya】「Takahashi?」
+【鷹嘴】「なかなか出ていらっしゃらないので、お見逃ししたかと心配致しました」
+【鷹嘴】「なかなか出ていらっしゃらないので、お見逃ししたかと心配致しました」
+【Takahashi】「You did not come out on time, so I became worried that I might have missed you walking by.」
+【Takahashi】「You did not come out on time, so I became worried that I might have missed you walking by.」
+【冥夜】「それは済まなかった。掃除をしていたのだ」
+【冥夜】「それは済まなかった。掃除をしていたのだ」
+【Meiya】「My apologies. We were cleaning.」
+【Meiya】「My apologies. We were cleaning.」
+【鷹嘴】「掃除！？　冥夜様がそのようなことをっ！」
+【鷹嘴】「掃除！？　冥夜様がそのようなことをっ！」
+【Takahashi】「Cleaning!? Meiya-sama, there is no need for you to─!!」
+【Takahashi】「Cleaning!? Meiya-sama, there is no need for you to─!!」
+【冥夜】「自分で使った場所は自分で掃除する……理にかなっている。::BREAKLINE::良い経験であった」
+【冥夜】「自分で使った場所は自分で掃除する……理にかなっている。::BREAKLINE::良い経験であった」
+【Meiya】「Cleaning up after oneself is a perfectly logical thing to do. I found it to be an interesting experience.」
+【Meiya】「Cleaning up after oneself is a perfectly logical thing to do. I found it to be an interesting experience.」
+【鷹嘴】「月詠が聞いたらさぞや嘆くことでしょう」
+【鷹嘴】「月詠が聞いたらさぞや嘆くことでしょう」
+【Takahashi】「Tsukuyomi would surely be loath to hear of it.」
+【Takahashi】「Tsukuyomi would surely be loath to hear of it.」
+【武】「いや、もうその辺で全部聞いてるんじゃねーの？」
+【武】「いや、もうその辺で全部聞いてるんじゃねーの？」
+【Takeru】「Well, I'm sure she's already heard all about it.」
+【Takeru】「Well, I'm sure she's already heard all about it.」
+【純夏】「出てこないね？」
+【純夏】「出てこないね？」
+【Sumika】「She's not coming out.」
+【Sumika】「She's not coming out.」
+【冥夜】「月詠はどうした？」
+【冥夜】「月詠はどうした？」
+【Meiya】「What happened to Tsukuyomi?」
+【Meiya】「What happened to Tsukuyomi?」
+【鷹嘴】「朝の件を処理するとか」
+【鷹嘴】「朝の件を処理するとか」
+【Takahashi】「She said she was going to take care of the matter we discussed this morning.」
+【Takahashi】「She said she was going to take care of the matter we discussed this morning.」
+【武】「おいおい……今度は何だよ？」
+【武】「おいおい……今度は何だよ？」
+【Takeru】「Oh god... What's she doing this time?」
+【Takeru】「Oh god... What's she doing this time?」
+【鷹嘴】「まあ、大したことじゃない。::BREAKLINE::さあ、戻りましょう」
+【鷹嘴】「まあ、大したことじゃない。::BREAKLINE::さあ、戻りましょう」
+【Takahashi】「Well, it's nothing to be concerned about.::BREAKLINE::Now then, let's go home.」
+【Takahashi】「Well, it's nothing to be concerned about.::BREAKLINE::Now then, let's go home.」
+【冥夜】「うん。さあ、そなた達も」
+【冥夜】「うん。さあ、そなた達も」
+【Meiya】「Yes. Come now — get in, everyone.」
+【Meiya】「Yes. Come now — get in, everyone.」
+【武】「え！？　いいのかっ！！」
+【武】「え！？　いいのかっ！！」
+【Takeru】「Huh!? Can we!?!?」
+【Takeru】「Huh!? Can we!?!?」
+【冥夜】「当たり前だ。鑑も早く乗るがよい」
+【冥夜】「当たり前だ。鑑も早く乗るがよい」
+【Meiya】「But of course. That goes for you as well, Kagami. Don't just stand there」
+【Meiya】「But of course. That goes for you as well, Kagami. Don't just stand there」
+【純夏】「う、うん……」
+【純夏】「う、うん……」
+【Sumika】「O-Okay...」
+【Sumika】「O-Okay...」
+【武】「やったー！！」
+【武】「やったー！！」
+【Takeru】「Yaaay!!」
+【Takeru】「Yaaay!!」
+流れる景色、快適すぎる座り心地。
+流れる景色、快適すぎる座り心地。
+The flowing scenery... the amazingly comfortable seats...
+The flowing scenery... the amazingly comfortable seats...
+すげぇ～！　すげぇ～～～よっ！！
+すげぇ～！　すげぇ～～～よっ！！
+Amazing! This is amaaaziiing!!
+Amazing! This is amaaaziiing!!
+【純夏】「タケルちゃん、ガラスにへばりつくのやめて。::BREAKLINE::指紋がついちゃうよ」
+【純夏】「タケルちゃん、ガラスにへばりつくのやめて。::BREAKLINE::指紋がついちゃうよ」
+【Sumika】「Takeru-chan, stop pushing on the glass.::BREAKLINE::You'll leave fingerprints.」
+【Sumika】「Takeru-chan, stop pushing on the glass.::BREAKLINE::You'll leave fingerprints.」
+【冥夜】「気にするでない。::BREAKLINE::人が使えば汚れるものだ」
+【冥夜】「気にするでない。::BREAKLINE::人が使えば汚れるものだ」
+【Meiya】「Do not worry. Some amount of dirtying is inevitable.」
+【Meiya】「Do not worry. Some amount of dirtying is inevitable.」
+【武】「でも６０メートルはどうかと思うよ？」
+【武】「でも６０メートルはどうかと思うよ？」
+【Takeru】「But seriously, isn't sixty meters a bit much?」
+【Takeru】「But seriously, isn't sixty meters a bit much?」
+【純夏】「タケルちゃんさっきからそればっかり」
+【純夏】「タケルちゃんさっきからそればっかり」
+【Sumika】「Takeru-chan, stop asking about that.」
+【Sumika】「Takeru-chan, stop asking about that.」
+【武】「しっかし、何で曲がれるんだ？　それだけが不思議だ……」
+【武】「しっかし、何で曲がれるんだ？　それだけが不思議だ……」
+【Takeru】「I mean... How does it make turns?::BREAKLINE::That's the one thing I just don't understand...」
+【Takeru】「I mean... How does it make turns?::BREAKLINE::That's the one thing I just don't understand...」
+【冥夜】「鷹嘴は『送迎最速理論』とやらを研究しているらしい。::BREAKLINE::恐らくその賜物であろう」
+【冥夜】「鷹嘴は『送迎最速理論』とやらを研究しているらしい。::BREAKLINE::恐らくその賜物であろう」
+【Meiya】「Takahashi seems to be researching some kind of 'High-Speed Transportation Theory.' This is presumably the fruits of his efforts.」
+【Meiya】「Takahashi seems to be researching some kind of 'High-Speed Transportation Theory.' This is presumably the fruits of his efforts.」
+……そういう問題じゃあねぇよな、絶対。
+……そういう問題じゃあねぇよな、絶対。
+...That's not the issue here, I'm sure of it.
+...That's not the issue here, I'm sure of it.
+何だか随分とトラックが止まってるなあ……。
+何だか随分とトラックが止まってるなあ……。
+There seem to be a lot of trucks parked here...
+There seem to be a lot of trucks parked here...
+【近所のおばさん１】「あ～ら、白銀さんとこの武君じゃないのぉ。::BREAKLINE::おほほ……実は急に引っ越すことになっちゃってねぇ……」
+【近所のおばさん１】「あ～ら、白銀さんとこの武君じゃないのぉ。::BREAKLINE::おほほ……実は急に引っ越すことになっちゃってねぇ……」
+【Female Neighbor 1】「Well, I'll be... if it isn't Takeru-kun from the Shiroganes' place. Ohoho... Well, I'm going to be moving away today, I'm afraid...」
+【Female Neighbor 1】「Well, I'll be... if it isn't Takeru-kun from the Shiroganes' place. Ohoho... Well, I'm going to be moving away today, I'm afraid...」
+【Takeru】「Okaaay...」
+【Takeru】「Okaaay...」
+【近所のおじさん１】「おやおや、鑑さん家の純夏ちゃん。::BREAKLINE::いやあ、おじさん達引っ越すことにしたんだよぉ」
+【近所のおじさん１】「おやおや、鑑さん家の純夏ちゃん。::BREAKLINE::いやあ、おじさん達引っ越すことにしたんだよぉ」
+【Male Neighbor 1】「What's this? Sumika-chan from the Kagami household? Been nice knowing you, dearie, but we're going to be moving away today.」
+【Male Neighbor 1】「What's this? Sumika-chan from the Kagami household? Been nice knowing you, dearie, but we're going to be moving away today.」
+なんだあ？
+なんだあ？
+What the heck?
+What the heck?
+オレん家の向かいとその隣のおじさんとおばさんが、超ご機嫌で菓子折なんか持って立ってる。
+オレん家の向かいとその隣のおじさんとおばさんが、超ご機嫌で菓子折なんか持って立ってる。
+The neighbors living across the street and adjacent to my house are all standing out here jovially, holding cake boxes.
+The neighbors living across the street and adjacent to my house are all standing out here jovially, holding cake boxes.
+いきなりの引っ越しっつったら、夜逃げぐらいしか思いつかんオレとしては、よくわからん展開だぞ？
+いきなりの引っ越しっつったら、夜逃げぐらいしか思いつかんオレとしては、よくわからん展開だぞ？
+Why would you move away so suddenly? Somehow I doubt they're skipping town to escape a gambling debt. I'm a little lost here...
+Why would you move away so suddenly? Somehow I doubt they're skipping town to escape a gambling debt. I'm a little lost here...
+あ、引っ越し屋が呼んでる。
+あ、引っ越し屋が呼んでる。
+Ah, the movers are calling them.
+Ah, the movers are calling them.
+【近所のおばさん１】「それじゃあ、お父さんとお母さんによろしくねぇ」
+【近所のおばさん１】「それじゃあ、お父さんとお母さんによろしくねぇ」
+【Female Neighbor 1】「Well then, tell your parents we said hello.」
+【Female Neighbor 1】「Well then, tell your parents we said hello.」
+【Takeru】「'Kay...」
+【Takeru】「'Kay...」
+【近所のおじさん１】「麻雀の負け越し分は、倍返しで振り込んでおくからとお父さんに伝えておいてくれたまえ」
+【近所のおじさん１】「麻雀の負け越し分は、倍返しで振り込んでおくからとお父さんに伝えておいてくれたまえ」
+【Male Neighbor 1】「I know I owe your father from all those Mahjong matches I lost, but tell him I'll pay it back twice over.」
+【Male Neighbor 1】「I know I owe your father from all those Mahjong matches I lost, but tell him I'll pay it back twice over.」
+【Takeru】「Sure...」
+【Takeru】「Sure...」
+ブォォォォ……
+ブォォォォ……
+*vrooooom*...
+*vrooooom*...
+……トラックの荷台に印刷された、刀の鍔マーク。
+……トラックの荷台に印刷された、刀の鍔マーク。
+...All the trucks had the same logo on them.::BREAKLINE::Looks like the hand guard from a sword.
+...All the trucks had the same logo on them.::BREAKLINE::Looks like the hand guard from a sword.
+何かが……とてつもなく何かが引っかかる。
+何かが……とてつもなく何かが引っかかる。
+Something seems a little weird about this... More than a "little," actually.
+Something seems a little weird about this... More than a "little," actually.
+【月詠】「お帰りなさいませ」
+【月詠】「お帰りなさいませ」
+【Tsukuyomi】「Welcome home.」
+【Tsukuyomi】「Welcome home.」
+【冥夜】「うん。首尾良く運んでいるようだな？」
+【冥夜】「うん。首尾良く運んでいるようだな？」
+【Meiya】「Hello. Have things been proceeding well?」
+【Meiya】「Hello. Have things been proceeding well?」
+【月詠】「お任せ下さい」
+【月詠】「お任せ下さい」
+【Tsukuyomi】「All is under control.」
+【Tsukuyomi】「All is under control.」
+【武】「……今度は何するつもりだ？」
+【武】「……今度は何するつもりだ？」
+【Takeru】「...What're you guys up to this time?」
+【Takeru】「...What're you guys up to this time?」
+【冥夜】「心配は無用だ。::BREAKLINE::タケルに迷惑をかけぬようにしているだけだ」
+【冥夜】「心配は無用だ。::BREAKLINE::タケルに迷惑をかけぬようにしているだけだ」
+【Meiya】「There is no need for concern. I am arranging matters so as to avoid inconveniencing you further.」
+【Meiya】「There is no need for concern. I am arranging matters so as to avoid inconveniencing you further.」
+【武】「迷惑？」
+【武】「迷惑？」
+【Takeru】「Inconveniencing?」
+【Takeru】「Inconveniencing?」
+【冥夜】「寝所を同じくするのはやめよと朝申したであろう？」
+【冥夜】「寝所を同じくするのはやめよと朝申したであろう？」
+【Meiya】「Did you not voice a desire for us to not share the same bed?」
+【Meiya】「Did you not voice a desire for us to not share the same bed?」
+【武】「確かに言ったな」
+【武】「確かに言ったな」
+【Takeru】「I did say that, yes.」
+【Takeru】「I did say that, yes.」
+【冥夜】「それを解決しようとしているだけだ。::BREAKLINE::安心するがよい」
+【冥夜】「それを解決しようとしているだけだ。::BREAKLINE::安心するがよい」
+【Meiya】「I am attempting to resolve that very issue.::BREAKLINE::Be at ease.」
+【Meiya】「I am attempting to resolve that very issue.::BREAKLINE::Be at ease.」
+【武】「……信じていいのか？」
+【武】「……信じていいのか？」
+【Takeru】「...Can I really trust you?」
+【Takeru】「...Can I really trust you?」
+【冥夜】「無論」
+【冥夜】「無論」
+【武】「……純夏、そんな露骨に聞き耳立てんなよ」
+【武】「……純夏、そんな露骨に聞き耳立てんなよ」
+【Takeru】「...Sumika, quit blantantly eavesdropping and get over here.」
+【Takeru】「...Sumika, quit blantantly eavesdropping and get over here.」
+【純夏】「え？　あ……あはは……」
+【純夏】「え？　あ……あはは……」
+【Sumika】「Huh? Oh, uh... Ahaha...」
+【Sumika】「Huh? Oh, uh... Ahaha...」
+【月詠】「それでは、日が暮れる前に取りかかりますので……」
+【月詠】「それでは、日が暮れる前に取りかかりますので……」
+【Tsukuyomi】「Now then, I shall begin before sunset...」
+【Tsukuyomi】「Now then, I shall begin before sunset...」
+【Meiya】「Please do.」
+【Meiya】「Please do.」
+【純夏】「ねえねえ、御剣さん何してる？」
+【純夏】「ねえねえ、御剣さん何してる？」
+【Sumika】「Hey, so what's Mitsurugi-san doing?」
+【Sumika】「Hey, so what's Mitsurugi-san doing?」
+【武】「あ？　テレビ見てる。::BREAKLINE::ニュース以外の番組があるなんて知らなかったんだと」
+【武】「あ？　テレビ見てる。::BREAKLINE::ニュース以外の番組があるなんて知らなかったんだと」
+【Takeru】「Huh? She's watching TV. Apparently she had no idea there were more channels that weren't just the news.」
+【Takeru】「Huh? She's watching TV. Apparently she had no idea there were more channels that weren't just the news.」
+【純夏】「へえ……変わってるよね？」
+【純夏】「へえ……変わってるよね？」
+【Sumika】「Wow... She sure is strange, huh?」
+【Sumika】「Wow... She sure is strange, huh?」
+【武】「まあな」
+【武】「まあな」
+【Takeru】「Yeah.」
+【Takeru】「Yeah.」
+【純夏】「でも、あの人何しに来たの？」
+【純夏】「でも、あの人何しに来たの？」
+【Sumika】「But why did she come here?」
+【Sumika】「But why did she come here?」
+【武】「知らん」
+【武】「知らん」
+【Takeru】「Dunno.」
+【Takeru】「Dunno.」
+【純夏】「聞かないの？」
+【純夏】「聞かないの？」
+【Sumika】「Why don't you ask?」
+【Sumika】「Why don't you ask?」
+【武】「金持ちのやることは聞いても理解できそうにないからな。::BREAKLINE::オレは朝いきなり心拍数倍に跳ね上がらなきゃそれでいいよ」
+【武】「金持ちのやることは聞いても理解できそうにないからな。::BREAKLINE::オレは朝いきなり心拍数倍に跳ね上がらなきゃそれでいいよ」
+【Takeru】「Even if I asked, my tiny commoner brain might not be able to understand. As long as I don't get a heart attack every morning, I don't care.」
+【Takeru】「Even if I asked, my tiny commoner brain might not be able to understand. As long as I don't get a heart attack every morning, I don't care.」
+【純夏】「いい加減だなあ……」
+【純夏】「いい加減だなあ……」
+【Sumika】「Sounds like you're just being lazy...」
+【Sumika】「Sounds like you're just being lazy...」
+【武】「前向きと言え」
+【武】「前向きと言え」
+【Takeru】「Nah, just optimistic.」
+【Takeru】「Nah, just optimistic.」
+【純夏】「……明日……」
+【純夏】「……明日……」
+【Sumika】「...Tomorrow...」
+【Sumika】「...Tomorrow...」
+【Takeru】「Yeah?」
+【Takeru】「Yeah?」
+【純夏】「本当に大丈夫かなあ……」
+【純夏】「本当に大丈夫かなあ……」
+【Sumika】「You sure it'll be okay...?」
+【Sumika】「You sure it'll be okay...?」
+【武】「何が？」
+【武】「何が？」
+【Takeru】「Will what be okay?」
+【Takeru】「Will what be okay?」
+【純夏】「起こしに行っても……いいのかなあ……」
+【純夏】「起こしに行っても……いいのかなあ……」
+【Sumika】「Will it be okay... if I come wake you up...?」
+【Sumika】「Will it be okay... if I come wake you up...?」
+【武】「明日からはいつもの朝が待ってる。::BREAKLINE::目覚ましがいなかったらどうすんだコラ」
+【武】「明日からはいつもの朝が待ってる。::BREAKLINE::目覚ましがいなかったらどうすんだコラ」
+【Takeru】「Tomorrow's another morning, just like any other. You know what'll happen if I don't have my usual wake-up call.」
+【Takeru】「Tomorrow's another morning, just like any other. You know what'll happen if I don't have my usual wake-up call.」
+【純夏】「……そっか……じゃあ、起こしに行くよ」
+【純夏】「……そっか……じゃあ、起こしに行くよ」
+【Sumika】「...Gotcha... Okay then, I'll come wake you up.」
+【Sumika】「...Gotcha... Okay then, I'll come wake you up.」
+【武】「ああ、オレを遅刻させんなよ？」
+【武】「ああ、オレを遅刻させんなよ？」
+【Takeru】「Yeah, don't make me late, alright?」
+【Takeru】「Yeah, don't make me late, alright?」
+【純夏】「うんっ！」
+【純夏】「うんっ！」
+目が覚めちまった。
+目が覚めちまった。
+Guess I'm awake now.
+Guess I'm awake now.
+午前７時４５分……なんつー健康的な生活だ。::BREAKLINE::いつもより１５分も早起きだ。
+午前７時４５分……なんつー健康的な生活だ。::BREAKLINE::いつもより１５分も早起きだ。
+It's 7:45 AM... Fifteen minutes earlier than usual... What a healthy lifestyle I have.
+It's 7:45 AM... Fifteen minutes earlier than usual... What a healthy lifestyle I have.
+オレの隣に冥夜は……いない。
+オレの隣に冥夜は……いない。
+And Meiya... isn't here, for once.
+And Meiya... isn't here, for once.
+【武】「ふぅ……」
+【武】「ふぅ……」
+【Takeru】「Phew...」
+【Takeru】「Phew...」
+目を覚ました途端、また例によって例の展開になるんじゃないかと思って気が気じゃなかったんだよ。
+目を覚ました途端、また例によって例の展開になるんじゃないかと思って気が気じゃなかったんだよ。
+As soon as I awoke, I immediately tensed up, expecting things to play out the usual way...::BREAKLINE::Like I was on pins and needles.
+As soon as I awoke, I immediately tensed up, expecting things to play out the usual way...::BREAKLINE::Like I was on pins and needles.
+だから目が覚めちまったんだな。
+だから目が覚めちまったんだな。
+Maybe that's why I didn't just fall back asleep.
+Maybe that's why I didn't just fall back asleep.
+それにしても……冥夜はじゃあどこで寝たんだ？
+それにしても……冥夜はじゃあどこで寝たんだ？
+But then... where could Meiya have spent the night?
+But then... where could Meiya have spent the night?
+床……にはいない。
+床……にはいない。
+Let's see... Nope, she's not on the floor.
+Let's see... Nope, she's not on the floor.
+ベッドの下……にもいないな。
+ベッドの下……にもいないな。
+Maybe under the bed...? Nope, not there either.
+Maybe under the bed...? Nope, not there either.
+クロゼットの中……にはいるわけもなく。
+クロゼットの中……にはいるわけもなく。
+Oh, maybe the closet? ...Nah, 'course not.
+Oh, maybe the closet? ...Nah, 'course not.
+親父達の寝室かな……ん？
+親父達の寝室かな……ん？
+I guess she could be in my parents' bedroom, then... Hm?
+I guess she could be in my parents' bedroom, then... Hm?
+……なんだこれ？
+……なんだこれ？
+...What's this?
+...What's this?
+こんなドア、前からあったっけ……なんて、あるわけねーだろ。
+こんなドア、前からあったっけ……なんて、あるわけねーだろ。
+This door... has it always been here? ...No, I'm pretty positive it hasn't.
+This door... has it always been here? ...No, I'm pretty positive it hasn't.
+っかしいな。この壁の向こうは外だぞ？　何でこんな所にドアができてんだ？
+っかしいな。この壁の向こうは外だぞ？　何でこんな所にドアができてんだ？
+That's weird. There's no room on the other side of this wall, just open air. So why's there a door here?
+That's weird. There's no room on the other side of this wall, just open air. So why's there a door here?
+……夢？
+……夢？
+...Am I dreaming?
+...Am I dreaming?
+だとしたら、相当奇特な夢だよな。
+だとしたら、相当奇特な夢だよな。
+If I am, then this is quite the strange dream.
+If I am, then this is quite the strange dream.
+いつも通り朝起きる夢なんて、見たくないモンの筆頭だ。
+いつも通り朝起きる夢なんて、見たくないモンの筆頭だ。
+Just waking up uneventfully in the morning would probably rank dead last on my list of dreams I'd like to have.
+Just waking up uneventfully in the morning would probably rank dead last on my list of dreams I'd like to have.
+が。
+が。
+But...
+But...
+この新展開は面白そうだ。::BREAKLINE::オレ一体どこでフラグを立てたんだ？
+この新展開は面白そうだ。::BREAKLINE::オレ一体どこでフラグを立てたんだ？
+It's definitely a new and interesting development.::BREAKLINE::Did I trigger a new flag somewhere, perhaps?
+It's definitely a new and interesting development.::BREAKLINE::Did I trigger a new flag somewhere, perhaps?
+ドアを開けたら何が起きる？
+ドアを開けたら何が起きる？
+What'll happen if I open this door?
+What'll happen if I open this door?
+これが館徘徊系のアクションゲームなら、いつもより強い敵が登場するトコだろう。
+これが館徘徊系のアクションゲームなら、いつもより強い敵が登場するトコだろう。
+If this were a mansion in one of those survival-horror games, there'd be a really strong enemy waiting behind it.
+If this were a mansion in one of those survival-horror games, there'd be a really strong enemy waiting behind it.
+ＲＰＧなら、宝箱のある隠し部屋ってところか？
+ＲＰＧなら、宝箱のある隠し部屋ってところか？
+If this were an RPG, it'd lead to a hidden treasure room.
+If this were an RPG, it'd lead to a hidden treasure room.
+シューティングや格ゲーなら……って、あいつらにこんな展開はない。
+シューティングや格ゲーなら……って、あいつらにこんな展開はない。
+And if it were a shooter or a beat-em-up... Actually, random doors don't suddenly appear in those games.
+And if it were a shooter or a beat-em-up... Actually, random doors don't suddenly appear in those games.
+つーか、バカな話は置いといてだ。::BREAKLINE::マジで一体なんだこりゃ！？
+つーか、バカな話は置いといてだ。::BREAKLINE::マジで一体なんだこりゃ！？
+Well, that's enough pointless speculation. Seriously though, what the hell is this thing doing here!?
+Well, that's enough pointless speculation. Seriously though, what the hell is this thing doing here!?
+【冥夜】「ん？　タケルか……おはよう」
+【冥夜】「ん？　タケルか……おはよう」
+【Meiya】「Mm? Oh, Takeru... Good morning.」
+【Meiya】「Mm? Oh, Takeru... Good morning.」
+【冥夜】「どうした？　今日は早いではないか？」
+【冥夜】「どうした？　今日は早いではないか？」
+【Meiya】「What is it? You are up early today.」
+【Meiya】「What is it? You are up early today.」
+【冥夜】「タケル？」
+【冥夜】「タケル？」
+【Meiya】「Takeru?」
+【Meiya】「Takeru?」
+【武】「ナ……」
+【武】「ナ……」
+【Takeru】「B─...」
+【Takeru】「B─...」
+【冥夜】「ん？」
+【冥夜】「ん？」
+【Meiya】「Mm?」
+【Meiya】「Mm?」
+【武】「ナマ……乳……」
+【武】「ナマ……乳……」
+【Takeru】「Buh... Boobs...」
+【Takeru】「Buh... Boobs...」
+【冥夜】「ナマチチ？　何だそれは？」
+【冥夜】「ナマチチ？　何だそれは？」
+【Meiya】「Buhboobs? What do you mean?」
+【Meiya】「Buhboobs? What do you mean?」
+……あ、やべ、鼻血……。
+……あ、やべ、鼻血……。
+...Oh, crap... My nose is bleeding...
+...Oh, crap... My nose is bleeding...
+【月詠】「冥夜様！　このようなときは……」
+【月詠】「冥夜様！　このようなときは……」
+【Tsukuyomi】「Meiya-sama! At times like these...」
+【Tsukuyomi】「Meiya-sama! At times like these...」
+【冥夜】「ふむ……ほぉ……だがしかしそれは……むぅ、なるほど、そうであったか」
+【冥夜】「ふむ……ほぉ……だがしかしそれは……むぅ、なるほど、そうであったか」
+【Meiya】「Hmm... Oho... But if I did that...::BREAKLINE::Hmm, I see... Is that so?」
+【Meiya】「Hmm... Oho... But if I did that...::BREAKLINE::Hmm, I see... Is that so?」
+なんで！？　何で扉の向こうに冥夜が？
+なんで！？　何で扉の向こうに冥夜が？
+Why!? Why is Meiya on the other side of this door!?
+Why!? Why is Meiya on the other side of this door!?
+【冥夜】「きゃああああああっっっっ！！！」
+【冥夜】「きゃああああああっっっっ！！！」
+【Meiya】「Kyaaaaaaaaaaaah!!!」
+【Meiya】「Kyaaaaaaaaaaaah!!!」
+【タケル】「おわっ！」
+【タケル】「おわっ！」
+【Takeru】「Whoah!!」
+【Takeru】「Whoah!!」
+【武】「──オパアアアアアィッッ！！」
+【武】「──オパアアアアアィッッ！！」
+【Takeru】「──BOOOOOObies!!!」
+【Takeru】「──BOOOOOObies!!!」
+【純夏】「タケルちゃん！？　タケルちゃんッッ！！？」
+【純夏】「タケルちゃん！？　タケルちゃんッッ！！？」
+【Sumika】「Takeru-chan!? Takeru-chan!?!?」
+【Sumika】「Takeru-chan!? Takeru-chan!?!?」
+【純夏】「あああ！！　またチェーンロックぅぅぅ！？」
+【純夏】「あああ！！　またチェーンロックぅぅぅ！？」
+【Sumika】「Arrgh!! Another chain lock!? Are you kidding me!?」
+【Sumika】「Arrgh!! Another chain lock!? Are you kidding me!?」
+【鷹嘴】「冥夜様、おはようございます」
+【鷹嘴】「冥夜様、おはようございます」
+【Takahashi】「Meiya-sama, good morning.」
+【Takahashi】「Meiya-sama, good morning.」
+【武】「あ、鷹嘴さん、おはようッス」
+【武】「あ、鷹嘴さん、おはようッス」
+【Takeru】「Oh, Takahashi-san. Morning.」
+【Takeru】「Oh, Takahashi-san. Morning.」
+【純夏】「鷹嘴さん、その手に持ってるの、なんですか？」
+【純夏】「鷹嘴さん、その手に持ってるの、なんですか？」
+【Sumika】「Takahashi-san, what's that you're carrying?」
+【Sumika】「Takahashi-san, what's that you're carrying?」
+【鷹嘴】「ん？　ノートパソコンだが」
+【鷹嘴】「ん？　ノートパソコンだが」
+【Takahashi】「Hm? A laptop — why do you ask?」
+【Takahashi】「Hm? A laptop — why do you ask?」
+【冥夜】「理論の研究か？　熱心だな」
+【冥夜】「理論の研究か？　熱心だな」
+【Meiya】「Conducting research for your theory? Such devotion.」
+【Meiya】「Conducting research for your theory? Such devotion.」
+【鷹嘴】「ありがとうございます。本日はいかがしましょう？」
+【鷹嘴】「ありがとうございます。本日はいかがしましょう？」
+【Takahashi】「Thank you very much.::BREAKLINE::Do you need a ride today?」
+【Takahashi】「Thank you very much.::BREAKLINE::Do you need a ride today?」
+【冥夜】「そうだな……」
+【冥夜】「そうだな……」
+【Meiya】「Good question...」
+【Meiya】「Good question...」
+【武】「ああ、オレは歩いていくからいいぜ？　時間もあるしな」
+【武】「ああ、オレは歩いていくからいいぜ？　時間もあるしな」
+【Takeru】「Oh, that's okay, I'm gonna walk to school.::BREAKLINE::We've got plenty of time, after all.」
+【Takeru】「Oh, that's okay, I'm gonna walk to school.::BREAKLINE::We've got plenty of time, after all.」
+【純夏】「タケルちゃんが歩くなら、わたしもそうするよ」
+【純夏】「タケルちゃんが歩くなら、わたしもそうするよ」
+【Sumika】「If Takeru-chan's walking, then so am I.」
+【Sumika】「If Takeru-chan's walking, then so am I.」
+【冥夜】「……許すが良い。私も徒歩で行く」
+【冥夜】「……許すが良い。私も徒歩で行く」
+【Meiya】「...Forgive me, but I will also be going on foot.」
+【Meiya】「...Forgive me, but I will also be going on foot.」
+【鷹嘴】「かしこまりました。それではお気をつけて」
+【鷹嘴】「かしこまりました。それではお気をつけて」
+【Takahashi】「Understood. Do take care, then.」
+【Takahashi】「Understood. Do take care, then.」
+【純夏】「鷹嘴さん、いってきます」
+【純夏】「鷹嘴さん、いってきます」
+【Sumika】「See you later, Takahashi-san.」
+【Sumika】「See you later, Takahashi-san.」
+【武】「……にしてもよぉ……ありゃ何だよ」
+【武】「……にしてもよぉ……ありゃ何だよ」
+【Takeru】「...Anyway.... What was that all about?」
+【Takeru】「...Anyway.... What was that all about?」
+【Meiya】「Whatever do you mean?」
+【Meiya】「Whatever do you mean?」
+【武】「正体不明のドアだよ！」
+【武】「正体不明のドアだよ！」
+【Takeru】「That mysterious door!」
+【Takeru】「That mysterious door!」
+【冥夜】「だから昨日言ったではないか。::BREAKLINE::そなたに迷惑をかけぬよう、取りはからっただけだ」
+【冥夜】「だから昨日言ったではないか。::BREAKLINE::そなたに迷惑をかけぬよう、取りはからっただけだ」
+【Meiya】「Did I not tell you yesterday? I made arrangements so as not to inconvenience you any further.」
+【Meiya】「Did I not tell you yesterday? I made arrangements so as not to inconvenience you any further.」
+……確かになんつーか、その、目覚めと同時に心拍数跳ね上がることはなくなったが……。
+……確かになんつーか、その、目覚めと同時に心拍数跳ね上がることはなくなったが……。
+...Well, it's certainly true that I won't be at risk of having a heart attack every time I wake up anymore, but...
+...Well, it's certainly true that I won't be at risk of having a heart attack every time I wake up anymore, but...
+【武】「向かいとその隣の家引っ越しさせたの、冥夜か？」
+【武】「向かいとその隣の家引っ越しさせたの、冥夜か？」
+【Takeru】「Meiya, are you the reason all my neighbors moved away?」
+【Takeru】「Meiya, are you the reason all my neighbors moved away?」
+【冥夜】「延いてはそうなろう。::BREAKLINE::全て月詠に任せているのでな」
+【冥夜】「延いてはそうなろう。::BREAKLINE::全て月詠に任せているのでな」
+【Meiya】「You could say that. I entrusted Tsukuyomi with full authority in the matter.」
+【Meiya】「You could say that. I entrusted Tsukuyomi with full authority in the matter.」
+【武】「はあ……やることなすこと大げさ過ぎるんだよ……」
+【武】「はあ……やることなすこと大げさ過ぎるんだよ……」
+【Takeru】「*sigh*...Why does everything you do have to be so ridiculously over-the-top...?」
+【Takeru】「*sigh*...Why does everything you do have to be so ridiculously over-the-top...?」
+【純夏】「あ……夕呼先……」
+【純夏】「あ……夕呼先……」
+【Sumika】「Ah... Look, it's Yuuko-sen-...」
+【Sumika】「Ah... Look, it's Yuuko-sen-...」
+【純夏】「……生の車だ……って、行っちゃったね」
+【純夏】「……生の車だ……って、行っちゃったね」
+【Sumika】「...-sei's car... and there it goes.」
+【Sumika】「...-sei's car... and there it goes.」
+【武】「まったく、朝っぱらからあの先生も……」
+【武】「まったく、朝っぱらからあの先生も……」
+【Takeru】「Good grief... How do you even drive like that at this hour...?」
+【Takeru】「Good grief... How do you even drive like that at this hour...?」
+【冥夜】「香月教諭はいつもああなのか？」
+【冥夜】「香月教諭はいつもああなのか？」
+【Meiya】「Is Instructor Kouzuki always like that?」
+【Meiya】「Is Instructor Kouzuki always like that?」
+【Takeru】「Pretty much.」
+【Takeru】「Pretty much.」
+【冥夜】「……鷹嘴と気が合うかも知れぬな」
+【冥夜】「……鷹嘴と気が合うかも知れぬな」
+【Meiya】「...She and Takahashi might get along well.」
+【Meiya】「...She and Takahashi might get along well.」
+【武】「へ？」
+【武】「へ？」
+【純夏】「鷹嘴さんって、そういう人なの？」
+【純夏】「鷹嘴さんって、そういう人なの？」
+【Sumika】「Takahashi-san's like that too?」
+【Sumika】「Takahashi-san's like that too?」
+【武】「まあ、送迎最速理論だっけ？　そんなの掲げてる人だもんなあ……」
+【武】「まあ、送迎最速理論だっけ？　そんなの掲げてる人だもんなあ……」
+【Takeru】「Well, he did come up with some... uh... 'High-Speed Transportation Theory,' I guess...」
+【Takeru】「Well, he did come up with some... uh... 'High-Speed Transportation Theory,' I guess...」
+一体どういう理論なんだか。
+一体どういう理論なんだか。
+Not that I have any idea what that means.
+Not that I have any idea what that means.
+【冥夜】「安心するがよい。::BREAKLINE::鷹嘴の運転はいつでも安全だ」
+【冥夜】「安心するがよい。::BREAKLINE::鷹嘴の運転はいつでも安全だ」
+【Meiya】「Be at ease.::BREAKLINE::Takahashi's driving is always safe.」
+【Meiya】「Be at ease.::BREAKLINE::Takahashi's driving is always safe.」
+はあ～、ヒマだねぇ。
+はあ～、ヒマだねぇ。
+*sigh*...I'm so bored.
+*sigh*...I'm so bored.
+物理ってわけわからねぇからキライなんだよな。
+物理ってわけわからねぇからキライなんだよな。
+I hate Physics. I can't make heads or tails of any of it.
+I hate Physics. I can't make heads or tails of any of it.
+だいたい、なに？　もののことわり？　それ、おいしいの？
+だいたい、なに？　もののことわり？　それ、おいしいの？
+What the heck are the "laws of motion" supposed to be? Are they edible?
+What the heck are the "laws of motion" supposed to be? Are they edible?
+【純夏】「タケルちゃん」
+【純夏】「タケルちゃん」
+【Sumika】「Takeru-chan.」
+【Sumika】「Takeru-chan.」
+ふあ～～あ……。
+ふあ～～あ……。
+*yaaaaawn*...
+*yaaaaawn*...
+【純夏】「タケルちゃんってばあ～」
+【純夏】「タケルちゃんってばあ～」
+【Sumika】「Takeru-chan, listen〜!」
+【Sumika】「Takeru-chan, listen〜!」
+【武】「ふあ～～～、ねむっ」
+【武】「ふあ～～～、ねむっ」
+【Takeru】「*yaaaaawn* Man, I'm sleepy.」
+【Takeru】「*yaaaaawn* Man, I'm sleepy.」
+【声】「幼稚過ぎて思わず寝たくなる、ってことかしら？」
+【声】「幼稚過ぎて思わず寝たくなる、ってことかしら？」
+【Voice】「Nodding off, are we? Is my class too elementary to capture your attention?」
+【Voice】「Nodding off, are we? Is my class too elementary to capture your attention?」
+【武】「……げっ！」
+【武】「……げっ！」
+【Takeru】「...Ack!!」
+【Takeru】「...Ack!!」
+【夕呼】「なんでも口に出すのはやめなさい」
+【夕呼】「なんでも口に出すのはやめなさい」
+【Yuuko】「I'd appreciate it if you'd stop interrupting my class every time you have a thought.」
+【Yuuko】「I'd appreciate it if you'd stop interrupting my class every time you have a thought.」
+【武】「……はい、ずびばぜん」
+【武】「……はい、ずびばぜん」
+【Takeru】「...Yes ma'am. I'm sowwy.」
+【Takeru】「...Yes ma'am. I'm sowwy.」
+【夕呼】「余裕であくびしてるくらいだから、これくらいの問題は楽勝よね？」
+【夕呼】「余裕であくびしてるくらいだから、これくらいの問題は楽勝よね？」
+【Yuuko】「If you know your physics well enough to yawn your way through my lesson, then this little problem ought to be child's play for you, no?」
+【Yuuko】「If you know your physics well enough to yawn your way through my lesson, then this little problem ought to be child's play for you, no?」
+……黒板に何やら公式の証明らしきものが書かれているが…………。
+……黒板に何やら公式の証明らしきものが書かれているが…………。
+...There seem to be some formulas written on the blackboard...
+...There seem to be some formulas written on the blackboard...
+【武】「すいません。見えません」
+【武】「すいません。見えません」
+【Takeru】「I'm sorry, I can't see the board.」
+【Takeru】「I'm sorry, I can't see the board.」
+【夕呼】「前に来てもいいのよ。::BREAKLINE::あ、ちなみに『因果律量子論』の話だから」
+【夕呼】「前に来てもいいのよ。::BREAKLINE::あ、ちなみに『因果律量子論』の話だから」
+【Yuuko】「Go ahead and move closer, then. Oh, by the way — we're talking about the Quantum Causality Theory.」
+【Yuuko】「Go ahead and move closer, then. Oh, by the way — we're talking about the Quantum Causality Theory.」
+なにそれ？
+なにそれ？
+Say what?
+Say what?
+【武】「教科書何ページですか？」
+【武】「教科書何ページですか？」
+【Takeru】「What page of the textbook is that on?」
+【Takeru】「What page of the textbook is that on?」
+【夕呼】「あたしが教科書よ」
+【夕呼】「あたしが教科書よ」
+【Yuuko】「I'm the textbook.」
+【Yuuko】「I'm the textbook.」
+終わったね、オレ…………。
+終わったね、オレ…………。
+I'm done for...
+I'm done for...
+【武】「……ずびばぜん、わかりません」
+【武】「……ずびばぜん、わかりません」
+【Takeru】「...I'm sowwy, I don't know.」
+【Takeru】「...I'm sowwy, I don't know.」
+【夕呼】「お馬鹿さんねぇ～」
+【夕呼】「お馬鹿さんねぇ～」
+【Yuuko】「My, what a silly, silly boy you are.」
+【Yuuko】「My, what a silly, silly boy you are.」
+【武】「……ふぐ」
+【武】「……ふぐ」
+【Takeru】「...*sob*...」
+【Takeru】「...*sob*...」
+【夕呼】「誰か、白銀を助けてあげられる人いる？」
+【夕呼】「誰か、白銀を助けてあげられる人いる？」
+【Yuuko】「Is anyone willing to give Shirogane a hand?」
+【Yuuko】「Is anyone willing to give Shirogane a hand?」
+――し～ん
+――し～ん
+──*silence*
+──*silence*
+……って、おい！
+……って、おい！
+...Seriously, guys!?
+...Seriously, guys!?
+【純夏】「あははは、わからないよ」
+【純夏】「あははは、わからないよ」
+【Sumika】「Ahahaha, I don't get it either.」
+【Sumika】「Ahahaha, I don't get it either.」
+たまは？
+たまは？
+What about Tama?
+What about Tama?
+【壬姫】「ぶるぶる」
+【壬姫】「ぶるぶる」
+【Miki】「*tremble*」
+【Miki】「*tremble*」
+彩峰カマン！
+彩峰カマン！
+C'mon, Ayamine!
+C'mon, Ayamine!
+せめてこっち向けよ…………とほほ。
+せめてこっち向けよ…………とほほ。
+At least look at me...*sob*
+At least look at me...*sob*
+【武】「委員長～」
+【武】「委員長～」
+【Takeru】「Class Rep...?」
+【Takeru】「Class Rep...?」
+【千鶴】「私にわかるわけないでしょ？」
+【千鶴】「私にわかるわけないでしょ？」
+【Chizuru】「What makes you think I'd understand it?」
+【Chizuru】「What makes you think I'd understand it?」
+【武】「なんだよ！　勉強できるんじゃねえのかよ～」
+【武】「なんだよ！　勉強できるんじゃねえのかよ～」
+【Takeru】「What the hell!? Aren't you supposed to be the bookworm here!?」
+【Takeru】「What the hell!? Aren't you supposed to be the bookworm here!?」
+【冥夜】「タケル……あれは香月教諭の独自理論だ。::BREAKLINE::なかなか興味深いぞ」
+【冥夜】「タケル……あれは香月教諭の独自理論だ。::BREAKLINE::なかなか興味深いぞ」
+【Meiya】「Takeru... this is an original theory of Instructor Kouzuki's. It is deeply fascinating.」
+【Meiya】「Takeru... this is an original theory of Instructor Kouzuki's. It is deeply fascinating.」
+独自理論～？
+独自理論～？
+An original theory?
+An original theory?
+【武】「物理じゃねぇじゃん…………」
+【武】「物理じゃねぇじゃん…………」
+【Takeru】「That's not even physics, though...」
+【Takeru】「That's not even physics, though...」
+【千鶴】「分野は物理よ…………たぶん」
+【千鶴】「分野は物理よ…………たぶん」
+【Chizuru】「It's still in the realm of physics... probably.」
+【Chizuru】「It's still in the realm of physics... probably.」
+【武】「んなのできるか！」
+【武】「んなのできるか！」
+【Takeru】「How are we supposed to solve it, then!?」
+【Takeru】「How are we supposed to solve it, then!?」
+【千鶴】「私に文句言わないで！」
+【千鶴】「私に文句言わないで！」
+【Chizuru】「Don't take it out on me!」
+【Chizuru】「Don't take it out on me!」
+【武】「それもそうだな…………先生、それはちょっと、あれなんで」
+【武】「それもそうだな…………先生、それはちょっと、あれなんで」
+【Takeru】「Yeah, you're right...::BREAKLINE::Sensei, don't you think this is a little bit too──」
+【Takeru】「Yeah, you're right...::BREAKLINE::Sensei, don't you think this is a little bit too──」
+【夕呼】「却下」
+【夕呼】「却下」
+【Yuuko】「Nope.」
+【Yuuko】「Nope.」
+【武】「……へにゅぅ」
+【武】「……へにゅぅ」
+【Takeru】「...Henyuu...」
+【Takeru】「...Henyuu...」
+【夕呼】「ヘニュゥ？　タスマニアあたりに絶滅寸前の動物でそんなのがいそうね」
+【夕呼】「ヘニュゥ？　タスマニアあたりに絶滅寸前の動物でそんなのがいそうね」
+【Yuuko】「Henyu? Sounds like an animal on the brink of extinction from Tasmania or something.」
+【Yuuko】「Henyu? Sounds like an animal on the brink of extinction from Tasmania or something.」
+【夕呼】「さて白銀、どうしようか？」
+【夕呼】「さて白銀、どうしようか？」
+【Yuuko】「Come now, Shirogane — how do we solve this one?」
+【Yuuko】「Come now, Shirogane — how do we solve this one?」
+【武】「どうしようかと言われましても……」
+【武】「どうしようかと言われましても……」
+【Takeru】「Why're you asking me...?」
+【Takeru】「Why're you asking me...?」
+タスマニアの絶滅寸前の動物ねえ……::BREAKLINE::んなのわかるかよ（大間違い）
+タスマニアの絶滅寸前の動物ねえ……::BREAKLINE::んなのわかるかよ（大間違い）
+How am I supposed to know anything about Tasmanian endangered species...? (wrong idea entirely)
+How am I supposed to know anything about Tasmanian endangered species...? (wrong idea entirely)
+そうだ！　こんな時頼りになる味方がいるぜっ！
+そうだ！　こんな時頼りになる味方がいるぜっ！
+That's right! I know exactly who to call at a time like this!!
+That's right! I know exactly who to call at a time like this!!
+世界を股にかけ、希少動物や特産品に精通しているア・イ・ツ！
+世界を股にかけ、希少動物や特産品に精通しているア・イ・ツ！
+A guy who's extremely well-traveled, and just so happens to be well versed in rare animals and specialty goods!
+A guy who's extremely well-traveled, and just so happens to be well versed in rare animals and specialty goods!
+今は遥か太平洋のド真ん中（推測）にいようと、衛星回線を凌駕するオレのテレパスィー（思い込み）があればっ！
+今は遥か太平洋のド真ん中（推測）にいようと、衛星回線を凌駕するオレのテレパスィー（思い込み）があればっ！
+He's currently thought to be in the dead center of the Pacific Ocean, but my (self-professed) telepathic powers far outrange the signal strength of even the most advanced in telecommunication satellites!
+He's currently thought to be in the dead center of the Pacific Ocean, but my (self-professed) telepathic powers far outrange the signal strength of even the most advanced in telecommunication satellites!
+届け！　友情パワー！！
+届け！　友情パワー！！
+I'll reach him with the power of friendship!!
+I'll reach him with the power of friendship!!
+【武】「尊人ォォカムヒアーー！！」
+【武】「尊人ォォカムヒアーー！！」
+【Takeru】「Mikotooo, ven aquiii!!」
+【Takeru】「Mikotooo, ven aquiii!!」
+【夕呼】「……何バカなこと言ってるの？」
+【夕呼】「……何バカなこと言ってるの？」
+【Yuuko】「...What the hell do you think you're doing?」
+【Yuuko】「...What the hell do you think you're doing?」
+【武】「…………はい、すいません」
+【武】「…………はい、すいません」
+【Takeru】「...Nothing. I'm sorry.」
+【Takeru】「...Nothing. I'm sorry.」
+まさかっ！？
+まさかっ！？
+It can't be!?
+It can't be!?
+【夕呼】「なにアレ？」
+【夕呼】「なにアレ？」
+【Yuuko】「What is that?」
+【Yuuko】「What is that?」
+【武】「何と言われましても……」
+【武】「何と言われましても……」
+【Takeru】「Why are you asking me...?」
+【Takeru】「Why are you asking me...?」
+……人？
+……人？
+...A person?
+...A person?
+【壬姫】「あ！　足が出てるよー！」
+【壬姫】「あ！　足が出てるよー！」
+【Miki】「Ah! It has legs coming out of it!」
+【Miki】「Ah! It has legs coming out of it!」
+【千鶴】「人間！？」
+【千鶴】「人間！？」
+【Chizuru】「Is it human!?」
+【Chizuru】「Is it human!?」
+【純夏】「まさか……」
+【純夏】「まさか……」
+【Sumika】「Is that...?」
+【Sumika】「Is that...?」
+【武】「これってひょっとして……」
+【武】「これってひょっとして……」
+【Takeru】「Could it be...?」
+【Takeru】「Could it be...?」
+【慧】「……さんはい」
+【慧】「……さんはい」
+【Kei】「...Ready, go.」
+【Kei】「...Ready, go.」
+【武】「尊人！？」::BREAKLINE::
+【武】「尊人！？」::BREAKLINE::
+【Takeru】「Mikoto!?」::BREAKLINE::
+【Takeru】「Mikoto!?」::BREAKLINE::
+【純夏】「鎧衣君！？」::BREAKLINE::
+【純夏】「鎧衣君！？」::BREAKLINE::
+【Sumika】「Yoroi-kun!?」::BREAKLINE::
+【Sumika】「Yoroi-kun!?」::BREAKLINE::
+【千鶴】「鎧衣君！？」::BREAKLINE::
+【千鶴】「鎧衣君！？」::BREAKLINE::
+【Chizuru】「Yoroi-kun!?」::BREAKLINE::
+【Chizuru】「Yoroi-kun!?」::BREAKLINE::
+【壬姫】「尊人ちゃん！？」
+【壬姫】「尊人ちゃん！？」
+【Miki】「Mikoto-chan!?」
+【Miki】「Mikoto-chan!?」
+【一同】「…………」
+【一同】「…………」
+【Everyone】「......」
+【Everyone】「......」
+【慧】「……なに？」
+【慧】「……なに？」
+【Kei】「...What?」
+【Kei】「...What?」
+【夕呼】「あんた、鎧衣？」
+【夕呼】「あんた、鎧衣？」
+【Yuuko】「That you, Yoroi?」
+【Yuuko】「That you, Yoroi?」
+【簀巻き】「…………」
+【簀巻き】「…………」
+【Reeds】「......」
+【Reeds】「......」
+【夕呼】「日本語が理解できるなら、反応して頂戴」
+【夕呼】「日本語が理解できるなら、反応して頂戴」
+【Yuuko】「If you can understand Japanese, please respond.」
+【Yuuko】「If you can understand Japanese, please respond.」
+【壬姫】「あっ！　微妙に足が動いてるよー！」
+【壬姫】「あっ！　微妙に足が動いてるよー！」
+【Miki】「Ah!! I saw its leg twitch!」
+【Miki】「Ah!! I saw its leg twitch!」
+【冥夜】「これは痙攣というのではないのか？」
+【冥夜】「これは痙攣というのではないのか？」
+【Meiya】「Is that not a convulsion?」
+【Meiya】「Is that not a convulsion?」
+【武】「お、おい尊人！　尊人っ！！」
+【武】「お、おい尊人！　尊人っ！！」
+【Takeru】「H-Hey, Mikoto! Mikoto!!」
+【Takeru】「H-Hey, Mikoto! Mikoto!!」
+【夕呼】「仕方ないわねえ……白銀、友人のご帰還よ。::BREAKLINE::保健室に連れて行きなさい」
+【夕呼】「仕方ないわねえ……白銀、友人のご帰還よ。::BREAKLINE::保健室に連れて行きなさい」
+【Yuuko】「Guess we have no choice... Shirogane, your friend seems to have returned. Escort him to the nurse's office.」
+【Yuuko】「Guess we have no choice... Shirogane, your friend seems to have returned. Escort him to the nurse's office.」
+【冥夜】「足の動きが止まったな……」
+【冥夜】「足の動きが止まったな……」
+【Meiya】「His legs stopped moving...」
+【Meiya】「His legs stopped moving...」
+ぎゃーーーーー！！！
+ぎゃーーーーー！！！
+Gyaaaaah!!!
+Gyaaaaah!!!
+【武】「尊人！　しっかりしろっ！　死ぬなよぉぉ……」
+【武】「尊人！　しっかりしろっ！　死ぬなよぉぉ……」
+【Takeru】「Mikoto! Hang in there, buddy! Don't you go dying on me...」
+【Takeru】「Mikoto! Hang in there, buddy! Don't you go dying on me...」
+【夕呼】「慣れてるんだから、死にゃしないでしょ。::BREAKLINE::ほら白銀」
+【夕呼】「慣れてるんだから、死にゃしないでしょ。::BREAKLINE::ほら白銀」
+【Yuuko】「He's accustomed to this, so I highly doubt he'll die. Go on now, Shirogane.」
+【Yuuko】「He's accustomed to this, so I highly doubt he'll die. Go on now, Shirogane.」
+【尊人】「いや～、一時はどうなることかと思ったよー」
+【尊人】「いや～、一時はどうなることかと思ったよー」
+【Mikoto】「Wooow. For a minute there, I wasn't sure I'd make it.」
+【Mikoto】「Wooow. For a minute there, I wasn't sure I'd make it.」
+【武】「全く驚かしやがって」
+【武】「全く驚かしやがって」
+【Takeru】「Don't scare us like that.」
+【Takeru】「Don't scare us like that.」
+【壬姫】「死んだかと思っちゃったー」
+【壬姫】「死んだかと思っちゃったー」
+【Miki】「I thought you were a goner.」
+【Miki】「I thought you were a goner.」
+【千鶴】「人騒がせなんだから、鎧衣君は」
+【千鶴】「人騒がせなんだから、鎧衣君は」
+【Chizuru】「You sure know how to make a scene, Yoroi-kun.」
+【Chizuru】「You sure know how to make a scene, Yoroi-kun.」
+【尊人】「やっぱいいねぇ、日本は」
+【尊人】「やっぱいいねぇ、日本は」
+【Mikoto】「Sure is nice to be back in Japan!」
+【Mikoto】「Sure is nice to be back in Japan!」
+【純夏】「一体今度はどこに行ってきたわけ？」
+【純夏】「一体今度はどこに行ってきたわけ？」
+【Sumika】「Where on earth did you go this time?」
+【Sumika】「Where on earth did you go this time?」
+【武】「もう大丈夫なのか？」
+【武】「もう大丈夫なのか？」
+【Takeru】「Are you sure you're alright?」
+【Takeru】「Are you sure you're alright?」
+【尊人】「人がいるって安心するね」
+【尊人】「人がいるって安心するね」
+【Mikoto】「It's such a relief to be around other people again.」
+【Mikoto】「It's such a relief to be around other people again.」
+【武】「あの簀巻きは何だ？」
+【武】「あの簀巻きは何だ？」
+【Takeru】「What was with those reeds?」
+【Takeru】「What was with those reeds?」
+【尊人】「タケル久しぶりだね。::BREAKLINE::背伸びた？　なんかもう、３年くらい会ってないような気がするけど」
+【尊人】「タケル久しぶりだね。::BREAKLINE::背伸びた？　なんかもう、３年くらい会ってないような気がするけど」
+【Mikoto】「It's been too long, Takeru. Have you gotten taller? It feels like we haven't seen each other for three years.」
+【Mikoto】「It's been too long, Takeru. Have you gotten taller? It feels like we haven't seen each other for three years.」
+【武】「相変わらずだな。人の話聞けよ」
+【武】「相変わらずだな。人の話聞けよ」
+【Takeru】「You haven't changed a bit.::BREAKLINE::Listen to what we're saying to you.」
+【Takeru】「You haven't changed a bit.::BREAKLINE::Listen to what we're saying to you.」
+【尊人】「みんなも雰囲気変わった？　あ、委員長イメチェン？　眼鏡も似合うね」
+【尊人】「みんなも雰囲気変わった？　あ、委員長イメチェン？　眼鏡も似合うね」
+【Mikoto】「Everyone seems different now. Wow, Class Rep, did you change your look? Those glasses suit you.」
+【Mikoto】「Everyone seems different now. Wow, Class Rep, did you change your look? Those glasses suit you.」
+【千鶴】「アリガト。::BREAKLINE::初めて会う前から眼鏡だけどね」
+【千鶴】「アリガト。::BREAKLINE::初めて会う前から眼鏡だけどね」
+【Chizuru】「Thanks. Although I've been wearing them since before we even met.」
+【Chizuru】「Thanks. Although I've been wearing them since before we even met.」
+【尊人】「彩峰も雰囲気変わったね、髪伸びた？　その刀どうしたの？」
+【尊人】「彩峰も雰囲気変わったね、髪伸びた？　その刀どうしたの？」
+【Mikoto】「You seem different too, Ayamine.::BREAKLINE::Did you grow out your hair? What's with that sword?」
+【Mikoto】「You seem different too, Ayamine.::BREAKLINE::Did you grow out your hair? What's with that sword?」
+【冥夜】「いや私は……」
+【冥夜】「いや私は……」
+【Meiya】「No, my name is...」
+【Meiya】「No, my name is...」
+【Takeru】「Seriously, dude...?」
+【Takeru】「Seriously, dude...?」
+【尊人】「それにしても参ったよ～、起きたらマグロ漁船みたいのに簀巻き状態で乗せられててさ」
+【尊人】「それにしても参ったよ～、起きたらマグロ漁船みたいのに簀巻き状態で乗せられててさ」
+【Mikoto】「But man, was that rough. I woke up in a tuna trawler with all these reeds tied around me.」
+【Mikoto】「But man, was that rough. I woke up in a tuna trawler with all these reeds tied around me.」
+【尊人】「何語しゃべってるかもわからない人に、変な島に下ろされたまでは、ま、いつも通りだったんだけど」
+【尊人】「何語しゃべってるかもわからない人に、変な島に下ろされたまでは、ま、いつも通りだったんだけど」
+【Mikoto】「I didn't know what language they were speaking, and they dropped me off on some weird island. Well, I guess that's pretty much how it always goes.」
+【Mikoto】「I didn't know what language they were speaking, and they dropped me off on some weird island. Well, I guess that's pretty much how it always goes.」
+──いつもかい！？
+──いつもかい！？
+──How it always goes!?
+──How it always goes!?
+【尊人】「ほんと、人がいないところはやだよね……どうしたの？　タケル」
+【尊人】「ほんと、人がいないところはやだよね……どうしたの？　タケル」
+【Mikoto】「I tell ya, being on a desert island like that just doesn't agree with me... What's wrong, Takeru?」
+【Mikoto】「I tell ya, being on a desert island like that just doesn't agree with me... What's wrong, Takeru?」
+【武】「……人の話を聞け、落ち着け、よく見ろ」
+【武】「……人の話を聞け、落ち着け、よく見ろ」
+【Takeru】「...Listen to what we're saying, calm down, and take a good look around you.」
+【Takeru】「...Listen to what we're saying, calm down, and take a good look around you.」
+【尊人】「ところでこの人誰？」
+【尊人】「ところでこの人誰？」
+【Mikoto】「By the way, who is this?」
+【Mikoto】「By the way, who is this?」
+おまえ、人がいようがいまいが関係ねぇだろう？
+おまえ、人がいようがいまいが関係ねぇだろう？
+It's like it doesn't even matter whether we're actually here or not.
+It's like it doesn't even matter whether we're actually here or not.
+【武】「彩峰だ」
+【武】「彩峰だ」
+【Takeru】「She's Ayamine.」
+【Takeru】「She's Ayamine.」
+【尊人】「またまたあ～。いくらボクでも騙されないよ？」
+【尊人】「またまたあ～。いくらボクでも騙されないよ？」
+【Mikoto】「Come on, now. I'm not THAT gullible.」
+【Mikoto】「Come on, now. I'm not THAT gullible.」
+【武】「脳味噌大丈夫か？」
+【武】「脳味噌大丈夫か？」
+【Takeru】「Is your brain working right?」
+【Takeru】「Is your brain working right?」
+【武】「……ああ、こいつが鎧衣尊人だ。::BREAKLINE::思いっきり呆れてくれ」
+【武】「……ああ、こいつが鎧衣尊人だ。::BREAKLINE::思いっきり呆れてくれ」
+【Takeru】「...Yeah, this is Yoroi Mikoto.::BREAKLINE::Behold, the most inattentive man alive.」
+【Takeru】「...Yeah, this is Yoroi Mikoto.::BREAKLINE::Behold, the most inattentive man alive.」
+【尊人】「あ、ひょっとして君、転校生？::BREAKLINE::よろしく、ボクは鎧衣尊人。::BREAKLINE::みんな尊人って呼んでるよ。ね？」
+【尊人】「あ、ひょっとして君、転校生？::BREAKLINE::よろしく、ボクは鎧衣尊人。::BREAKLINE::みんな尊人って呼んでるよ。ね？」
+【Mikoto】「Ah, you must be... the transfer student? Why hello there, I'm Yoroi Mikoto. Everyone calls me Mikoto, so you can too.」
+【Mikoto】「Ah, you must be... the transfer student? Why hello there, I'm Yoroi Mikoto. Everyone calls me Mikoto, so you can too.」
+【武】「オレとたまだけだ」
+【武】「オレとたまだけだ」
+【Takeru】「Only Tama and I do that.」
+【Takeru】「Only Tama and I do that.」
+【冥夜】「私は御剣冥夜だ。冥夜でよい」
+【冥夜】「私は御剣冥夜だ。冥夜でよい」
+【Meiya】「I am Mitsurugi Meiya. You may refer to me as Meiya.」
+【Meiya】「I am Mitsurugi Meiya. You may refer to me as Meiya.」
+【尊人】「じゃあ、冥夜でいいよね？　よろしく、冥夜」
+【尊人】「じゃあ、冥夜でいいよね？　よろしく、冥夜」
+【Mikoto】「Neat. Hey, you don't mind if I call you Meiya, do you? Pleased to meet you, Meiya.」
+【Mikoto】「Neat. Hey, you don't mind if I call you Meiya, do you? Pleased to meet you, Meiya.」
+……マジ輪ァかけてマイペースになりやがって。
+……マジ輪ァかけてマイペースになりやがって。
+...He always makes the conversation go wherever he wants it to.
+...He always makes the conversation go wherever he wants it to.
+【武】「まあいいや。::BREAKLINE::そうだ、それより剛田が転校しちまったぞ」
+【武】「まあいいや。::BREAKLINE::そうだ、それより剛田が転校しちまったぞ」
+【Takeru】「Well, whatever. So hey, guess what? Gouda transferred.」
+【Takeru】「Well, whatever. So hey, guess what? Gouda transferred.」
+【尊人】「えっ？　そうなの！？」
+【尊人】「えっ？　そうなの！？」
+【Mikoto】「What!? He did!?」
+【Mikoto】「What!? He did!?」
+【武】「おとといのことだ」
+【武】「おとといのことだ」
+【Takeru】「Two days ago.」
+【Takeru】「Two days ago.」
+【尊人】「そうなんだあ……で、剛田って誰？」
+【尊人】「そうなんだあ……で、剛田って誰？」
+【Mikoto】「You don't say... uh, who's Gouda again?」
+【Mikoto】「You don't say... uh, who's Gouda again?」
+【武】「お、おまえ、めちゃくちゃ仲良かっただろ！！」
+【武】「お、おまえ、めちゃくちゃ仲良かっただろ！！」
+【Takeru】「W-Weren't you two best friends!?」
+【Takeru】「W-Weren't you two best friends!?」
+【尊人】「そうだっけ？」
+【尊人】「そうだっけ？」
+【Mikoto】「Were we?」
+【Mikoto】「Were we?」
+【武】「おまえのことガイアの使者とか言って、尊敬してたじゃないかっ！！」
+【武】「おまえのことガイアの使者とか言って、尊敬してたじゃないかっ！！」
+【Takeru】「He called you the messenger of Gaia or something. The man revered you!!」
+【Takeru】「He called you the messenger of Gaia or something. The man revered you!!」
+【尊人】「う～ん……ねえ、ひょっとしてそれ、小学校の同級生の剛田君のこと？」
+【尊人】「う～ん……ねえ、ひょっとしてそれ、小学校の同級生の剛田君のこと？」
+【Mikoto】「Hmmm... Oh, do you mean Gouda-kun from back in elementary school?」
+【Mikoto】「Hmmm... Oh, do you mean Gouda-kun from back in elementary school?」
+【武】「おまえの小学校時代なんか知るかっ！！」
+【武】「おまえの小学校時代なんか知るかっ！！」
+【Takeru】「How would I know your classmates from back then!?!?」
+【Takeru】「How would I know your classmates from back then!?!?」
+おまえだって去年転校してきたんじゃねーか！
+おまえだって去年転校してきたんじゃねーか！
+You only transferred here last year, dude!
+You only transferred here last year, dude!
+【尊人】「じゃあねえ……」
+【尊人】「じゃあねえ……」
+【Mikoto】「Then I guess...」
+【Mikoto】「Then I guess...」
+【武】「……いや、いい。::BREAKLINE::そのまま忘れてやれ」
+【武】「……いや、いい。::BREAKLINE::そのまま忘れてやれ」
+【Takeru】「...No, it's fine.::BREAKLINE::Just forget I said anything.」
+【Takeru】「...No, it's fine.::BREAKLINE::Just forget I said anything.」
+……純夏が机の横に手を伸ばした。::BREAKLINE::弁当がふたつ。
+……純夏が机の横に手を伸ばした。::BREAKLINE::弁当がふたつ。
+...Sumika's standing next to my desk with her hands out. She's holding two lunch boxes.
+...Sumika's standing next to my desk with her hands out. She's holding two lunch boxes.
+……冥夜が教室を出ていった。::BREAKLINE::磨りガラスに影が映ってる。
+……冥夜が教室を出ていった。::BREAKLINE::磨りガラスに影が映ってる。
+...Meiya already left the classroom.::BREAKLINE::I can see her silhouette through the frosted glass windows.
+...Meiya already left the classroom.::BREAKLINE::I can see her silhouette through the frosted glass windows.
+これは……ひょっとして……今日もまたっ！？
+これは……ひょっとして……今日もまたっ！？
+Does this... Could this mean... Is it happening again!?
+Does this... Could this mean... Is it happening again!?
+【純夏】「タケルちゃん！　お弁当の時間だよっ！！」
+【純夏】「タケルちゃん！　お弁当の時間だよっ！！」
+【Sumika】「Takeru-chan! It's time for lunch!!」
+【Sumika】「Takeru-chan! It's time for lunch!!」
+【武】「ぬあっ！　ふたつもっ！？」
+【武】「ぬあっ！　ふたつもっ！？」
+【Takeru】「What!? Two lunches!?」
+【Takeru】「What!? Two lunches!?」
+【純夏】「そうだよ～。::BREAKLINE::頑張ったんだからね！！」
+【純夏】「そうだよ～。::BREAKLINE::頑張ったんだからね！！」
+【Sumika】「That's right! I worked hard on them!!」
+【Sumika】「That's right! I worked hard on them!!」
+【武】「えらい張り切りようじゃねーか」
+【武】「えらい張り切りようじゃねーか」
+【Takeru】「Really gave it your all this time, eh?」
+【Takeru】「Really gave it your all this time, eh?」
+【純夏】「『男』を感じさせるお弁当にしろって言ってたでしょ？」
+【純夏】「『男』を感じさせるお弁当にしろって言ってたでしょ？」
+【Sumika】「Didn't you tell me to make a lunch oozing with manliness?」
+【Sumika】「Didn't you tell me to make a lunch oozing with manliness?」
+【武】「ああ、そんなことも言ったかもしれねーな」
+【武】「ああ、そんなことも言ったかもしれねーな」
+【Takeru】「Yeah, I might've said something like that.」
+【Takeru】「Yeah, I might've said something like that.」
+【純夏】「えへへへへへ…………」
+【純夏】「えへへへへへ…………」
+【Sumika】「Eheheheheheh...」
+【Sumika】「Eheheheheheh...」
+【武】「よおし、そんじゃあいっちょ、見せて貰おうか！」
+【武】「よおし、そんじゃあいっちょ、見せて貰おうか！」
+【Takeru】「Alrighty then! Let's see this lunch of yours!」
+【Takeru】「Alrighty then! Let's see this lunch of yours!」
+【純夏】「えいっ！」
+【純夏】「えいっ！」
+【Sumika】「Take that!!」
+【Sumika】「Take that!!」
+【尊人】「へえ……なかなか」
+【尊人】「へえ……なかなか」
+【Mikoto】「Wow... Not bad.」
+【Mikoto】「Wow... Not bad.」
+ひとつの袋から出てきたのは、飾りっ気のない四角い弁当箱！
+ひとつの袋から出てきたのは、飾りっ気のない四角い弁当箱！
+She reaches into the bag and pulls out... a plain square lunch box!
+She reaches into the bag and pulls out... a plain square lunch box!
+中には飯がぎっしりと、真ん中に梅干しがひとつ。
+中には飯がぎっしりと、真ん中に梅干しがひとつ。
+It's tightly packed with rice. There's a single pickled plum sitting in the center.
+It's tightly packed with rice. There's a single pickled plum sitting in the center.
+【純夏】「まだまだぁっ！　こっちが本番だよっっ！！！」
+【純夏】「まだまだぁっ！　こっちが本番だよっっ！！！」
+【Sumika】「And that's not all!! Feast your eyes on this!!!」
+【Sumika】「And that's not all!! Feast your eyes on this!!!」
+――え！？
+――え！？
+──What!?
+──What!?
+【尊人】「ああッ！　そっ……それはっっ！！」
+【尊人】「ああッ！　そっ……それはっっ！！」
+【Mikoto】「Aaah!! Th-...That's─!!」
+【Mikoto】「Aaah!! Th-...That's─!!」
+【武】「マ、マンガ肉～～～～～！！！！？？」::BREAKLINE::
+【武】「マ、マンガ肉～～～～～！！！！？？」::BREAKLINE::
+【Takeru】「M-Manga meeeeeat!?!?」::BREAKLINE::
+【Takeru】「M-Manga meeeeeat!?!?」::BREAKLINE::
+【尊人】「マ、マンガ肉～～～～～！！！！？？」::BREAKLINE::
+【尊人】「マ、マンガ肉～～～～～！！！！？？」::BREAKLINE::
+【Mikoto】「M-Manga meeeeeat!?!?」::BREAKLINE::
+【Mikoto】「M-Manga meeeeeat!?!?」::BREAKLINE::
+【壬姫】「マ、マンガ肉～～～～～！！！！？？」
+【壬姫】「マ、マンガ肉～～～～～！！！！？？」
+【Miki】「M-Manga meeeeeat!?!?」
+【Miki】「M-Manga meeeeeat!?!?」
+【武】「な……な……」
+【武】「な……な……」
+【Takeru】「Wh-... Wh-...」
+【Takeru】「Wh-... Wh-...」
+老若男女問わず、人生において必ずいちどは夢見るという、幻のマンガ肉！
+老若男女問わず、人生において必ずいちどは夢見るという、幻のマンガ肉！
+The legendary manga meat! All men and women, young and old, have seen it in their dreams at least once!
+The legendary manga meat! All men and women, young and old, have seen it in their dreams at least once!
+そして男はドリーマー……たとえ婦女子が諦めても、男は決して諦めねぇ！
+そして男はドリーマー……たとえ婦女子が諦めても、男は決して諦めねぇ！
+And we men love to chase our dreams... Even if our female counterparts give up on it, we never will!
+And we men love to chase our dreams... Even if our female counterparts give up on it, we never will!
+ああそうともっ！　マンガ肉は男のロマンなんだあああっっっ！！
+ああそうともっ！　マンガ肉は男のロマンなんだあああっっっ！！
+Yes, that's right! Manga meat is every man's fantasy!!
+Yes, that's right! Manga meat is every man's fantasy!!
+【尊人】「す、凄いよ純夏ちゃん！！　一体これどこで手に入れたのっ！？　ボクですら見たことないのにっっ！！」
+【尊人】「す、凄いよ純夏ちゃん！！　一体これどこで手に入れたのっ！？　ボクですら見たことないのにっっ！！」
+【Mikoto】「Th-That's amazing, Sumika-chan!! Where in the world did you get this!? I've never even seen it before!!」
+【Mikoto】「Th-That's amazing, Sumika-chan!! Where in the world did you get this!? I've never even seen it before!!」
+【純夏】「へっへ～～ん！！」
+【純夏】「へっへ～～ん！！」
+【Sumika】「How do you like THEM apples!?」
+【Sumika】「How do you like THEM apples!?」
+【冥夜】「タケル待たせたな、本日の昼食だ。::BREAKLINE::知床半島より鮭児が届いたそうだ。::BREAKLINE::刺身にしたゆえ存分に食すがよい」
+【冥夜】「タケル待たせたな、本日の昼食だ。::BREAKLINE::知床半島より鮭児が届いたそうだ。::BREAKLINE::刺身にしたゆえ存分に食すがよい」
+【Meiya】「Sorry to keep you waiting, Takeru. Here is today's lunch. Sashimi made out of juvenile salmon parr fresh from the Shiretoko Peninsula. Eat as much as you like.」
+【Meiya】「Sorry to keep you waiting, Takeru. Here is today's lunch. Sashimi made out of juvenile salmon parr fresh from the Shiretoko Peninsula. Eat as much as you like.」
+【尊人】「うわあっ！　鮭児だあ！　この色艶、霜降り肉にも匹敵する脂の乗り具合はもう間違いないよっっ！！」
+【尊人】「うわあっ！　鮭児だあ！　この色艶、霜降り肉にも匹敵する脂の乗り具合はもう間違いないよっっ！！」
+【Mikoto】「Whoaa!! Salmon parr!? Such luster... such texture...! There's no doubt about it — these things are as fatty as marbled beef!!」
+【Mikoto】「Whoaa!! Salmon parr!? Such luster... such texture...! There's no doubt about it — these things are as fatty as marbled beef!!」
+【武】「……ケイジってなんだ？」
+【武】「……ケイジってなんだ？」
+【Takeru】「...What're salmon parr?」
+【Takeru】「...What're salmon parr?」
+【尊人】「えっっ！！　タケル知らないの！？　それはヒトとして問題あるでしょ！？」
+【尊人】「えっっ！！　タケル知らないの！？　それはヒトとして問題あるでしょ！？」
+【Mikoto】「What!? Takeru, you don't know!?::BREAKLINE::Have you been living under a rock your whole life!?」
+【Mikoto】「What!? Takeru, you don't know!?::BREAKLINE::Have you been living under a rock your whole life!?」
+ねえよ。
+ねえよ。
+No. I haven't.
+No. I haven't.
+【武】「……何か鮭の刺身みたいだけど……」
+【武】「……何か鮭の刺身みたいだけど……」
+【Takeru】「...It just looks like some kind of salmon sashimi...」
+【Takeru】「...It just looks like some kind of salmon sashimi...」
+【尊人】「おしいっっ！！」
+【尊人】「おしいっっ！！」
+【Mikoto】「Not just any kind!!」
+【Mikoto】「Not just any kind!!」
+【Takeru】「Ack!」
+【Takeru】「Ack!」
+【尊人】「よく聞いてタケル。::BREAKLINE::鮭児はね、約１万５千匹に１匹の割合でしか獲れない幻の鮭なんだよっ！！」
+【尊人】「よく聞いてタケル。::BREAKLINE::鮭児はね、約１万５千匹に１匹の割合でしか獲れない幻の鮭なんだよっ！！」
+【Mikoto】「Takeru, listen to me. There's only one salmon parr caught for every 15,000 fully-grown salmon. They're practically mythical!!」
+【Mikoto】「Takeru, listen to me. There's only one salmon parr caught for every 15,000 fully-grown salmon. They're practically mythical!!」
+【武】「そ、そうなのか？」
+【武】「そ、そうなのか？」
+【Takeru】「A-Are they now?」
+【Takeru】「A-Are they now?」
+【尊人】「無粋なことは言いたくないけど、ボクらのような庶民には到底手の出ない値段なんだから！！」
+【尊人】「無粋なことは言いたくないけど、ボクらのような庶民には到底手の出ない値段なんだから！！」
+【Mikoto】「No offense, but they're far beyond the reach of commoners like you and me!!」
+【Mikoto】「No offense, but they're far beyond the reach of commoners like you and me!!」
+【武】「……おまえが庶民？」
+【武】「……おまえが庶民？」
+【Takeru】「...You're a commoner?」
+【Takeru】「...You're a commoner?」
+別の意味で絶対オメーは庶民じゃねーよ。
+別の意味で絶対オメーは庶民じゃねーよ。
+"Common" is the last word I'd use to describe you.
+"Common" is the last word I'd use to describe you.
+【尊人】「タケル！　一体何がどうなってるの！？　何でマンガ肉に鮭児なんて、夢みたいなことになっちゃってるわけ！？」
+【尊人】「タケル！　一体何がどうなってるの！？　何でマンガ肉に鮭児なんて、夢みたいなことになっちゃってるわけ！？」
+【Mikoto】「Takeru! What the heck is going on!? Why're legendary foods like manga meat and salmon parr showing up around here!?」
+【Mikoto】「Takeru! What the heck is going on!? Why're legendary foods like manga meat and salmon parr showing up around here!?」
+目の前には、綺麗な皿に盛りつけられたケイジとかいう魚の刺身。
+目の前には、綺麗な皿に盛りつけられたケイジとかいう魚の刺身。
+In front of me lie the salmon parr sashimi, neatly arranged atop a beautiful ornamental plate.
+In front of me lie the salmon parr sashimi, neatly arranged atop a beautiful ornamental plate.
+他にも小鉢に盛られたいろんな料理が……って、いつの間に！！
+他にも小鉢に盛られたいろんな料理が……って、いつの間に！！
+And now there's all these other bowls filled with different kinds of food... Wait, when did these get here!?!?
+And now there's all these other bowls filled with different kinds of food... Wait, when did these get here!?!?
+【尊人】「うわ～、このお皿綺麗だね！　でもなんだろう……有田……信楽……う～ん……」
+【尊人】「うわ～、このお皿綺麗だね！　でもなんだろう……有田……信楽……う～ん……」
+【Mikoto】「Wow, these plates are beautiful! But look at this variety... Arita... Shigaraki... Hrmm...」
+【Mikoto】「Wow, these plates are beautiful! But look at this variety... Arita... Shigaraki... Hrmm...」
+【冥夜】「これは我が祖父の道楽でな」
+【冥夜】「これは我が祖父の道楽でな」
+【Meiya】「My grandfather collects these in his spare time.」
+【Meiya】「My grandfather collects these in his spare time.」
+【尊人】「へえ～～、もう料亭さながらの豪華さだね！」
+【尊人】「へえ～～、もう料亭さながらの豪華さだね！」
+【Mikoto】「Wooow! They're gorgeous!::BREAKLINE::Like something you'd see in one of those really expensive, traditional restaurants!」
+【Mikoto】「Wooow! They're gorgeous!::BREAKLINE::Like something you'd see in one of those really expensive, traditional restaurants!」
+【武】「おまえひょっとして、こういうの詳しいわけ？」
+【武】「おまえひょっとして、こういうの詳しいわけ？」
+【Takeru】「You sure do know a lot about this stuff.」
+【Takeru】「You sure do know a lot about this stuff.」
+【尊人】「日本人としては当然だよ。::BREAKLINE::みんなはもっと日本の文化を知らなくちゃ！」
+【尊人】「日本人としては当然だよ。::BREAKLINE::みんなはもっと日本の文化を知らなくちゃ！」
+【Mikoto】「Oh come on, any Japanese person should! You guys need to learn more about our culture!」
+【Mikoto】「Oh come on, any Japanese person should! You guys need to learn more about our culture!」
+おまえの口から「文化」なんて言葉が出てくるとは夢にも思わなかったよ。
+おまえの口から「文化」なんて言葉が出てくるとは夢にも思わなかったよ。
+Never in my wildest dreams could I have pictured the word "culture" ever coming out of your mouth.
+Never in my wildest dreams could I have pictured the word "culture" ever coming out of your mouth.
+一番それから縁遠いのはおまえじゃないのか？
+一番それから縁遠いのはおまえじゃないのか？
+I mean, you're barely even civilized, right?
+I mean, you're barely even civilized, right?
+無人島でサバイバル、イカダで漂流一週間……オレが知る限りおまえには「野生」って二文字がふさわしいと思うがな。
+無人島でサバイバル、イカダで漂流一週間……オレが知る限りおまえには「野生」って二文字がふさわしいと思うがな。
+Surviving on deserted islands, spending weeks adrift on a raft... From what I know about you, the word "feral" is far more appropriate.
+Surviving on deserted islands, spending weeks adrift on a raft... From what I know about you, the word "feral" is far more appropriate.
+いやまて。長く日本を離れるコイツだからこそ、日本にただならぬ愛着があるという考え方もあるな……。
+いやまて。長く日本を離れるコイツだからこそ、日本にただならぬ愛着があるという考え方もあるな……。
+No, wait. Maybe the whole reason he's so fascinated with Japanese culture is because he has to spend so much time abroad...
+No, wait. Maybe the whole reason he's so fascinated with Japanese culture is because he has to spend so much time abroad...
+【冥夜】「とにかく、生ものゆえ早めに食すがよいぞ」
+【冥夜】「とにかく、生ものゆえ早めに食すがよいぞ」
+【Meiya】「In any event, these will spoil, so eat them quickly.」
+【Meiya】「In any event, these will spoil, so eat them quickly.」
+【武】「おおっ！」
+【武】「おおっ！」
+【Takeru】「Hell yeah!!」
+【Takeru】「Hell yeah!!」
+ほかほかと湯気を立てた炊きたての飯！！　艶と言い香りと言い、こいつもさぞかし名のあるお米様に違いない！！
+ほかほかと湯気を立てた炊きたての飯！！　艶と言い香りと言い、こいつもさぞかし名のあるお米様に違いない！！
+That rice is steaming!! Between the aroma and the gloss, there's no doubt that this dish is rice at its finest!!
+That rice is steaming!! Between the aroma and the gloss, there's no doubt that this dish is rice at its finest!!
+【壬姫】「これはまさに、究極の選択だねー」
+【壬姫】「これはまさに、究極の選択だねー」
+【Miki】「This truly is the ultimate life-changing decision.」
+【Miki】「This truly is the ultimate life-changing decision.」
+【尊人】「凄いっ！　凄すぎだよタケルっ！　ああもう、これは夢じゃないの？　んあ～～～も～～～！！」
+【尊人】「凄いっ！　凄すぎだよタケルっ！　ああもう、これは夢じゃないの？　んあ～～～も～～～！！」
+【Mikoto】「Amazing!! Simply amazing, Takeru!!::BREAKLINE::Dear me... Am I dreaming? Nghaah... I can't stand it!!」
+【Mikoto】「Amazing!! Simply amazing, Takeru!!::BREAKLINE::Dear me... Am I dreaming? Nghaah... I can't stand it!!」
+【壬姫】「ミキは、マンガ肉が食べてみたいですー」
+【壬姫】「ミキは、マンガ肉が食べてみたいですー」
+【Miki】「I'd like to try the manga meat!」
+【Miki】「I'd like to try the manga meat!」
+【尊人】「ボクは……う～～……鮭児……かも」
+【尊人】「ボクは……う～～……鮭児……かも」
+【Mikoto】「Then, I'll have... ummmm...::BREAKLINE::The salmon parr... I guess.」
+【Mikoto】「Then, I'll have... ummmm...::BREAKLINE::The salmon parr... I guess.」
+君らに決められても困るんだけど……。
+君らに決められても困るんだけど……。
+It's not your decision to make, people...
+It's not your decision to make, people...
+【純夏】「……わたし、頑張ったんだけどな……」
+【純夏】「……わたし、頑張ったんだけどな……」
+【Sumika】「...I really worked hard on this...」
+【Sumika】「...I really worked hard on this...」
+う……。
+う……。
+Urk...
+Urk...
+1. 純夏の弁当を食べる::BREAKLINE::
+1. 純夏の弁当を食べる::BREAKLINE::
+1. Eat Sumika's lunch::BREAKLINE::
+1. Eat Sumika's lunch::BREAKLINE::
+2. 冥夜の弁当を食べる::BREAKLINE::
+2. 冥夜の弁当を食べる::BREAKLINE::
+2. Eat Meiya's lunch::BREAKLINE::
+2. Eat Meiya's lunch::BREAKLINE::
+3. 逃亡する
+3. 逃亡する
+3. Flee
+3. Flee
+はあ。オレって何？　優柔不断？
+はあ。オレって何？　優柔不断？
+*sigh*...What am I, Mr. Indecisive?
+*sigh*...What am I, Mr. Indecisive?
+【Sumika】「Takeru-chan? What's wrong?」
+【Sumika】「Takeru-chan? What's wrong?」
+【冥夜】「タケル、どうした？」
+【冥夜】「タケル、どうした？」
+【Meiya】「What is it, Takeru?」
+【Meiya】「What is it, Takeru?」
+【武】「……あんま腹減ってねーから、やめとくわ」
+【武】「……あんま腹減ってねーから、やめとくわ」
+【Takeru】「...I'm not that hungry, so I'll pass on both.」
+【Takeru】「...I'm not that hungry, so I'll pass on both.」
+【純夏】「えっ！？　大丈夫！？」
+【純夏】「えっ！？　大丈夫！？」
+【Sumika】「Huh!? Are you feeling okay!?」
+【Sumika】「Huh!? Are you feeling okay!?」
+【武】「何だよそのリアクションはよ？」
+【武】「何だよそのリアクションはよ？」
+【Takeru】「What's with that reaction?」
+【Takeru】「What's with that reaction?」
+【純夏】「だって……タケルちゃんがそんなこと言うなんて……」
+【純夏】「だって……タケルちゃんがそんなこと言うなんて……」
+【Sumika】「I mean... I never thought I'd hear you say that......」
+【Sumika】「I mean... I never thought I'd hear you say that......」
+【冥夜】「うん。私の調査でも、タケルは食べ物を与えれば絶対に食らいつくということになっている」
+【冥夜】「うん。私の調査でも、タケルは食べ物を与えれば絶対に食らいつくということになっている」
+【Meiya】「Indeed. According to my research, Takeru is guaranteed to devour any food presented to him.」
+【Meiya】「Indeed. According to my research, Takeru is guaranteed to devour any food presented to him.」
+【武】「おいっ！」
+【武】「おいっ！」
+【Takeru】「Hey!!」
+【Takeru】「Hey!!」
+【冥夜】「私が言ったのではないぞ。::BREAKLINE::調査結果だ」
+【冥夜】「私が言ったのではないぞ。::BREAKLINE::調査結果だ」
+【Meiya】「Those were not my words.::BREAKLINE::It was in the report.」
+【Meiya】「Those were not my words.::BREAKLINE::It was in the report.」
+【純夏】「とにかく、保健室行こう？」
+【純夏】「とにかく、保健室行こう？」
+【Sumika】「Anyways, we're going to the nurse's office.」
+【Sumika】「Anyways, we're going to the nurse's office.」
+【武】「行くかっ！」
+【武】「行くかっ！」
+【Takeru】「No, we aren't!」
+【Takeru】「No, we aren't!」
+……はあ。腹減った～。
+……はあ。腹減った～。
+...*sigh*...I'm so hungry...
+...*sigh*...I'm so hungry...
+あんなのさすがに両方は食えねーしなあ。
+あんなのさすがに両方は食えねーしなあ。
+There was no way I could've eaten both of those.
+There was no way I could've eaten both of those.
+純夏と冥夜、どっちかの弁当を食えば、どっちかに悪いしよぉ。
+純夏と冥夜、どっちかの弁当を食えば、どっちかに悪いしよぉ。
+But choosing either Sumika's or Meiya's lunch would just hurt the other.
+But choosing either Sumika's or Meiya's lunch would just hurt the other.
+何だかんだ言ってこれでもオレ、割と繊細なんだよ？
+何だかんだ言ってこれでもオレ、割と繊細なんだよ？
+It might be hard to believe, but I'm actually a pretty sensitive guy, you know?
+It might be hard to believe, but I'm actually a pretty sensitive guy, you know?
+はあ……どうしようかな。
+はあ……どうしようかな。
+*sigh*...Now what?
+*sigh*...Now what?
+この時間じゃ学食も無理だよな。
+この時間じゃ学食も無理だよな。
+No point in trying the cafeteria at this point.
+No point in trying the cafeteria at this point.
+パックイチゴ牛乳だけなんて、あんまりだよなあ。
+パックイチゴ牛乳だけなんて、あんまりだよなあ。
+A carton of strawberry milk just isn't enough...
+A carton of strawberry milk just isn't enough...
+1. 屋上::BREAKLINE::
+1. 屋上::BREAKLINE::
+1. Roof::BREAKLINE::
+1. Roof::BREAKLINE::
+2. 物理準備室::BREAKLINE::
+2. 物理準備室::BREAKLINE::
+2. Physics Prep Room::BREAKLINE::
+2. Physics Prep Room::BREAKLINE::
+3. 中庭
+3. 中庭
+3. Courtyard
+3. Courtyard
+あれ～、あそこにいるの、委員長じゃねーか？
+あれ～、あそこにいるの、委員長じゃねーか？
+Oh-hoh? Is that Class Rep over there?
+Oh-hoh? Is that Class Rep over there?
+中庭のベンチで飯なんか食ってら。
+中庭のベンチで飯なんか食ってら。
+She's eating her lunch on a bench in the courtyard.
+She's eating her lunch on a bench in the courtyard.
+【武】「おーい、委員長ー！」
+【武】「おーい、委員長ー！」
+【Takeru】「Heeey, Class Rep!」
+【Takeru】「Heeey, Class Rep!」
+【千鶴】「え……あ」
+【千鶴】「え……あ」
+【Chizuru】「Huh...? Oh.」
+【Chizuru】「Huh...? Oh.」
+【武】「何でこんなトコにいるんだ？」
+【武】「何でこんなトコにいるんだ？」
+【Takeru】「What're you doing out here?」
+【Takeru】「What're you doing out here?」
+【千鶴】「白銀君こそ、食事はどうしたのよ？」
+【千鶴】「白銀君こそ、食事はどうしたのよ？」
+【Chizuru】「What about you, Shirogane-kun?::BREAKLINE::What happened to your lunch?」
+【Chizuru】「What about you, Shirogane-kun?::BREAKLINE::What happened to your lunch?」
+【武】「逃げてきた」
+【武】「逃げてきた」
+【Takeru】「I ran away from it.」
+【Takeru】「I ran away from it.」
+【千鶴】「え？」
+【千鶴】「え？」
+【Chizuru】「Huh?」
+【Chizuru】「Huh?」
+【武】「だって、あんな状況でどっちかの弁当だけって、悪いじゃねーか」
+【武】「だって、あんな状況でどっちかの弁当だけって、悪いじゃねーか」
+【Takeru】「I mean, in a situation like that, isn't it wrong to choose one lunch over the other?」
+【Takeru】「I mean, in a situation like that, isn't it wrong to choose one lunch over the other?」
+【武】「んで？　委員長は何でこんなトコで飯食ってんだ？　寒くねーのか？」
+【武】「んで？　委員長は何でこんなトコで飯食ってんだ？　寒くねーのか？」
+【Takeru】「So, what about yourself, Class Rep? Why're you eating lunch out here? Aren't you cold?」
+【Takeru】「So, what about yourself, Class Rep? Why're you eating lunch out here? Aren't you cold?」
+【千鶴】「寒い？　年寄り臭いわね」
+【千鶴】「寒い？　年寄り臭いわね」
+【Chizuru】「Cold? What are you, my mother?」
+【Chizuru】「Cold? What are you, my mother?」
+【武】「なんだよ、どうしてそう突っかかってくるかねぇ……」
+【武】「なんだよ、どうしてそう突っかかってくるかねぇ……」
+【Takeru】「Jeez. Why do you always have to pounce on me like that for every little thing I say...?」
+【Takeru】「Jeez. Why do you always have to pounce on me like that for every little thing I say...?」
+【千鶴】「人が一生懸命やってること、からかうような人だからでしょ？」
+【千鶴】「人が一生懸命やってること、からかうような人だからでしょ？」
+【Chizuru】「Maybe it's because you're a jerk who makes fun of people for trying their best?」
+【Chizuru】「Maybe it's because you're a jerk who makes fun of people for trying their best?」
+【武】「何のことだ？　ひょっとして部活のことか？」
+【武】「何のことだ？　ひょっとして部活のことか？」
+【Takeru】「What do you mean? Is this about what I said earlier? About the lacrosse team?」
+【Takeru】「What do you mean? Is this about what I said earlier? About the lacrosse team?」
+【武】「あれは悪かったって謝ったじゃんか」
+【武】「あれは悪かったって謝ったじゃんか」
+【Takeru】「Didn't I apologize for that already?」
+【Takeru】「Didn't I apologize for that already?」
+【千鶴】「何でも謝れば済むなんて思わないで欲しいわね」
+【千鶴】「何でも謝れば済むなんて思わないで欲しいわね」
+【Chizuru】「Don't assume that apologizing just magically fixes everything.」
+【Chizuru】「Don't assume that apologizing just magically fixes everything.」
+……まったくよぉ、お堅いねえ……。
+……まったくよぉ、お堅いねえ……。
+...God, you're such a hard-ass...
+...God, you're such a hard-ass...
+【武】「んで？　何でわざわざこんなトコで飯食ってるって？」
+【武】「んで？　何でわざわざこんなトコで飯食ってるって？」
+【Takeru】「So, why did you come all the way out here to eat?」
+【Takeru】「So, why did you come all the way out here to eat?」
+【千鶴】「ち、ちょっと、なに隣に座ってるのよ！？」
+【千鶴】「ち、ちょっと、なに隣に座ってるのよ！？」
+【Chizuru】「H-Hey, why're you sitting next to me!?」
+【Chizuru】「H-Hey, why're you sitting next to me!?」
+【武】「あん？　別にいいじゃん、ベンチはみんなのもんだぜ？」
+【武】「あん？　別にいいじゃん、ベンチはみんなのもんだぜ？」
+【Takeru】「Huh? I'm sorry — does this bench have your name on it, or something? I didn't realize.」
+【Takeru】「Huh? I'm sorry — does this bench have your name on it, or something? I didn't realize.」
+【武】「へえ……美味そうだなその弁当。::BREAKLINE::母ちゃんが作ってくれんの？」
+【武】「へえ……美味そうだなその弁当。::BREAKLINE::母ちゃんが作ってくれんの？」
+【Takeru】「Wow... That looks like quite the tasty lunch you've got there. Did your mom make it for you?」
+【Takeru】「Wow... That looks like quite the tasty lunch you've got there. Did your mom make it for you?」
+【千鶴】「……どうして？」
+【千鶴】「……どうして？」
+【Chizuru】「...What makes you think that?」
+【Chizuru】「...What makes you think that?」
+【武】「いや、何となく。::BREAKLINE::おかずなんかもそんな感じだなーとか思って」
+【武】「いや、何となく。::BREAKLINE::おかずなんかもそんな感じだなーとか思って」
+【Takeru】「No real reason, just curious.::BREAKLINE::Just the way it's all presented kinda gives off that impression, somehow.」
+【Takeru】「No real reason, just curious.::BREAKLINE::Just the way it's all presented kinda gives off that impression, somehow.」
+【千鶴】「悪かったわね、貧乏臭くて」
+【千鶴】「悪かったわね、貧乏臭くて」
+【Chizuru】「Sorry my sad little peasant lunch isn't good enough for you.」
+【Chizuru】「Sorry my sad little peasant lunch isn't good enough for you.」
+【武】「そんなこと言ってねえだろ？　大体、おからのどこが貧乏臭いんだよ」
+【武】「そんなこと言ってねえだろ？　大体、おからのどこが貧乏臭いんだよ」
+【Takeru】「Come on, you know that's not what I meant.::BREAKLINE::Besides, who ever said anything about rice balls being only for poor people?」
+【Takeru】「Come on, you know that's not what I meant.::BREAKLINE::Besides, who ever said anything about rice balls being only for poor people?」
+【武】「ちぇ、わかったよ。::BREAKLINE::邪魔者は消えますよ……」
+【武】「ちぇ、わかったよ。::BREAKLINE::邪魔者は消えますよ……」
+【Takeru】「Fine, you win.::BREAKLINE::I'll leave you alone...」
+【Takeru】「Fine, you win.::BREAKLINE::I'll leave you alone...」
+【Takeru】「Ah...?」
+【Takeru】「Ah...?」
+【武】「わはは……」
+【武】「わはは……」
+【Takeru】「Wahaha...」
+【Takeru】「Wahaha...」
+【千鶴】「ひょっとして……何も食べてないの？」
+【千鶴】「ひょっとして……何も食べてないの？」
+【Chizuru】「Have you... not had anything to eat yet?」
+【Chizuru】「Have you... not had anything to eat yet?」
+【武】「ん？　まあな。::BREAKLINE::学食行ったって無駄だろうし」
+【武】「ん？　まあな。::BREAKLINE::学食行ったって無駄だろうし」
+【Takeru】「Hm? Nope, not a bite. The cafeteria is probably sold out by now, though.」
+【Takeru】「Hm? Nope, not a bite. The cafeteria is probably sold out by now, though.」
+【千鶴】「ひょっとして……たかりにきた、とか？」
+【千鶴】「ひょっとして……たかりにきた、とか？」
+【Chizuru】「Don't tell me... you came here to mooch off of me?」
+【Chizuru】「Don't tell me... you came here to mooch off of me?」
+【武】「おお！　ナイスアイディア！　そういう手があった！」
+【武】「おお！　ナイスアイディア！　そういう手があった！」
+【Takeru】「Ooh! What a great idea! Hadn't even occured to me!」
+【Takeru】「Ooh! What a great idea! Hadn't even occured to me!」
+【千鶴】「ゲ……」
+【千鶴】「ゲ……」
+【Chizuru】「Ugh...」
+【Chizuru】「Ugh...」
+じ～～
+じ～～
+*staaare*
+*staaare*
+【千鶴】「な、なによ！　その期待に満ちた目は！」
+【千鶴】「な、なによ！　その期待に満ちた目は！」
+【Chizuru】「Wh-What!? Don't look at me like that!」
+【Chizuru】「Wh-What!? Don't look at me like that!」
+【千鶴】「だ、駄目だってば！」
+【千鶴】「だ、駄目だってば！」
+【Chizuru】「Y-You can't have any!」
+【Chizuru】「Y-You can't have any!」
+【千鶴】「いくら物欲しそうに見たって…………」
+【千鶴】「いくら物欲しそうに見たって…………」
+【Chizuru】「Those puppy-dog eyes aren't going to work on me...」
+【Chizuru】「Those puppy-dog eyes aren't going to work on me...」
+【千鶴】「…………わかった、わよ」
+【千鶴】「…………わかった、わよ」
+【Chizuru】「...Fine, you win...」
+【Chizuru】「...Fine, you win...」
+【武】「やりぃ！」
+【武】「やりぃ！」
+【Takeru】「Yaaay!」
+【Takeru】「Yaaay!」
+【千鶴】「でも、そんなにあげられないわよ？」
+【千鶴】「でも、そんなにあげられないわよ？」
+【Chizuru】「I can't give you that much, though.」
+【Chizuru】「I can't give you that much, though.」
+【武】「見りゃわかる。::BREAKLINE::よくそんなんで足りるなあ……」
+【武】「見りゃわかる。::BREAKLINE::よくそんなんで足りるなあ……」
+【Takeru】「I can see that.::BREAKLINE::I'm impressed you can get by on so little......」
+【Takeru】「I can see that.::BREAKLINE::I'm impressed you can get by on so little......」
+両手のひらに余裕で収まりそうな弁当箱に、飯とおかずが半分こ。
+両手のひらに余裕で収まりそうな弁当箱に、飯とおかずが半分こ。
+Her lunchbox looks small enough to fit in my hands. It's half-filled with rice and half with other foods.
+Her lunchbox looks small enough to fit in my hands. It's half-filled with rice and half with other foods.
+オレなら２、３回箸を動かしたらなくなっちまう。
+オレなら２、３回箸を動かしたらなくなっちまう。
+I could probably finish it in two, maybe three bites.
+I could probably finish it in two, maybe three bites.
+委員長は箸をひっくり返して蓋におかずなんかを取り分けた。
+委員長は箸をひっくり返して蓋におかずなんかを取り分けた。
+Class Rep flips her chopsticks around to pick out pieces for me and places them on the inside of the lid to her lunch box.
+Class Rep flips her chopsticks around to pick out pieces for me and places them on the inside of the lid to her lunch box.
+【千鶴】「あ……箸がない」
+【千鶴】「あ……箸がない」
+【Chizuru】「Oh... I only have one pair of chopsticks.」
+【Chizuru】「Oh... I only have one pair of chopsticks.」
+【武】「気にするな、人間には手があるぞ！」
+【武】「気にするな、人間には手があるぞ！」
+【Takeru】「Not to worry — that's what hands are for!」
+【Takeru】「Not to worry — that's what hands are for!」
+【千鶴】「ま、いいか……はい」
+【千鶴】「ま、いいか……はい」
+【Chizuru】「Well, if you say so... Here.」
+【Chizuru】「Well, if you say so... Here.」
+【武】「おー！　サンキュー。::BREAKLINE::まさか委員長に命を救って貰うことになるとはなあ……」
+【武】「おー！　サンキュー。::BREAKLINE::まさか委員長に命を救って貰うことになるとはなあ……」
+【Takeru】「Ooh! Thanks. I never thought that Class Rep would end up saving my life one day...」
+【Takeru】「Ooh! Thanks. I never thought that Class Rep would end up saving my life one day...」
+【千鶴】「バカね、大げさよ」
+【千鶴】「バカね、大げさよ」
+【Chizuru】「Don't be stupid. It's not that big a deal.」
+【Chizuru】「Don't be stupid. It's not that big a deal.」
+【武】「おからと、きんぴらと、里芋の煮付け……いいねえ、日本って感じだねえ……」
+【武】「おからと、きんぴらと、里芋の煮付け……いいねえ、日本って感じだねえ……」
+【Takeru】「Bean curd, finely chopped vegetables,::BREAKLINE::boiled taro... That's a good old-fashioned Japanese lunch...」
+【Takeru】「Bean curd, finely chopped vegetables,::BREAKLINE::boiled taro... That's a good old-fashioned Japanese lunch...」
+【千鶴】「い、いちいち声に出さないで」
+【千鶴】「い、いちいち声に出さないで」
+【Chizuru】「L-Look, can you just keep your impressions to yourself?」
+【Chizuru】「L-Look, can you just keep your impressions to yourself?」
+【武】「褒めたんじゃないか。::BREAKLINE::美味そうだぞ…………ん、美味い。::BREAKLINE::おまえの母ちゃん、いい腕してんな」
+【武】「褒めたんじゃないか。::BREAKLINE::美味そうだぞ…………ん、美味い。::BREAKLINE::おまえの母ちゃん、いい腕してんな」
+【Takeru】「I'm complimenting it. It looks delicious... Mm, and it is. Your mom's a pretty good cook.」
+【Takeru】「I'm complimenting it. It looks delicious... Mm, and it is. Your mom's a pretty good cook.」
+【千鶴】「……その話はやめて」
+【千鶴】「……その話はやめて」
+【Chizuru】「...Stop saying that.」
+【Chizuru】「...Stop saying that.」
+【千鶴】「それは私が作ったの。::BREAKLINE::わかった？　だからもう誰が作ったとかそんな話はしないで」
+【千鶴】「それは私が作ったの。::BREAKLINE::わかった？　だからもう誰が作ったとかそんな話はしないで」
+【Chizuru】「I made it... Okay?::BREAKLINE::So stop talking like someone else made it for me.」
+【Chizuru】「I made it... Okay?::BREAKLINE::So stop talking like someone else made it for me.」
+……なんだ？
+……なんだ？
+...What's her problem?
+...What's her problem?
+【武】「わかったよ……でも、これ委員長が作ったのか？　すげーな」
+【武】「わかったよ……でも、これ委員長が作ったのか？　すげーな」
+【Takeru】「Okay... So, you made this yourself, then? Class Rep, that's amazing.」
+【Takeru】「Okay... So, you made this yourself, then? Class Rep, that's amazing.」
+【武】「それも駄目か……まあいいや美味いから」
+【武】「それも駄目か……まあいいや美味いから」
+【Takeru】「Alright, sore subject, my bad...::BREAKLINE::Well, whoever made it, it sure tastes good.」
+【Takeru】「Alright, sore subject, my bad...::BREAKLINE::Well, whoever made it, it sure tastes good.」
+指でつまみながら食ってた弁当は、あっという間になくなった。
+指でつまみながら食ってた弁当は、あっという間になくなった。
+Using my fingers, I eat my share in no time.
+Using my fingers, I eat my share in no time.
+【Takeru】「...Mm?」
+【Takeru】「...Mm?」
+【千鶴】「指舐めるのやめなさい。::BREAKLINE::ほら、ウエットティッシュ……」
+【千鶴】「指舐めるのやめなさい。::BREAKLINE::ほら、ウエットティッシュ……」
+【Chizuru】「Stop licking your fingers...::BREAKLINE::Come on, use a wet wipe...」
+【Chizuru】「Stop licking your fingers...::BREAKLINE::Come on, use a wet wipe...」
+【武】「あ、サンキュー」
+【武】「あ、サンキュー」
+【Takeru】「Oh, thanks.」
+【Takeru】「Oh, thanks.」
+委員長は、返した蓋をかぶせて弁当箱を袋にしまっていた。
+委員長は、返した蓋をかぶせて弁当箱を袋にしまっていた。
+I hand the lid back to Class Rep. She places it on her lunchbox, and then returns the box to her bag.
+I hand the lid back to Class Rep. She places it on her lunchbox, and then returns the box to her bag.
+【千鶴】「手を拭いたら、それよこしなさいよ」
+【千鶴】「手を拭いたら、それよこしなさいよ」
+【Chizuru】「Once you're done wiping off your hands, give that back to me.」
+【Chizuru】「Once you're done wiping off your hands, give that back to me.」
+【千鶴】「どうせその辺に捨てちゃうんでしょ？」
+【千鶴】「どうせその辺に捨てちゃうんでしょ？」
+【Chizuru】「You're just going to throw it on the ground otherwise.」
+【Chizuru】「You're just going to throw it on the ground otherwise.」
+【武】「するかよ」
+【武】「するかよ」
+【Takeru】「I would never.」
+【Takeru】「I would never.」
+【千鶴】「いいから」
+【千鶴】「いいから」
+【Chizuru】「Just hand it over.」
+【Chizuru】「Just hand it over.」
+【Takeru】「Fine, fine.」
+【Takeru】「Fine, fine.」
+【千鶴】「全然足りなかったでしょ？　ま、でも午後の授業は眠くならないで済むか……」
+【千鶴】「全然足りなかったでしょ？　ま、でも午後の授業は眠くならないで済むか……」
+【Chizuru】「I'm sure that wasn't enough to fill you up, but at least now you'll be able to stay awake during afternoon classes...」
+【Chizuru】「I'm sure that wasn't enough to fill you up, but at least now you'll be able to stay awake during afternoon classes...」
+【武】「何だ、もう行くのか？」
+【武】「何だ、もう行くのか？」
+【Takeru】「You're leaving already?」
+【Takeru】「You're leaving already?」
+【千鶴】「どうして？」
+【千鶴】「どうして？」
+【Chizuru】「Something wrong?」
+【Chizuru】「Something wrong?」
+【武】「いや、何かしようと思ってここにいたんじゃないのか？」
+【武】「いや、何かしようと思ってここにいたんじゃないのか？」
+【Takeru】「Well, didn't you come here because you needed to do something?」
+【Takeru】「Well, didn't you come here because you needed to do something?」
+【千鶴】「……別に」
+【千鶴】「……別に」
+【Chizuru】「...Not really.」
+【Chizuru】「...Not really.」
+【千鶴】「じゃあね……そうだ、これで貸しひとつね」
+【千鶴】「じゃあね……そうだ、これで貸しひとつね」
+【Chizuru】「Bye... Incidentally, you owe me one.」
+【Chizuru】「Bye... Incidentally, you owe me one.」
+【千鶴】「ちゃんと返して貰うから」
+【千鶴】「ちゃんと返して貰うから」
+【Chizuru】「I'll make sure you return the favor.」
+【Chizuru】「I'll make sure you return the favor.」
+【武】「ちぇ、しっかりしてるよな……はいはい」
+【武】「ちぇ、しっかりしてるよな……はいはい」
+【Takeru】「Damn... Talk about stingy... Alright, fine.」
+【Takeru】「Damn... Talk about stingy... Alright, fine.」
+【武】「何だかな～～」
+【武】「何だかな～～」
+【Takeru】「Who knows when THAT might come back to bite me...」
+【Takeru】「Who knows when THAT might come back to bite me...」
+終わった終わった！！
+終わった終わった！！
+School's out! I'm free!!
+School's out! I'm free!!
+【千鶴】「掃除を人に押しつけて逃げるようないい加減な人だからでしょ？」
+【千鶴】「掃除を人に押しつけて逃げるようないい加減な人だからでしょ？」
+【Chizuru】「Maybe it's because you're a jerk who'd push their cleaning duties onto someone else and run away?」
+【Chizuru】「Maybe it's because you're a jerk who'd push their cleaning duties onto someone else and run away?」
+【武】「なんだよー、ちょっとした冗談じゃん」
+【武】「なんだよー、ちょっとした冗談じゃん」
+【Takeru】「Oh, come on. That was just a joke, and you know it.」
+【Takeru】「Oh, come on. That was just a joke, and you know it.」
+【千鶴】「私、そういう冗談は嫌い」
+【千鶴】「私、そういう冗談は嫌い」
+【Chizuru】「I don't appreciate jokes like that.」
+【Chizuru】「I don't appreciate jokes like that.」
+……か～～、お堅いねえ。
+……か～～、お堅いねえ。
+...Yeesh. What a hard-ass.
+...Yeesh. What a hard-ass.
